@@ -42,6 +42,17 @@
           }
         }
       },
+      "fetch-spreadsheet": {
+        "executor": "nx:run-commands",
+        "configurations": {
+          "fetch": {
+            "commands": [
+              "ts-node apps/pokemon-sprite/src/fetch-spreadsheet.ts"
+            ]
+          }
+        },
+        "defaultConfiguration": "fetch"
+        },
       "serve": {
         "executor": "@nx/js:node",
         "defaultConfiguration": "development",
