@@ -4,9 +4,6 @@
   "files": [],
   "references": [
     {
-      "path": "./apps/pokemon-sprite-e2e"
-    },
-    {
       "path": "./apps/pokemon-sprite"
     }
   ]
