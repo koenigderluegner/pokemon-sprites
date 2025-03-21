@@ -1,0 +1,26 @@
+{
+  "name": "@pokemon-sprite/pokemon-sprite-e2e",
+  "version": "0.0.1",
+  "private": true,
+  "nx": {
+    "name": "pokemon-sprite-e2e",
+    "implicitDependencies": [
+      "pokemon-sprite"
+    ],
+    "targets": {
+      "e2e": {
+        "executor": "@nx/jest:jest",
+        "outputs": [
+          "{projectRoot}/test-output/jest/coverage"
+        ],
+        "options": {
+          "jestConfig": "apps/pokemon-sprite-e2e/jest.config.ts",
+          "passWithNoTests": true
+        },
+        "dependsOn": [
+          "pokemon-sprite:build"
+        ]
+      }
+    }
+  }
+}
