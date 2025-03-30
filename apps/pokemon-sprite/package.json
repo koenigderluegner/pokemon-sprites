@@ -53,6 +53,17 @@
         },
         "defaultConfiguration": "fetch"
         },
+      "convert-assets": {
+        "executor": "nx:run-commands",
+        "configurations": {
+          "convert": {
+            "commands": [
+              "ts-node apps/pokemon-sprite/src/converter/converter.ts"
+            ]
+          }
+        },
+        "defaultConfiguration": "convert"
+        },
       "serve": {
         "executor": "@nx/js:node",
         "defaultConfiguration": "development",
