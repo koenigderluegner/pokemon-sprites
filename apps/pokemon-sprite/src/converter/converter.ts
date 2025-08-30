@@ -3,6 +3,7 @@ import path from 'path';
 import fg from 'fast-glob';
 import fs from 'fs';
 import { speciesList } from './species-list';
+import { PokemonEntry, PokemonIconPair } from '../generate-docs/pokemon-entry';
 
 const assetFileEnding = '.png';
 
@@ -38,12 +39,9 @@ speciesList.reverse().forEach(poke => {
 });
 
 
-type PokemonIconPair = {
-  regular: string,
-  shiny: string | null
-}
 
-const pairs: { id: number; species: string; icons: PokemonIconPair[] }[] = [];
+
+const pairs: PokemonEntry[] = [];
 
 results.reverse().forEach(result => {
 

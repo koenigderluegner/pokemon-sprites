@@ -64,6 +64,17 @@
         },
         "defaultConfiguration": "convert"
         },
+      "generate-docs": {
+        "executor": "nx:run-commands",
+        "configurations": {
+          "generate": {
+            "commands": [
+              "ts-node apps/pokemon-sprite/src/generate-docs/docs-generator.ts"
+            ]
+          }
+        },
+        "defaultConfiguration": "generate"
+        },
       "serve": {
         "executor": "@nx/js:node",
         "defaultConfiguration": "development",

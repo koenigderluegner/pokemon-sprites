@@ -1,0 +1,298 @@
+:root {
+  --gh-black: #24292e;
+  --gh-blue: #0366d6;
+  --shade-10: #3e4650;
+  --shade-9: #444d56;
+  --shade-8: #545c68;
+  --shade-7: #6a737d;
+  --shade-6: #959da5;
+  --shade-5: #c6cbd1;
+  --shade-4: #dde4eb;
+  --shade-3: #edf1f5;
+  --shade-2: #f6f8fa;
+  --shade-1: #fafbfc;
+  --shade-0: #ffffff;
+  --regular-font: -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;
+  --monospace-font: SFMono-Regular, Consolas, Liberation Mono, Menlo, Courier, monospace;
+  --rounding: 5px;
+}
+
+body {
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+  color: var(--gh-black);
+  line-height: 1.5;
+  font-family: var(--regular-font);
+  font-size: 16px;
+  line-height: 1.5;
+  word-wrap: break-word;
+}
+
+tbody th,
+tbody td {
+}
+
+tbody td.filler {
+  width: 50%;
+}
+
+/* Slug column - the table is designed so this column fills out most of the remaining space. */
+tr.header th:last-child,
+tbody td:last-child {
+}
+
+/* Form column - contains the form name, and is optionally followed by one or two td.min nodes. */
+tbody td.form {
+}
+
+tbody td.min {
+  width: 0.1%;
+}
+
+tbody td.image {
+  width: 1px;
+}
+
+/* The rest */
+tr.header th {
+  text-align: left;
+  background-color: var(--shade-2);
+}
+
+tr.header th,
+tr.header td {
+  white-space: nowrap;
+}
+
+thead tr.title th {
+  text-align: left;
+  background: var(--shade-0);
+  line-height: 23px !important;
+}
+
+thead tr.title th span {
+  font-weight: normal;
+  display: block;
+  font-size: smaller;
+  line-height: 1.5;
+  color: var(--shade-7)
+}
+
+tbody tr:hover td {
+  background: var(--shade-3);
+}
+
+tbody:not(.alternating) tr td[rowspan] {
+  background: var(--shade-0);
+}
+
+tbody tr th.group {
+  font-weight: 500;
+  text-align: left;
+}
+
+tbody tr th.group:hover {
+  background: var(--shade-0);
+}
+
+tbody tr th.group {
+  padding-top: 25px;
+}
+
+tbody tr td.item-id {
+  padding-bottom: 0;
+}
+
+tbody tr td.item-id code {
+  display: inline-block;
+  padding-top: 1px;
+}
+
+tbody tr td.last-item {
+  border-right-width: 0;
+}
+
+tbody tr.variable-height td {
+  vertical-align: middle;
+}
+
+tbody td.is-all-white {
+  background-color: var(--shade-10);
+}
+
+tbody tr:hover td.is-all-white {
+  background-color: var(--shade-7);
+}
+
+tbody span[title] {
+  border-bottom: 1px dotted var(--gh-black);
+}
+
+tbody th,
+tbody td {
+  vertical-align: top;
+  white-space: nowrap;
+}
+
+tbody td code {
+  padding: 0;
+  background: transparent;
+}
+
+/* Image no. column */
+tr.header th:first-child,
+tbody td:first-child {
+  text-align: right;
+  width: 1px;
+}
+
+tbody td.min {
+  text-align: center;
+  font-size: 14px;
+  font-weight: 500;
+}
+
+tbody td.min.form-badge {
+  border-left: 0;
+  padding-left: 0;
+  padding-right: 8px;
+}
+
+tbody td.min.form-badge span {
+  text-align: center;
+  display: inline-block;
+  min-width: 28px;
+  padding: 0;
+  line-height: 28px;
+  border-radius: 50%;
+  background: rgba(36, 41, 46, 0.13);
+}
+
+tbody td.min.gender-m span {
+  color: #0c8bff;
+  background: rgba(12, 139, 255, 0.2);
+}
+
+tbody td.min.gender-f span {
+  color: #ff3b60;
+  background: rgba(255, 59, 96, 0.2);
+}
+
+/* Pokémon sprites */
+tbody img {
+  image-rendering: pixelated;
+  image-rendering: crisp-edges;
+  max-width: inherit;
+}
+
+tbody td.image {
+  padding-left: 0;
+  padding-right: 0;
+  text-align: center;
+}
+
+tbody td.image.item {
+  padding-top: 0;
+  padding-bottom: 0;
+}
+
+tfoot td {
+  line-height: 23px !important;
+}
+
+tfoot td .footnote {
+  line-height: 1.5;
+  font-size: smaller;
+  font-weight: normal;
+  display: block;
+  margin: -0.5em 0;
+}
+
+tfoot td .footnote > * {
+  margin: 0.5em 0;
+}
+
+/* Some magic to get border rounding working. */
+{
+  border-collapse: separate
+;
+}
+td,
+th {
+  border: none;
+  border-top: 1px solid var(--shade-4);
+  border-left: 1px solid var(--shade-4);
+}
+
+td:last-child,
+th:last-child {
+  border-right: 1px solid var(--shade-4);
+}
+
+thead tr:first-child th:first-child {
+  border-top-left-radius: var(--rounding);
+}
+
+thead tr:first-child th:last-child {
+  border-top-right-radius: var(--rounding);
+}
+
+tfoot tr:last-child td {
+  border-bottom: 1px solid var(--shade-4);
+}
+
+tfoot tr:last-child td:first-child {
+  border-bottom-left-radius: var(--rounding);
+}
+
+tfoot tr:last-child td:last-child {
+  border-bottom-right-radius: var(--rounding);
+}
+
+/* Differences per gen. */
+
+th,
+td {
+  line-height: 23px;
+}
+
+tbody.gen8 th,
+tbody.gen8 td {
+  line-height: 33px;
+}
+
+
+
+tbody img.i {
+  margin: 2px 0 0 0;
+}
+
+tbody img.p {
+  margin: -28px 0 -4px 0;
+}
+
+tbody.gen8 img.p {
+  margin: -18px 0 -4px 0;
+}
+
+tbody img.retina {
+  image-rendering: auto;
+  width: 32px;
+  height: 32px;
+}
+
+tbody img.retina-ribbon-gen8 {
+  margin: 4px;
+}
+
+tbody img.retina-seal-2x {
+  width: 24px;
+  height: 16px;
+}
+
+.sprite-with-text {
+  display: flex;
+  align-items: center;
+  justify-content: left;
+  gap: 10px;
+}
