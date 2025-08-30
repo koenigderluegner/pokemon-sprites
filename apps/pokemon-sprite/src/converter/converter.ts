@@ -50,7 +50,7 @@ results.reverse().forEach(result => {
 
   const iconPairs: PokemonIconPair[] = [];
 
-  regularIcons.forEach(regularIcon => {
+  sortByKeywords(regularIcons).forEach(regularIcon => {
     const shinyIconIndex = shinyIconsIcons.findIndex(x => x.toLowerCase() === regularIcon.toLowerCase() + '-★');
 
     const shinyIcon = shinyIconsIcons[shinyIconIndex];
@@ -92,4 +92,26 @@ function getSpeciesIcons(poke: { species: string; id: number }) {
     // Matches pattern followed by space, non-letter, or end of string
     new RegExp(`^${iconName}(?=\\s|[^a-zA-Z]|$)`, 'i').test(x)
   );
+}
+
+
+function sortByKeywords(arr: string[]): string[] {
+  return arr.sort((a, b) => {
+    const getPriority = (str: string) => {
+      const lower = str.toLowerCase();
+      if (lower.includes('-bonus')) return 4;
+      if (lower.includes('-extra')) return 3;
+      if (lower.includes('-go')) return 2;
+      return 1;
+    };
+
+    const priorityA = getPriority(a);
+    const priorityB = getPriority(b);
+
+    if (priorityA === priorityB) {
+      return a.localeCompare(b);
+    }
+
+    return priorityA - priorityB;
+  });
 }
