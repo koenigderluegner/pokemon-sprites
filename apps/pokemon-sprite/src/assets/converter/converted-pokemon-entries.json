@@ -13292,12 +13292,12 @@
         "shiny": "Cramorant-★"
       },
       {
-        "regular": "Cramorant-Gulping",
-        "shiny": "Cramorant-Gulping-★"
-      },
-      {
         "regular": "Cramorant-Gorging",
         "shiny": "Cramorant-Gorging-★"
+      },
+      {
+        "regular": "Cramorant-Gulping",
+        "shiny": "Cramorant-Gulping-★"
       }
     ]
   },

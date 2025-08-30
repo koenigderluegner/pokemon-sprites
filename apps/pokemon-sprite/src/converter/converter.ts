@@ -99,9 +99,9 @@ function sortByKeywords(arr: string[]): string[] {
   return arr.sort((a, b) => {
     const getPriority = (str: string) => {
       const lower = str.toLowerCase();
-      if (lower.includes('-bonus')) return 4;
-      if (lower.includes('-extra')) return 3;
-      if (lower.includes('-go')) return 2;
+      if (lower.includes('-bonus-')) return 4;
+      if (lower.includes('-extra-')) return 3;
+      if (lower.includes('-go-')) return 2;
       return 1;
     };
 
