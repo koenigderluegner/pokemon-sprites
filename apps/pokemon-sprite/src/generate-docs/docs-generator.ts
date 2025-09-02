@@ -9,8 +9,6 @@ const convertedPokemonEntries = fs.readFileSync(path.join(__dirname, '../assets/
   {encoding: 'utf8', flag: 'r'});
 
 const pokemonEntries: PokemonEntry[] = JSON.parse(convertedPokemonEntries);
-console.log(pokemonEntries);
-
 
 const writeStream = fs.createWriteStream(path.join(docsOutputDest, 'index.html'));
 
