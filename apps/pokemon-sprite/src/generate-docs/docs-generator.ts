@@ -159,8 +159,6 @@ function copyFolder(src: string, dest: string) {
 if (getChangedIcons().length > 0)
   copyFolder(path.join(__dirname, '../assets/icons/menu-sprites'), docsOutputDest + '/icons');
 
-console.log('writing docs', getChangedIcons());
-
 
 function getChangedIcons() {
   const command = `git diff --staged --name-only`;

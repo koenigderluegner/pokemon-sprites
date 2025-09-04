@@ -2252,12 +2252,12 @@
         "shiny": "Pikachu-GO-Winter2020-3DS-★"
       },
       {
-        "regular": "Pikachu-GO-Winter2020-3DS-F",
-        "shiny": null
-      },
-      {
         "regular": "Pikachu-GO-Winter2020-F",
         "shiny": "Pikachu-GO-Winter2020-F-★"
+      },
+      {
+        "regular": "Pikachu-GO-Winter2020-F-3DS",
+        "shiny": "Pikachu-GO-Winter2020-F-3DS-★"
       },
       {
         "regular": "Pikachu-Bonus-Mechachu",
@@ -4610,12 +4610,12 @@
         "shiny": "Rhydon-3DS-★"
       },
       {
-        "regular": "Rhydon-3DS-F",
-        "shiny": null
-      },
-      {
         "regular": "Rhydon-F",
         "shiny": "Rhydon-F-★"
+      },
+      {
+        "regular": "Rhydon-F-3DS",
+        "shiny": "Rhydon-F-3DS-★"
       },
       {
         "regular": "Rhydon-F-Switch-LGPE",
@@ -7071,7 +7071,7 @@
       },
       {
         "regular": "Aipom-F-3DS",
-        "shiny": null
+        "shiny": "Aipom-F-3DS-★"
       }
     ]
   },
