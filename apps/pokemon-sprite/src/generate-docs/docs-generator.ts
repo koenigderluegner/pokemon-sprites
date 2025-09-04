@@ -17,6 +17,7 @@ writeStream.on('finish', () => {
 });
 
 writeDocumentHeader(writeStream);
+writeTableOfContents(writeStream);
 writeTableHeader(writeStream);
 
 pokemonEntries.forEach(entry => writeTableSpriteRow(writeStream, entry));
@@ -56,8 +57,8 @@ function writeTableFooter(stream: fs.WriteStream) {
 function writeTableSpriteRow(stream: fs.WriteStream, entry: PokemonEntry) {
 
   stream.write(`<tr>
-<td rowspan="${entry.icons.length}">${entry.id}</td>
-<td rowspan="${entry.icons.length}">${entry.species}</td>
+<td id="${entry.id}" rowspan="${entry.icons.length}"><a href="#${entry.id}">${entry.id}</a></td>
+<td id="${entry.species}" rowspan="${entry.icons.length}"><a href="#${entry.species}">${entry.species}</a></td>
 ${getIconFields(entry.icons[0])}
 </tr>`, 'utf-8');
   if (entry.icons.length > 1) {
@@ -91,8 +92,24 @@ function writeDocumentHeader(stream: fs.WriteStream) {
   <body>`, 'utf-8');
 }
 
+function writeTableOfContents(stream: fs.WriteStream) {
+  stream.write(`<ul>
+<li><a href="#Bulbasaur">#0001 Bulbasaur</a></li>
+<li><a href="#Chikorita">#0152 Chikorita</a></li>
+<li><a href="#Treecko">#0252 Treecko</a></li>
+<li><a href="#Turtwig">#0387 Turtwig</a></li>
+<li><a href="#Victini">#0494 Victini</a></li>
+<li><a href="#Chespin">#0650 Chespin</a></li>
+<li><a href="#Rowlet">#0722 Rowlet</a></li>
+<li><a href="#Grookey">#0810 Grookey</a></li>
+<li><a href="#Sprigatito">#0906 Sprigatito</a></li>
+<li><a href="#credits">Credits</a></li>
+</ul>`, 'utf-8');
+}
+
 function writeCredits(stream: fs.WriteStream) {
-  stream.write(`<h2>Credits</h2>
+  stream.write(`
+<a id="credits"></a><h2>Credits</h2>
 This is a list of present and past contributors which provided custom icons. Thank you!
 <div class="credits">
 <span>5310</span>
