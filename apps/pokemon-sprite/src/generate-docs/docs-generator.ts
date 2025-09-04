@@ -110,6 +110,7 @@ function writeTableOfContents(stream: fs.WriteStream) {
 function writeCredits(stream: fs.WriteStream) {
   stream.write(`
 <a id="credits"></a><h2>Credits</h2>
+The sprite images are © Nintendo/Creatures Inc./GAME FREAK Inc.
 This is a list of present and past contributors which provided custom icons. Thank you!
 <div class="credits">
 <a href="https://github.com/5310" rel="nofollow noopener" target="_blank">5310</a>
