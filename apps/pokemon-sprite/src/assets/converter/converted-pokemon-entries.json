@@ -4610,12 +4610,12 @@
         "shiny": "Rhydon-3DS-★"
       },
       {
-        "regular": "Rhydon-3DS-F",
-        "shiny": null
-      },
-      {
         "regular": "Rhydon-F",
         "shiny": "Rhydon-F-★"
+      },
+      {
+        "regular": "Rhydon-F-3DS",
+        "shiny": "Rhydon-F-3DS-★"
       },
       {
         "regular": "Rhydon-F-Switch-LGPE",
