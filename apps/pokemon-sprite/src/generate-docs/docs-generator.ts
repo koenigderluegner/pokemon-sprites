@@ -22,12 +22,9 @@ writeTableHeader(writeStream);
 pokemonEntries.forEach(entry => writeTableSpriteRow(writeStream, entry));
 
 writeTableFooter(writeStream);
-
+writeCredits(writeStream)
 writeDocumentFooter(writeStream);
-// the finish event is emitted when all data has been flushed from the stream
 
-
-// close the stream
 writeStream.end();
 
 
@@ -76,7 +73,6 @@ ${getIconFields(entry.icons[i])}
 }
 
 function getIconFields(iconPair: PokemonIconPair): string {
-
   return `
 <td>-</td>
   <td><div class="sprite-with-text"><img width="68" height="68" loading="lazy" src="./icons/${iconPair.regular}.png" /> ${iconPair.regular}</div></td>
@@ -85,7 +81,6 @@ function getIconFields(iconPair: PokemonIconPair): string {
 
 
 function writeDocumentHeader(stream: fs.WriteStream) {
-
   stream.write(`<!doctype html>
 <html lang="en">
   <head>
@@ -94,16 +89,44 @@ function writeDocumentHeader(stream: fs.WriteStream) {
     <link href="./docs.css" rel="stylesheet"/>
   </head>
   <body>`, 'utf-8');
+}
 
-
+function writeCredits(stream: fs.WriteStream) {
+  stream.write(`<h2>Credits</h2>
+This is a list of present and past contributors which provided custom icons. Thank you!
+<div class="credits">
+<span>5310</span>
+<a href="https://www.deviantart.com/acpeters" rel="nofollow noopener" target="_blank">acpeters</a>
+<a href="https://bsky.app/profile/bananannertoast.bsky.social" rel="nofollow noopener" target="_blank">bananannertoast</a>
+<a href="https://www.deviantart.com/boludart" rel="nofollow noopener" target="_blank">boludart</a>
+<a href="https://www.deviantart.com/carmanekko" rel="nofollow noopener" target="_blank">carmanekko</a>
+<a href="https://www.deviantart.com/ezerart" rel="nofollow noopener" target="_blank">ezerart</a>
+<a href="https://www.deviantart.com/flashythepegasus" rel="nofollow noopener" target="_blank">flashythepegasus</a>
+<a href="https://www.deviantart.com/floriandx" rel="nofollow noopener" target="_blank">floriandx</a>
+<span>Frander04</span>
+<a href="https://www.deviantart.com/futuresushi" rel="nofollow noopener" target="_blank">futuresushi</a>
+<a href="https://www.deviantart.com/grand-emperor-z" rel="nofollow noopener" target="_blank">grand-emperor-z</a>
+<a href="https://www.deviantart.com/hexechroma" rel="nofollow noopener" target="_blank">hexechroma</a>
+<a href="https://www.deviantart.com/larryturbo" rel="nofollow noopener" target="_blank">larryturbo</a>
+<a href="https://www.deviantart.com/leparagon" rel="nofollow noopener" target="_blank">leparagon</a>
+<a href="https://www.deviantart.com/mbcmechachu" rel="nofollow noopener" target="_blank">mbcmechachu</a>
+<a href="https://www.deviantart.com/multidiegodani" rel="nofollow noopener" target="_blank">multidiegodani</a>
+<a href="https://www.deviantart.com/radicalcharizard" rel="nofollow noopener" target="_blank">radicalcharizard</a>
+<a href="https://www.deviantart.com/robertovile" rel="nofollow noopener" target="_blank">robertovile</a>
+<span>TraviS</span>
+<a href="https://www.deviantart.com/trippytooni" rel="nofollow noopener" target="_blank">trippytooni</a>
+<a href="https://www.deviantart.com/ushcale" rel="nofollow noopener" target="_blank">ushcale</a>
+<a href="https://www.deviantart.com/wolfang62" rel="nofollow noopener" target="_blank">wolfang62</a>
+<a href="https://www.deviantart.com/zerudez" rel="nofollow noopener" target="_blank">zerudez</a>
+<span>Vent</span>
+</div>
+<p>Missing your name? <a href="https://discord.com/users/161955738690912257">Contact me via Discord</a>. Links to external sites are not managed by me and have uncontrolled content.</p>
+`, 'utf-8');
 }
 
 function writeDocumentFooter(stream: fs.WriteStream) {
-
   stream.write(`</body>
 </html>`, 'utf-8');
-
-
 }
 
 function copyFolder(src: string, dest: string) {
