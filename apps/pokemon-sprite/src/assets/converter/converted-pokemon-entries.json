@@ -4610,12 +4610,12 @@
         "shiny": "Rhydon-3DS-★"
       },
       {
-        "regular": "Rhydon-F",
-        "shiny": "Rhydon-F-★"
+        "regular": "Rhydon-3DS-F",
+        "shiny": null
       },
       {
-        "regular": "Rhydon-F-3DS",
-        "shiny": "Rhydon-F-3DS-★"
+        "regular": "Rhydon-F",
+        "shiny": "Rhydon-F-★"
       },
       {
         "regular": "Rhydon-F-Switch-LGPE",
@@ -7835,10 +7835,6 @@
       },
       {
         "regular": "Scizor-Bonus-Pokken-F-3DS",
-        "shiny": null
-      },
-      {
-        "regular": "Scizor-F-Bonus-Pokken",
         "shiny": null
       },
       {
@@ -12892,6 +12888,10 @@
         "shiny": "Rotom-★"
       },
       {
+        "regular": "Rotom-3DS",
+        "shiny": "Rotom-3DS-★"
+      },
+      {
         "regular": "Rotom-Breeze",
         "shiny": "Rotom-Breeze-★"
       },
@@ -12916,7 +12916,15 @@
         "shiny": null
       },
       {
+        "regular": "Rotom-Bonus-Drone-3DS",
+        "shiny": null
+      },
+      {
         "regular": "Rotom-Bonus-Pokédex",
+        "shiny": null
+      },
+      {
+        "regular": "Rotom-Bonus-Pokédex-3DS",
         "shiny": null
       },
       {
@@ -12924,7 +12932,23 @@
         "shiny": null
       },
       {
+        "regular": "Rotom-Bonus-Rotomi-3DS",
+        "shiny": null
+      },
+      {
         "regular": "Rotom-Bonus-Smartphone",
+        "shiny": null
+      },
+      {
+        "regular": "Rotom-Bonus-Smartphone-3DS",
+        "shiny": null
+      },
+      {
+        "regular": "Rotom-Bonus-Smartphone-LZA",
+        "shiny": null
+      },
+      {
+        "regular": "Rotom-Bonus-Smartphone-LZA-3DS",
         "shiny": null
       },
       {
@@ -12932,7 +12956,15 @@
         "shiny": null
       },
       {
+        "regular": "Rotom-Bonus-Smartphone-SV-3DS",
+        "shiny": null
+      },
+      {
         "regular": "Rotom-Bonus-Smartphone-SV-ApplinApple",
+        "shiny": null
+      },
+      {
+        "regular": "Rotom-Bonus-Smartphone-SV-ApplinApple-3DS",
         "shiny": null
       },
       {
@@ -12940,7 +12972,15 @@
         "shiny": null
       },
       {
+        "regular": "Rotom-Bonus-Smartphone-SV-ArcPhone-3DS",
+        "shiny": null
+      },
+      {
         "regular": "Rotom-Bonus-Smartphone-SV-BallGuy",
+        "shiny": null
+      },
+      {
+        "regular": "Rotom-Bonus-Smartphone-SV-BallGuy-3DS",
         "shiny": null
       },
       {
@@ -12948,7 +12988,15 @@
         "shiny": null
       },
       {
+        "regular": "Rotom-Bonus-Smartphone-SV-Black-3DS",
+        "shiny": null
+      },
+      {
         "regular": "Rotom-Bonus-Smartphone-SV-Blue",
+        "shiny": null
+      },
+      {
+        "regular": "Rotom-Bonus-Smartphone-SV-Blue-3DS",
         "shiny": null
       },
       {
@@ -12956,7 +13004,15 @@
         "shiny": null
       },
       {
+        "regular": "Rotom-Bonus-Smartphone-SV-BlueberryBlack-3DS",
+        "shiny": null
+      },
+      {
         "regular": "Rotom-Bonus-Smartphone-SV-BlueberryWhite",
+        "shiny": null
+      },
+      {
+        "regular": "Rotom-Bonus-Smartphone-SV-BlueberryWhite-3DS",
         "shiny": null
       },
       {
@@ -12964,7 +13020,15 @@
         "shiny": null
       },
       {
+        "regular": "Rotom-Bonus-Smartphone-SV-Brown-3DS",
+        "shiny": null
+      },
+      {
         "regular": "Rotom-Bonus-Smartphone-SV-Bug",
+        "shiny": null
+      },
+      {
+        "regular": "Rotom-Bonus-Smartphone-SV-Bug-3DS",
         "shiny": null
       },
       {
@@ -12972,7 +13036,15 @@
         "shiny": null
       },
       {
+        "regular": "Rotom-Bonus-Smartphone-SV-CocoaBrown-3DS",
+        "shiny": null
+      },
+      {
         "regular": "Rotom-Bonus-Smartphone-SV-CombeeHoney",
+        "shiny": null
+      },
+      {
+        "regular": "Rotom-Bonus-Smartphone-SV-CombeeHoney-3DS",
         "shiny": null
       },
       {
@@ -12980,7 +13052,15 @@
         "shiny": null
       },
       {
+        "regular": "Rotom-Bonus-Smartphone-SV-Cream-3DS",
+        "shiny": null
+      },
+      {
         "regular": "Rotom-Bonus-Smartphone-SV-Dark",
+        "shiny": null
+      },
+      {
+        "regular": "Rotom-Bonus-Smartphone-SV-Dark-3DS",
         "shiny": null
       },
       {
@@ -12988,7 +13068,15 @@
         "shiny": null
       },
       {
+        "regular": "Rotom-Bonus-Smartphone-SV-DarkBrown-3DS",
+        "shiny": null
+      },
+      {
         "regular": "Rotom-Bonus-Smartphone-SV-DarkGreen",
+        "shiny": null
+      },
+      {
+        "regular": "Rotom-Bonus-Smartphone-SV-DarkGreen-3DS",
         "shiny": null
       },
       {
@@ -12996,7 +13084,15 @@
         "shiny": null
       },
       {
+        "regular": "Rotom-Bonus-Smartphone-SV-Dragon-3DS",
+        "shiny": null
+      },
+      {
         "regular": "Rotom-Bonus-Smartphone-SV-Eevee",
+        "shiny": null
+      },
+      {
+        "regular": "Rotom-Bonus-Smartphone-SV-Eevee-3DS",
         "shiny": null
       },
       {
@@ -13004,7 +13100,15 @@
         "shiny": null
       },
       {
+        "regular": "Rotom-Bonus-Smartphone-SV-Electric-3DS",
+        "shiny": null
+      },
+      {
         "regular": "Rotom-Bonus-Smartphone-SV-Fairy",
+        "shiny": null
+      },
+      {
+        "regular": "Rotom-Bonus-Smartphone-SV-Fairy-3DS",
         "shiny": null
       },
       {
@@ -13012,7 +13116,15 @@
         "shiny": null
       },
       {
+        "regular": "Rotom-Bonus-Smartphone-SV-Fezandipiti-3DS",
+        "shiny": null
+      },
+      {
         "regular": "Rotom-Bonus-Smartphone-SV-Fighting",
+        "shiny": null
+      },
+      {
+        "regular": "Rotom-Bonus-Smartphone-SV-Fighting-3DS",
         "shiny": null
       },
       {
@@ -13020,7 +13132,15 @@
         "shiny": null
       },
       {
+        "regular": "Rotom-Bonus-Smartphone-SV-Fire-3DS",
+        "shiny": null
+      },
+      {
         "regular": "Rotom-Bonus-Smartphone-SV-FlabébéFlower",
+        "shiny": null
+      },
+      {
+        "regular": "Rotom-Bonus-Smartphone-SV-FlabébéFlower-3DS",
         "shiny": null
       },
       {
@@ -13028,7 +13148,15 @@
         "shiny": null
       },
       {
+        "regular": "Rotom-Bonus-Smartphone-SV-Flying-3DS",
+        "shiny": null
+      },
+      {
         "regular": "Rotom-Bonus-Smartphone-SV-Fuecoco",
+        "shiny": null
+      },
+      {
+        "regular": "Rotom-Bonus-Smartphone-SV-Fuecoco-3DS",
         "shiny": null
       },
       {
@@ -13036,7 +13164,15 @@
         "shiny": null
       },
       {
+        "regular": "Rotom-Bonus-Smartphone-SV-Ghost-3DS",
+        "shiny": null
+      },
+      {
         "regular": "Rotom-Bonus-Smartphone-SV-Glitterati",
+        "shiny": null
+      },
+      {
+        "regular": "Rotom-Bonus-Smartphone-SV-Glitterati-3DS",
         "shiny": null
       },
       {
@@ -13044,7 +13180,15 @@
         "shiny": null
       },
       {
+        "regular": "Rotom-Bonus-Smartphone-SV-GothitaRibbon-3DS",
+        "shiny": null
+      },
+      {
         "regular": "Rotom-Bonus-Smartphone-SV-Grass",
+        "shiny": null
+      },
+      {
+        "regular": "Rotom-Bonus-Smartphone-SV-Grass-3DS",
         "shiny": null
       },
       {
@@ -13052,7 +13196,15 @@
         "shiny": null
       },
       {
+        "regular": "Rotom-Bonus-Smartphone-SV-Green-3DS",
+        "shiny": null
+      },
+      {
         "regular": "Rotom-Bonus-Smartphone-SV-Ground",
+        "shiny": null
+      },
+      {
+        "regular": "Rotom-Bonus-Smartphone-SV-Ground-3DS",
         "shiny": null
       },
       {
@@ -13060,7 +13212,15 @@
         "shiny": null
       },
       {
+        "regular": "Rotom-Bonus-Smartphone-SV-Ice-3DS",
+        "shiny": null
+      },
+      {
         "regular": "Rotom-Bonus-Smartphone-SV-IonoZone",
+        "shiny": null
+      },
+      {
+        "regular": "Rotom-Bonus-Smartphone-SV-IonoZone-3DS",
         "shiny": null
       },
       {
@@ -13068,7 +13228,15 @@
         "shiny": null
       },
       {
+        "regular": "Rotom-Bonus-Smartphone-SV-KomalaLog-3DS",
+        "shiny": null
+      },
+      {
         "regular": "Rotom-Bonus-Smartphone-SV-Lavender",
+        "shiny": null
+      },
+      {
+        "regular": "Rotom-Bonus-Smartphone-SV-Lavender-3DS",
         "shiny": null
       },
       {
@@ -13076,7 +13244,15 @@
         "shiny": null
       },
       {
+        "regular": "Rotom-Bonus-Smartphone-SV-MagnemiteMagnet-3DS",
+        "shiny": null
+      },
+      {
         "regular": "Rotom-Bonus-Smartphone-SV-Munkidori",
+        "shiny": null
+      },
+      {
+        "regular": "Rotom-Bonus-Smartphone-SV-Munkidori-3DS",
         "shiny": null
       },
       {
@@ -13084,7 +13260,15 @@
         "shiny": null
       },
       {
+        "regular": "Rotom-Bonus-Smartphone-SV-NavyBlue-3DS",
+        "shiny": null
+      },
+      {
         "regular": "Rotom-Bonus-Smartphone-SV-NeoKitakami",
+        "shiny": null
+      },
+      {
+        "regular": "Rotom-Bonus-Smartphone-SV-NeoKitakami-3DS",
         "shiny": null
       },
       {
@@ -13092,7 +13276,15 @@
         "shiny": null
       },
       {
+        "regular": "Rotom-Bonus-Smartphone-SV-Normal-3DS",
+        "shiny": null
+      },
+      {
         "regular": "Rotom-Bonus-Smartphone-SV-Okidogi",
+        "shiny": null
+      },
+      {
+        "regular": "Rotom-Bonus-Smartphone-SV-Okidogi-3DS",
         "shiny": null
       },
       {
@@ -13100,7 +13292,15 @@
         "shiny": null
       },
       {
+        "regular": "Rotom-Bonus-Smartphone-SV-Olive-3DS",
+        "shiny": null
+      },
+      {
         "regular": "Rotom-Bonus-Smartphone-SV-Orange",
+        "shiny": null
+      },
+      {
+        "regular": "Rotom-Bonus-Smartphone-SV-Orange-3DS",
         "shiny": null
       },
       {
@@ -13108,7 +13308,15 @@
         "shiny": null
       },
       {
+        "regular": "Rotom-Bonus-Smartphone-SV-Pikachu-3DS",
+        "shiny": null
+      },
+      {
         "regular": "Rotom-Bonus-Smartphone-SV-PikaVee",
+        "shiny": null
+      },
+      {
+        "regular": "Rotom-Bonus-Smartphone-SV-PikaVee-3DS",
         "shiny": null
       },
       {
@@ -13116,7 +13324,15 @@
         "shiny": null
       },
       {
+        "regular": "Rotom-Bonus-Smartphone-SV-Pink-3DS",
+        "shiny": null
+      },
+      {
         "regular": "Rotom-Bonus-Smartphone-SV-Poison",
+        "shiny": null
+      },
+      {
+        "regular": "Rotom-Bonus-Smartphone-SV-Poison-3DS",
         "shiny": null
       },
       {
@@ -13124,7 +13340,15 @@
         "shiny": null
       },
       {
+        "regular": "Rotom-Bonus-Smartphone-SV-PokéballBlue-3DS",
+        "shiny": null
+      },
+      {
         "regular": "Rotom-Bonus-Smartphone-SV-PokéballGreen",
+        "shiny": null
+      },
+      {
+        "regular": "Rotom-Bonus-Smartphone-SV-PokéballGreen-3DS",
         "shiny": null
       },
       {
@@ -13132,7 +13356,15 @@
         "shiny": null
       },
       {
+        "regular": "Rotom-Bonus-Smartphone-SV-PokéballPurple-3DS",
+        "shiny": null
+      },
+      {
         "regular": "Rotom-Bonus-Smartphone-SV-PokéballRed",
+        "shiny": null
+      },
+      {
+        "regular": "Rotom-Bonus-Smartphone-SV-PokéballRed-3DS",
         "shiny": null
       },
       {
@@ -13140,7 +13372,15 @@
         "shiny": null
       },
       {
+        "regular": "Rotom-Bonus-Smartphone-SV-PokéballYellow-3DS",
+        "shiny": null
+      },
+      {
         "regular": "Rotom-Bonus-Smartphone-SV-Pokétch",
+        "shiny": null
+      },
+      {
+        "regular": "Rotom-Bonus-Smartphone-SV-Pokétch-3DS",
         "shiny": null
       },
       {
@@ -13148,7 +13388,15 @@
         "shiny": null
       },
       {
+        "regular": "Rotom-Bonus-Smartphone-SV-Psychic-3DS",
+        "shiny": null
+      },
+      {
         "regular": "Rotom-Bonus-Smartphone-SV-Purple",
+        "shiny": null
+      },
+      {
+        "regular": "Rotom-Bonus-Smartphone-SV-Purple-3DS",
         "shiny": null
       },
       {
@@ -13156,7 +13404,15 @@
         "shiny": null
       },
       {
+        "regular": "Rotom-Bonus-Smartphone-SV-Quaxly-3DS",
+        "shiny": null
+      },
+      {
         "regular": "Rotom-Bonus-Smartphone-SV-Rock",
+        "shiny": null
+      },
+      {
+        "regular": "Rotom-Bonus-Smartphone-SV-Rock-3DS",
         "shiny": null
       },
       {
@@ -13164,7 +13420,15 @@
         "shiny": null
       },
       {
+        "regular": "Rotom-Bonus-Smartphone-SV-Rose-3DS",
+        "shiny": null
+      },
+      {
         "regular": "Rotom-Bonus-Smartphone-SV-SandwichBacon",
+        "shiny": null
+      },
+      {
+        "regular": "Rotom-Bonus-Smartphone-SV-SandwichBacon-3DS",
         "shiny": null
       },
       {
@@ -13172,7 +13436,15 @@
         "shiny": null
       },
       {
+        "regular": "Rotom-Bonus-Smartphone-SV-SandwichFruit-3DS",
+        "shiny": null
+      },
+      {
         "regular": "Rotom-Bonus-Smartphone-SV-SandwichTomato",
+        "shiny": null
+      },
+      {
+        "regular": "Rotom-Bonus-Smartphone-SV-SandwichTomato-3DS",
         "shiny": null
       },
       {
@@ -13180,7 +13452,15 @@
         "shiny": null
       },
       {
+        "regular": "Rotom-Bonus-Smartphone-SV-Scarlet-3DS",
+        "shiny": null
+      },
+      {
         "regular": "Rotom-Bonus-Smartphone-SV-SkyBlue",
+        "shiny": null
+      },
+      {
+        "regular": "Rotom-Bonus-Smartphone-SV-SkyBlue-3DS",
         "shiny": null
       },
       {
@@ -13188,7 +13468,15 @@
         "shiny": null
       },
       {
+        "regular": "Rotom-Bonus-Smartphone-SV-Sprigatito-3DS",
+        "shiny": null
+      },
+      {
         "regular": "Rotom-Bonus-Smartphone-SV-Steel",
+        "shiny": null
+      },
+      {
+        "regular": "Rotom-Bonus-Smartphone-SV-Steel-3DS",
         "shiny": null
       },
       {
@@ -13196,7 +13484,15 @@
         "shiny": null
       },
       {
+        "regular": "Rotom-Bonus-Smartphone-SV-SurrenderingSunflora-3DS",
+        "shiny": null
+      },
+      {
         "regular": "Rotom-Bonus-Smartphone-SV-SwabluSky",
+        "shiny": null
+      },
+      {
+        "regular": "Rotom-Bonus-Smartphone-SV-SwabluSky-3DS",
         "shiny": null
       },
       {
@@ -13204,7 +13500,15 @@
         "shiny": null
       },
       {
+        "regular": "Rotom-Bonus-Smartphone-SV-TeamStar-3DS",
+        "shiny": null
+      },
+      {
         "regular": "Rotom-Bonus-Smartphone-SV-TeraFire",
+        "shiny": null
+      },
+      {
+        "regular": "Rotom-Bonus-Smartphone-SV-TeraFire-3DS",
         "shiny": null
       },
       {
@@ -13212,7 +13516,15 @@
         "shiny": null
       },
       {
+        "regular": "Rotom-Bonus-Smartphone-SV-TeraGrass-3DS",
+        "shiny": null
+      },
+      {
         "regular": "Rotom-Bonus-Smartphone-SV-TeraWater",
+        "shiny": null
+      },
+      {
+        "regular": "Rotom-Bonus-Smartphone-SV-TeraWater-3DS",
         "shiny": null
       },
       {
@@ -13220,7 +13532,15 @@
         "shiny": null
       },
       {
+        "regular": "Rotom-Bonus-Smartphone-SV-Turquoise-3DS",
+        "shiny": null
+      },
+      {
         "regular": "Rotom-Bonus-Smartphone-SV-Violet",
+        "shiny": null
+      },
+      {
+        "regular": "Rotom-Bonus-Smartphone-SV-Violet-3DS",
         "shiny": null
       },
       {
@@ -13228,7 +13548,15 @@
         "shiny": null
       },
       {
+        "regular": "Rotom-Bonus-Smartphone-SV-Water-3DS",
+        "shiny": null
+      },
+      {
         "regular": "Rotom-Bonus-Smartphone-SV-White",
+        "shiny": null
+      },
+      {
+        "regular": "Rotom-Bonus-Smartphone-SV-White-3DS",
         "shiny": null
       },
       {
@@ -13236,11 +13564,15 @@
         "shiny": null
       },
       {
+        "regular": "Rotom-Bonus-Smartphone-SV-WineRed-3DS",
+        "shiny": null
+      },
+      {
         "regular": "Rotom-Bonus-Smartphone-SV-Yellow",
         "shiny": null
       },
       {
-        "regular": "Rotom-Bonus-Smartphone-ZA",
+        "regular": "Rotom-Bonus-Smartphone-SV-Yellow-3DS",
         "shiny": null
       }
     ]
@@ -20534,38 +20866,6 @@
       {
         "regular": "Alcremie-Mintcream-Strawberrysweet-3DS",
         "shiny": "Alcremie-Mintcream-Strawberrysweet-3DS-★"
-      },
-      {
-        "regular": "Alcremie-Rainbowswirl",
-        "shiny": "Alcremie-Rainbowswirl-★"
-      },
-      {
-        "regular": "Alcremie-Rainbowswirl-Berrysweet",
-        "shiny": "Alcremie-Rainbowswirl-Berrysweet-★"
-      },
-      {
-        "regular": "Alcremie-Rainbowswirl-Cloversweet",
-        "shiny": "Alcremie-Rainbowswirl-Cloversweet-★"
-      },
-      {
-        "regular": "Alcremie-Rainbowswirl-Flowersweet",
-        "shiny": "Alcremie-Rainbowswirl-Flowersweet-★"
-      },
-      {
-        "regular": "Alcremie-Rainbowswirl-Lovesweet",
-        "shiny": "Alcremie-Rainbowswirl-Lovesweet-★"
-      },
-      {
-        "regular": "Alcremie-Rainbowswirl-Ribbonsweet",
-        "shiny": "Alcremie-Rainbowswirl-Ribbonsweet-★"
-      },
-      {
-        "regular": "Alcremie-Rainbowswirl-Starsweet",
-        "shiny": "Alcremie-Rainbowswirl-Starsweet-★"
-      },
-      {
-        "regular": "Alcremie-Rainbowswirl-Strawberrysweet",
-        "shiny": "Alcremie-Rainbowswirl-Strawberrysweet-★"
       },
       {
         "regular": "Alcremie-Rainbowswirlcream",
