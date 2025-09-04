@@ -14244,6 +14244,10 @@
       {
         "regular": "Simisage",
         "shiny": "Simisage-★"
+      },
+      {
+        "regular": "Simisage-3DS",
+        "shiny": "Simisage-3DS-★"
       }
     ]
   },
@@ -14264,6 +14268,10 @@
       {
         "regular": "Simisear",
         "shiny": "Simisear-★"
+      },
+      {
+        "regular": "Simisear-3DS",
+        "shiny": "Simisear-3DS-★"
       }
     ]
   },
@@ -14284,6 +14292,10 @@
       {
         "regular": "Simipour",
         "shiny": "Simipour-★"
+      },
+      {
+        "regular": "Simipour-3DS",
+        "shiny": "Simipour-3DS-★"
       }
     ]
   },
@@ -14304,6 +14316,10 @@
       {
         "regular": "Musharna",
         "shiny": "Musharna-★"
+      },
+      {
+        "regular": "Musharna-3DS",
+        "shiny": "Musharna-3DS-★"
       }
     ]
   },
@@ -16342,8 +16358,16 @@
         "shiny": "Meloetta-Aria-★"
       },
       {
+        "regular": "Meloetta-Aria-3DS",
+        "shiny": "Meloetta-Aria-3DS-★"
+      },
+      {
         "regular": "Meloetta-Pirouette",
         "shiny": "Meloetta-Pirouette-★"
+      },
+      {
+        "regular": "Meloetta-Pirouette-3DS",
+        "shiny": "Meloetta-Pirouette-3DS-★"
       }
     ]
   },
@@ -16356,20 +16380,40 @@
         "shiny": "Genesect-★"
       },
       {
+        "regular": "Genesect-3DS",
+        "shiny": "Genesect-3DS-★"
+      },
+      {
         "regular": "Genesect-Burn",
         "shiny": "Genesect-Burn-★"
+      },
+      {
+        "regular": "Genesect-Burn-3DS",
+        "shiny": "Genesect-Burn-3DS-★"
       },
       {
         "regular": "Genesect-Chill",
         "shiny": "Genesect-Chill-★"
       },
       {
+        "regular": "Genesect-Chill-3DS",
+        "shiny": "Genesect-Chill-3DS-★"
+      },
+      {
         "regular": "Genesect-Douse",
         "shiny": "Genesect-Douse-★"
       },
       {
+        "regular": "Genesect-Douse-3DS",
+        "shiny": "Genesect-Douse-3DS-★"
+      },
+      {
         "regular": "Genesect-Shock",
         "shiny": "Genesect-Shock-★"
+      },
+      {
+        "regular": "Genesect-Shock-3DS",
+        "shiny": "Genesect-Shock-3DS-★"
       }
     ]
   },
