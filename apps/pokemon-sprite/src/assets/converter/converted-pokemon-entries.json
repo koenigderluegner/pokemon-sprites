@@ -2962,12 +2962,24 @@
         "shiny": "Ninetales-★"
       },
       {
+        "regular": "Ninetales-3DS",
+        "shiny": "Ninetales-3DS-★"
+      },
+      {
         "regular": "Ninetales-Alola",
         "shiny": "Ninetales-Alola-★"
       },
       {
+        "regular": "Ninetales-Alola-3DS",
+        "shiny": "Ninetales-Alola-3DS-★"
+      },
+      {
         "regular": "Ninetales-GO-Halloween2022",
         "shiny": "Ninetales-GO-Halloween2022-★"
+      },
+      {
+        "regular": "Ninetales-GO-Halloween2022-3DS",
+        "shiny": "Ninetales-GO-Halloween2022-3DS-★"
       }
     ]
   },
@@ -2980,11 +2992,23 @@
         "shiny": "Jigglypuff-★"
       },
       {
+        "regular": "Jigglypuff-3DS",
+        "shiny": "Jigglypuff-3DS-★"
+      },
+      {
         "regular": "Jigglypuff-GO-Ribbon",
         "shiny": "Jigglypuff-GO-Ribbon-★"
       },
       {
+        "regular": "Jigglypuff-GO-Ribbon-3DS",
+        "shiny": "Jigglypuff-GO-Ribbon-3DS-★"
+      },
+      {
         "regular": "Jigglypuff-Bonus-Smash3DSWiiU-Player5",
+        "shiny": null
+      },
+      {
+        "regular": "Jigglypuff-Bonus-Smash3DSWiiU-Player5-3DS",
         "shiny": null
       },
       {
@@ -2992,7 +3016,15 @@
         "shiny": null
       },
       {
+        "regular": "Jigglypuff-Bonus-Smash3DSWiiU-Player6-3DS",
+        "shiny": null
+      },
+      {
         "regular": "Jigglypuff-Bonus-Smash64-Player2",
+        "shiny": null
+      },
+      {
+        "regular": "Jigglypuff-Bonus-Smash64-Player2-3DS",
         "shiny": null
       },
       {
@@ -3000,7 +3032,15 @@
         "shiny": null
       },
       {
+        "regular": "Jigglypuff-Bonus-Smash64-Player3-3DS",
+        "shiny": null
+      },
+      {
         "regular": "Jigglypuff-Bonus-Smash64-Player4",
+        "shiny": null
+      },
+      {
+        "regular": "Jigglypuff-Bonus-Smash64-Player4-3DS",
         "shiny": null
       },
       {
@@ -3008,7 +3048,15 @@
         "shiny": null
       },
       {
+        "regular": "Jigglypuff-Bonus-SmashBrawl-Player2-3DS",
+        "shiny": null
+      },
+      {
         "regular": "Jigglypuff-Bonus-SmashBrawl-Player3",
+        "shiny": null
+      },
+      {
+        "regular": "Jigglypuff-Bonus-SmashBrawl-Player3-3DS",
         "shiny": null
       },
       {
@@ -3016,7 +3064,15 @@
         "shiny": null
       },
       {
+        "regular": "Jigglypuff-Bonus-SmashBrawl-Player4-3DS",
+        "shiny": null
+      },
+      {
         "regular": "Jigglypuff-Bonus-SmashMelee-Player2",
+        "shiny": null
+      },
+      {
+        "regular": "Jigglypuff-Bonus-SmashMelee-Player2-3DS",
         "shiny": null
       },
       {
@@ -3024,11 +3080,23 @@
         "shiny": null
       },
       {
+        "regular": "Jigglypuff-Bonus-SmashMelee-Player3-3DS",
+        "shiny": null
+      },
+      {
         "regular": "Jigglypuff-Bonus-SmashMelee-Player4",
         "shiny": null
       },
       {
+        "regular": "Jigglypuff-Bonus-SmashMelee-Player4-3DS",
+        "shiny": null
+      },
+      {
         "regular": "Jigglypuff-Bonus-SmashMelee-Player5",
+        "shiny": null
+      },
+      {
+        "regular": "Jigglypuff-Bonus-SmashMelee-Player5-3DS",
         "shiny": null
       }
     ]
@@ -3042,8 +3110,16 @@
         "shiny": "Wigglytuff-★"
       },
       {
+        "regular": "Wigglytuff-3DS",
+        "shiny": "Wigglytuff-3DS-★"
+      },
+      {
         "regular": "Wigglytuff-GO-Ribbon",
         "shiny": "Wigglytuff-GO-Ribbon-★"
+      },
+      {
+        "regular": "Wigglytuff-GO-Ribbon-3DS",
+        "shiny": "Wigglytuff-GO-Ribbon-3DS-★"
       }
     ]
   },
@@ -3206,6 +3282,10 @@
       {
         "regular": "Parasect",
         "shiny": "Parasect-★"
+      },
+      {
+        "regular": "Parasect-3DS",
+        "shiny": "Parasect-3DS-★"
       }
     ]
   },
@@ -3226,6 +3306,10 @@
       {
         "regular": "Venomoth",
         "shiny": "Venomoth-★"
+      },
+      {
+        "regular": "Venomoth-3DS",
+        "shiny": "Venomoth-3DS-★"
       }
     ]
   },
@@ -3798,12 +3882,40 @@
         "shiny": "Rapidash-★"
       },
       {
+        "regular": "Rapidash-3DS-Optional",
+        "shiny": "Rapidash-3DS-Optional-★"
+      },
+      {
+        "regular": "Rapidash-3DS-XY",
+        "shiny": "Rapidash-3DS-XY-★"
+      },
+      {
         "regular": "Rapidash-Galar",
         "shiny": "Rapidash-Galar-★"
       },
       {
+        "regular": "Rapidash-Galar-3DS",
+        "shiny": "Rapidash-Galar-3DS-★"
+      },
+      {
+        "regular": "Rapidash-Switch-LGPE",
+        "shiny": "Rapidash-Switch-LGPE-★"
+      },
+      {
         "regular": "Rapidash-GO-Valor",
         "shiny": "Rapidash-GO-Valor-★"
+      },
+      {
+        "regular": "Rapidash-GO-Valor-3DS-Optional",
+        "shiny": "Rapidash-GO-Valor-3DS-Optional-★"
+      },
+      {
+        "regular": "Rapidash-GO-Valor-3DS-XY",
+        "shiny": "Rapidash-GO-Valor-3DS-XY-★"
+      },
+      {
+        "regular": "Rapidash-GO-Valor-Switch-LGPE",
+        "shiny": "Rapidash-GO-Valor-Switch-LGPE-★"
       }
     ]
   },
@@ -3838,16 +3950,40 @@
         "shiny": "Slowbro-★"
       },
       {
+        "regular": "Slowbro-3DS",
+        "shiny": "Slowbro-3DS-★"
+      },
+      {
         "regular": "Slowbro-Galar",
         "shiny": "Slowbro-Galar-★"
+      },
+      {
+        "regular": "Slowbro-Galar-3DS",
+        "shiny": "Slowbro-Galar-3DS-★"
       },
       {
         "regular": "Slowbro-Mega",
         "shiny": "Slowbro-Mega-★"
       },
       {
+        "regular": "Slowbro-Mega-3DS",
+        "shiny": "Slowbro-Mega-3DS-★"
+      },
+      {
+        "regular": "Slowbro-Switch-LGPE",
+        "shiny": "Slowbro-Switch-LGPE-★"
+      },
+      {
         "regular": "Slowbro-GO-NewYear's2021",
         "shiny": "Slowbro-GO-NewYear's2021-★"
+      },
+      {
+        "regular": "Slowbro-GO-NewYear's2021-3DS",
+        "shiny": "Slowbro-GO-NewYear's2021-3DS-★"
+      },
+      {
+        "regular": "Slowbro-GO-NewYear's2021-Switch-LGPE",
+        "shiny": "Slowbro-GO-NewYear's2021-Switch-LGPE-★"
       }
     ]
   },
@@ -3860,7 +3996,15 @@
         "shiny": "Magnemite-★"
       },
       {
+        "regular": "Magnemite-3DS",
+        "shiny": "Magnemite-3DS-★"
+      },
+      {
         "regular": "Magnemite-Bonus-Channel",
+        "shiny": null
+      },
+      {
+        "regular": "Magnemite-Bonus-Channel-3DS",
         "shiny": null
       }
     ]
@@ -3872,6 +4016,10 @@
       {
         "regular": "Magneton",
         "shiny": "Magneton-★"
+      },
+      {
+        "regular": "Magneton-3DS",
+        "shiny": "Magneton-3DS-★"
       }
     ]
   },
@@ -4392,6 +4540,10 @@
       {
         "regular": "Lickitung",
         "shiny": "Lickitung-★"
+      },
+      {
+        "regular": "Lickitung-3DS",
+        "shiny": "Lickitung-3DS-★"
       }
     ]
   },
@@ -4414,8 +4566,20 @@
         "shiny": "Weezing-★"
       },
       {
+        "regular": "Weezing-3DS",
+        "shiny": "Weezing-3DS-★"
+      },
+      {
         "regular": "Weezing-Galar",
         "shiny": "Weezing-Galar-★"
+      },
+      {
+        "regular": "Weezing-Galar-3DS",
+        "shiny": "Weezing-Galar-3DS-★"
+      },
+      {
+        "regular": "Weezing-Switch-SwSh",
+        "shiny": "Weezing-Switch-SwSh-★"
       }
     ]
   },
@@ -4442,8 +4606,24 @@
         "shiny": "Rhydon-★"
       },
       {
+        "regular": "Rhydon-3DS",
+        "shiny": "Rhydon-3DS-★"
+      },
+      {
+        "regular": "Rhydon-3DS-F",
+        "shiny": null
+      },
+      {
         "regular": "Rhydon-F",
         "shiny": "Rhydon-F-★"
+      },
+      {
+        "regular": "Rhydon-F-Switch-LGPE",
+        "shiny": "Rhydon-F-Switch-LGPE-★"
+      },
+      {
+        "regular": "Rhydon-Switch-LGPE",
+        "shiny": "Rhydon-Switch-LGPE-★"
       }
     ]
   },
@@ -4500,6 +4680,10 @@
       {
         "regular": "Tangela",
         "shiny": "Tangela-★"
+      },
+      {
+        "regular": "Tangela-3DS",
+        "shiny": "Tangela-3DS-★"
       }
     ]
   },
@@ -4512,8 +4696,16 @@
         "shiny": "Kangaskhan-★"
       },
       {
+        "regular": "Kangaskhan-3DS",
+        "shiny": "Kangaskhan-3DS-★"
+      },
+      {
         "regular": "Kangaskhan-Mega",
         "shiny": "Kangaskhan-Mega-★"
+      },
+      {
+        "regular": "Kangaskhan-Mega-3DS",
+        "shiny": "Kangaskhan-Mega-3DS-★"
       }
     ]
   },
@@ -4534,6 +4726,10 @@
       {
         "regular": "Seadra",
         "shiny": "Seadra-★"
+      },
+      {
+        "regular": "Seadra-3DS",
+        "shiny": "Seadra-3DS-★"
       }
     ]
   },
@@ -4792,11 +4988,31 @@
         "shiny": "Pinsir-★"
       },
       {
+        "regular": "Pinsir-3DS",
+        "shiny": "Pinsir-3DS-★"
+      },
+      {
         "regular": "Pinsir-Mega",
         "shiny": "Pinsir-Mega-★"
       },
       {
+        "regular": "Pinsir-Mega-3DS",
+        "shiny": "Pinsir-Mega-3DS-★"
+      },
+      {
+        "regular": "Pinsir-Mega-Switch-LGPE",
+        "shiny": "Pinsir-Mega-Switch-LGPE-★"
+      },
+      {
         "regular": "Pinsir-Stadium-Player2",
+        "shiny": null
+      },
+      {
+        "regular": "Pinsir-Stadium-Player2-3DS",
+        "shiny": null
+      },
+      {
+        "regular": "Pinsir-Stadium-Player2-Switch-LGPE",
         "shiny": null
       },
       {
@@ -4804,8 +5020,28 @@
         "shiny": null
       },
       {
+        "regular": "Pinsir-Stadium-Player3-3DS",
+        "shiny": null
+      },
+      {
+        "regular": "Pinsir-Stadium-Player3-Switch-LGPE",
+        "shiny": null
+      },
+      {
         "regular": "Pinsir-Stadium-Player4",
         "shiny": null
+      },
+      {
+        "regular": "Pinsir-Stadium-Player4-3DS",
+        "shiny": null
+      },
+      {
+        "regular": "Pinsir-Stadium-Player4-Switch-LGPE",
+        "shiny": null
+      },
+      {
+        "regular": "Pinsir-Switch-LGPE",
+        "shiny": "Pinsir-Switch-LGPE-★"
       }
     ]
   },
@@ -4818,20 +5054,48 @@
         "shiny": "Tauros-★"
       },
       {
+        "regular": "Tauros-3DS",
+        "shiny": "Tauros-3DS-★"
+      },
+      {
         "regular": "Tauros-Paldea-Aqua",
         "shiny": "Tauros-Paldea-Aqua-★"
+      },
+      {
+        "regular": "Tauros-Paldea-Aqua-3DS",
+        "shiny": "Tauros-Paldea-Aqua-3DS-★"
       },
       {
         "regular": "Tauros-Paldea-Blaze",
         "shiny": "Tauros-Paldea-Blaze-★"
       },
       {
+        "regular": "Tauros-Paldea-Blaze-3DS",
+        "shiny": "Tauros-Paldea-Blaze-3DS-★"
+      },
+      {
         "regular": "Tauros-Paldea-Combat",
         "shiny": "Tauros-Paldea-Combat-★"
       },
       {
+        "regular": "Tauros-Paldea-Combat-3DS",
+        "shiny": "Tauros-Paldea-Combat-3DS-★"
+      },
+      {
+        "regular": "Tauros-Switch-LGPE",
+        "shiny": "Tauros-Switch-LGPE-★"
+      },
+      {
         "regular": "Tauros-Bonus-PageRider",
         "shiny": "Tauros-Bonus-PageRider-★"
+      },
+      {
+        "regular": "Tauros-Bonus-PageRider-3DS",
+        "shiny": "Tauros-Bonus-PageRider-3DS-★"
+      },
+      {
+        "regular": "Tauros-Bonus-PageRider-Switch-LGPE",
+        "shiny": "Tauros-Bonus-PageRider-Switch-LGPE-★"
       }
     ]
   },
@@ -5128,20 +5392,40 @@
         "shiny": "Lapras-★"
       },
       {
+        "regular": "Lapras-3DS",
+        "shiny": "Lapras-3DS-★"
+      },
+      {
         "regular": "Lapras-Gmax",
         "shiny": "Lapras-Gmax-★"
+      },
+      {
+        "regular": "Lapras-Gmax-3DS",
+        "shiny": "Lapras-Gmax-3DS-★"
       },
       {
         "regular": "Lapras-GO-Costume2020",
         "shiny": "Lapras-GO-Costume2020-★"
       },
       {
+        "regular": "Lapras-GO-Costume2020-3DS",
+        "shiny": "Lapras-GO-Costume2020-3DS-★"
+      },
+      {
         "regular": "Lapras-GO-Mystic",
         "shiny": "Lapras-GO-Mystic-★"
       },
       {
+        "regular": "Lapras-GO-Mystic-3DS",
+        "shiny": "Lapras-GO-Mystic-3DS-★"
+      },
+      {
         "regular": "Lapras-Bonus-PageRider",
         "shiny": "Lapras-Bonus-PageRider-★"
+      },
+      {
+        "regular": "Lapras-Bonus-PageRider-3DS",
+        "shiny": "Lapras-Bonus-PageRider-3DS-★"
       }
     ]
   },
@@ -5878,19 +6162,39 @@
         "shiny": "Mewtwo-★"
       },
       {
+        "regular": "Mewtwo-3DS",
+        "shiny": "Mewtwo-3DS-★"
+      },
+      {
         "regular": "Mewtwo-Megax",
         "shiny": "Mewtwo-Megax-★"
+      },
+      {
+        "regular": "Mewtwo-Megax-3DS",
+        "shiny": "Mewtwo-Megax-3DS-★"
       },
       {
         "regular": "Mewtwo-Megay",
         "shiny": "Mewtwo-Megay-★"
       },
       {
+        "regular": "Mewtwo-Megay-3DS",
+        "shiny": "Mewtwo-Megay-3DS-★"
+      },
+      {
         "regular": "Mewtwo-GO-Armor",
         "shiny": "Mewtwo-GO-Armor-★"
       },
       {
+        "regular": "Mewtwo-GO-Armor-3DS",
+        "shiny": "Mewtwo-GO-Armor-3DS-★"
+      },
+      {
         "regular": "Mewtwo-Bonus-Pokken",
+        "shiny": null
+      },
+      {
+        "regular": "Mewtwo-Bonus-Pokken-3DS",
         "shiny": null
       },
       {
@@ -5898,7 +6202,15 @@
         "shiny": null
       },
       {
+        "regular": "Mewtwo-Bonus-Pokken-Dark-3DS",
+        "shiny": null
+      },
+      {
         "regular": "Mewtwo-Bonus-Pokken-Dark-Player2",
+        "shiny": null
+      },
+      {
+        "regular": "Mewtwo-Bonus-Pokken-Dark-Player2-3DS",
         "shiny": null
       },
       {
@@ -5906,7 +6218,15 @@
         "shiny": null
       },
       {
+        "regular": "Mewtwo-Bonus-SmashMelee-Player2-3DS",
+        "shiny": null
+      },
+      {
         "regular": "Mewtwo-Bonus-SmashMelee-Player3",
+        "shiny": null
+      },
+      {
+        "regular": "Mewtwo-Bonus-SmashMelee-Player3-3DS",
         "shiny": null
       },
       {
@@ -5914,7 +6234,15 @@
         "shiny": null
       },
       {
+        "regular": "Mewtwo-Bonus-SmashMelee-Player4-3DS",
+        "shiny": null
+      },
+      {
         "regular": "Mewtwo-Bonus-SmashWiiU3DS-Player5",
+        "shiny": null
+      },
+      {
+        "regular": "Mewtwo-Bonus-SmashWiiU3DS-Player5-3DS",
         "shiny": null
       },
       {
@@ -5922,7 +6250,15 @@
         "shiny": null
       },
       {
+        "regular": "Mewtwo-Bonus-SmashWiiU3DS-Player6-3DS",
+        "shiny": null
+      },
+      {
         "regular": "Mewtwo-Bonus-SmashWiiU3DS-Player7",
+        "shiny": null
+      },
+      {
+        "regular": "Mewtwo-Bonus-SmashWiiU3DS-Player7-3DS",
         "shiny": null
       },
       {
@@ -5930,7 +6266,15 @@
         "shiny": null
       },
       {
+        "regular": "Mewtwo-Bonus-SmashWiiU3DS-Player8-3DS",
+        "shiny": null
+      },
+      {
         "regular": "Mewtwo-Bonus-SmashWiiU3DS-Player9",
+        "shiny": null
+      },
+      {
+        "regular": "Mewtwo-Bonus-SmashWiiU3DS-Player9-3DS",
         "shiny": null
       },
       {
@@ -5938,7 +6282,15 @@
         "shiny": null
       },
       {
+        "regular": "Mewtwo-Megax-Bonus-Pokken-3DS",
+        "shiny": null
+      },
+      {
         "regular": "Mewtwo-Megax-Bonus-Pokken-Dark",
+        "shiny": null
+      },
+      {
+        "regular": "Mewtwo-Megax-Bonus-Pokken-Dark-3DS",
         "shiny": null
       },
       {
@@ -5946,7 +6298,15 @@
         "shiny": null
       },
       {
+        "regular": "Mewtwo-Megax-Bonus-Pokken-Dark-Player2-3DS",
+        "shiny": null
+      },
+      {
         "regular": "Mewtwo-Megay-Bonus-SmashWiiU3DS-Player2",
+        "shiny": null
+      },
+      {
+        "regular": "Mewtwo-Megay-Bonus-SmashWiiU3DS-Player2-3DS",
         "shiny": null
       },
       {
@@ -5954,7 +6314,15 @@
         "shiny": null
       },
       {
+        "regular": "Mewtwo-Megay-Bonus-SmashWiiU3DS-Player3-3DS",
+        "shiny": null
+      },
+      {
         "regular": "Mewtwo-Megay-Bonus-SmashWiiU3DS-Player4",
+        "shiny": null
+      },
+      {
+        "regular": "Mewtwo-Megay-Bonus-SmashWiiU3DS-Player4-3DS",
         "shiny": null
       },
       {
@@ -5962,7 +6330,15 @@
         "shiny": null
       },
       {
+        "regular": "Mewtwo-Megay-Bonus-SmashWiiU3DS-Player5-3DS",
+        "shiny": null
+      },
+      {
         "regular": "Mewtwo-Megay-Bonus-SmashWiiU3DS-Player6",
+        "shiny": null
+      },
+      {
+        "regular": "Mewtwo-Megay-Bonus-SmashWiiU3DS-Player6-3DS",
         "shiny": null
       },
       {
@@ -5970,11 +6346,23 @@
         "shiny": null
       },
       {
+        "regular": "Mewtwo-Megay-Bonus-SmashWiiU3DS-Player7-3DS",
+        "shiny": null
+      },
+      {
         "regular": "Mewtwo-Megay-Bonus-SmashWiiU3DS-Player8",
         "shiny": null
       },
       {
+        "regular": "Mewtwo-Megay-Bonus-SmashWiiU3DS-Player8-3DS",
+        "shiny": null
+      },
+      {
         "regular": "Mewtwo-Megay-Bonus-SmashWiiU3DS-Player9",
+        "shiny": null
+      },
+      {
+        "regular": "Mewtwo-Megay-Bonus-SmashWiiU3DS-Player9-3DS",
         "shiny": null
       }
     ]
@@ -5986,6 +6374,10 @@
       {
         "regular": "Mew",
         "shiny": "Mew-★"
+      },
+      {
+        "regular": "Mew-3DS",
+        "shiny": "Mew-3DS-★"
       }
     ]
   },
@@ -6450,8 +6842,16 @@
         "shiny": "Togetic-★"
       },
       {
+        "regular": "Togetic-3DS",
+        "shiny": "Togetic-3DS-★"
+      },
+      {
         "regular": "Togetic-GO-April2020",
         "shiny": "Togetic-GO-April2020-★"
+      },
+      {
+        "regular": "Togetic-GO-April2020-3DS",
+        "shiny": "Togetic-GO-April2020-3DS-★"
       }
     ]
   },
@@ -6474,8 +6874,16 @@
         "shiny": "Xatu-★"
       },
       {
+        "regular": "Xatu-3DS",
+        "shiny": "Xatu-3DS-★"
+      },
+      {
         "regular": "Xatu-F",
         "shiny": "Xatu-F-★"
+      },
+      {
+        "regular": "Xatu-F-3DS",
+        "shiny": "Xatu-F-3DS-★"
       }
     ]
   },
@@ -6684,6 +7092,10 @@
       {
         "regular": "Sunflora",
         "shiny": "Sunflora-★"
+      },
+      {
+        "regular": "Sunflora-3DS",
+        "shiny": "Sunflora-3DS-★"
       }
     ]
   },
@@ -6694,6 +7106,10 @@
       {
         "regular": "Yanma",
         "shiny": "Yanma-★"
+      },
+      {
+        "regular": "Yanma-3DS",
+        "shiny": "Yanma-3DS-★"
       }
     ]
   },
@@ -6878,8 +7294,16 @@
         "shiny": "Murkrow-★"
       },
       {
+        "regular": "Murkrow-3DS",
+        "shiny": "Murkrow-3DS-★"
+      },
+      {
         "regular": "Murkrow-F",
         "shiny": "Murkrow-F-★"
+      },
+      {
+        "regular": "Murkrow-F-3DS",
+        "shiny": "Murkrow-F-3DS-★"
       }
     ]
   },
@@ -6892,12 +7316,24 @@
         "shiny": "Slowking-★"
       },
       {
+        "regular": "Slowking-3DS",
+        "shiny": "Slowking-3DS-★"
+      },
+      {
         "regular": "Slowking-Galar",
         "shiny": "Slowking-Galar-★"
       },
       {
+        "regular": "Slowking-Galar-3DS",
+        "shiny": "Slowking-Galar-3DS-★"
+      },
+      {
         "regular": "Slowking-GO-NewYear's2022",
         "shiny": "Slowking-GO-NewYear's2022-★"
+      },
+      {
+        "regular": "Slowking-GO-NewYear's2022-3DS",
+        "shiny": "Slowking-GO-NewYear's2022-3DS-★"
       }
     ]
   },
@@ -6908,6 +7344,10 @@
       {
         "regular": "MIsdreavus",
         "shiny": "MIsdreavus-★"
+      },
+      {
+        "regular": "MIsdreavus-3DS",
+        "shiny": "MIsdreavus-3DS-★"
       }
     ]
   },
@@ -6920,56 +7360,112 @@
         "shiny": "Unown-A-★"
       },
       {
+        "regular": "Unown-A-3DS",
+        "shiny": "Unown-A-3DS-★"
+      },
+      {
         "regular": "Unown-B",
         "shiny": "Unown-B-★"
+      },
+      {
+        "regular": "Unown-B-3DS",
+        "shiny": "Unown-B-3DS-★"
       },
       {
         "regular": "Unown-C",
         "shiny": "Unown-C-★"
       },
       {
+        "regular": "Unown-C-3DS",
+        "shiny": "Unown-C-3DS-★"
+      },
+      {
         "regular": "Unown-D",
         "shiny": "Unown-D-★"
+      },
+      {
+        "regular": "Unown-D-3DS",
+        "shiny": "Unown-D-3DS-★"
       },
       {
         "regular": "Unown-E",
         "shiny": "Unown-E-★"
       },
       {
+        "regular": "Unown-E-3DS",
+        "shiny": "Unown-E-3DS-★"
+      },
+      {
         "regular": "Unown-ExMa",
         "shiny": "Unown-ExMa-★"
+      },
+      {
+        "regular": "Unown-ExMa-3DS",
+        "shiny": "Unown-ExMa-3DS-★"
       },
       {
         "regular": "Unown-F",
         "shiny": "Unown-F-★"
       },
       {
+        "regular": "Unown-F-3DS",
+        "shiny": "Unown-F-3DS-★"
+      },
+      {
         "regular": "Unown-G",
         "shiny": "Unown-G-★"
+      },
+      {
+        "regular": "Unown-G-3DS",
+        "shiny": "Unown-G-3DS-★"
       },
       {
         "regular": "Unown-H",
         "shiny": "Unown-H-★"
       },
       {
+        "regular": "Unown-H-3DS",
+        "shiny": "Unown-H-3DS-★"
+      },
+      {
         "regular": "Unown-I",
         "shiny": "Unown-I-★"
+      },
+      {
+        "regular": "Unown-I-3DS",
+        "shiny": "Unown-I-3DS-★"
       },
       {
         "regular": "Unown-J",
         "shiny": "Unown-J-★"
       },
       {
+        "regular": "Unown-J-3DS",
+        "shiny": "Unown-J-3DS-★"
+      },
+      {
         "regular": "Unown-K",
         "shiny": "Unown-K-★"
+      },
+      {
+        "regular": "Unown-K-3DS",
+        "shiny": "Unown-K-3DS-★"
       },
       {
         "regular": "Unown-L",
         "shiny": "Unown-L-★"
       },
       {
+        "regular": "Unown-L-3DS",
+        "shiny": "Unown-L-3DS-★"
+      },
+      {
         "regular": "Unown-M",
         "shiny": "Unown-M-★"
+      },
+      {
+        "regular": "Unown-M-3DS",
+        "shiny": "Unown-M-3DS-★"
       },
       {
         "regular": "Unown-N",
@@ -6980,52 +7476,104 @@
         "shiny": "Unown-O-★"
       },
       {
+        "regular": "Unown-O-3DS",
+        "shiny": "Unown-O-3DS-★"
+      },
+      {
         "regular": "Unown-P",
         "shiny": "Unown-P-★"
+      },
+      {
+        "regular": "Unown-P-3DS",
+        "shiny": "Unown-P-3DS-★"
       },
       {
         "regular": "Unown-Q",
         "shiny": "Unown-Q-★"
       },
       {
+        "regular": "Unown-Q-3DS",
+        "shiny": "Unown-Q-3DS-★"
+      },
+      {
         "regular": "Unown-QuMa",
         "shiny": "Unown-QuMa-★"
+      },
+      {
+        "regular": "Unown-QuMa-3DS",
+        "shiny": "Unown-QuMa-3DS-★"
       },
       {
         "regular": "Unown-R",
         "shiny": "Unown-R-★"
       },
       {
+        "regular": "Unown-R-3DS",
+        "shiny": "Unown-R-3DS-★"
+      },
+      {
         "regular": "Unown-S",
         "shiny": "Unown-S-★"
+      },
+      {
+        "regular": "Unown-S-3DS",
+        "shiny": "Unown-S-3DS-★"
       },
       {
         "regular": "Unown-T",
         "shiny": "Unown-T-★"
       },
       {
+        "regular": "Unown-T-3DS",
+        "shiny": "Unown-T-3DS-★"
+      },
+      {
         "regular": "Unown-U",
         "shiny": "Unown-U-★"
+      },
+      {
+        "regular": "Unown-U-3DS",
+        "shiny": "Unown-U-3DS-★"
       },
       {
         "regular": "Unown-V",
         "shiny": "Unown-V-★"
       },
       {
+        "regular": "Unown-V-3DS",
+        "shiny": "Unown-V-3DS-★"
+      },
+      {
         "regular": "Unown-W",
         "shiny": "Unown-W-★"
+      },
+      {
+        "regular": "Unown-W-3DS",
+        "shiny": "Unown-W-3DS-★"
       },
       {
         "regular": "Unown-X",
         "shiny": "Unown-X-★"
       },
       {
+        "regular": "Unown-X-3DS",
+        "shiny": "Unown-X-3DS-★"
+      },
+      {
         "regular": "Unown-Y",
         "shiny": "Unown-Y-★"
       },
       {
+        "regular": "Unown-Y-3DS",
+        "shiny": "Unown-Y-3DS-★"
+      },
+      {
         "regular": "Unown-Z",
         "shiny": "Unown-Z-★"
+      },
+      {
+        "regular": "Unown-Z-3DS",
+        "shiny": "Unown-Z-3DS-★"
       }
     ]
   },
@@ -7038,16 +7586,32 @@
         "shiny": "Wobbuffet-★"
       },
       {
+        "regular": "Wobbuffet-3DS",
+        "shiny": "Wobbuffet-3DS-★"
+      },
+      {
         "regular": "Wobbuffet-F",
         "shiny": "Wobbuffet-F-★"
+      },
+      {
+        "regular": "Wobbuffet-F-3DS",
+        "shiny": "Wobbuffet-F-3DS-★"
       },
       {
         "regular": "Wobbuffet-GO-Jan2020",
         "shiny": "Wobbuffet-GO-Jan2020-★"
       },
       {
+        "regular": "Wobbuffet-GO-Jan2020-3DS",
+        "shiny": "Wobbuffet-GO-Jan2020-3DS-★"
+      },
+      {
         "regular": "Wobbuffet-GO-Jan2020-F",
         "shiny": "Wobbuffet-GO-Jan2020-F-★"
+      },
+      {
+        "regular": "Wobbuffet-GO-Jan2020-F-3DS",
+        "shiny": "Wobbuffet-GO-Jan2020-F-3DS-★"
       }
     ]
   },
@@ -7588,12 +8152,20 @@
         "shiny": "Skarmory-★"
       },
       {
+        "regular": "Skarmory-3DS",
+        "shiny": "Skarmory-3DS-★"
+      },
+      {
         "regular": "SKarmory-Mega",
         "shiny": "Skarmory-Mega-★"
       },
       {
         "regular": "Skarmory-Mega-3DS",
         "shiny": "Skarmory-Mega-3DS-★"
+      },
+      {
+        "regular": "Skarmory-Switch-SwSh",
+        "shiny": "Skarmory-Switch-SwSh-★"
       }
     ]
   },
@@ -7616,12 +8188,24 @@
         "shiny": "Houndoom-★"
       },
       {
+        "regular": "Houndoom-3DS",
+        "shiny": "Houndoom-3DS-★"
+      },
+      {
         "regular": "Houndoom-F",
         "shiny": "Houndoom-F-★"
       },
       {
+        "regular": "Houndoom-F-3DS",
+        "shiny": "Houndoom-F-3DS-★"
+      },
+      {
         "regular": "Houndoom-Mega",
         "shiny": "Houndoom-Mega-★"
+      },
+      {
+        "regular": "Houndoom-Mega-3DS",
+        "shiny": "Houndoom-Mega-3DS-★"
       }
     ]
   },
@@ -7632,6 +8216,10 @@
       {
         "regular": "Kingdra",
         "shiny": "Kingdra-★"
+      },
+      {
+        "regular": "Kingdra-3DS",
+        "shiny": "Kingdra-3DS-★"
       }
     ]
   },
@@ -7830,6 +8418,10 @@
       {
         "regular": "Miltank",
         "shiny": "Miltank-★"
+      },
+      {
+        "regular": "Miltank-3DS",
+        "shiny": "Miltank-3DS-★"
       }
     ]
   },
@@ -8418,6 +9010,10 @@
       {
         "regular": "Lombre",
         "shiny": "Lombre-★"
+      },
+      {
+        "regular": "Lombre-3DS",
+        "shiny": "Lombre-3DS-★"
       }
     ]
   },
@@ -8430,8 +9026,32 @@
         "shiny": "Ludicolo-★"
       },
       {
+        "regular": "Ludicolo-3DS-Optional",
+        "shiny": "Ludicolo-3DS-Optional-★"
+      },
+      {
+        "regular": "Ludicolo-3DS-ORAS",
+        "shiny": "Ludicolo-3DS-ORAS-★"
+      },
+      {
+        "regular": "Ludicolo-3DS-XY",
+        "shiny": "Ludicolo-3DS-XY-★"
+      },
+      {
         "regular": "Ludicolo-F",
         "shiny": "Ludicolo-F-★"
+      },
+      {
+        "regular": "Ludicolo-F-3DS-Optional",
+        "shiny": "Ludicolo-F-3DS-Optional-★"
+      },
+      {
+        "regular": "Ludicolo-F-3DS-ORAS",
+        "shiny": "Ludicolo-F-3DS-ORAS-★"
+      },
+      {
+        "regular": "Ludicolo-F-3DS-XY",
+        "shiny": "Ludicolo-F-3DS-XY-★"
       }
     ]
   },
@@ -8454,8 +9074,24 @@
         "shiny": "Nuzleaf-★"
       },
       {
+        "regular": "Nuzleaf-3DS-ORAS",
+        "shiny": "Nuzleaf-3DS-ORAS-★"
+      },
+      {
+        "regular": "Nuzleaf-3DS-XY",
+        "shiny": "Nuzleaf-3DS-XY-★"
+      },
+      {
         "regular": "Nuzleaf-F",
         "shiny": "Nuzleaf-F-★"
+      },
+      {
+        "regular": "Nuzleaf-F-3DS-ORAS",
+        "shiny": "Nuzleaf-F-3DS-ORAS-★"
+      },
+      {
+        "regular": "Nuzleaf-F-3DS-XY",
+        "shiny": "Nuzleaf-F-3DS-XY-★"
       }
     ]
   },
@@ -8468,8 +9104,24 @@
         "shiny": "Shiftry-★"
       },
       {
+        "regular": "Shiftry-3DS-ORAS",
+        "shiny": "Shiftry-3DS-ORAS-★"
+      },
+      {
+        "regular": "Shiftry-3DS-XY",
+        "shiny": "Shiftry-3DS-XY-★"
+      },
+      {
         "regular": "Shiftry-F",
         "shiny": "Shiftry-F-★"
+      },
+      {
+        "regular": "Shiftry-F-3DS-ORAS",
+        "shiny": "Shiftry-F-3DS-ORAS-★"
+      },
+      {
+        "regular": "Shiftry-F-3DS-XY",
+        "shiny": "Shiftry-F-3DS-XY-★"
       }
     ]
   },
@@ -8490,6 +9142,10 @@
       {
         "regular": "Swellow",
         "shiny": "Swellow-★"
+      },
+      {
+        "regular": "Swellow-3DS",
+        "shiny": "Swellow-3DS-★"
       }
     ]
   },
@@ -8510,6 +9166,10 @@
       {
         "regular": "Pelipper",
         "shiny": "Pelipper-★"
+      },
+      {
+        "regular": "Pelipper-3DS",
+        "shiny": "Pelipper-3DS-★"
       }
     ]
   },
@@ -8624,6 +9284,10 @@
       {
         "regular": "Masquerain",
         "shiny": "Masquerain-★"
+      },
+      {
+        "regular": "Masquerain-3DS",
+        "shiny": "Masquerain-3DS-★"
       }
     ]
   },
@@ -8662,6 +9326,10 @@
       {
         "regular": "Slakoth-GO-Visor",
         "shiny": "Slakoth-GO-Visor-★"
+      },
+      {
+        "regular": "Slakoth-GO-Visor-3DS",
+        "shiny": null
       }
     ]
   },
@@ -8674,8 +9342,16 @@
         "shiny": "Vigoroth-★"
       },
       {
+        "regular": "Vigoroth-3DS",
+        "shiny": "Vigoroth-3DS-★"
+      },
+      {
         "regular": "Vigoroth-GO-Visor",
         "shiny": "Vigoroth-GO-Visor-★"
+      },
+      {
+        "regular": "Vigoroth-GO-Visor-3DS",
+        "shiny": "Vigoroth-GO-Visor-3DS-★"
       }
     ]
   },
@@ -8688,8 +9364,16 @@
         "shiny": "Slaking-★"
       },
       {
+        "regular": "Slaking-3DS",
+        "shiny": "Slaking-3DS-★"
+      },
+      {
         "regular": "Slaking-GO-Visor",
         "shiny": "Slaking-GO-Visor-★"
+      },
+      {
+        "regular": "Slaking-GO-Visor-3DS",
+        "shiny": "Slaking-GO-Visor-3DS-★"
       }
     ]
   },
@@ -8710,6 +9394,10 @@
       {
         "regular": "Ninjask",
         "shiny": "Ninjask-★"
+      },
+      {
+        "regular": "Ninjask-3DS",
+        "shiny": "Ninjask-3DS-★"
       }
     ]
   },
@@ -8720,6 +9408,10 @@
       {
         "regular": "Shedinja",
         "shiny": "Shedinja-★"
+      },
+      {
+        "regular": "Shedinja-3DS",
+        "shiny": "Shedinja-3DS-★"
       }
     ]
   },
@@ -8842,12 +9534,32 @@
         "shiny": "Sableye-★"
       },
       {
+        "regular": "Sableye-3DS-ORAS",
+        "shiny": "Sableye-3DS-ORAS-★"
+      },
+      {
+        "regular": "Sableye-3DS-XY",
+        "shiny": "Sableye-3DS-XY-★"
+      },
+      {
         "regular": "Sableye-Mega",
         "shiny": "Sableye-Mega-★"
       },
       {
+        "regular": "Sableye-Mega-3DS",
+        "shiny": "Sableye-Mega-3DS-★"
+      },
+      {
         "regular": "Sableye-GO-Costume2020",
         "shiny": "Sableye-GO-Costume2020-★"
+      },
+      {
+        "regular": "Sableye-GO-Costume2020-3DS-ORAS",
+        "shiny": "Sableye-GO-Costume2020-3DS-ORAS-★"
+      },
+      {
+        "regular": "Sableye-GO-Costume2020-3DS-XY",
+        "shiny": "Sableye-GO-Costume2020-3DS-XY-★"
       }
     ]
   },
@@ -8860,8 +9572,16 @@
         "shiny": "Mawile-★"
       },
       {
+        "regular": "Mawile-3DS",
+        "shiny": "Mawile-3DS-★"
+      },
+      {
         "regular": "Mawile-Mega",
         "shiny": "Mawile-Mega-★"
+      },
+      {
+        "regular": "Mawile-Mega-3DS",
+        "shiny": "Mawile-Mega-3DS-★"
       }
     ]
   },
@@ -9120,12 +9840,24 @@
         "shiny": "Sharpedo-★"
       },
       {
+        "regular": "Sharpedo-3DS",
+        "shiny": "Sharpedo-3DS-★"
+      },
+      {
         "regular": "Sharpedo-Mega",
         "shiny": "Sharpedo-Mega-★"
       },
       {
+        "regular": "Sharpedo-Mega-3DS",
+        "shiny": "Sharpedo-Mega-3DS-★"
+      },
+      {
         "regular": "Sharpedo-Bonus-PageRider",
         "shiny": "Sharpedo-Bonus-PageRider-★"
+      },
+      {
+        "regular": "Sharpedo-Bonus-PageRider-3DS",
+        "shiny": "Sharpedo-Bonus-PageRider-3DS-★"
       }
     ]
   },
@@ -9136,6 +9868,14 @@
       {
         "regular": "Wailmer",
         "shiny": "Wailmer-★"
+      },
+      {
+        "regular": "Wailmer-3DS-Optional",
+        "shiny": "Wailmer-3DS-Optional-★"
+      },
+      {
+        "regular": "Wailmer-3DS-XY",
+        "shiny": "Wailmer-3DS-XY-★"
       }
     ]
   },
@@ -9146,6 +9886,14 @@
       {
         "regular": "Wailord",
         "shiny": "Wailord-★"
+      },
+      {
+        "regular": "Wailord-3DS-Optional",
+        "shiny": "Wailord-3DS-Optional-★"
+      },
+      {
+        "regular": "Wailord-3DS-XY",
+        "shiny": "Wailord-3DS-XY-★"
       }
     ]
   },
@@ -9366,6 +10114,10 @@
       {
         "regular": "Zangoose",
         "shiny": "Zangoose-★"
+      },
+      {
+        "regular": "Zangoose-3DS",
+        "shiny": "Zangoose-3DS-★"
       }
     ]
   },
@@ -9376,6 +10128,10 @@
       {
         "regular": "Seviper",
         "shiny": "Seviper-★"
+      },
+      {
+        "regular": "Seviper-3DS",
+        "shiny": "Seviper-3DS-★"
       }
     ]
   },
@@ -9386,6 +10142,10 @@
       {
         "regular": "Lunatone",
         "shiny": "Lunatone-★"
+      },
+      {
+        "regular": "Lunatone-3DS",
+        "shiny": "Lunatone-3DS-★"
       }
     ]
   },
@@ -9396,6 +10156,10 @@
       {
         "regular": "Solrock",
         "shiny": "Solrock-★"
+      },
+      {
+        "regular": "Solrock-3DS",
+        "shiny": "Solrock-3DS-★"
       }
     ]
   },
@@ -10494,8 +11258,16 @@
         "shiny": "Kricketune-★"
       },
       {
+        "regular": "Kricketune-3DS",
+        "shiny": "Kricketune-3DS-★"
+      },
+      {
         "regular": "Kricketune-F",
         "shiny": "Kricketune-F-★"
+      },
+      {
+        "regular": "Kricketune-F-3DS",
+        "shiny": "Kricketune-F-3DS-★"
       }
     ]
   },
@@ -10530,8 +11302,16 @@
         "shiny": "Luxio-★"
       },
       {
+        "regular": "Luxio-3DS",
+        "shiny": "Luxio-3DS-★"
+      },
+      {
         "regular": "Luxio-F",
         "shiny": "Luxio-F-★"
+      },
+      {
+        "regular": "Luxio-F-3DS",
+        "shiny": "Luxio-F-3DS-★"
       }
     ]
   },
@@ -10544,8 +11324,24 @@
         "shiny": "Luxray-★"
       },
       {
+        "regular": "Luxray-3DS",
+        "shiny": "Luxray-3DS-★"
+      },
+      {
         "regular": "Luxray-F",
         "shiny": "Luxray-F-★"
+      },
+      {
+        "regular": "Luxray-F-3DS",
+        "shiny": "Luxray-F-3DS-★"
+      },
+      {
+        "regular": "Luxray-F-Switch-SwSh",
+        "shiny": "Luxray-F-Switch-SwSh-★"
+      },
+      {
+        "regular": "Luxray-Switch-SwSh",
+        "shiny": "Luxray-Switch-SwSh-★"
       }
     ]
   },
@@ -10970,6 +11766,10 @@
       {
         "regular": "Mismagius",
         "shiny": "Mismagius-★"
+      },
+      {
+        "regular": "Mismagius-3DS",
+        "shiny": "Mismagius-3DS-★"
       }
     ]
   },
@@ -10980,6 +11780,10 @@
       {
         "regular": "Honchkrow",
         "shiny": "Honchkrow-★"
+      },
+      {
+        "regular": "Honchkrow-3DS",
+        "shiny": "Honchkrow-3DS-★"
       }
     ]
   },
@@ -11680,6 +12484,10 @@
       {
         "regular": "Magnezone",
         "shiny": "Magnezone-★"
+      },
+      {
+        "regular": "Magnezone-3DS",
+        "shiny": "Magnezone-3DS-★"
       }
     ]
   },
@@ -11690,6 +12498,10 @@
       {
         "regular": "Lickilicky",
         "shiny": "Lickilicky-★"
+      },
+      {
+        "regular": "Lickilicky-3DS",
+        "shiny": "Lickilicky-3DS-★"
       }
     ]
   },
@@ -11702,8 +12514,24 @@
         "shiny": "Rhyperior-★"
       },
       {
+        "regular": "Rhyperior-3DS",
+        "shiny": "Rhyperior-3DS-★"
+      },
+      {
         "regular": "Rhyperior-F",
         "shiny": "Rhyperior-F-★"
+      },
+      {
+        "regular": "Rhyperior-F-3DS",
+        "shiny": "Rhyperior-F-3DS-★"
+      },
+      {
+        "regular": "Rhyperior-F-Switch-SwSh",
+        "shiny": "Rhyperior-F-Switch-SwSh-★"
+      },
+      {
+        "regular": "Rhyperior-Switch-SwSh",
+        "shiny": "Rhyperior-Switch-SwSh-★"
       }
     ]
   },
@@ -11716,8 +12544,16 @@
         "shiny": "Tangrowth-★"
       },
       {
+        "regular": "Tangrowth-3DS",
+        "shiny": "Tangrowth-3DS-★"
+      },
+      {
         "regular": "Tangrowth-F",
         "shiny": "Tangrowth-F-★"
+      },
+      {
+        "regular": "Tangrowth-F-3DS",
+        "shiny": "Tangrowth-F-3DS-★"
       }
     ]
   },
@@ -11778,8 +12614,16 @@
         "shiny": "Togekiss-★"
       },
       {
+        "regular": "Togekiss-3DS",
+        "shiny": "Togekiss-3DS-★"
+      },
+      {
         "regular": "Togekiss-GO-April2020",
         "shiny": "Togekiss-GO-April2020-★"
+      },
+      {
+        "regular": "Togekiss-GO-April2020-3DS",
+        "shiny": "Togekiss-GO-April2020-3DS-★"
       }
     ]
   },
@@ -11790,6 +12634,10 @@
       {
         "regular": "Yanmega",
         "shiny": "Yanmega-★"
+      },
+      {
+        "regular": "Yanmega-3DS",
+        "shiny": "Yanmega-3DS-★"
       }
     ]
   },
@@ -13040,6 +13888,10 @@
       {
         "regular": "Liepard",
         "shiny": "Liepard-★"
+      },
+      {
+        "regular": "Liepard-3DS",
+        "shiny": "Liepard-3DS-★"
       }
     ]
   },
@@ -13140,6 +13992,10 @@
       {
         "regular": "Tranquill",
         "shiny": "Tranquill-★"
+      },
+      {
+        "regular": "Tranquill-3DS",
+        "shiny": "Tranquill-3DS-★"
       }
     ]
   },
@@ -13152,8 +14008,16 @@
         "shiny": "Unfezant-★"
       },
       {
+        "regular": "Unfezant-3DS",
+        "shiny": "Unfezant-3DS-★"
+      },
+      {
         "regular": "Unfezant-F",
         "shiny": "Unfezant-F-★"
+      },
+      {
+        "regular": "Unfezant-F-3DS",
+        "shiny": "Unfezant-F-3DS-★"
       }
     ]
   },
@@ -13240,6 +14104,10 @@
       {
         "regular": "Swoobat",
         "shiny": "Swoobat-★"
+      },
+      {
+        "regular": "Swoobat-3DS",
+        "shiny": "Swoobat-3DS-★"
       }
     ]
   },
@@ -13352,6 +14220,10 @@
       {
         "regular": "Palpitoad",
         "shiny": "Palpitoad-★"
+      },
+      {
+        "regular": "Palpitoad-3DS",
+        "shiny": "Palpitoad-3DS-★"
       }
     ]
   },
@@ -13362,6 +14234,10 @@
       {
         "regular": "Seismitoad",
         "shiny": "Seismitoad-★"
+      },
+      {
+        "regular": "Seismitoad-3DS",
+        "shiny": "Seismitoad-3DS-★"
       }
     ]
   },
@@ -13372,6 +14248,14 @@
       {
         "regular": "Throh",
         "shiny": "Throh-★"
+      },
+      {
+        "regular": "Throh-3DS",
+        "shiny": "Throh-3DS-★"
+      },
+      {
+        "regular": "Throh-Switch-SwSh",
+        "shiny": "Throh-Switch-SwSh-★"
       }
     ]
   },
@@ -13382,6 +14266,10 @@
       {
         "regular": "Sawk",
         "shiny": "Sawk-★"
+      },
+      {
+        "regular": "Sawk-3DS",
+        "shiny": "Sawk-3DS-★"
       }
     ]
   },
@@ -13440,6 +14328,10 @@
       {
         "regular": "Whirlipede",
         "shiny": "Whirlipede-★"
+      },
+      {
+        "regular": "Whirlipede-3DS",
+        "shiny": "Whirlipede-3DS-★"
       }
     ]
   },
@@ -13450,6 +14342,10 @@
       {
         "regular": "Scolipede",
         "shiny": "Scolipede-★"
+      },
+      {
+        "regular": "Scolipede-3DS",
+        "shiny": "Scolipede-3DS-★"
       },
       {
         "regular": "Scolipede-Mega",
@@ -14056,8 +14952,16 @@
         "shiny": "Vanillish-★"
       },
       {
+        "regular": "Vanillish-3DS",
+        "shiny": "Vanillish-3DS-★"
+      },
+      {
         "regular": "Vanillish-Bonus-Snowless",
         "shiny": "Vanillish-Bonus-Snowless-★"
+      },
+      {
+        "regular": "Vanillish-Bonus-Snowless-3DS",
+        "shiny": "Vanillish-Bonus-Snowless-3DS-★"
       }
     ]
   },
@@ -14070,8 +14974,16 @@
         "shiny": "Vanilluxe-★"
       },
       {
+        "regular": "Vanilluxe-3DS",
+        "shiny": "Vanilluxe-3DS-★"
+      },
+      {
         "regular": "Vanilluxe-Bonus-Snowless",
         "shiny": "Vanilluxe-Bonus-Snowless-★"
+      },
+      {
+        "regular": "Vanilluxe-Bonus-Snowless-3DS",
+        "shiny": "Vanilluxe-Bonus-Snowless-3DS-★"
       }
     ]
   },
@@ -14586,8 +15498,16 @@
         "shiny": "Stunfisk-★"
       },
       {
+        "regular": "Stunfisk-3DS",
+        "shiny": "Stunfisk-3DS-★"
+      },
+      {
         "regular": "Stunfisk-Galar",
         "shiny": "Stunfisk-Galar-★"
+      },
+      {
+        "regular": "Stunfisk-Galar-3DS",
+        "shiny": "Stunfisk-Galar-3DS-★"
       }
     ]
   },
@@ -14598,6 +15518,10 @@
       {
         "regular": "Mienfoo",
         "shiny": "Mienfoo-★"
+      },
+      {
+        "regular": "Mienfoo-3DS-XY",
+        "shiny": "Mienfoo-3DS-XY-★"
       }
     ]
   },
@@ -14608,6 +15532,10 @@
       {
         "regular": "Mienshao",
         "shiny": "Mienshao-★"
+      },
+      {
+        "regular": "Mienshao-3DS",
+        "shiny": "Mienshao-3DS-★"
       }
     ]
   },
@@ -15494,80 +16422,160 @@
         "shiny": "Vivillon-Archipelago-★"
       },
       {
+        "regular": "Vivillon-Archipelago-3DS",
+        "shiny": "Vivillon-Archipelago-3DS-★"
+      },
+      {
         "regular": "Vivillon-Continental",
         "shiny": "Vivillon-Continental-★"
+      },
+      {
+        "regular": "Vivillon-Continental-3DS",
+        "shiny": "Vivillon-Continental-3DS-★"
       },
       {
         "regular": "Vivillon-Elegant",
         "shiny": "Vivillon-Elegant-★"
       },
       {
+        "regular": "Vivillon-Elegant-3DS",
+        "shiny": "Vivillon-Elegant-3DS-★"
+      },
+      {
         "regular": "Vivillon-Fancy",
         "shiny": "Vivillon-Fancy-★"
+      },
+      {
+        "regular": "Vivillon-Fancy-3DS",
+        "shiny": "Vivillon-Fancy-3DS-★"
       },
       {
         "regular": "Vivillon-Garden",
         "shiny": "Vivillon-Garden-★"
       },
       {
+        "regular": "Vivillon-Garden-3DS",
+        "shiny": "Vivillon-Garden-3DS-★"
+      },
+      {
         "regular": "Vivillon-HighPlains",
         "shiny": "Vivillon-HighPlains-★"
+      },
+      {
+        "regular": "Vivillon-HighPlains-3DS",
+        "shiny": "Vivillon-HighPlains-3DS-★"
       },
       {
         "regular": "Vivillon-IcyWind",
         "shiny": "Vivillon-IcyWind-★"
       },
       {
+        "regular": "Vivillon-IcyWind-3DS",
+        "shiny": "Vivillon-IcyWind-3DS-★"
+      },
+      {
         "regular": "Vivillon-Jungle",
         "shiny": "Vivillon-Jungle-★"
+      },
+      {
+        "regular": "Vivillon-Jungle-3DS",
+        "shiny": "Vivillon-Jungle-3DS-★"
       },
       {
         "regular": "Vivillon-Marine",
         "shiny": "Vivillon-Marine-★"
       },
       {
+        "regular": "Vivillon-Marine-3DS",
+        "shiny": "Vivillon-Marine-3DS-★"
+      },
+      {
         "regular": "Vivillon-Meadow",
         "shiny": "Vivillon-Meadow-★"
+      },
+      {
+        "regular": "Vivillon-Meadow-3DS",
+        "shiny": "Vivillon-Meadow-3DS-★"
       },
       {
         "regular": "Vivillon-Modern",
         "shiny": "Vivillon-Modern-★"
       },
       {
+        "regular": "Vivillon-Modern-3DS",
+        "shiny": "Vivillon-Modern-3DS-★"
+      },
+      {
         "regular": "Vivillon-Monsoon",
         "shiny": "Vivillon-Monsoon-★"
+      },
+      {
+        "regular": "Vivillon-Monsoon-3DS",
+        "shiny": "Vivillon-Monsoon-3DS-★"
       },
       {
         "regular": "Vivillon-Ocean",
         "shiny": "Vivillon-Ocean-★"
       },
       {
+        "regular": "Vivillon-Ocean-3DS",
+        "shiny": "Vivillon-Ocean-3DS-★"
+      },
+      {
         "regular": "Vivillon-PokéBall",
         "shiny": "Vivillon-PokéBall-★"
+      },
+      {
+        "regular": "Vivillon-PokéBall-3DS",
+        "shiny": "Vivillon-PokéBall-3DS-★"
       },
       {
         "regular": "Vivillon-Polar",
         "shiny": "Vivillon-Polar-★"
       },
       {
+        "regular": "Vivillon-Polar-3DS",
+        "shiny": "Vivillon-Polar-3DS-★"
+      },
+      {
         "regular": "Vivillon-River",
         "shiny": "Vivillon-River-★"
+      },
+      {
+        "regular": "Vivillon-River-3DS",
+        "shiny": "Vivillon-River-3DS-★"
       },
       {
         "regular": "Vivillon-Sandstorm",
         "shiny": "Vivillon-Sandstorm-★"
       },
       {
+        "regular": "Vivillon-Sandstorm-3DS",
+        "shiny": "Vivillon-Sandstorm-3DS-★"
+      },
+      {
         "regular": "Vivillon-Savanna",
         "shiny": "Vivillon-Savanna-★"
+      },
+      {
+        "regular": "Vivillon-Savanna-3DS",
+        "shiny": "Vivillon-Savanna-3DS-★"
       },
       {
         "regular": "Vivillon-Sun",
         "shiny": "Vivillon-Sun-★"
       },
       {
+        "regular": "Vivillon-Sun-3DS",
+        "shiny": "Vivillon-Sun-3DS-★"
+      },
+      {
         "regular": "Vivillon-Tundra",
         "shiny": "Vivillon-Tundra-★"
+      },
+      {
+        "regular": "Vivillon-Tundra-3DS",
+        "shiny": "Vivillon-Tundra-3DS-★"
       }
     ]
   },
@@ -15590,8 +16598,24 @@
         "shiny": "Pyroar-★"
       },
       {
+        "regular": "Pyroar-3DS",
+        "shiny": "Pyroar-3DS-★"
+      },
+      {
         "regular": "Pyroar-F",
         "shiny": "Pyroar-F-★"
+      },
+      {
+        "regular": "Pyroar-F-3DS",
+        "shiny": "Pyroar-F-3DS-★"
+      },
+      {
+        "regular": "Pyroar-Mega",
+        "shiny": "Pyroar-Mega-★"
+      },
+      {
+        "regular": "Pyroar-Mega-3DS",
+        "shiny": "Pyroar-Mega-3DS-★"
       }
     ]
   },
@@ -16042,6 +17066,18 @@
       {
         "regular": "Malamar",
         "shiny": "Malamar-★"
+      },
+      {
+        "regular": "Malamar-3DS",
+        "shiny": "Malamar-3DS-★"
+      },
+      {
+        "regular": "Malamar-Mega",
+        "shiny": "Malamar-Mega-★"
+      },
+      {
+        "regular": "Malamar-Mega-3DS",
+        "shiny": "Malamar-Mega-3DS-★"
       }
     ]
   },
@@ -16582,8 +17618,16 @@
         "shiny": "Xerneas-Active-★"
       },
       {
+        "regular": "Xerneas-Active-3DS",
+        "shiny": "Xerneas-Active-3DS-★"
+      },
+      {
         "regular": "Xerneas-Neutral",
         "shiny": "Xerneas-Neutral-★"
+      },
+      {
+        "regular": "Xerneas-Neutral-3DS",
+        "shiny": "Xerneas-Neutral-3DS-★"
       }
     ]
   },
@@ -16594,6 +17638,10 @@
       {
         "regular": "Yveltal",
         "shiny": "Yveltal-★"
+      },
+      {
+        "regular": "Yveltal-3DS",
+        "shiny": "Yveltal-3DS-★"
       }
     ]
   },
@@ -16606,8 +17654,16 @@
         "shiny": "Zygarde-10-★"
       },
       {
+        "regular": "Zygarde-10-3DS",
+        "shiny": "Zygarde-10-3DS-★"
+      },
+      {
         "regular": "Zygarde-50",
         "shiny": "Zygarde-50-★"
+      },
+      {
+        "regular": "Zygarde-50-3DS",
+        "shiny": "Zygarde-50-3DS-★"
       },
       {
         "regular": "Zygarde-Cell",
@@ -16616,6 +17672,10 @@
       {
         "regular": "Zygarde-Complete",
         "shiny": "Zygarde-Complete-★"
+      },
+      {
+        "regular": "Zygarde-Complete-3DS",
+        "shiny": "Zygarde-Complete-3DS-★"
       },
       {
         "regular": "Zygarde-Core",
@@ -16666,8 +17726,16 @@
         "shiny": "Hoopa-Confined-★"
       },
       {
+        "regular": "Hoopa-Confined-3DS",
+        "shiny": "Hoopa-Confined-3DS-★"
+      },
+      {
         "regular": "Hoopa-Unbound",
         "shiny": "Hoopa-Unbound-★"
+      },
+      {
+        "regular": "Hoopa-Unbound-3DS",
+        "shiny": "Hoopa-Unbound-3DS-★"
       }
     ]
   },
@@ -16678,6 +17746,10 @@
       {
         "regular": "Volcanion",
         "shiny": "Volcanion-★"
+      },
+      {
+        "regular": "Volcanion-3DS",
+        "shiny": "Volcanion-3DS-★"
       }
     ]
   },
@@ -16774,6 +17846,10 @@
       {
         "regular": "Litten-RumbleRush-FestiveHat",
         "shiny": "Litten-RumbleRush-FestiveHat-★"
+      },
+      {
+        "regular": "Litten-RumbleRush-FestiveHat-3DS",
+        "shiny": "Litten-RumbleRush-FestiveHat-3DS-★"
       }
     ]
   },
@@ -17122,8 +18198,16 @@
         "shiny": "Wishiwashi-School-★"
       },
       {
+        "regular": "Wishiwashi-School-3DS",
+        "shiny": "Wishiwashi-School-3DS-★"
+      },
+      {
         "regular": "Wishiwashi-Solo",
         "shiny": "Wishiwashi-Solo-★"
+      },
+      {
+        "regular": "Wishiwashi-Solo-3DS",
+        "shiny": "Wishiwashi-Solo-3DS-★"
       }
     ]
   },
@@ -17144,6 +18228,10 @@
       {
         "regular": "Toxapex",
         "shiny": "Toxapex-★"
+      },
+      {
+        "regular": "Toxapex-3DS",
+        "shiny": "Toxapex-3DS-★"
       }
     ]
   },
@@ -17154,6 +18242,10 @@
       {
         "regular": "Mudbray",
         "shiny": "Mudbray-★"
+      },
+      {
+        "regular": "Mudbray-3DS",
+        "shiny": "Mudbray-3DS-★"
       }
     ]
   },
@@ -17166,8 +18258,24 @@
         "shiny": "Mudsdale-★"
       },
       {
+        "regular": "Mudsdale-3DS-Optional",
+        "shiny": "Mudsdale-3DS-Optional-★"
+      },
+      {
+        "regular": "Mudsdale-3DS-SM",
+        "shiny": "Mudsdale-3DS-SM-★"
+      },
+      {
         "regular": "Mudsdale-Bonus-PageRider",
         "shiny": "Mudsdale-Bonus-PageRider-★"
+      },
+      {
+        "regular": "Mudsdale-Bonus-PageRider-3DS-Optional",
+        "shiny": "Mudsdale-Bonus-PageRider-3DS-Optional-★"
+      },
+      {
+        "regular": "Mudsdale-Bonus-PageRider-3DS-SM",
+        "shiny": "Mudsdale-Bonus-PageRider-3DS-SM-★"
       }
     ]
   },
@@ -17212,6 +18320,10 @@
       {
         "regular": "Lurantis",
         "shiny": "Lurantis-★"
+      },
+      {
+        "regular": "Lurantis-3DS",
+        "shiny": "Lurantis-3DS-★"
       }
     ]
   },
@@ -17232,6 +18344,10 @@
       {
         "regular": "Shiinotic",
         "shiny": "Shiinotic-★"
+      },
+      {
+        "regular": "Shiinotic-3DS",
+        "shiny": "Shiinotic-3DS-★"
       }
     ]
   },
@@ -17402,6 +18518,10 @@
       {
         "regular": "Pyukumuku",
         "shiny": "Pyukumuku-★"
+      },
+      {
+        "regular": "Pyukumuku-3DS",
+        "shiny": "Pyukumuku-3DS-★"
       }
     ]
   },
@@ -17412,6 +18532,14 @@
       {
         "regular": "TypeNull",
         "shiny": "TypeNull-★"
+      },
+      {
+        "regular": "TypeNull-3DS",
+        "shiny": "TypeNull-3DS-★"
+      },
+      {
+        "regular": "TypeNull-Switch-SwSh",
+        "shiny": "TypeNull-Switch-SwSh-★"
       }
     ]
   },
@@ -17424,76 +18552,152 @@
         "shiny": "Silvally-★"
       },
       {
+        "regular": "Silvally-3DS",
+        "shiny": "Silvally-3DS-★"
+      },
+      {
         "regular": "Silvally-BugMemory",
         "shiny": "Silvally-BugMemory-★"
+      },
+      {
+        "regular": "Silvally-BugMemory-3DS",
+        "shiny": "Silvally-BugMemory-3DS-★"
       },
       {
         "regular": "Silvally-DarkMemory",
         "shiny": "Silvally-DarkMemory-★"
       },
       {
+        "regular": "Silvally-DarkMemory-3DS",
+        "shiny": "Silvally-DarkMemory-3DS-★"
+      },
+      {
         "regular": "Silvally-DragonMemory",
         "shiny": "Silvally-DragonMemory-★"
+      },
+      {
+        "regular": "Silvally-DragonMemory-3DS",
+        "shiny": "Silvally-DragonMemory-3DS-★"
       },
       {
         "regular": "Silvally-ElectricMemory",
         "shiny": "Silvally-ElectricMemory-★"
       },
       {
+        "regular": "Silvally-ElectricMemory-3DS",
+        "shiny": "Silvally-ElectricMemory-3DS-★"
+      },
+      {
         "regular": "Silvally-FairyMemory",
         "shiny": "Silvally-FairyMemory-★"
+      },
+      {
+        "regular": "Silvally-FairyMemory-3DS",
+        "shiny": "Silvally-FairyMemory-3DS-★"
       },
       {
         "regular": "Silvally-FightingMemory",
         "shiny": "Silvally-FightingMemory-★"
       },
       {
+        "regular": "Silvally-FightingMemory-3DS",
+        "shiny": "Silvally-FightingMemory-3DS-★"
+      },
+      {
         "regular": "Silvally-FireMemory",
-        "shiny": null
+        "shiny": "Silvally-FireMemory-★"
+      },
+      {
+        "regular": "Silvally-FireMemory-3DS",
+        "shiny": "Silvally-FireMemory-3DS-★"
       },
       {
         "regular": "Silvally-FlyingMemory",
         "shiny": "Silvally-FlyingMemory-★"
       },
       {
+        "regular": "Silvally-FlyingMemory-3DS",
+        "shiny": "Silvally-FlyingMemory-3DS-★"
+      },
+      {
         "regular": "Silvally-GhostMemory",
         "shiny": "Silvally-GhostMemory-★"
+      },
+      {
+        "regular": "Silvally-GhostMemory-3DS",
+        "shiny": "Silvally-GhostMemory-3DS-★"
       },
       {
         "regular": "Silvally-GrassMemory",
         "shiny": "Silvally-GrassMemory-★"
       },
       {
+        "regular": "Silvally-GrassMemory-3DS",
+        "shiny": "Silvally-GrassMemory-3DS-★"
+      },
+      {
         "regular": "Silvally-GroundMemory",
         "shiny": "Silvally-GroundMemory-★"
+      },
+      {
+        "regular": "Silvally-GroundMemory-3DS",
+        "shiny": "Silvally-GroundMemory-3DS-★"
       },
       {
         "regular": "Silvally-IceMemory",
         "shiny": "Silvally-IceMemory-★"
       },
       {
+        "regular": "Silvally-IceMemory-3DS",
+        "shiny": "Silvally-IceMemory-3DS-★"
+      },
+      {
         "regular": "Silvally-PoisonMemory",
         "shiny": "Silvally-PoisonMemory-★"
+      },
+      {
+        "regular": "Silvally-PoisonMemory-3DS",
+        "shiny": "Silvally-PoisonMemory-3DS-★"
       },
       {
         "regular": "Silvally-PsychicMemory",
         "shiny": "Silvally-PsychicMemory-★"
       },
       {
+        "regular": "Silvally-PsychicMemory-3DS",
+        "shiny": "Silvally-PsychicMemory-3DS-★"
+      },
+      {
         "regular": "Silvally-RockMemory",
         "shiny": "Silvally-RockMemory-★"
+      },
+      {
+        "regular": "Silvally-RockMemory-3DS",
+        "shiny": "Silvally-RockMemory-3DS-★"
       },
       {
         "regular": "Silvally-SteelMemory",
         "shiny": "Silvally-SteelMemory-★"
       },
       {
+        "regular": "Silvally-SteelMemory-3DS",
+        "shiny": "Silvally-SteelMemory-3DS-★"
+      },
+      {
         "regular": "Silvally-WaterMemory",
         "shiny": "Silvally-WaterMemory-★"
       },
       {
+        "regular": "Silvally-WaterMemory-3DS",
+        "shiny": "Silvally-WaterMemory-3DS-★"
+      },
+      {
         "regular": "Silvally-Bonus-Typeless",
         "shiny": "Silvally-Bonus-Typeless-★"
+      },
+      {
+        "regular": "Silvally-Bonus-Typeless-3DS",
+        "shiny": "Silvally-Bonus-Typeless-3DS-★"
       }
     ]
   },
@@ -17506,32 +18710,64 @@
         "shiny": "Minior-Core-Blue-★"
       },
       {
+        "regular": "Minior-Core-Blue-3DS",
+        "shiny": "Minior-Core-Blue-3DS-★"
+      },
+      {
         "regular": "Minior-Core-Green",
         "shiny": "Minior-Core-Green-★"
+      },
+      {
+        "regular": "Minior-Core-Green-3DS",
+        "shiny": "Minior-Core-Green-3DS-★"
       },
       {
         "regular": "Minior-Core-Indigo",
         "shiny": "Minior-Core-Indigo-★"
       },
       {
+        "regular": "Minior-Core-Indigo-3DS",
+        "shiny": "Minior-Core-Indigo-3DS-★"
+      },
+      {
         "regular": "Minior-Core-Orange",
         "shiny": "Minior-Core-Orange-★"
+      },
+      {
+        "regular": "Minior-Core-Orange-3DS",
+        "shiny": "Minior-Core-Orange-3DS-★"
       },
       {
         "regular": "Minior-Core-Red",
         "shiny": "Minior-Core-Red-★"
       },
       {
+        "regular": "Minior-Core-Red-3DS",
+        "shiny": "Minior-Core-Red-3DS-★"
+      },
+      {
         "regular": "Minior-Core-Violet",
         "shiny": "Minior-Core-Violet-★"
+      },
+      {
+        "regular": "Minior-Core-Violet-3DS",
+        "shiny": "Minior-Core-Violet-3DS-★"
       },
       {
         "regular": "Minior-Core-Yellow",
         "shiny": "Minior-Core-Yellow-★"
       },
       {
+        "regular": "Minior-Core-Yellow-3DS",
+        "shiny": "Minior-Core-Yellow-3DS-★"
+      },
+      {
         "regular": "Minior-Meteor",
         "shiny": "Minior-Meteor-★"
+      },
+      {
+        "regular": "Minior-Meteor-3DS",
+        "shiny": "Minior-Meteor-3DS-★"
       }
     ]
   },
@@ -17542,6 +18778,10 @@
       {
         "regular": "Komala",
         "shiny": "Komala-★"
+      },
+      {
+        "regular": "Komala-3DS",
+        "shiny": "Komala-3DS-★"
       }
     ]
   },
@@ -17552,6 +18792,14 @@
       {
         "regular": "Turtonator",
         "shiny": "Turtonator-★"
+      },
+      {
+        "regular": "Turtonator-3DS-Optional",
+        "shiny": "Turtonator-3DS-Optional-★"
+      },
+      {
+        "regular": "Turtonator-3DS-SM",
+        "shiny": "Turtonator-3DS-SM-★"
       }
     ]
   },
@@ -18074,6 +19322,10 @@
       {
         "regular": "Zeraora",
         "shiny": "Zeraora-★"
+      },
+      {
+        "regular": "Zeraora-3DS",
+        "shiny": "Zeraora-3DS-★"
       }
     ]
   },
@@ -18096,8 +19348,20 @@
         "shiny": "Melmetal-★"
       },
       {
+        "regular": "Melmetal-3DS",
+        "shiny": "Melmetal-3DS-★"
+      },
+      {
         "regular": "Melmetal-Gmax",
         "shiny": "Melmetal-Gmax-★"
+      },
+      {
+        "regular": "Melmetal-Gmax-3DS",
+        "shiny": "Melmetal-Gmax-3DS-★"
+      },
+      {
+        "regular": "Melmetal-Switch-LGPE",
+        "shiny": "Melmetal-Switch-LGPE-★"
       }
     ]
   },
@@ -19942,12 +21206,24 @@
         "shiny": "Zacian-Crowned-★"
       },
       {
+        "regular": "Zacian-Crowned-3DS",
+        "shiny": "Zacian-Crowned-3DS-★"
+      },
+      {
         "regular": "Zacian-Hero",
         "shiny": "Zacian-Hero-★"
       },
       {
+        "regular": "Zacian-Hero-3DS",
+        "shiny": "Zacian-Hero-3DS-★"
+      },
+      {
         "regular": "Zacian-Crowned-Bonus-BehemothBlade",
         "shiny": "Zacian-Crowned-Bonus-BehemothBlade-★"
+      },
+      {
+        "regular": "Zacian-Crowned-Bonus-BehemothBlade-3DS",
+        "shiny": "Zacian-Crowned-Bonus-BehemothBlade-3DS-★"
       }
     ]
   },
@@ -19960,12 +21236,24 @@
         "shiny": "Zamazenta-Crowned-★"
       },
       {
+        "regular": "Zamazenta-Crowned-3DS",
+        "shiny": "Zamazenta-Crowned-3DS-★"
+      },
+      {
         "regular": "Zamazenta-Hero",
         "shiny": "Zamazenta-Hero-★"
       },
       {
+        "regular": "Zamazenta-Hero-3DS",
+        "shiny": "Zamazenta-Hero-3DS-★"
+      },
+      {
         "regular": "Zamazenta-Crowned-Bonus-BehemothBash",
         "shiny": "Zamazenta-Crowned-Bonus-BehemothBash-★"
+      },
+      {
+        "regular": "Zamazenta-Crowned-Bonus-BehemothBash-3DS",
+        "shiny": "Zamazenta-Crowned-Bonus-BehemothBash-3DS-★"
       }
     ]
   },
@@ -20010,24 +21298,48 @@
         "shiny": "Urshifu-Rapid-★"
       },
       {
+        "regular": "Urshifu-Rapid-3DS",
+        "shiny": "Urshifu-Rapid-3DS-★"
+      },
+      {
         "regular": "Urshifu-Rapid-Gmax",
         "shiny": "Urshifu-Rapid-Gmax-★"
+      },
+      {
+        "regular": "Urshifu-Rapid-Gmax-3DS",
+        "shiny": "Urshifu-Rapid-Gmax-3DS-★"
       },
       {
         "regular": "Urshifu-Single",
         "shiny": "Urshifu-Single-★"
       },
       {
+        "regular": "Urshifu-Single-3DS",
+        "shiny": "Urshifu-Single-3DS-★"
+      },
+      {
         "regular": "Urshifu-Single-Gmax",
         "shiny": "Urshifu-Single-Gmax-★"
+      },
+      {
+        "regular": "Urshifu-Single-Gmax-3DS",
+        "shiny": "Urshifu-Single-Gmax-3DS-★"
       },
       {
         "regular": "Urshifu-Rapid-Bonus-OutsideBattle",
         "shiny": "Urshifu-Rapid-Bonus-OutsideBattle-★"
       },
       {
+        "regular": "Urshifu-Rapid-Bonus-OutsideBattle-3DS",
+        "shiny": "Urshifu-Rapid-Bonus-OutsideBattle-3DS-★"
+      },
+      {
         "regular": "Urshifu-Single-Bonus-OutsideBattle",
         "shiny": "Urshifu-Single-Bonus-OutsideBattle-★"
+      },
+      {
+        "regular": "Urshifu-Single-Bonus-OutsideBattle-3DS",
+        "shiny": "Urshifu-Single-Bonus-OutsideBattle-3DS-★"
       }
     ]
   },
@@ -20040,8 +21352,16 @@
         "shiny": "Zarude-★"
       },
       {
+        "regular": "Zarude-3DS",
+        "shiny": "Zarude-3DS-★"
+      },
+      {
         "regular": "Zarude-Dada",
         "shiny": "Zarude-Dada-★"
+      },
+      {
+        "regular": "Zarude-Dada-3DS",
+        "shiny": "Zarude-Dada-3DS-★"
       }
     ]
   },
@@ -20778,6 +22098,10 @@
       {
         "regular": "Kilowattrel",
         "shiny": "Kilowattrel-★"
+      },
+      {
+        "regular": "Kilowattrel-3DS",
+        "shiny": "Kilowattrel-3DS-★"
       }
     ]
   },
@@ -20898,6 +22222,10 @@
       {
         "regular": "Toedscruel",
         "shiny": "Toedscruel-★"
+      },
+      {
+        "regular": "Toedscruel-3DS",
+        "shiny": "Toedscruel-3DS-★"
       }
     ]
   },
@@ -20908,6 +22236,10 @@
       {
         "regular": "Klawf",
         "shiny": "Klawf-★"
+      },
+      {
+        "regular": "Klawf-3DS",
+        "shiny": "Klawf-3DS-★"
       }
     ]
   },
@@ -20952,6 +22284,10 @@
       {
         "regular": "Rabsca",
         "shiny": "Rabsca-★"
+      },
+      {
+        "regular": "Rabsca-3DS",
+        "shiny": "Rabsca-3DS-★"
       }
     ]
   },
@@ -20996,6 +22332,10 @@
       {
         "regular": "Tinkatuff",
         "shiny": "Tinkatuff-★"
+      },
+      {
+        "regular": "Tinkatuff-3DS",
+        "shiny": "Tinkatuff-3DS-★"
       }
     ]
   },
@@ -21006,6 +22346,10 @@
       {
         "regular": "Tinkaton",
         "shiny": "Tinkaton-★"
+      },
+      {
+        "regular": "Tinkaton-3DS",
+        "shiny": "Tinkaton-3DS-★"
       }
     ]
   },
@@ -21026,6 +22370,10 @@
       {
         "regular": "Wugtrio",
         "shiny": "Wugtrio-★"
+      },
+      {
+        "regular": "Wugtrio-3DS",
+        "shiny": "Wugtrio-3DS-★"
       }
     ]
   },
@@ -21408,6 +22756,10 @@
       {
         "regular": "IronTreads",
         "shiny": "IronTreads-★"
+      },
+      {
+        "regular": "IronTreads-3DS",
+        "shiny": "IronTreads-3DS-★"
       }
     ]
   },
@@ -21418,6 +22770,10 @@
       {
         "regular": "IronBundle",
         "shiny": "IronBundle-★"
+      },
+      {
+        "regular": "IronBundle-3DS",
+        "shiny": "IronBundle-3DS-★"
       }
     ]
   },
@@ -21428,6 +22784,10 @@
       {
         "regular": "IronHands",
         "shiny": "IronHands-★"
+      },
+      {
+        "regular": "IronHands-3DS",
+        "shiny": "IronHands-3DS-★"
       }
     ]
   },
@@ -21438,6 +22798,10 @@
       {
         "regular": "IronJugulis",
         "shiny": "IronJugulis-★"
+      },
+      {
+        "regular": "IronJugulis-3DS",
+        "shiny": "IronJugulis-3DS-★"
       }
     ]
   },
@@ -21448,6 +22812,10 @@
       {
         "regular": "IronMoth",
         "shiny": "IronMoth-★"
+      },
+      {
+        "regular": "IronMoth-3DS",
+        "shiny": "IronMoth-3DS-★"
       }
     ]
   },
@@ -21458,6 +22826,10 @@
       {
         "regular": "IronThorns",
         "shiny": "IronThorns-★"
+      },
+      {
+        "regular": "IronThorns-3DS",
+        "shiny": "IronThorns-3DS-★"
       }
     ]
   },
@@ -21612,6 +22984,10 @@
       {
         "regular": "IronValiant",
         "shiny": "IronValiant-★"
+      },
+      {
+        "regular": "IronValiant-3DS",
+        "shiny": "IronValiant-3DS-★"
       }
     ]
   },
@@ -21624,20 +23000,40 @@
         "shiny": "Koraidon-Apex-★"
       },
       {
+        "regular": "Koraidon-Apex-3DS",
+        "shiny": "Koraidon-Apex-3DS-★"
+      },
+      {
         "regular": "Koraidon-Bonus-Gliding",
         "shiny": "Koraidon-Bonus-Gliding-★"
+      },
+      {
+        "regular": "Koraidon-Bonus-Gliding-3DS",
+        "shiny": "Koraidon-Bonus-Gliding-3DS-★"
       },
       {
         "regular": "Koraidon-Bonus-Limited",
         "shiny": "Koraidon-Bonus-Limited-★"
       },
       {
+        "regular": "Koraidon-Bonus-Limited-3DS",
+        "shiny": "Koraidon-Bonus-Limited-3DS-★"
+      },
+      {
         "regular": "Koraidon-Bonus-Sprinting",
         "shiny": "Koraidon-Bonus-Sprinting-★"
       },
       {
+        "regular": "Koraidon-Bonus-Sprinting-3DS",
+        "shiny": "Koraidon-Bonus-Sprinting-3DS-★"
+      },
+      {
         "regular": "Koraidon-Bonus-Swimming",
         "shiny": "Koraidon-Bonus-Swimming-★"
+      },
+      {
+        "regular": "Koraidon-Bonus-Swimming-3DS",
+        "shiny": "Koraidon-Bonus-Swimming-3DS-★"
       }
     ]
   },
@@ -21650,20 +23046,40 @@
         "shiny": "Miraidon-Ultimate-★"
       },
       {
+        "regular": "Miraidon-Ultimate-3DS",
+        "shiny": "Miraidon-Ultimate-3DS-★"
+      },
+      {
         "regular": "Miraidon-Bonus-Aquatic",
         "shiny": "Miraidon-Bonus-Aquatic-★"
+      },
+      {
+        "regular": "Miraidon-Bonus-Aquatic-3DS",
+        "shiny": "Miraidon-Bonus-Aquatic-3DS-★"
       },
       {
         "regular": "Miraidon-Bonus-Drive",
         "shiny": "Miraidon-Bonus-Drive-★"
       },
       {
+        "regular": "Miraidon-Bonus-Drive-3DS",
+        "shiny": "Miraidon-Bonus-Drive-3DS-★"
+      },
+      {
         "regular": "Miraidon-Bonus-Glide",
         "shiny": "Miraidon-Bonus-Glide-★"
       },
       {
+        "regular": "Miraidon-Bonus-Glide-3DS",
+        "shiny": "Miraidon-Bonus-Glide-3DS-★"
+      },
+      {
         "regular": "Miraidon-Bonus-LowPower",
         "shiny": "Miraidon-Bonus-LowPower-★"
+      },
+      {
+        "regular": "Miraidon-Bonus-LowPower-3DS",
+        "shiny": "Miraidon-Bonus-LowPower-3DS-★"
       }
     ]
   },

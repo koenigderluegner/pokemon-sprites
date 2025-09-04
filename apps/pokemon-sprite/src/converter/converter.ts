@@ -66,7 +66,7 @@ results.reverse().forEach(result => {
   });
 
   if (shinyIconsIcons.length > 0) {
-    console.log('missing shiny icons for ' + result.species);
+    console.log('missing regular icons for ' + result.species+ ': ' + shinyIconsIcons.join(', '));
   }
 
   pairs.push({

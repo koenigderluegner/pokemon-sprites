@@ -1,7 +1,7 @@
 import fs from 'fs';
 import path from 'path';
 import { PokemonEntry, PokemonIconPair } from './pokemon-entry';
-
+import { execSync } from 'child_process';
 
 const docsOutputDest = path.join(__dirname, '../../../../docs');
 
@@ -156,8 +156,14 @@ function copyFolder(src: string, dest: string) {
   }
 }
 
-if (false)
+if (getChangedIcons().length > 0)
   copyFolder(path.join(__dirname, '../assets/icons/menu-sprites'), docsOutputDest + '/icons');
 
+console.log('writing docs', getChangedIcons());
 
 
+function getChangedIcons() {
+  const command = `git diff --staged --name-only`;
+  const diffOutput = execSync(command).toString();
+  return diffOutput.toString().split('\n').filter(Boolean).filter(x => x.includes('apps/pokemon-sprite/src/assets/icons/menu-sprites/'));
+}
