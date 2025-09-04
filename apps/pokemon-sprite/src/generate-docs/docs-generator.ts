@@ -112,7 +112,7 @@ function writeCredits(stream: fs.WriteStream) {
 <a id="credits"></a><h2>Credits</h2>
 This is a list of present and past contributors which provided custom icons. Thank you!
 <div class="credits">
-<span>5310</span>
+<a href="https://github.com/5310" rel="nofollow noopener" target="_blank">5310</a>
 <a href="https://www.deviantart.com/acpeters" rel="nofollow noopener" target="_blank">acpeters</a>
 <a href="https://bsky.app/profile/bananannertoast.bsky.social" rel="nofollow noopener" target="_blank">bananannertoast</a>
 <a href="https://www.deviantart.com/boludart" rel="nofollow noopener" target="_blank">boludart</a>
