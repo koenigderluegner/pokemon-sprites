@@ -5,6 +5,8 @@ import spritesmith from 'spritesmith';
 import sharp from 'sharp';
 
 
+const useCSSNesting = true;
+
 const docsOutputDest = path.join(__dirname, '../../../../docs');
 const iconInputLocation = path.join(__dirname, '../assets/icons/menu-sprites/');
 
@@ -38,7 +40,7 @@ function generateCssFile(iconMeta: IconMeta[], coordinates: Record<string, {
   width: number,
   height: number
 }>) {
-  const basicStyles = `
+  let basicStyles = `
   .pokesprite {
     display: inline-block;
 }
@@ -48,18 +50,30 @@ function generateCssFile(iconMeta: IconMeta[], coordinates: Record<string, {
     background-image: url(./spritesheet.png);
     image-rendering: pixelated;
     image-rendering: -moz-crisp-edges;
-}
+
   `;
+  if (!useCSSNesting) {
+    basicStyles += `}`;
+  }
+
   const iconCss = (Object.entries(coordinates).map(([iconName, {x, y}]) => {
     const iconMetaEntry = iconMeta.find(i => i.name === path.basename(iconName, '.png'));
     if (iconMetaEntry) {
-      return `${iconMetaEntry.cssClass} { background-position:  ${x === 0 ? x : -x + 'px'} ${y === 0 ? y : -y + 'px'}; }`;
+
+      const selector = useCSSNesting ? iconMetaEntry.cssClass.replace('.pokesprite.pokemon', '&') : iconMetaEntry.cssClass;
+      return `${selector} { background-position:  ${x === 0 ? x : -x + 'px'} ${y === 0 ? y : -y + 'px'}; }`;
     }
     return null;
 
   }).filter(Boolean) as string[]).join('\n');
 
-  fs.writeFileSync(path.join(docsOutputDest, 'spritesheet.css'), basicStyles + iconCss,
+  if (useCSSNesting) {
+    basicStyles += iconCss + `}`;
+  } else {
+    basicStyles += iconCss;
+  }
+
+  fs.writeFileSync(path.join(docsOutputDest, 'spritesheet.css'), basicStyles,
     {encoding: 'utf8', flag: 'w'});
 
 
