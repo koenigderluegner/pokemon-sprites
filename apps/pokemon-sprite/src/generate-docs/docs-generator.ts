@@ -76,8 +76,8 @@ ${getIconFields(entry.icons[i])}
 function getIconFields(iconPair: PokemonIconPair): string {
   return `
 <td>-</td>
-  <td><div class="sprite-with-text"><img alt="" width="68" height="68" loading="lazy" src="./icons/${iconPair.regular}.png" /> ${iconPair.regular}</div></td>
-<td><div class="sprite-with-text">${iconPair.shiny ? `<img alt="" width="68" height="68" loading="lazy" src="./icons/${iconPair.shiny}.png" />` : ''}${iconPair.shiny ?? '-'}</div></td>`;
+  <td><div class="sprite-with-text"><img alt="" width="68" height="68" loading="lazy" src="./icons/${iconPair.regular.name}.png" /> ${iconPair.regular?.name}</div></td>
+<td><div class="sprite-with-text">${iconPair.shiny ? `<img alt="" width="68" height="68" loading="lazy" src="./icons/${iconPair.shiny.name}.png" />` : ''}${iconPair.shiny?.name ?? '-'}</div></td>`;
 }
 
 

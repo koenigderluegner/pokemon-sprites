@@ -3,7 +3,7 @@ import path from 'path';
 import fg from 'fast-glob';
 import fs from 'fs';
 import { speciesList } from './species-list';
-import { PokemonEntry, PokemonIconPair } from '../generate-docs/pokemon-entry';
+import { IconMeta, PokemonEntry, PokemonIconPair } from '../generate-docs/pokemon-entry';
 
 const assetFileEnding = '.png';
 
@@ -11,13 +11,15 @@ const spritePath = path.join(__dirname, '../assets/icons/menu-sprites/');
 const entries: string[] = fg.sync([fg.convertPathToPattern(spritePath + '*.png')], {dot: true});
 let iconBaseNames = entries.map(s => path.basename(s, assetFileEnding));
 
+const ICON_CATEGORIES = new Set(['go', 'bonus', 'extra']);
+const ICON_MODIFIERS = new Set(['★', '3ds', 'switch']);
+
 
 const results: {
   id: number
   species: string,
   icons: string[]
 }[] = [];
-
 
 
 // reverse so paras will not "steal" icons from parasect
@@ -39,8 +41,6 @@ speciesList.reverse().forEach(poke => {
 });
 
 
-
-
 const pairs: PokemonEntry[] = [];
 
 results.reverse().forEach(result => {
@@ -56,8 +56,8 @@ results.reverse().forEach(result => {
     const shinyIcon = shinyIconsIcons[shinyIconIndex];
 
     iconPairs.push({
-      regular: regularIcon,
-      shiny: shinyIcon ?? null,
+      regular: getIconMeta(regularIcon),
+      shiny: shinyIcon ? getIconMeta(shinyIcon) : null,
     });
 
     if (shinyIconIndex >= 0) {
@@ -66,7 +66,7 @@ results.reverse().forEach(result => {
   });
 
   if (shinyIconsIcons.length > 0) {
-    console.log('missing regular icons for ' + result.species+ ': ' + shinyIconsIcons.join(', '));
+    console.log('missing regular icons for ' + result.species + ': ' + shinyIconsIcons.join(', '));
   }
 
   pairs.push({
@@ -80,6 +80,36 @@ results.reverse().forEach(result => {
 
 fs.writeFileSync(path.join(__dirname, '../assets/converter/converted-pokemon-entries.json'), JSON.stringify(pairs, null, 2));
 
+function getIconMeta(iconName: string): IconMeta {
+
+  const result: IconMeta = {name: iconName, slug: ''};
+
+  let parts = new Set(iconName.toLowerCase().split('-'));
+
+  const categories = parts.intersection(ICON_CATEGORIES);
+
+  parts = parts.difference(categories);
+
+  const modifiers = parts.intersection(ICON_MODIFIERS);
+
+  parts = parts.difference(modifiers);
+
+  result.slug = [...parts].join('-');
+
+  if (modifiers.size > 0) {
+    if (modifiers.has('★')) {
+      modifiers.delete('★');
+      modifiers.add('shiny');
+    }
+    result.modifiers = [...modifiers];
+  }
+
+  if (categories.size > 0) {
+    result.categories = [...categories];
+  }
+
+  return result;
+}
 
 function getSpeciesIcons(poke: { species: string; id: number }) {
   const iconName = poke.species
