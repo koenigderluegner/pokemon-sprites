@@ -2,6 +2,7 @@ import fs from 'fs';
 import path from 'path';
 import { IconMeta, PokemonEntry } from '../generate-docs/pokemon-entry';
 import spritesmith from 'spritesmith';
+import sharp from 'sharp';
 
 
 const docsOutputDest = path.join(__dirname, '../../../../docs');
@@ -24,11 +25,8 @@ spritesmith.run({src: sprites}, function handleResult(err, result) {
     return;
   }
 
-  // result.image; // Buffer representation of image
-  result.coordinates; // Object mapping filename to {x, y, width, height} of image
-  result.properties; // Object with metadata about spritesheet {width, height}
   generateCssFile(icons, result.coordinates);
-  fs.writeFileSync(path.join(docsOutputDest, 'spritesheet.png'), result.image);
+  sharp(result.image).png().toFile(path.join(docsOutputDest, 'spritesheet.png'));
 
 
 });
