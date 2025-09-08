@@ -73,10 +73,12 @@ ${getIconFields(entry.icons[i])}
 }
 
 function getIconFields(iconPair: PokemonIconPair): string {
+  const  regularClasses = iconPair.regular.cssClass.split('.').filter(s => !!s).join(' ');
+  const shinyClasses = iconPair.shiny?.cssClass.split('.').filter(s => !!s).join(' ') ?? '';
   return `
 <td>-</td>
-  <td><div class="sprite-with-text"><div class="${iconPair.regular.cssClass.split('.').filter(s => !!s).join(' ')}"></div> ${iconPair.regular?.name}</div></td>
-<td><div class="sprite-with-text">${iconPair.shiny ? `<div class="${iconPair.shiny.cssClass.split('.').filter(s => !!s).join(' ')}"></div>` : ''}${iconPair.shiny?.name ?? '-'}</div></td>`;
+  <td><div class="sprite-with-text"><div class="${regularClasses}"></div> ${iconPair.regular?.name} <button onclick="clipboard('${regularClasses}')"><img width="24" height="24" src="./clipboard.svg"></button></div></td>
+<td><div class="sprite-with-text">${iconPair.shiny ? `<div class="${shinyClasses}"></div>` : ''}${iconPair.shiny?.name ?? '-'} ${iconPair.shiny ? `<button onclick="clipboard('${shinyClasses}')"><img width="24" height="24" src="./clipboard.svg"></button>` : ''}</div></td>`;
 }
 
 
@@ -88,6 +90,11 @@ function writeDocumentHeader(stream: fs.WriteStream) {
     <title>Pokémon Sprite - Index</title>
     <link href="./docs.css" rel="stylesheet"/>
     <link href="./spritesheet.css" rel="stylesheet"/>
+    <script>
+    function clipboard(text){
+      navigator.clipboard.writeText(text);
+    }
+</script>
   </head>
   <body>`, 'utf-8');
 }
