@@ -82,7 +82,7 @@ fs.writeFileSync(path.join(__dirname, '../assets/converter/converted-pokemon-ent
 
 function getIconMeta(iconName: string): IconMeta {
 
-  const result: IconMeta = {name: iconName, slug: ''};
+  const result: IconMeta = {name: iconName, slug: '', cssClass: ''};
 
   let parts = new Set(iconName.toLowerCase().split('-'));
 
@@ -94,12 +94,17 @@ function getIconMeta(iconName: string): IconMeta {
 
   parts = parts.difference(modifiers);
 
-  result.slug = [...parts].join('-');
+  result.slug = [...parts].join('-').replace(/'/g, '');
 
   if (modifiers.size > 0) {
     if (modifiers.has('★')) {
       modifiers.delete('★');
       modifiers.add('shiny');
+    }
+    if (modifiers.has('3ds')) {
+      modifiers.delete('3ds');
+      // css classes should not start with a number
+      modifiers.add('n3ds');
     }
     result.modifiers = [...modifiers];
   }
@@ -107,6 +112,10 @@ function getIconMeta(iconName: string): IconMeta {
   if (categories.size > 0) {
     result.categories = [...categories];
   }
+
+  const cssClass = result.slug;
+  const cssModifiers = result.modifiers?.join('.');
+  result.cssClass = `.pokesprite.pokemon.${cssModifiers ? cssClass + '.' + cssModifiers : cssClass}`;
 
   return result;
 }

@@ -1,7 +1,6 @@
 import fs from 'fs';
 import path from 'path';
 import { PokemonEntry, PokemonIconPair } from './pokemon-entry';
-import { execSync } from 'child_process';
 
 const docsOutputDest = path.join(__dirname, '../../../../docs');
 
@@ -23,7 +22,7 @@ writeTableHeader(writeStream);
 pokemonEntries.forEach(entry => writeTableSpriteRow(writeStream, entry));
 
 writeTableFooter(writeStream);
-writeCredits(writeStream)
+writeCredits(writeStream);
 writeDocumentFooter(writeStream);
 
 writeStream.end();
@@ -76,8 +75,8 @@ ${getIconFields(entry.icons[i])}
 function getIconFields(iconPair: PokemonIconPair): string {
   return `
 <td>-</td>
-  <td><div class="sprite-with-text"><img alt="" width="68" height="68" loading="lazy" src="./icons/${iconPair.regular.name}.png" /> ${iconPair.regular?.name}</div></td>
-<td><div class="sprite-with-text">${iconPair.shiny ? `<img alt="" width="68" height="68" loading="lazy" src="./icons/${iconPair.shiny.name}.png" />` : ''}${iconPair.shiny?.name ?? '-'}</div></td>`;
+  <td><div class="sprite-with-text"><div class="${iconPair.regular.cssClass.split('.').filter(s => !!s).join(' ')}"></div> ${iconPair.regular?.name}</div></td>
+<td><div class="sprite-with-text">${iconPair.shiny ? `<div class="${iconPair.shiny.cssClass.split('.').filter(s => !!s).join(' ')}"></div>` : ''}${iconPair.shiny?.name ?? '-'}</div></td>`;
 }
 
 
@@ -88,6 +87,7 @@ function writeDocumentHeader(stream: fs.WriteStream) {
     <meta charset="utf-8" />
     <title>Pokémon Sprite - Index</title>
     <link href="./docs.css" rel="stylesheet"/>
+    <link href="./spritesheet.css" rel="stylesheet"/>
   </head>
   <body>`, 'utf-8');
 }
@@ -145,23 +145,4 @@ This is a list of present and past contributors which provided custom icons. Tha
 function writeDocumentFooter(stream: fs.WriteStream) {
   stream.write(`</body>
 </html>`, 'utf-8');
-}
-
-function copyFolder(src: string, dest: string) {
-  try {
-    fs.cpSync(src, dest, {recursive: true});
-    console.log('Folder copied successfully');
-  } catch (error) {
-    console.error('Error copying folder:', error);
-  }
-}
-
-if (getChangedIcons().length > 0)
-  copyFolder(path.join(__dirname, '../assets/icons/menu-sprites'), docsOutputDest + '/icons');
-
-
-function getChangedIcons() {
-  const command = `git diff --staged --name-only`;
-  const diffOutput = execSync(command).toString();
-  return diffOutput.toString().split('\n').filter(Boolean).filter(x => x.includes('apps/pokemon-sprite/src/assets/icons/menu-sprites/'));
 }

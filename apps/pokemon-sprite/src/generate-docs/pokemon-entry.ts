@@ -6,6 +6,7 @@ export type PokemonIconPair = {
 export type IconMeta = {
   name: string;
   slug: string;
+  cssClass: string;
   categories?: string[];
   modifiers?: string[]
 }
