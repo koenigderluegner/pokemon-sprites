@@ -12982,13 +12982,13 @@
       {
         "regular": {
           "name": "Nidoran♀",
-          "slug": "nidoran♀",
-          "cssClass": ".pokesprite.pokemon.nidoran♀"
+          "slug": "nidoran-f",
+          "cssClass": ".pokesprite.pokemon.nidoran-f"
         },
         "shiny": {
           "name": "Nidoran♀-★",
-          "slug": "nidoran♀",
-          "cssClass": ".pokesprite.pokemon.nidoran♀.shiny",
+          "slug": "nidoran-f",
+          "cssClass": ".pokesprite.pokemon.nidoran-f.shiny",
           "modifiers": [
             "shiny"
           ]
@@ -12997,16 +12997,16 @@
       {
         "regular": {
           "name": "Nidoran♀-3DS",
-          "slug": "nidoran♀",
-          "cssClass": ".pokesprite.pokemon.nidoran♀.n3ds",
+          "slug": "nidoran-f",
+          "cssClass": ".pokesprite.pokemon.nidoran-f.n3ds",
           "modifiers": [
             "n3ds"
           ]
         },
         "shiny": {
           "name": "Nidoran♀-3DS-★",
-          "slug": "nidoran♀",
-          "cssClass": ".pokesprite.pokemon.nidoran♀.shiny.n3ds",
+          "slug": "nidoran-f",
+          "cssClass": ".pokesprite.pokemon.nidoran-f.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -13077,8 +13077,8 @@
       {
         "regular": {
           "name": "NIdoqueen-3DS",
-          "slug": "nidoqueen",
-          "cssClass": ".pokesprite.pokemon.nidoqueen.n3ds",
+          "slug": "n-idoqueen",
+          "cssClass": ".pokesprite.pokemon.n-idoqueen.n3ds",
           "modifiers": [
             "n3ds"
           ]
@@ -13192,13 +13192,13 @@
       {
         "regular": {
           "name": "Nidoran♂",
-          "slug": "nidoran♂",
-          "cssClass": ".pokesprite.pokemon.nidoran♂"
+          "slug": "nidoran-m",
+          "cssClass": ".pokesprite.pokemon.nidoran-m"
         },
         "shiny": {
           "name": "Nidoran♂-★",
-          "slug": "nidoran♂",
-          "cssClass": ".pokesprite.pokemon.nidoran♂.shiny",
+          "slug": "nidoran-m",
+          "cssClass": ".pokesprite.pokemon.nidoran-m.shiny",
           "modifiers": [
             "shiny"
           ]
@@ -13207,16 +13207,16 @@
       {
         "regular": {
           "name": "Nidoran♂-3DS",
-          "slug": "nidoran♂",
-          "cssClass": ".pokesprite.pokemon.nidoran♂.n3ds",
+          "slug": "nidoran-m",
+          "cssClass": ".pokesprite.pokemon.nidoran-m.n3ds",
           "modifiers": [
             "n3ds"
           ]
         },
         "shiny": {
           "name": "Nidoran♂-3DS-★",
-          "slug": "nidoran♂",
-          "cssClass": ".pokesprite.pokemon.nidoran♂.shiny.n3ds",
+          "slug": "nidoran-m",
+          "cssClass": ".pokesprite.pokemon.nidoran-m.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -14916,8 +14916,8 @@
       {
         "regular": {
           "name": "DIglett-Bonus-StadiumMinigame",
-          "slug": "diglett-stadiumminigame",
-          "cssClass": ".pokesprite.pokemon.diglett-stadiumminigame",
+          "slug": "d-iglett-stadiumminigame",
+          "cssClass": ".pokesprite.pokemon.d-iglett-stadiumminigame",
           "categories": [
             "bonus"
           ]
@@ -14927,8 +14927,8 @@
       {
         "regular": {
           "name": "DIglett-Bonus-StadiumMinigame-3DS",
-          "slug": "diglett-stadiumminigame",
-          "cssClass": ".pokesprite.pokemon.diglett-stadiumminigame.n3ds",
+          "slug": "d-iglett-stadiumminigame",
+          "cssClass": ".pokesprite.pokemon.d-iglett-stadiumminigame.n3ds",
           "modifiers": [
             "n3ds"
           ],
@@ -19800,13 +19800,13 @@
       {
         "regular": {
           "name": "MrMime",
-          "slug": "mrmime",
-          "cssClass": ".pokesprite.pokemon.mrmime"
+          "slug": "mr-mime",
+          "cssClass": ".pokesprite.pokemon.mr-mime"
         },
         "shiny": {
           "name": "MrMime-★",
-          "slug": "mrmime",
-          "cssClass": ".pokesprite.pokemon.mrmime.shiny",
+          "slug": "mr-mime",
+          "cssClass": ".pokesprite.pokemon.mr-mime.shiny",
           "modifiers": [
             "shiny"
           ]
@@ -19815,16 +19815,16 @@
       {
         "regular": {
           "name": "MrMime-3DS",
-          "slug": "mrmime",
-          "cssClass": ".pokesprite.pokemon.mrmime.n3ds",
+          "slug": "mr-mime",
+          "cssClass": ".pokesprite.pokemon.mr-mime.n3ds",
           "modifiers": [
             "n3ds"
           ]
         },
         "shiny": {
           "name": "MrMime-3DS-★",
-          "slug": "mrmime",
-          "cssClass": ".pokesprite.pokemon.mrmime.shiny.n3ds",
+          "slug": "mr-mime",
+          "cssClass": ".pokesprite.pokemon.mr-mime.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -19834,13 +19834,13 @@
       {
         "regular": {
           "name": "MrMime-Galar",
-          "slug": "mrmime-galar",
-          "cssClass": ".pokesprite.pokemon.mrmime-galar"
+          "slug": "mr-mime-galar",
+          "cssClass": ".pokesprite.pokemon.mr-mime-galar"
         },
         "shiny": {
           "name": "MrMime-Galar-★",
-          "slug": "mrmime-galar",
-          "cssClass": ".pokesprite.pokemon.mrmime-galar.shiny",
+          "slug": "mr-mime-galar",
+          "cssClass": ".pokesprite.pokemon.mr-mime-galar.shiny",
           "modifiers": [
             "shiny"
           ]
@@ -19849,16 +19849,16 @@
       {
         "regular": {
           "name": "MrMime-Galar-3DS",
-          "slug": "mrmime-galar",
-          "cssClass": ".pokesprite.pokemon.mrmime-galar.n3ds",
+          "slug": "mr-mime-galar",
+          "cssClass": ".pokesprite.pokemon.mr-mime-galar.n3ds",
           "modifiers": [
             "n3ds"
           ]
         },
         "shiny": {
           "name": "MrMime-Galar-3DS-★",
-          "slug": "mrmime-galar",
-          "cssClass": ".pokesprite.pokemon.mrmime-galar.shiny.n3ds",
+          "slug": "mr-mime-galar",
+          "cssClass": ".pokesprite.pokemon.mr-mime-galar.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -19868,16 +19868,16 @@
       {
         "regular": {
           "name": "MrMime-Switch-LGPE",
-          "slug": "mrmime-lgpe",
-          "cssClass": ".pokesprite.pokemon.mrmime-lgpe.switch",
+          "slug": "mr-mime-lgpe",
+          "cssClass": ".pokesprite.pokemon.mr-mime-lgpe.switch",
           "modifiers": [
             "switch"
           ]
         },
         "shiny": {
           "name": "MrMime-Switch-LGPE-★",
-          "slug": "mrmime-lgpe",
-          "cssClass": ".pokesprite.pokemon.mrmime-lgpe.switch.shiny",
+          "slug": "mr-mime-lgpe",
+          "cssClass": ".pokesprite.pokemon.mr-mime-lgpe.switch.shiny",
           "modifiers": [
             "switch",
             "shiny"
@@ -19887,8 +19887,8 @@
       {
         "regular": {
           "name": "MrMime-Bonus-Stadium-Player2",
-          "slug": "mrmime-stadium-player2",
-          "cssClass": ".pokesprite.pokemon.mrmime-stadium-player2",
+          "slug": "mr-mime-stadium-player2",
+          "cssClass": ".pokesprite.pokemon.mr-mime-stadium-player2",
           "categories": [
             "bonus"
           ]
@@ -19898,8 +19898,8 @@
       {
         "regular": {
           "name": "MrMime-Bonus-Stadium-Player2-3DS",
-          "slug": "mrmime-stadium-player2",
-          "cssClass": ".pokesprite.pokemon.mrmime-stadium-player2.n3ds",
+          "slug": "mr-mime-stadium-player2",
+          "cssClass": ".pokesprite.pokemon.mr-mime-stadium-player2.n3ds",
           "modifiers": [
             "n3ds"
           ],
@@ -19912,8 +19912,8 @@
       {
         "regular": {
           "name": "MrMime-Bonus-Stadium-Player2-Switch-LGPE",
-          "slug": "mrmime-stadium-player2-lgpe",
-          "cssClass": ".pokesprite.pokemon.mrmime-stadium-player2-lgpe.switch",
+          "slug": "mr-mime-stadium-player2-lgpe",
+          "cssClass": ".pokesprite.pokemon.mr-mime-stadium-player2-lgpe.switch",
           "modifiers": [
             "switch"
           ],
@@ -19926,8 +19926,8 @@
       {
         "regular": {
           "name": "MrMime-Bonus-Stadium-Player3",
-          "slug": "mrmime-stadium-player3",
-          "cssClass": ".pokesprite.pokemon.mrmime-stadium-player3",
+          "slug": "mr-mime-stadium-player3",
+          "cssClass": ".pokesprite.pokemon.mr-mime-stadium-player3",
           "categories": [
             "bonus"
           ]
@@ -19937,8 +19937,8 @@
       {
         "regular": {
           "name": "MrMime-Bonus-Stadium-Player3-3DS",
-          "slug": "mrmime-stadium-player3",
-          "cssClass": ".pokesprite.pokemon.mrmime-stadium-player3.n3ds",
+          "slug": "mr-mime-stadium-player3",
+          "cssClass": ".pokesprite.pokemon.mr-mime-stadium-player3.n3ds",
           "modifiers": [
             "n3ds"
           ],
@@ -19951,8 +19951,8 @@
       {
         "regular": {
           "name": "MrMime-Bonus-Stadium-Player3-Switch-LGPE",
-          "slug": "mrmime-stadium-player3-lgpe",
-          "cssClass": ".pokesprite.pokemon.mrmime-stadium-player3-lgpe.switch",
+          "slug": "mr-mime-stadium-player3-lgpe",
+          "cssClass": ".pokesprite.pokemon.mr-mime-stadium-player3-lgpe.switch",
           "modifiers": [
             "switch"
           ],
@@ -19965,8 +19965,8 @@
       {
         "regular": {
           "name": "MrMime-Bonus-Stadium-Player4",
-          "slug": "mrmime-stadium-player4",
-          "cssClass": ".pokesprite.pokemon.mrmime-stadium-player4",
+          "slug": "mr-mime-stadium-player4",
+          "cssClass": ".pokesprite.pokemon.mr-mime-stadium-player4",
           "categories": [
             "bonus"
           ]
@@ -19976,8 +19976,8 @@
       {
         "regular": {
           "name": "MrMime-Bonus-Stadium-Player4-3DS",
-          "slug": "mrmime-stadium-player4",
-          "cssClass": ".pokesprite.pokemon.mrmime-stadium-player4.n3ds",
+          "slug": "mr-mime-stadium-player4",
+          "cssClass": ".pokesprite.pokemon.mr-mime-stadium-player4.n3ds",
           "modifiers": [
             "n3ds"
           ],
@@ -19990,8 +19990,8 @@
       {
         "regular": {
           "name": "MrMime-Bonus-Stadium-Player4-Switch-LGPE",
-          "slug": "mrmime-stadium-player4-lgpe",
-          "cssClass": ".pokesprite.pokemon.mrmime-stadium-player4-lgpe.switch",
+          "slug": "mr-mime-stadium-player4-lgpe",
+          "cssClass": ".pokesprite.pokemon.mr-mime-stadium-player4-lgpe.switch",
           "modifiers": [
             "switch"
           ],
@@ -28925,13 +28925,13 @@
       {
         "regular": {
           "name": "MIsdreavus",
-          "slug": "misdreavus",
-          "cssClass": ".pokesprite.pokemon.misdreavus"
+          "slug": "m-isdreavus",
+          "cssClass": ".pokesprite.pokemon.m-isdreavus"
         },
         "shiny": {
           "name": "MIsdreavus-★",
-          "slug": "misdreavus",
-          "cssClass": ".pokesprite.pokemon.misdreavus.shiny",
+          "slug": "m-isdreavus",
+          "cssClass": ".pokesprite.pokemon.m-isdreavus.shiny",
           "modifiers": [
             "shiny"
           ]
@@ -28940,16 +28940,16 @@
       {
         "regular": {
           "name": "MIsdreavus-3DS",
-          "slug": "misdreavus",
-          "cssClass": ".pokesprite.pokemon.misdreavus.n3ds",
+          "slug": "m-isdreavus",
+          "cssClass": ".pokesprite.pokemon.m-isdreavus.n3ds",
           "modifiers": [
             "n3ds"
           ]
         },
         "shiny": {
           "name": "MIsdreavus-3DS-★",
-          "slug": "misdreavus",
-          "cssClass": ".pokesprite.pokemon.misdreavus.shiny.n3ds",
+          "slug": "m-isdreavus",
+          "cssClass": ".pokesprite.pokemon.m-isdreavus.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -31886,8 +31886,8 @@
       {
         "regular": {
           "name": "SKarmory-Mega",
-          "slug": "skarmory-mega",
-          "cssClass": ".pokesprite.pokemon.skarmory-mega"
+          "slug": "s-karmory-mega",
+          "cssClass": ".pokesprite.pokemon.s-karmory-mega"
         },
         "shiny": {
           "name": "Skarmory-Mega-★",
@@ -33251,13 +33251,13 @@
       {
         "regular": {
           "name": "HoOh",
-          "slug": "hooh",
-          "cssClass": ".pokesprite.pokemon.hooh"
+          "slug": "ho-oh",
+          "cssClass": ".pokesprite.pokemon.ho-oh"
         },
         "shiny": {
           "name": "HoOh-★",
-          "slug": "hooh",
-          "cssClass": ".pokesprite.pokemon.hooh.shiny",
+          "slug": "ho-oh",
+          "cssClass": ".pokesprite.pokemon.ho-oh.shiny",
           "modifiers": [
             "shiny"
           ]
@@ -33266,16 +33266,16 @@
       {
         "regular": {
           "name": "HoOh-3DS",
-          "slug": "hooh",
-          "cssClass": ".pokesprite.pokemon.hooh.n3ds",
+          "slug": "ho-oh",
+          "cssClass": ".pokesprite.pokemon.ho-oh.n3ds",
           "modifiers": [
             "n3ds"
           ]
         },
         "shiny": {
           "name": "HoOh-3DS-★",
-          "slug": "hooh",
-          "cssClass": ".pokesprite.pokemon.hooh.shiny.n3ds",
+          "slug": "ho-oh",
+          "cssClass": ".pokesprite.pokemon.ho-oh.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -43587,13 +43587,13 @@
       {
         "regular": {
           "name": "MimeJr",
-          "slug": "mimejr",
-          "cssClass": ".pokesprite.pokemon.mimejr"
+          "slug": "mime-jr",
+          "cssClass": ".pokesprite.pokemon.mime-jr"
         },
         "shiny": {
           "name": "MimeJr-★",
-          "slug": "mimejr",
-          "cssClass": ".pokesprite.pokemon.mimejr.shiny",
+          "slug": "mime-jr",
+          "cssClass": ".pokesprite.pokemon.mime-jr.shiny",
           "modifiers": [
             "shiny"
           ]
@@ -46683,13 +46683,13 @@
       {
         "regular": {
           "name": "PorygonZ",
-          "slug": "porygonz",
-          "cssClass": ".pokesprite.pokemon.porygonz"
+          "slug": "porygon-z",
+          "cssClass": ".pokesprite.pokemon.porygon-z"
         },
         "shiny": {
           "name": "PorygonZ-★",
-          "slug": "porygonz",
-          "cssClass": ".pokesprite.pokemon.porygonz.shiny",
+          "slug": "porygon-z",
+          "cssClass": ".pokesprite.pokemon.porygon-z.shiny",
           "modifiers": [
             "shiny"
           ]
@@ -46698,16 +46698,16 @@
       {
         "regular": {
           "name": "PorygonZ-3DS",
-          "slug": "porygonz",
-          "cssClass": ".pokesprite.pokemon.porygonz.n3ds",
+          "slug": "porygon-z",
+          "cssClass": ".pokesprite.pokemon.porygon-z.n3ds",
           "modifiers": [
             "n3ds"
           ]
         },
         "shiny": {
           "name": "PorygonZ-3DS-★",
-          "slug": "porygonz",
-          "cssClass": ".pokesprite.pokemon.porygonz.shiny.n3ds",
+          "slug": "porygon-z",
+          "cssClass": ".pokesprite.pokemon.porygon-z.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -49419,8 +49419,8 @@
       {
         "regular": {
           "name": "DIalga-Origin-Bonus-Dark",
-          "slug": "dialga-origin-dark",
-          "cssClass": ".pokesprite.pokemon.dialga-origin-dark",
+          "slug": "d-ialga-origin-dark",
+          "cssClass": ".pokesprite.pokemon.d-ialga-origin-dark",
           "categories": [
             "bonus"
           ]
@@ -49430,8 +49430,8 @@
       {
         "regular": {
           "name": "DIalga-Origin-Bonus-Dark-3DS",
-          "slug": "dialga-origin-dark",
-          "cssClass": ".pokesprite.pokemon.dialga-origin-dark.n3ds",
+          "slug": "d-ialga-origin-dark",
+          "cssClass": ".pokesprite.pokemon.d-ialga-origin-dark.n3ds",
           "modifiers": [
             "n3ds"
           ],
@@ -59915,13 +59915,13 @@
       {
         "regular": {
           "name": "Flabébé-Blue",
-          "slug": "flabébé-blue",
-          "cssClass": ".pokesprite.pokemon.flabébé-blue"
+          "slug": "flabebe-blue",
+          "cssClass": ".pokesprite.pokemon.flabebe-blue"
         },
         "shiny": {
           "name": "Flabébé-Blue-★",
-          "slug": "flabébé-blue",
-          "cssClass": ".pokesprite.pokemon.flabébé-blue.shiny",
+          "slug": "flabebe-blue",
+          "cssClass": ".pokesprite.pokemon.flabebe-blue.shiny",
           "modifiers": [
             "shiny"
           ]
@@ -59930,13 +59930,13 @@
       {
         "regular": {
           "name": "Flabébé-Orange",
-          "slug": "flabébé-orange",
-          "cssClass": ".pokesprite.pokemon.flabébé-orange"
+          "slug": "flabebe-orange",
+          "cssClass": ".pokesprite.pokemon.flabebe-orange"
         },
         "shiny": {
           "name": "Flabébé-Orange-★",
-          "slug": "flabébé-orange",
-          "cssClass": ".pokesprite.pokemon.flabébé-orange.shiny",
+          "slug": "flabebe-orange",
+          "cssClass": ".pokesprite.pokemon.flabebe-orange.shiny",
           "modifiers": [
             "shiny"
           ]
@@ -59945,13 +59945,13 @@
       {
         "regular": {
           "name": "Flabébé-Red",
-          "slug": "flabébé-red",
-          "cssClass": ".pokesprite.pokemon.flabébé-red"
+          "slug": "flabebe-red",
+          "cssClass": ".pokesprite.pokemon.flabebe-red"
         },
         "shiny": {
           "name": "Flabébé-Red-★",
-          "slug": "flabébé-red",
-          "cssClass": ".pokesprite.pokemon.flabébé-red.shiny",
+          "slug": "flabebe-red",
+          "cssClass": ".pokesprite.pokemon.flabebe-red.shiny",
           "modifiers": [
             "shiny"
           ]
@@ -59960,13 +59960,13 @@
       {
         "regular": {
           "name": "Flabébé-White",
-          "slug": "flabébé-white",
-          "cssClass": ".pokesprite.pokemon.flabébé-white"
+          "slug": "flabebe-white",
+          "cssClass": ".pokesprite.pokemon.flabebe-white"
         },
         "shiny": {
           "name": "Flabébé-White-★",
-          "slug": "flabébé-white",
-          "cssClass": ".pokesprite.pokemon.flabébé-white.shiny",
+          "slug": "flabebe-white",
+          "cssClass": ".pokesprite.pokemon.flabebe-white.shiny",
           "modifiers": [
             "shiny"
           ]
@@ -59975,13 +59975,13 @@
       {
         "regular": {
           "name": "Flabébé-Yellow",
-          "slug": "flabébé-yellow",
-          "cssClass": ".pokesprite.pokemon.flabébé-yellow"
+          "slug": "flabebe-yellow",
+          "cssClass": ".pokesprite.pokemon.flabebe-yellow"
         },
         "shiny": {
           "name": "Flabébé-Yellow-★",
-          "slug": "flabébé-yellow",
-          "cssClass": ".pokesprite.pokemon.flabébé-yellow.shiny",
+          "slug": "flabebe-yellow",
+          "cssClass": ".pokesprite.pokemon.flabebe-yellow.shiny",
           "modifiers": [
             "shiny"
           ]
@@ -66018,13 +66018,13 @@
       {
         "regular": {
           "name": "TypeNull",
-          "slug": "typenull",
-          "cssClass": ".pokesprite.pokemon.typenull"
+          "slug": "type-null",
+          "cssClass": ".pokesprite.pokemon.type-null"
         },
         "shiny": {
           "name": "TypeNull-★",
-          "slug": "typenull",
-          "cssClass": ".pokesprite.pokemon.typenull.shiny",
+          "slug": "type-null",
+          "cssClass": ".pokesprite.pokemon.type-null.shiny",
           "modifiers": [
             "shiny"
           ]
@@ -66033,16 +66033,16 @@
       {
         "regular": {
           "name": "TypeNull-3DS",
-          "slug": "typenull",
-          "cssClass": ".pokesprite.pokemon.typenull.n3ds",
+          "slug": "type-null",
+          "cssClass": ".pokesprite.pokemon.type-null.n3ds",
           "modifiers": [
             "n3ds"
           ]
         },
         "shiny": {
           "name": "TypeNull-3DS-★",
-          "slug": "typenull",
-          "cssClass": ".pokesprite.pokemon.typenull.shiny.n3ds",
+          "slug": "type-null",
+          "cssClass": ".pokesprite.pokemon.type-null.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -66052,16 +66052,16 @@
       {
         "regular": {
           "name": "TypeNull-Switch-SwSh",
-          "slug": "typenull-swsh",
-          "cssClass": ".pokesprite.pokemon.typenull-swsh.switch",
+          "slug": "type-null-swsh",
+          "cssClass": ".pokesprite.pokemon.type-null-swsh.switch",
           "modifiers": [
             "switch"
           ]
         },
         "shiny": {
           "name": "TypeNull-Switch-SwSh-★",
-          "slug": "typenull-swsh",
-          "cssClass": ".pokesprite.pokemon.typenull-swsh.switch.shiny",
+          "slug": "type-null-swsh",
+          "cssClass": ".pokesprite.pokemon.type-null-swsh.switch.shiny",
           "modifiers": [
             "switch",
             "shiny"
@@ -67487,13 +67487,13 @@
       {
         "regular": {
           "name": "TapuKoko",
-          "slug": "tapukoko",
-          "cssClass": ".pokesprite.pokemon.tapukoko"
+          "slug": "tapu-koko",
+          "cssClass": ".pokesprite.pokemon.tapu-koko"
         },
         "shiny": {
           "name": "TapuKoko-★",
-          "slug": "tapukoko",
-          "cssClass": ".pokesprite.pokemon.tapukoko.shiny",
+          "slug": "tapu-koko",
+          "cssClass": ".pokesprite.pokemon.tapu-koko.shiny",
           "modifiers": [
             "shiny"
           ]
@@ -67502,16 +67502,16 @@
       {
         "regular": {
           "name": "TapuKoko-3DS",
-          "slug": "tapukoko",
-          "cssClass": ".pokesprite.pokemon.tapukoko.n3ds",
+          "slug": "tapu-koko",
+          "cssClass": ".pokesprite.pokemon.tapu-koko.n3ds",
           "modifiers": [
             "n3ds"
           ]
         },
         "shiny": {
           "name": "TapuKoko-3DS-★",
-          "slug": "tapukoko",
-          "cssClass": ".pokesprite.pokemon.tapukoko.shiny.n3ds",
+          "slug": "tapu-koko",
+          "cssClass": ".pokesprite.pokemon.tapu-koko.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -67521,16 +67521,16 @@
       {
         "regular": {
           "name": "TapuKoko-Bonus-ZMove",
-          "slug": "tapukoko-zmove",
-          "cssClass": ".pokesprite.pokemon.tapukoko-zmove",
+          "slug": "tapu-koko-zmove",
+          "cssClass": ".pokesprite.pokemon.tapu-koko-zmove",
           "categories": [
             "bonus"
           ]
         },
         "shiny": {
           "name": "TapuKoko-Bonus-ZMove-★",
-          "slug": "tapukoko-zmove",
-          "cssClass": ".pokesprite.pokemon.tapukoko-zmove.shiny",
+          "slug": "tapu-koko-zmove",
+          "cssClass": ".pokesprite.pokemon.tapu-koko-zmove.shiny",
           "modifiers": [
             "shiny"
           ],
@@ -67542,8 +67542,8 @@
       {
         "regular": {
           "name": "TapuKoko-Bonus-ZMove-3DS",
-          "slug": "tapukoko-zmove",
-          "cssClass": ".pokesprite.pokemon.tapukoko-zmove.n3ds",
+          "slug": "tapu-koko-zmove",
+          "cssClass": ".pokesprite.pokemon.tapu-koko-zmove.n3ds",
           "modifiers": [
             "n3ds"
           ],
@@ -67553,8 +67553,8 @@
         },
         "shiny": {
           "name": "TapuKoko-Bonus-ZMove-3DS-★",
-          "slug": "tapukoko-zmove",
-          "cssClass": ".pokesprite.pokemon.tapukoko-zmove.shiny.n3ds",
+          "slug": "tapu-koko-zmove",
+          "cssClass": ".pokesprite.pokemon.tapu-koko-zmove.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -67573,13 +67573,13 @@
       {
         "regular": {
           "name": "TapuLele",
-          "slug": "tapulele",
-          "cssClass": ".pokesprite.pokemon.tapulele"
+          "slug": "tapu-lele",
+          "cssClass": ".pokesprite.pokemon.tapu-lele"
         },
         "shiny": {
           "name": "TapuLele-★",
-          "slug": "tapulele",
-          "cssClass": ".pokesprite.pokemon.tapulele.shiny",
+          "slug": "tapu-lele",
+          "cssClass": ".pokesprite.pokemon.tapu-lele.shiny",
           "modifiers": [
             "shiny"
           ]
@@ -67588,16 +67588,16 @@
       {
         "regular": {
           "name": "TapuLele-3DS",
-          "slug": "tapulele",
-          "cssClass": ".pokesprite.pokemon.tapulele.n3ds",
+          "slug": "tapu-lele",
+          "cssClass": ".pokesprite.pokemon.tapu-lele.n3ds",
           "modifiers": [
             "n3ds"
           ]
         },
         "shiny": {
           "name": "TapuLele-3DS-★",
-          "slug": "tapulele",
-          "cssClass": ".pokesprite.pokemon.tapulele.shiny.n3ds",
+          "slug": "tapu-lele",
+          "cssClass": ".pokesprite.pokemon.tapu-lele.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -67607,16 +67607,16 @@
       {
         "regular": {
           "name": "TapuLele-Bonus-ZMove",
-          "slug": "tapulele-zmove",
-          "cssClass": ".pokesprite.pokemon.tapulele-zmove",
+          "slug": "tapu-lele-zmove",
+          "cssClass": ".pokesprite.pokemon.tapu-lele-zmove",
           "categories": [
             "bonus"
           ]
         },
         "shiny": {
           "name": "TapuLele-Bonus-ZMove-★",
-          "slug": "tapulele-zmove",
-          "cssClass": ".pokesprite.pokemon.tapulele-zmove.shiny",
+          "slug": "tapu-lele-zmove",
+          "cssClass": ".pokesprite.pokemon.tapu-lele-zmove.shiny",
           "modifiers": [
             "shiny"
           ],
@@ -67628,8 +67628,8 @@
       {
         "regular": {
           "name": "TapuLele-Bonus-ZMove-3DS",
-          "slug": "tapulele-zmove",
-          "cssClass": ".pokesprite.pokemon.tapulele-zmove.n3ds",
+          "slug": "tapu-lele-zmove",
+          "cssClass": ".pokesprite.pokemon.tapu-lele-zmove.n3ds",
           "modifiers": [
             "n3ds"
           ],
@@ -67639,8 +67639,8 @@
         },
         "shiny": {
           "name": "TapuLele-Bonus-ZMove-3DS-★",
-          "slug": "tapulele-zmove",
-          "cssClass": ".pokesprite.pokemon.tapulele-zmove.shiny.n3ds",
+          "slug": "tapu-lele-zmove",
+          "cssClass": ".pokesprite.pokemon.tapu-lele-zmove.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -67659,13 +67659,13 @@
       {
         "regular": {
           "name": "TapuBulu",
-          "slug": "tapubulu",
-          "cssClass": ".pokesprite.pokemon.tapubulu"
+          "slug": "tapu-bulu",
+          "cssClass": ".pokesprite.pokemon.tapu-bulu"
         },
         "shiny": {
           "name": "TapuBulu-★",
-          "slug": "tapubulu",
-          "cssClass": ".pokesprite.pokemon.tapubulu.shiny",
+          "slug": "tapu-bulu",
+          "cssClass": ".pokesprite.pokemon.tapu-bulu.shiny",
           "modifiers": [
             "shiny"
           ]
@@ -67674,16 +67674,16 @@
       {
         "regular": {
           "name": "TapuBulu-3DS",
-          "slug": "tapubulu",
-          "cssClass": ".pokesprite.pokemon.tapubulu.n3ds",
+          "slug": "tapu-bulu",
+          "cssClass": ".pokesprite.pokemon.tapu-bulu.n3ds",
           "modifiers": [
             "n3ds"
           ]
         },
         "shiny": {
           "name": "TapuBulu-3DS-★",
-          "slug": "tapubulu",
-          "cssClass": ".pokesprite.pokemon.tapubulu.shiny.n3ds",
+          "slug": "tapu-bulu",
+          "cssClass": ".pokesprite.pokemon.tapu-bulu.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -67693,16 +67693,16 @@
       {
         "regular": {
           "name": "TapuBulu-Bonus-ZMove",
-          "slug": "tapubulu-zmove",
-          "cssClass": ".pokesprite.pokemon.tapubulu-zmove",
+          "slug": "tapu-bulu-zmove",
+          "cssClass": ".pokesprite.pokemon.tapu-bulu-zmove",
           "categories": [
             "bonus"
           ]
         },
         "shiny": {
           "name": "TapuBulu-Bonus-ZMove-★",
-          "slug": "tapubulu-zmove",
-          "cssClass": ".pokesprite.pokemon.tapubulu-zmove.shiny",
+          "slug": "tapu-bulu-zmove",
+          "cssClass": ".pokesprite.pokemon.tapu-bulu-zmove.shiny",
           "modifiers": [
             "shiny"
           ],
@@ -67714,8 +67714,8 @@
       {
         "regular": {
           "name": "TapuBulu-Bonus-ZMove-3DS",
-          "slug": "tapubulu-zmove",
-          "cssClass": ".pokesprite.pokemon.tapubulu-zmove.n3ds",
+          "slug": "tapu-bulu-zmove",
+          "cssClass": ".pokesprite.pokemon.tapu-bulu-zmove.n3ds",
           "modifiers": [
             "n3ds"
           ],
@@ -67725,8 +67725,8 @@
         },
         "shiny": {
           "name": "TapuBulu-Bonus-ZMove-3DS-★",
-          "slug": "tapubulu-zmove",
-          "cssClass": ".pokesprite.pokemon.tapubulu-zmove.shiny.n3ds",
+          "slug": "tapu-bulu-zmove",
+          "cssClass": ".pokesprite.pokemon.tapu-bulu-zmove.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -67745,13 +67745,13 @@
       {
         "regular": {
           "name": "TapuFini",
-          "slug": "tapufini",
-          "cssClass": ".pokesprite.pokemon.tapufini"
+          "slug": "tapu-fini",
+          "cssClass": ".pokesprite.pokemon.tapu-fini"
         },
         "shiny": {
           "name": "TapuFini-★",
-          "slug": "tapufini",
-          "cssClass": ".pokesprite.pokemon.tapufini.shiny",
+          "slug": "tapu-fini",
+          "cssClass": ".pokesprite.pokemon.tapu-fini.shiny",
           "modifiers": [
             "shiny"
           ]
@@ -67760,16 +67760,16 @@
       {
         "regular": {
           "name": "TapuFini-3DS",
-          "slug": "tapufini",
-          "cssClass": ".pokesprite.pokemon.tapufini.n3ds",
+          "slug": "tapu-fini",
+          "cssClass": ".pokesprite.pokemon.tapu-fini.n3ds",
           "modifiers": [
             "n3ds"
           ]
         },
         "shiny": {
           "name": "TapuFini-3DS-★",
-          "slug": "tapufini",
-          "cssClass": ".pokesprite.pokemon.tapufini.shiny.n3ds",
+          "slug": "tapu-fini",
+          "cssClass": ".pokesprite.pokemon.tapu-fini.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -67779,16 +67779,16 @@
       {
         "regular": {
           "name": "TapuFini-Bonus-ZMove",
-          "slug": "tapufini-zmove",
-          "cssClass": ".pokesprite.pokemon.tapufini-zmove",
+          "slug": "tapu-fini-zmove",
+          "cssClass": ".pokesprite.pokemon.tapu-fini-zmove",
           "categories": [
             "bonus"
           ]
         },
         "shiny": {
           "name": "TapuFini-Bonus-ZMove-★",
-          "slug": "tapufini-zmove",
-          "cssClass": ".pokesprite.pokemon.tapufini-zmove.shiny",
+          "slug": "tapu-fini-zmove",
+          "cssClass": ".pokesprite.pokemon.tapu-fini-zmove.shiny",
           "modifiers": [
             "shiny"
           ],
@@ -67800,8 +67800,8 @@
       {
         "regular": {
           "name": "TapuFini-Bonus-ZMove-3DS",
-          "slug": "tapufini-zmove",
-          "cssClass": ".pokesprite.pokemon.tapufini-zmove.n3ds",
+          "slug": "tapu-fini-zmove",
+          "cssClass": ".pokesprite.pokemon.tapu-fini-zmove.n3ds",
           "modifiers": [
             "n3ds"
           ],
@@ -67811,8 +67811,8 @@
         },
         "shiny": {
           "name": "TapuFini-Bonus-ZMove-3DS-★",
-          "slug": "tapufini-zmove",
-          "cssClass": ".pokesprite.pokemon.tapufini-zmove.shiny.n3ds",
+          "slug": "tapu-fini-zmove",
+          "cssClass": ".pokesprite.pokemon.tapu-fini-zmove.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -71501,13 +71501,13 @@
       {
         "regular": {
           "name": "MrRime",
-          "slug": "mrrime",
-          "cssClass": ".pokesprite.pokemon.mrrime"
+          "slug": "mr-rime",
+          "cssClass": ".pokesprite.pokemon.mr-rime"
         },
         "shiny": {
           "name": "MrRime-★",
-          "slug": "mrrime",
-          "cssClass": ".pokesprite.pokemon.mrrime.shiny",
+          "slug": "mr-rime",
+          "cssClass": ".pokesprite.pokemon.mr-rime.shiny",
           "modifiers": [
             "shiny"
           ]
@@ -71516,16 +71516,16 @@
       {
         "regular": {
           "name": "MrRime-3DS",
-          "slug": "mrrime",
-          "cssClass": ".pokesprite.pokemon.mrrime.n3ds",
+          "slug": "mr-rime",
+          "cssClass": ".pokesprite.pokemon.mr-rime.n3ds",
           "modifiers": [
             "n3ds"
           ]
         },
         "shiny": {
           "name": "MrRime-3DS-★",
-          "slug": "mrrime",
-          "cssClass": ".pokesprite.pokemon.mrrime.shiny.n3ds",
+          "slug": "mr-rime",
+          "cssClass": ".pokesprite.pokemon.mr-rime.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -79445,13 +79445,13 @@
       {
         "regular": {
           "name": "GreatTusk",
-          "slug": "greattusk",
-          "cssClass": ".pokesprite.pokemon.greattusk"
+          "slug": "great-tusk",
+          "cssClass": ".pokesprite.pokemon.great-tusk"
         },
         "shiny": {
           "name": "GreatTusk-★",
-          "slug": "greattusk",
-          "cssClass": ".pokesprite.pokemon.greattusk.shiny",
+          "slug": "great-tusk",
+          "cssClass": ".pokesprite.pokemon.great-tusk.shiny",
           "modifiers": [
             "shiny"
           ]
@@ -79460,16 +79460,16 @@
       {
         "regular": {
           "name": "GreatTusk-3DS",
-          "slug": "greattusk",
-          "cssClass": ".pokesprite.pokemon.greattusk.n3ds",
+          "slug": "great-tusk",
+          "cssClass": ".pokesprite.pokemon.great-tusk.n3ds",
           "modifiers": [
             "n3ds"
           ]
         },
         "shiny": {
           "name": "GreatTusk-3DS-★",
-          "slug": "greattusk",
-          "cssClass": ".pokesprite.pokemon.greattusk.shiny.n3ds",
+          "slug": "great-tusk",
+          "cssClass": ".pokesprite.pokemon.great-tusk.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -79485,13 +79485,13 @@
       {
         "regular": {
           "name": "ScreamTail",
-          "slug": "screamtail",
-          "cssClass": ".pokesprite.pokemon.screamtail"
+          "slug": "scream-tail",
+          "cssClass": ".pokesprite.pokemon.scream-tail"
         },
         "shiny": {
           "name": "ScreamTail-★",
-          "slug": "screamtail",
-          "cssClass": ".pokesprite.pokemon.screamtail.shiny",
+          "slug": "scream-tail",
+          "cssClass": ".pokesprite.pokemon.scream-tail.shiny",
           "modifiers": [
             "shiny"
           ]
@@ -79500,16 +79500,16 @@
       {
         "regular": {
           "name": "ScreamTail-3DS",
-          "slug": "screamtail",
-          "cssClass": ".pokesprite.pokemon.screamtail.n3ds",
+          "slug": "scream-tail",
+          "cssClass": ".pokesprite.pokemon.scream-tail.n3ds",
           "modifiers": [
             "n3ds"
           ]
         },
         "shiny": {
           "name": "ScreamTail-3DS-★",
-          "slug": "screamtail",
-          "cssClass": ".pokesprite.pokemon.screamtail.shiny.n3ds",
+          "slug": "scream-tail",
+          "cssClass": ".pokesprite.pokemon.scream-tail.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -79525,13 +79525,13 @@
       {
         "regular": {
           "name": "BruteBonnet",
-          "slug": "brutebonnet",
-          "cssClass": ".pokesprite.pokemon.brutebonnet"
+          "slug": "brute-bonnet",
+          "cssClass": ".pokesprite.pokemon.brute-bonnet"
         },
         "shiny": {
           "name": "BruteBonnet-★",
-          "slug": "brutebonnet",
-          "cssClass": ".pokesprite.pokemon.brutebonnet.shiny",
+          "slug": "brute-bonnet",
+          "cssClass": ".pokesprite.pokemon.brute-bonnet.shiny",
           "modifiers": [
             "shiny"
           ]
@@ -79540,16 +79540,16 @@
       {
         "regular": {
           "name": "BruteBonnet-3DS",
-          "slug": "brutebonnet",
-          "cssClass": ".pokesprite.pokemon.brutebonnet.n3ds",
+          "slug": "brute-bonnet",
+          "cssClass": ".pokesprite.pokemon.brute-bonnet.n3ds",
           "modifiers": [
             "n3ds"
           ]
         },
         "shiny": {
           "name": "BruteBonnet-3DS-★",
-          "slug": "brutebonnet",
-          "cssClass": ".pokesprite.pokemon.brutebonnet.shiny.n3ds",
+          "slug": "brute-bonnet",
+          "cssClass": ".pokesprite.pokemon.brute-bonnet.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -79565,13 +79565,13 @@
       {
         "regular": {
           "name": "FlutterMane",
-          "slug": "fluttermane",
-          "cssClass": ".pokesprite.pokemon.fluttermane"
+          "slug": "flutter-mane",
+          "cssClass": ".pokesprite.pokemon.flutter-mane"
         },
         "shiny": {
           "name": "FlutterMane-★",
-          "slug": "fluttermane",
-          "cssClass": ".pokesprite.pokemon.fluttermane.shiny",
+          "slug": "flutter-mane",
+          "cssClass": ".pokesprite.pokemon.flutter-mane.shiny",
           "modifiers": [
             "shiny"
           ]
@@ -79580,16 +79580,16 @@
       {
         "regular": {
           "name": "FlutterMane-3DS",
-          "slug": "fluttermane",
-          "cssClass": ".pokesprite.pokemon.fluttermane.n3ds",
+          "slug": "flutter-mane",
+          "cssClass": ".pokesprite.pokemon.flutter-mane.n3ds",
           "modifiers": [
             "n3ds"
           ]
         },
         "shiny": {
           "name": "FlutterMane-3DS-★",
-          "slug": "fluttermane",
-          "cssClass": ".pokesprite.pokemon.fluttermane.shiny.n3ds",
+          "slug": "flutter-mane",
+          "cssClass": ".pokesprite.pokemon.flutter-mane.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -79605,13 +79605,13 @@
       {
         "regular": {
           "name": "SlitherWing",
-          "slug": "slitherwing",
-          "cssClass": ".pokesprite.pokemon.slitherwing"
+          "slug": "slither-wing",
+          "cssClass": ".pokesprite.pokemon.slither-wing"
         },
         "shiny": {
           "name": "SlitherWing-★",
-          "slug": "slitherwing",
-          "cssClass": ".pokesprite.pokemon.slitherwing.shiny",
+          "slug": "slither-wing",
+          "cssClass": ".pokesprite.pokemon.slither-wing.shiny",
           "modifiers": [
             "shiny"
           ]
@@ -79620,16 +79620,16 @@
       {
         "regular": {
           "name": "SlitherWing-3DS",
-          "slug": "slitherwing",
-          "cssClass": ".pokesprite.pokemon.slitherwing.n3ds",
+          "slug": "slither-wing",
+          "cssClass": ".pokesprite.pokemon.slither-wing.n3ds",
           "modifiers": [
             "n3ds"
           ]
         },
         "shiny": {
           "name": "SlitherWing-3DS-★",
-          "slug": "slitherwing",
-          "cssClass": ".pokesprite.pokemon.slitherwing.shiny.n3ds",
+          "slug": "slither-wing",
+          "cssClass": ".pokesprite.pokemon.slither-wing.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -79645,13 +79645,13 @@
       {
         "regular": {
           "name": "SandyShocks",
-          "slug": "sandyshocks",
-          "cssClass": ".pokesprite.pokemon.sandyshocks"
+          "slug": "sandy-shocks",
+          "cssClass": ".pokesprite.pokemon.sandy-shocks"
         },
         "shiny": {
           "name": "SandyShocks-★",
-          "slug": "sandyshocks",
-          "cssClass": ".pokesprite.pokemon.sandyshocks.shiny",
+          "slug": "sandy-shocks",
+          "cssClass": ".pokesprite.pokemon.sandy-shocks.shiny",
           "modifiers": [
             "shiny"
           ]
@@ -79660,16 +79660,16 @@
       {
         "regular": {
           "name": "SandyShocks-3DS",
-          "slug": "sandyshocks",
-          "cssClass": ".pokesprite.pokemon.sandyshocks.n3ds",
+          "slug": "sandy-shocks",
+          "cssClass": ".pokesprite.pokemon.sandy-shocks.n3ds",
           "modifiers": [
             "n3ds"
           ]
         },
         "shiny": {
           "name": "SandyShocks-3DS-★",
-          "slug": "sandyshocks",
-          "cssClass": ".pokesprite.pokemon.sandyshocks.shiny.n3ds",
+          "slug": "sandy-shocks",
+          "cssClass": ".pokesprite.pokemon.sandy-shocks.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -79685,13 +79685,13 @@
       {
         "regular": {
           "name": "IronTreads",
-          "slug": "irontreads",
-          "cssClass": ".pokesprite.pokemon.irontreads"
+          "slug": "iron-treads",
+          "cssClass": ".pokesprite.pokemon.iron-treads"
         },
         "shiny": {
           "name": "IronTreads-★",
-          "slug": "irontreads",
-          "cssClass": ".pokesprite.pokemon.irontreads.shiny",
+          "slug": "iron-treads",
+          "cssClass": ".pokesprite.pokemon.iron-treads.shiny",
           "modifiers": [
             "shiny"
           ]
@@ -79700,16 +79700,16 @@
       {
         "regular": {
           "name": "IronTreads-3DS",
-          "slug": "irontreads",
-          "cssClass": ".pokesprite.pokemon.irontreads.n3ds",
+          "slug": "iron-treads",
+          "cssClass": ".pokesprite.pokemon.iron-treads.n3ds",
           "modifiers": [
             "n3ds"
           ]
         },
         "shiny": {
           "name": "IronTreads-3DS-★",
-          "slug": "irontreads",
-          "cssClass": ".pokesprite.pokemon.irontreads.shiny.n3ds",
+          "slug": "iron-treads",
+          "cssClass": ".pokesprite.pokemon.iron-treads.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -79725,13 +79725,13 @@
       {
         "regular": {
           "name": "IronBundle",
-          "slug": "ironbundle",
-          "cssClass": ".pokesprite.pokemon.ironbundle"
+          "slug": "iron-bundle",
+          "cssClass": ".pokesprite.pokemon.iron-bundle"
         },
         "shiny": {
           "name": "IronBundle-★",
-          "slug": "ironbundle",
-          "cssClass": ".pokesprite.pokemon.ironbundle.shiny",
+          "slug": "iron-bundle",
+          "cssClass": ".pokesprite.pokemon.iron-bundle.shiny",
           "modifiers": [
             "shiny"
           ]
@@ -79740,16 +79740,16 @@
       {
         "regular": {
           "name": "IronBundle-3DS",
-          "slug": "ironbundle",
-          "cssClass": ".pokesprite.pokemon.ironbundle.n3ds",
+          "slug": "iron-bundle",
+          "cssClass": ".pokesprite.pokemon.iron-bundle.n3ds",
           "modifiers": [
             "n3ds"
           ]
         },
         "shiny": {
           "name": "IronBundle-3DS-★",
-          "slug": "ironbundle",
-          "cssClass": ".pokesprite.pokemon.ironbundle.shiny.n3ds",
+          "slug": "iron-bundle",
+          "cssClass": ".pokesprite.pokemon.iron-bundle.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -79765,13 +79765,13 @@
       {
         "regular": {
           "name": "IronHands",
-          "slug": "ironhands",
-          "cssClass": ".pokesprite.pokemon.ironhands"
+          "slug": "iron-hands",
+          "cssClass": ".pokesprite.pokemon.iron-hands"
         },
         "shiny": {
           "name": "IronHands-★",
-          "slug": "ironhands",
-          "cssClass": ".pokesprite.pokemon.ironhands.shiny",
+          "slug": "iron-hands",
+          "cssClass": ".pokesprite.pokemon.iron-hands.shiny",
           "modifiers": [
             "shiny"
           ]
@@ -79780,16 +79780,16 @@
       {
         "regular": {
           "name": "IronHands-3DS",
-          "slug": "ironhands",
-          "cssClass": ".pokesprite.pokemon.ironhands.n3ds",
+          "slug": "iron-hands",
+          "cssClass": ".pokesprite.pokemon.iron-hands.n3ds",
           "modifiers": [
             "n3ds"
           ]
         },
         "shiny": {
           "name": "IronHands-3DS-★",
-          "slug": "ironhands",
-          "cssClass": ".pokesprite.pokemon.ironhands.shiny.n3ds",
+          "slug": "iron-hands",
+          "cssClass": ".pokesprite.pokemon.iron-hands.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -79805,13 +79805,13 @@
       {
         "regular": {
           "name": "IronJugulis",
-          "slug": "ironjugulis",
-          "cssClass": ".pokesprite.pokemon.ironjugulis"
+          "slug": "iron-jugulis",
+          "cssClass": ".pokesprite.pokemon.iron-jugulis"
         },
         "shiny": {
           "name": "IronJugulis-★",
-          "slug": "ironjugulis",
-          "cssClass": ".pokesprite.pokemon.ironjugulis.shiny",
+          "slug": "iron-jugulis",
+          "cssClass": ".pokesprite.pokemon.iron-jugulis.shiny",
           "modifiers": [
             "shiny"
           ]
@@ -79820,16 +79820,16 @@
       {
         "regular": {
           "name": "IronJugulis-3DS",
-          "slug": "ironjugulis",
-          "cssClass": ".pokesprite.pokemon.ironjugulis.n3ds",
+          "slug": "iron-jugulis",
+          "cssClass": ".pokesprite.pokemon.iron-jugulis.n3ds",
           "modifiers": [
             "n3ds"
           ]
         },
         "shiny": {
           "name": "IronJugulis-3DS-★",
-          "slug": "ironjugulis",
-          "cssClass": ".pokesprite.pokemon.ironjugulis.shiny.n3ds",
+          "slug": "iron-jugulis",
+          "cssClass": ".pokesprite.pokemon.iron-jugulis.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -79845,13 +79845,13 @@
       {
         "regular": {
           "name": "IronMoth",
-          "slug": "ironmoth",
-          "cssClass": ".pokesprite.pokemon.ironmoth"
+          "slug": "iron-moth",
+          "cssClass": ".pokesprite.pokemon.iron-moth"
         },
         "shiny": {
           "name": "IronMoth-★",
-          "slug": "ironmoth",
-          "cssClass": ".pokesprite.pokemon.ironmoth.shiny",
+          "slug": "iron-moth",
+          "cssClass": ".pokesprite.pokemon.iron-moth.shiny",
           "modifiers": [
             "shiny"
           ]
@@ -79860,16 +79860,16 @@
       {
         "regular": {
           "name": "IronMoth-3DS",
-          "slug": "ironmoth",
-          "cssClass": ".pokesprite.pokemon.ironmoth.n3ds",
+          "slug": "iron-moth",
+          "cssClass": ".pokesprite.pokemon.iron-moth.n3ds",
           "modifiers": [
             "n3ds"
           ]
         },
         "shiny": {
           "name": "IronMoth-3DS-★",
-          "slug": "ironmoth",
-          "cssClass": ".pokesprite.pokemon.ironmoth.shiny.n3ds",
+          "slug": "iron-moth",
+          "cssClass": ".pokesprite.pokemon.iron-moth.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -79885,13 +79885,13 @@
       {
         "regular": {
           "name": "IronThorns",
-          "slug": "ironthorns",
-          "cssClass": ".pokesprite.pokemon.ironthorns"
+          "slug": "iron-thorns",
+          "cssClass": ".pokesprite.pokemon.iron-thorns"
         },
         "shiny": {
           "name": "IronThorns-★",
-          "slug": "ironthorns",
-          "cssClass": ".pokesprite.pokemon.ironthorns.shiny",
+          "slug": "iron-thorns",
+          "cssClass": ".pokesprite.pokemon.iron-thorns.shiny",
           "modifiers": [
             "shiny"
           ]
@@ -79900,16 +79900,16 @@
       {
         "regular": {
           "name": "IronThorns-3DS",
-          "slug": "ironthorns",
-          "cssClass": ".pokesprite.pokemon.ironthorns.n3ds",
+          "slug": "iron-thorns",
+          "cssClass": ".pokesprite.pokemon.iron-thorns.n3ds",
           "modifiers": [
             "n3ds"
           ]
         },
         "shiny": {
           "name": "IronThorns-3DS-★",
-          "slug": "ironthorns",
-          "cssClass": ".pokesprite.pokemon.ironthorns.shiny.n3ds",
+          "slug": "iron-thorns",
+          "cssClass": ".pokesprite.pokemon.iron-thorns.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -80142,13 +80142,13 @@
       {
         "regular": {
           "name": "WoChien",
-          "slug": "wochien",
-          "cssClass": ".pokesprite.pokemon.wochien"
+          "slug": "wo-chien",
+          "cssClass": ".pokesprite.pokemon.wo-chien"
         },
         "shiny": {
           "name": "WoChien-★",
-          "slug": "wochien",
-          "cssClass": ".pokesprite.pokemon.wochien.shiny",
+          "slug": "wo-chien",
+          "cssClass": ".pokesprite.pokemon.wo-chien.shiny",
           "modifiers": [
             "shiny"
           ]
@@ -80157,16 +80157,16 @@
       {
         "regular": {
           "name": "WoChien-3DS",
-          "slug": "wochien",
-          "cssClass": ".pokesprite.pokemon.wochien.n3ds",
+          "slug": "wo-chien",
+          "cssClass": ".pokesprite.pokemon.wo-chien.n3ds",
           "modifiers": [
             "n3ds"
           ]
         },
         "shiny": {
           "name": "WoChien-3DS-★",
-          "slug": "wochien",
-          "cssClass": ".pokesprite.pokemon.wochien.shiny.n3ds",
+          "slug": "wo-chien",
+          "cssClass": ".pokesprite.pokemon.wo-chien.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -80182,13 +80182,13 @@
       {
         "regular": {
           "name": "ChienPao",
-          "slug": "chienpao",
-          "cssClass": ".pokesprite.pokemon.chienpao"
+          "slug": "chien-pao",
+          "cssClass": ".pokesprite.pokemon.chien-pao"
         },
         "shiny": {
           "name": "ChienPao-★",
-          "slug": "chienpao",
-          "cssClass": ".pokesprite.pokemon.chienpao.shiny",
+          "slug": "chien-pao",
+          "cssClass": ".pokesprite.pokemon.chien-pao.shiny",
           "modifiers": [
             "shiny"
           ]
@@ -80197,16 +80197,16 @@
       {
         "regular": {
           "name": "ChienPao-3DS",
-          "slug": "chienpao",
-          "cssClass": ".pokesprite.pokemon.chienpao.n3ds",
+          "slug": "chien-pao",
+          "cssClass": ".pokesprite.pokemon.chien-pao.n3ds",
           "modifiers": [
             "n3ds"
           ]
         },
         "shiny": {
           "name": "ChienPao-3DS-★",
-          "slug": "chienpao",
-          "cssClass": ".pokesprite.pokemon.chienpao.shiny.n3ds",
+          "slug": "chien-pao",
+          "cssClass": ".pokesprite.pokemon.chien-pao.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -80222,13 +80222,13 @@
       {
         "regular": {
           "name": "TingLu",
-          "slug": "tinglu",
-          "cssClass": ".pokesprite.pokemon.tinglu"
+          "slug": "ting-lu",
+          "cssClass": ".pokesprite.pokemon.ting-lu"
         },
         "shiny": {
           "name": "TingLu-★",
-          "slug": "tinglu",
-          "cssClass": ".pokesprite.pokemon.tinglu.shiny",
+          "slug": "ting-lu",
+          "cssClass": ".pokesprite.pokemon.ting-lu.shiny",
           "modifiers": [
             "shiny"
           ]
@@ -80237,16 +80237,16 @@
       {
         "regular": {
           "name": "TingLu-3DS",
-          "slug": "tinglu",
-          "cssClass": ".pokesprite.pokemon.tinglu.n3ds",
+          "slug": "ting-lu",
+          "cssClass": ".pokesprite.pokemon.ting-lu.n3ds",
           "modifiers": [
             "n3ds"
           ]
         },
         "shiny": {
           "name": "TingLu-3DS-★",
-          "slug": "tinglu",
-          "cssClass": ".pokesprite.pokemon.tinglu.shiny.n3ds",
+          "slug": "ting-lu",
+          "cssClass": ".pokesprite.pokemon.ting-lu.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -80262,13 +80262,13 @@
       {
         "regular": {
           "name": "ChiYu",
-          "slug": "chiyu",
-          "cssClass": ".pokesprite.pokemon.chiyu"
+          "slug": "chi-yu",
+          "cssClass": ".pokesprite.pokemon.chi-yu"
         },
         "shiny": {
           "name": "ChiYu-★",
-          "slug": "chiyu",
-          "cssClass": ".pokesprite.pokemon.chiyu.shiny",
+          "slug": "chi-yu",
+          "cssClass": ".pokesprite.pokemon.chi-yu.shiny",
           "modifiers": [
             "shiny"
           ]
@@ -80277,16 +80277,16 @@
       {
         "regular": {
           "name": "ChiYu-3DS",
-          "slug": "chiyu",
-          "cssClass": ".pokesprite.pokemon.chiyu.n3ds",
+          "slug": "chi-yu",
+          "cssClass": ".pokesprite.pokemon.chi-yu.n3ds",
           "modifiers": [
             "n3ds"
           ]
         },
         "shiny": {
           "name": "ChiYu-3DS-★",
-          "slug": "chiyu",
-          "cssClass": ".pokesprite.pokemon.chiyu.shiny.n3ds",
+          "slug": "chi-yu",
+          "cssClass": ".pokesprite.pokemon.chi-yu.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -80302,13 +80302,13 @@
       {
         "regular": {
           "name": "RoaringMoon",
-          "slug": "roaringmoon",
-          "cssClass": ".pokesprite.pokemon.roaringmoon"
+          "slug": "roaring-moon",
+          "cssClass": ".pokesprite.pokemon.roaring-moon"
         },
         "shiny": {
           "name": "RoaringMoon-★",
-          "slug": "roaringmoon",
-          "cssClass": ".pokesprite.pokemon.roaringmoon.shiny",
+          "slug": "roaring-moon",
+          "cssClass": ".pokesprite.pokemon.roaring-moon.shiny",
           "modifiers": [
             "shiny"
           ]
@@ -80317,16 +80317,16 @@
       {
         "regular": {
           "name": "RoaringMoon-3DS",
-          "slug": "roaringmoon",
-          "cssClass": ".pokesprite.pokemon.roaringmoon.n3ds",
+          "slug": "roaring-moon",
+          "cssClass": ".pokesprite.pokemon.roaring-moon.n3ds",
           "modifiers": [
             "n3ds"
           ]
         },
         "shiny": {
           "name": "RoaringMoon-3DS-★",
-          "slug": "roaringmoon",
-          "cssClass": ".pokesprite.pokemon.roaringmoon.shiny.n3ds",
+          "slug": "roaring-moon",
+          "cssClass": ".pokesprite.pokemon.roaring-moon.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -80342,13 +80342,13 @@
       {
         "regular": {
           "name": "IronValiant",
-          "slug": "ironvaliant",
-          "cssClass": ".pokesprite.pokemon.ironvaliant"
+          "slug": "iron-valiant",
+          "cssClass": ".pokesprite.pokemon.iron-valiant"
         },
         "shiny": {
           "name": "IronValiant-★",
-          "slug": "ironvaliant",
-          "cssClass": ".pokesprite.pokemon.ironvaliant.shiny",
+          "slug": "iron-valiant",
+          "cssClass": ".pokesprite.pokemon.iron-valiant.shiny",
           "modifiers": [
             "shiny"
           ]
@@ -80357,16 +80357,16 @@
       {
         "regular": {
           "name": "IronValiant-3DS",
-          "slug": "ironvaliant",
-          "cssClass": ".pokesprite.pokemon.ironvaliant.n3ds",
+          "slug": "iron-valiant",
+          "cssClass": ".pokesprite.pokemon.iron-valiant.n3ds",
           "modifiers": [
             "n3ds"
           ]
         },
         "shiny": {
           "name": "IronValiant-3DS-★",
-          "slug": "ironvaliant",
-          "cssClass": ".pokesprite.pokemon.ironvaliant.shiny.n3ds",
+          "slug": "iron-valiant",
+          "cssClass": ".pokesprite.pokemon.iron-valiant.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -80830,13 +80830,13 @@
       {
         "regular": {
           "name": "WalkingWake",
-          "slug": "walkingwake",
-          "cssClass": ".pokesprite.pokemon.walkingwake"
+          "slug": "walking-wake",
+          "cssClass": ".pokesprite.pokemon.walking-wake"
         },
         "shiny": {
           "name": "WalkingWake-★",
-          "slug": "walkingwake",
-          "cssClass": ".pokesprite.pokemon.walkingwake.shiny",
+          "slug": "walking-wake",
+          "cssClass": ".pokesprite.pokemon.walking-wake.shiny",
           "modifiers": [
             "shiny"
           ]
@@ -80845,16 +80845,16 @@
       {
         "regular": {
           "name": "WalkingWake-3DS",
-          "slug": "walkingwake",
-          "cssClass": ".pokesprite.pokemon.walkingwake.n3ds",
+          "slug": "walking-wake",
+          "cssClass": ".pokesprite.pokemon.walking-wake.n3ds",
           "modifiers": [
             "n3ds"
           ]
         },
         "shiny": {
           "name": "WalkingWake-3DS-★",
-          "slug": "walkingwake",
-          "cssClass": ".pokesprite.pokemon.walkingwake.shiny.n3ds",
+          "slug": "walking-wake",
+          "cssClass": ".pokesprite.pokemon.walking-wake.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -80870,13 +80870,13 @@
       {
         "regular": {
           "name": "IronLeaves",
-          "slug": "ironleaves",
-          "cssClass": ".pokesprite.pokemon.ironleaves"
+          "slug": "iron-leaves",
+          "cssClass": ".pokesprite.pokemon.iron-leaves"
         },
         "shiny": {
           "name": "IronLeaves-★",
-          "slug": "ironleaves",
-          "cssClass": ".pokesprite.pokemon.ironleaves.shiny",
+          "slug": "iron-leaves",
+          "cssClass": ".pokesprite.pokemon.iron-leaves.shiny",
           "modifiers": [
             "shiny"
           ]
@@ -80885,16 +80885,16 @@
       {
         "regular": {
           "name": "IronLeaves-3DS",
-          "slug": "ironleaves",
-          "cssClass": ".pokesprite.pokemon.ironleaves.n3ds",
+          "slug": "iron-leaves",
+          "cssClass": ".pokesprite.pokemon.iron-leaves.n3ds",
           "modifiers": [
             "n3ds"
           ]
         },
         "shiny": {
           "name": "IronLeaves-3DS-★",
-          "slug": "ironleaves",
-          "cssClass": ".pokesprite.pokemon.ironleaves.shiny.n3ds",
+          "slug": "iron-leaves",
+          "cssClass": ".pokesprite.pokemon.iron-leaves.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -81721,13 +81721,13 @@
       {
         "regular": {
           "name": "GougingFire",
-          "slug": "gougingfire",
-          "cssClass": ".pokesprite.pokemon.gougingfire"
+          "slug": "gouging-fire",
+          "cssClass": ".pokesprite.pokemon.gouging-fire"
         },
         "shiny": {
           "name": "GougingFire-★",
-          "slug": "gougingfire",
-          "cssClass": ".pokesprite.pokemon.gougingfire.shiny",
+          "slug": "gouging-fire",
+          "cssClass": ".pokesprite.pokemon.gouging-fire.shiny",
           "modifiers": [
             "shiny"
           ]
@@ -81736,16 +81736,16 @@
       {
         "regular": {
           "name": "GougingFire-3DS",
-          "slug": "gougingfire",
-          "cssClass": ".pokesprite.pokemon.gougingfire.n3ds",
+          "slug": "gouging-fire",
+          "cssClass": ".pokesprite.pokemon.gouging-fire.n3ds",
           "modifiers": [
             "n3ds"
           ]
         },
         "shiny": {
           "name": "GougingFire-3DS-★",
-          "slug": "gougingfire",
-          "cssClass": ".pokesprite.pokemon.gougingfire.shiny.n3ds",
+          "slug": "gouging-fire",
+          "cssClass": ".pokesprite.pokemon.gouging-fire.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -81761,13 +81761,13 @@
       {
         "regular": {
           "name": "RagingBolt",
-          "slug": "ragingbolt",
-          "cssClass": ".pokesprite.pokemon.ragingbolt"
+          "slug": "raging-bolt",
+          "cssClass": ".pokesprite.pokemon.raging-bolt"
         },
         "shiny": {
           "name": "RagingBolt-★",
-          "slug": "ragingbolt",
-          "cssClass": ".pokesprite.pokemon.ragingbolt.shiny",
+          "slug": "raging-bolt",
+          "cssClass": ".pokesprite.pokemon.raging-bolt.shiny",
           "modifiers": [
             "shiny"
           ]
@@ -81776,16 +81776,16 @@
       {
         "regular": {
           "name": "RagingBolt-3DS",
-          "slug": "ragingbolt",
-          "cssClass": ".pokesprite.pokemon.ragingbolt.n3ds",
+          "slug": "raging-bolt",
+          "cssClass": ".pokesprite.pokemon.raging-bolt.n3ds",
           "modifiers": [
             "n3ds"
           ]
         },
         "shiny": {
           "name": "RagingBolt-3DS-★",
-          "slug": "ragingbolt",
-          "cssClass": ".pokesprite.pokemon.ragingbolt.shiny.n3ds",
+          "slug": "raging-bolt",
+          "cssClass": ".pokesprite.pokemon.raging-bolt.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -81801,13 +81801,13 @@
       {
         "regular": {
           "name": "IronBoulder",
-          "slug": "ironboulder",
-          "cssClass": ".pokesprite.pokemon.ironboulder"
+          "slug": "iron-boulder",
+          "cssClass": ".pokesprite.pokemon.iron-boulder"
         },
         "shiny": {
           "name": "IronBoulder-★",
-          "slug": "ironboulder",
-          "cssClass": ".pokesprite.pokemon.ironboulder.shiny",
+          "slug": "iron-boulder",
+          "cssClass": ".pokesprite.pokemon.iron-boulder.shiny",
           "modifiers": [
             "shiny"
           ]
@@ -81816,16 +81816,16 @@
       {
         "regular": {
           "name": "IronBoulder-3DS",
-          "slug": "ironboulder",
-          "cssClass": ".pokesprite.pokemon.ironboulder.n3ds",
+          "slug": "iron-boulder",
+          "cssClass": ".pokesprite.pokemon.iron-boulder.n3ds",
           "modifiers": [
             "n3ds"
           ]
         },
         "shiny": {
           "name": "IronBoulder-3DS-★",
-          "slug": "ironboulder",
-          "cssClass": ".pokesprite.pokemon.ironboulder.shiny.n3ds",
+          "slug": "iron-boulder",
+          "cssClass": ".pokesprite.pokemon.iron-boulder.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -81841,13 +81841,13 @@
       {
         "regular": {
           "name": "IronCrown",
-          "slug": "ironcrown",
-          "cssClass": ".pokesprite.pokemon.ironcrown"
+          "slug": "iron-crown",
+          "cssClass": ".pokesprite.pokemon.iron-crown"
         },
         "shiny": {
           "name": "IronCrown-★",
-          "slug": "ironcrown",
-          "cssClass": ".pokesprite.pokemon.ironcrown.shiny",
+          "slug": "iron-crown",
+          "cssClass": ".pokesprite.pokemon.iron-crown.shiny",
           "modifiers": [
             "shiny"
           ]
@@ -81856,16 +81856,16 @@
       {
         "regular": {
           "name": "IronCrown-3DS",
-          "slug": "ironcrown",
-          "cssClass": ".pokesprite.pokemon.ironcrown.n3ds",
+          "slug": "iron-crown",
+          "cssClass": ".pokesprite.pokemon.iron-crown.n3ds",
           "modifiers": [
             "n3ds"
           ]
         },
         "shiny": {
           "name": "IronCrown-3DS-★",
-          "slug": "ironcrown",
-          "cssClass": ".pokesprite.pokemon.ironcrown.shiny.n3ds",
+          "slug": "iron-crown",
+          "cssClass": ".pokesprite.pokemon.iron-crown.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"

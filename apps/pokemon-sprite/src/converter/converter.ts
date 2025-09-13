@@ -84,7 +84,21 @@ function getIconMeta(iconName: string): IconMeta {
 
   const result: IconMeta = {name: iconName, slug: '', cssClass: ''};
 
-  let parts = new Set(iconName.toLowerCase().split('-'));
+  let parts: string[] | Set<string> = iconName.split('-');
+
+  parts[0] = parts[0]
+    .replace(/Nidoran♀/g, 'Nidoran-f')
+    .replace(/Nidoran♂/g, 'Nidoran-m')
+    .replace(/([a-z0-9])([A-Z])/g, '$1-$2')
+    .replace(/([A-Z])([A-Z][a-z])/g, '$1-$2')
+    .replace(/é/g, 'e');
+
+
+  parts = parts.map((s, index) => index === 0 ? s.toLowerCase() :
+    s
+    // .replace(/([a-z0-9])([A-Z])/g, '$1-$2')
+    .toLowerCase());
+  parts = new Set(parts);
 
   const categories = parts.intersection(ICON_CATEGORIES);
 
