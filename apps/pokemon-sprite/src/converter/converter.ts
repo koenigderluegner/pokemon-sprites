@@ -94,6 +94,9 @@ function getIconMeta(iconName: string): IconMeta {
   let parts: string[] | Set<string> = iconName.split('-');
 
   parts[0] = parts[0]
+    .replace(/Jangmoo/g, 'Jangmo-o')
+    .replace(/Hakamoo/g, 'Hakamo-o')
+    .replace(/Kommoo/g, 'Kommo-o')
     .replace(/Nidoran♀/g, 'Nidoran-f')
     .replace(/Nidoran♂/g, 'Nidoran-m')
     .replace(/([a-z0-9])([A-Z])/g, '$1-$2')

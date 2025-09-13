@@ -68924,13 +68924,13 @@
       {
         "regular": {
           "name": "Jangmoo",
-          "slug": "jangmoo",
-          "cssClass": ".pokesprite.pokemon.jangmoo"
+          "slug": "jangmo-o",
+          "cssClass": ".pokesprite.pokemon.jangmo-o"
         },
         "shiny": {
           "name": "Jangmoo-★",
-          "slug": "jangmoo",
-          "cssClass": ".pokesprite.pokemon.jangmoo.shiny",
+          "slug": "jangmo-o",
+          "cssClass": ".pokesprite.pokemon.jangmo-o.shiny",
           "modifiers": [
             "shiny"
           ]
@@ -68945,13 +68945,13 @@
       {
         "regular": {
           "name": "Hakamoo",
-          "slug": "hakamoo",
-          "cssClass": ".pokesprite.pokemon.hakamoo"
+          "slug": "hakamo-o",
+          "cssClass": ".pokesprite.pokemon.hakamo-o"
         },
         "shiny": {
           "name": "Hakamoo-★",
-          "slug": "hakamoo",
-          "cssClass": ".pokesprite.pokemon.hakamoo.shiny",
+          "slug": "hakamo-o",
+          "cssClass": ".pokesprite.pokemon.hakamo-o.shiny",
           "modifiers": [
             "shiny"
           ]
@@ -68960,16 +68960,16 @@
       {
         "regular": {
           "name": "Hakamoo-3DS",
-          "slug": "hakamoo",
-          "cssClass": ".pokesprite.pokemon.hakamoo.n3ds",
+          "slug": "hakamo-o",
+          "cssClass": ".pokesprite.pokemon.hakamo-o.n3ds",
           "modifiers": [
             "n3ds"
           ]
         },
         "shiny": {
           "name": "Hakamoo-3DS-★",
-          "slug": "hakamoo",
-          "cssClass": ".pokesprite.pokemon.hakamoo.shiny.n3ds",
+          "slug": "hakamo-o",
+          "cssClass": ".pokesprite.pokemon.hakamo-o.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -68985,13 +68985,13 @@
       {
         "regular": {
           "name": "Kommoo",
-          "slug": "kommoo",
-          "cssClass": ".pokesprite.pokemon.kommoo"
+          "slug": "kommo-o",
+          "cssClass": ".pokesprite.pokemon.kommo-o"
         },
         "shiny": {
           "name": "Kommoo-★",
-          "slug": "kommoo",
-          "cssClass": ".pokesprite.pokemon.kommoo.shiny",
+          "slug": "kommo-o",
+          "cssClass": ".pokesprite.pokemon.kommo-o.shiny",
           "modifiers": [
             "shiny"
           ]
@@ -69000,16 +69000,16 @@
       {
         "regular": {
           "name": "Kommoo-3DS",
-          "slug": "kommoo",
-          "cssClass": ".pokesprite.pokemon.kommoo.n3ds",
+          "slug": "kommo-o",
+          "cssClass": ".pokesprite.pokemon.kommo-o.n3ds",
           "modifiers": [
             "n3ds"
           ]
         },
         "shiny": {
           "name": "Kommoo-3DS-★",
-          "slug": "kommoo",
-          "cssClass": ".pokesprite.pokemon.kommoo.shiny.n3ds",
+          "slug": "kommo-o",
+          "cssClass": ".pokesprite.pokemon.kommo-o.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
