@@ -12,7 +12,7 @@ const entries: string[] = fg.sync([fg.convertPathToPattern(spritePath + '*.png')
 let iconBaseNames = entries.map(s => path.basename(s, assetFileEnding));
 
 const ICON_CATEGORIES = new Set(['go', 'bonus', 'extra']);
-const ICON_MODIFIERS = new Set(['★', '3ds', 'switch']);
+const ICON_MODIFIERS = new Set(['★', '3-ds', 'switch']);
 
 
 const results: {
@@ -77,6 +77,13 @@ results.reverse().forEach(result => {
 
 });
 
+Object.values(pairs).forEach((value) => {
+
+  if(!value.icons.some(iconPair => iconPair.regular.name === value.species)){
+    console.log('missing regular icon for ' + value.species);
+  }
+
+})
 
 fs.writeFileSync(path.join(__dirname, '../assets/converter/converted-pokemon-entries.json'), JSON.stringify(pairs, null, 2));
 
@@ -96,7 +103,7 @@ function getIconMeta(iconName: string): IconMeta {
 
   parts = parts.map((s, index) => index === 0 ? s.toLowerCase() :
     s
-    // .replace(/([a-z0-9])([A-Z])/g, '$1-$2')
+     .replace(/([a-z0-9])([A-Z])/g, '$1-$2')
     .toLowerCase());
   parts = new Set(parts);
 
@@ -115,8 +122,8 @@ function getIconMeta(iconName: string): IconMeta {
       modifiers.delete('★');
       modifiers.add('shiny');
     }
-    if (modifiers.has('3ds')) {
-      modifiers.delete('3ds');
+    if (modifiers.has('3-ds')) {
+      modifiers.delete('3-ds');
       // css classes should not start with a number
       modifiers.add('n3ds');
     }
