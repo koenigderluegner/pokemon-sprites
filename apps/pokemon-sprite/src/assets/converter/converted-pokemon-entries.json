@@ -42885,14 +42885,14 @@
       },
       {
         "regular": {
-          "name": "Wormadam-Sand",
-          "slug": "wormadam-sand",
-          "cssClass": ".pokesprite.pokemon.wormadam-sand"
+          "name": "Wormadam-Sandy",
+          "slug": "wormadam-sandy",
+          "cssClass": ".pokesprite.pokemon.wormadam-sandy"
         },
         "shiny": {
-          "name": "Wormadam-Sand-★",
-          "slug": "wormadam-sand",
-          "cssClass": ".pokesprite.pokemon.wormadam-sand.shiny",
+          "name": "Wormadam-Sandy-★",
+          "slug": "wormadam-sandy",
+          "cssClass": ".pokesprite.pokemon.wormadam-sandy.shiny",
           "modifiers": [
             "shiny"
           ]
@@ -42900,17 +42900,17 @@
       },
       {
         "regular": {
-          "name": "Wormadam-Sand-3DS",
-          "slug": "wormadam-sand",
-          "cssClass": ".pokesprite.pokemon.wormadam-sand.n3ds",
+          "name": "Wormadam-Sandy-3DS",
+          "slug": "wormadam-sandy",
+          "cssClass": ".pokesprite.pokemon.wormadam-sandy.n3ds",
           "modifiers": [
             "n3ds"
           ]
         },
         "shiny": {
-          "name": "Wormadam-Sand-3DS-★",
-          "slug": "wormadam-sand",
-          "cssClass": ".pokesprite.pokemon.wormadam-sand.shiny.n3ds",
+          "name": "Wormadam-Sandy-3DS-★",
+          "slug": "wormadam-sandy",
+          "cssClass": ".pokesprite.pokemon.wormadam-sandy.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -53728,13 +53728,13 @@
       {
         "regular": {
           "name": "Basculin-Bluestriped",
-          "slug": "basculin-bluestriped",
-          "cssClass": ".pokesprite.pokemon.basculin-bluestriped"
+          "slug": "basculin-blue-striped",
+          "cssClass": ".pokesprite.pokemon.basculin-blue-striped"
         },
         "shiny": {
           "name": "Basculin-Bluestriped-★",
-          "slug": "basculin-bluestriped",
-          "cssClass": ".pokesprite.pokemon.basculin-bluestriped.shiny",
+          "slug": "basculin-blue-striped",
+          "cssClass": ".pokesprite.pokemon.basculin-blue-striped.shiny",
           "modifiers": [
             "shiny"
           ]
@@ -53743,16 +53743,16 @@
       {
         "regular": {
           "name": "Basculin-Bluestriped-3DS",
-          "slug": "basculin-bluestriped",
-          "cssClass": ".pokesprite.pokemon.basculin-bluestriped.n3ds",
+          "slug": "basculin-blue-striped",
+          "cssClass": ".pokesprite.pokemon.basculin-blue-striped.n3ds",
           "modifiers": [
             "n3ds"
           ]
         },
         "shiny": {
           "name": "Basculin-Bluestriped-3DS-★",
-          "slug": "basculin-bluestriped",
-          "cssClass": ".pokesprite.pokemon.basculin-bluestriped.shiny.n3ds",
+          "slug": "basculin-blue-striped",
+          "cssClass": ".pokesprite.pokemon.basculin-blue-striped.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -53762,13 +53762,13 @@
       {
         "regular": {
           "name": "Basculin-Redstriped",
-          "slug": "basculin-redstriped",
-          "cssClass": ".pokesprite.pokemon.basculin-redstriped"
+          "slug": "basculin-red-striped",
+          "cssClass": ".pokesprite.pokemon.basculin-red-striped"
         },
         "shiny": {
           "name": "Basculin-Redstriped-★",
-          "slug": "basculin-redstriped",
-          "cssClass": ".pokesprite.pokemon.basculin-redstriped.shiny",
+          "slug": "basculin-red-striped",
+          "cssClass": ".pokesprite.pokemon.basculin-red-striped.shiny",
           "modifiers": [
             "shiny"
           ]
@@ -53777,16 +53777,16 @@
       {
         "regular": {
           "name": "Basculin-Redstriped-3DS",
-          "slug": "basculin-redstriped",
-          "cssClass": ".pokesprite.pokemon.basculin-redstriped.n3ds",
+          "slug": "basculin-red-striped",
+          "cssClass": ".pokesprite.pokemon.basculin-red-striped.n3ds",
           "modifiers": [
             "n3ds"
           ]
         },
         "shiny": {
           "name": "Basculin-Redstriped-3DS-★",
-          "slug": "basculin-redstriped",
-          "cssClass": ".pokesprite.pokemon.basculin-redstriped.shiny.n3ds",
+          "slug": "basculin-red-striped",
+          "cssClass": ".pokesprite.pokemon.basculin-red-striped.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -53796,13 +53796,13 @@
       {
         "regular": {
           "name": "Basculin-Whitestriped",
-          "slug": "basculin-whitestriped",
-          "cssClass": ".pokesprite.pokemon.basculin-whitestriped"
+          "slug": "basculin-white-striped",
+          "cssClass": ".pokesprite.pokemon.basculin-white-striped"
         },
         "shiny": {
           "name": "Basculin-Whitestriped-★",
-          "slug": "basculin-whitestriped",
-          "cssClass": ".pokesprite.pokemon.basculin-whitestriped.shiny",
+          "slug": "basculin-white-striped",
+          "cssClass": ".pokesprite.pokemon.basculin-white-striped.shiny",
           "modifiers": [
             "shiny"
           ]
@@ -53811,16 +53811,16 @@
       {
         "regular": {
           "name": "Basculin-Whitestriped-3DS",
-          "slug": "basculin-whitestriped",
-          "cssClass": ".pokesprite.pokemon.basculin-whitestriped.n3ds",
+          "slug": "basculin-white-striped",
+          "cssClass": ".pokesprite.pokemon.basculin-white-striped.n3ds",
           "modifiers": [
             "n3ds"
           ]
         },
         "shiny": {
           "name": "Basculin-Whitestriped-3DS-★",
-          "slug": "basculin-whitestriped",
-          "cssClass": ".pokesprite.pokemon.basculin-whitestriped.shiny.n3ds",
+          "slug": "basculin-white-striped",
+          "cssClass": ".pokesprite.pokemon.basculin-white-striped.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -70262,13 +70262,13 @@
       {
         "regular": {
           "name": "Magearna-OriginalLivery",
-          "slug": "magearna-original-livery",
-          "cssClass": ".pokesprite.pokemon.magearna-original-livery"
+          "slug": "magearna-original",
+          "cssClass": ".pokesprite.pokemon.magearna-original"
         },
         "shiny": {
           "name": "Magearna-OriginalLivery-★",
-          "slug": "magearna-original-livery",
-          "cssClass": ".pokesprite.pokemon.magearna-original-livery.shiny",
+          "slug": "magearna-original",
+          "cssClass": ".pokesprite.pokemon.magearna-original.shiny",
           "modifiers": [
             "shiny"
           ]
@@ -70277,16 +70277,16 @@
       {
         "regular": {
           "name": "Magearna-OriginalLivery-3DS",
-          "slug": "magearna-original-livery",
-          "cssClass": ".pokesprite.pokemon.magearna-original-livery.n3ds",
+          "slug": "magearna-original",
+          "cssClass": ".pokesprite.pokemon.magearna-original.n3ds",
           "modifiers": [
             "n3ds"
           ]
         },
         "shiny": {
           "name": "Magearna-OriginalLivery-3DS-★",
-          "slug": "magearna-original-livery",
-          "cssClass": ".pokesprite.pokemon.magearna-original-livery.shiny.n3ds",
+          "slug": "magearna-original",
+          "cssClass": ".pokesprite.pokemon.magearna-original.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -70330,16 +70330,16 @@
       {
         "regular": {
           "name": "Magearna-OriginalLivery-Bonus-PoweredOff",
-          "slug": "magearna-original-livery-powered-off",
-          "cssClass": ".pokesprite.pokemon.magearna-original-livery-powered-off",
+          "slug": "magearna-original-powered-off",
+          "cssClass": ".pokesprite.pokemon.magearna-original-powered-off",
           "categories": [
             "bonus"
           ]
         },
         "shiny": {
           "name": "Magearna-OriginalLivery-Bonus-PoweredOff-★",
-          "slug": "magearna-original-livery-powered-off",
-          "cssClass": ".pokesprite.pokemon.magearna-original-livery-powered-off.shiny",
+          "slug": "magearna-original-powered-off",
+          "cssClass": ".pokesprite.pokemon.magearna-original-powered-off.shiny",
           "modifiers": [
             "shiny"
           ],
@@ -70351,8 +70351,8 @@
       {
         "regular": {
           "name": "Magearna-OriginalLivery-Bonus-PoweredOff-3DS",
-          "slug": "magearna-original-livery-powered-off",
-          "cssClass": ".pokesprite.pokemon.magearna-original-livery-powered-off.n3ds",
+          "slug": "magearna-original-powered-off",
+          "cssClass": ".pokesprite.pokemon.magearna-original-powered-off.n3ds",
           "modifiers": [
             "n3ds"
           ],
@@ -70362,8 +70362,8 @@
         },
         "shiny": {
           "name": "Magearna-OriginalLivery-Bonus-PoweredOff-3DS-★",
-          "slug": "magearna-original-livery-powered-off",
-          "cssClass": ".pokesprite.pokemon.magearna-original-livery-powered-off.shiny.n3ds",
+          "slug": "magearna-original-powered-off",
+          "cssClass": ".pokesprite.pokemon.magearna-original-powered-off.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -70376,16 +70376,16 @@
       {
         "regular": {
           "name": "Magearna-OriginalLivery-Bonus-Sleeping",
-          "slug": "magearna-original-livery-sleeping",
-          "cssClass": ".pokesprite.pokemon.magearna-original-livery-sleeping",
+          "slug": "magearna-original-sleeping",
+          "cssClass": ".pokesprite.pokemon.magearna-original-sleeping",
           "categories": [
             "bonus"
           ]
         },
         "shiny": {
           "name": "Magearna-OriginalLivery-Bonus-Sleeping-★",
-          "slug": "magearna-original-livery-sleeping",
-          "cssClass": ".pokesprite.pokemon.magearna-original-livery-sleeping.shiny",
+          "slug": "magearna-original-sleeping",
+          "cssClass": ".pokesprite.pokemon.magearna-original-sleeping.shiny",
           "modifiers": [
             "shiny"
           ],
@@ -70397,8 +70397,8 @@
       {
         "regular": {
           "name": "Magearna-OriginalLivery-Bonus-Sleeping-3DS",
-          "slug": "magearna-original-livery-sleeping",
-          "cssClass": ".pokesprite.pokemon.magearna-original-livery-sleeping.n3ds",
+          "slug": "magearna-original-sleeping",
+          "cssClass": ".pokesprite.pokemon.magearna-original-sleeping.n3ds",
           "modifiers": [
             "n3ds"
           ],
@@ -70408,8 +70408,8 @@
         },
         "shiny": {
           "name": "Magearna-OriginalLivery-Bonus-Sleeping-3DS-★",
-          "slug": "magearna-original-livery-sleeping",
-          "cssClass": ".pokesprite.pokemon.magearna-original-livery-sleeping.shiny.n3ds",
+          "slug": "magearna-original-sleeping",
+          "cssClass": ".pokesprite.pokemon.magearna-original-sleeping.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -72800,13 +72800,13 @@
       {
         "regular": {
           "name": "Toxtricity-Lowkey",
-          "slug": "toxtricity-lowkey",
-          "cssClass": ".pokesprite.pokemon.toxtricity-lowkey"
+          "slug": "toxtricity-low-key",
+          "cssClass": ".pokesprite.pokemon.toxtricity-low-key"
         },
         "shiny": {
           "name": "Toxtricity-Lowkey-★",
-          "slug": "toxtricity-lowkey",
-          "cssClass": ".pokesprite.pokemon.toxtricity-lowkey.shiny",
+          "slug": "toxtricity-low-key",
+          "cssClass": ".pokesprite.pokemon.toxtricity-low-key.shiny",
           "modifiers": [
             "shiny"
           ]
@@ -72815,16 +72815,16 @@
       {
         "regular": {
           "name": "Toxtricity-Lowkey-3DS",
-          "slug": "toxtricity-lowkey",
-          "cssClass": ".pokesprite.pokemon.toxtricity-lowkey.n3ds",
+          "slug": "toxtricity-low-key",
+          "cssClass": ".pokesprite.pokemon.toxtricity-low-key.n3ds",
           "modifiers": [
             "n3ds"
           ]
         },
         "shiny": {
           "name": "Toxtricity-Lowkey-3DS-★",
-          "slug": "toxtricity-lowkey",
-          "cssClass": ".pokesprite.pokemon.toxtricity-lowkey.shiny.n3ds",
+          "slug": "toxtricity-low-key",
+          "cssClass": ".pokesprite.pokemon.toxtricity-low-key.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -77494,13 +77494,13 @@
       {
         "regular": {
           "name": "Urshifu-Rapid",
-          "slug": "urshifu-rapid",
-          "cssClass": ".pokesprite.pokemon.urshifu-rapid"
+          "slug": "urshifu-rapid-strike",
+          "cssClass": ".pokesprite.pokemon.urshifu-rapid-strike"
         },
         "shiny": {
           "name": "Urshifu-Rapid-★",
-          "slug": "urshifu-rapid",
-          "cssClass": ".pokesprite.pokemon.urshifu-rapid.shiny",
+          "slug": "urshifu-rapid-strike",
+          "cssClass": ".pokesprite.pokemon.urshifu-rapid-strike.shiny",
           "modifiers": [
             "shiny"
           ]
@@ -77509,16 +77509,16 @@
       {
         "regular": {
           "name": "Urshifu-Rapid-3DS",
-          "slug": "urshifu-rapid",
-          "cssClass": ".pokesprite.pokemon.urshifu-rapid.n3ds",
+          "slug": "urshifu-rapid-strike",
+          "cssClass": ".pokesprite.pokemon.urshifu-rapid-strike.n3ds",
           "modifiers": [
             "n3ds"
           ]
         },
         "shiny": {
           "name": "Urshifu-Rapid-3DS-★",
-          "slug": "urshifu-rapid",
-          "cssClass": ".pokesprite.pokemon.urshifu-rapid.shiny.n3ds",
+          "slug": "urshifu-rapid-strike",
+          "cssClass": ".pokesprite.pokemon.urshifu-rapid-strike.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -77528,13 +77528,13 @@
       {
         "regular": {
           "name": "Urshifu-Rapid-Gmax",
-          "slug": "urshifu-rapid-gmax",
-          "cssClass": ".pokesprite.pokemon.urshifu-rapid-gmax"
+          "slug": "urshifu-rapid-strike-gmax",
+          "cssClass": ".pokesprite.pokemon.urshifu-rapid-strike-gmax"
         },
         "shiny": {
           "name": "Urshifu-Rapid-Gmax-★",
-          "slug": "urshifu-rapid-gmax",
-          "cssClass": ".pokesprite.pokemon.urshifu-rapid-gmax.shiny",
+          "slug": "urshifu-rapid-strike-gmax",
+          "cssClass": ".pokesprite.pokemon.urshifu-rapid-strike-gmax.shiny",
           "modifiers": [
             "shiny"
           ]
@@ -77543,16 +77543,16 @@
       {
         "regular": {
           "name": "Urshifu-Rapid-Gmax-3DS",
-          "slug": "urshifu-rapid-gmax",
-          "cssClass": ".pokesprite.pokemon.urshifu-rapid-gmax.n3ds",
+          "slug": "urshifu-rapid-strike-gmax",
+          "cssClass": ".pokesprite.pokemon.urshifu-rapid-strike-gmax.n3ds",
           "modifiers": [
             "n3ds"
           ]
         },
         "shiny": {
           "name": "Urshifu-Rapid-Gmax-3DS-★",
-          "slug": "urshifu-rapid-gmax",
-          "cssClass": ".pokesprite.pokemon.urshifu-rapid-gmax.shiny.n3ds",
+          "slug": "urshifu-rapid-strike-gmax",
+          "cssClass": ".pokesprite.pokemon.urshifu-rapid-strike-gmax.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -77562,13 +77562,13 @@
       {
         "regular": {
           "name": "Urshifu-Single",
-          "slug": "urshifu-single",
-          "cssClass": ".pokesprite.pokemon.urshifu-single"
+          "slug": "urshifu-single-strike",
+          "cssClass": ".pokesprite.pokemon.urshifu-single-strike"
         },
         "shiny": {
           "name": "Urshifu-Single-★",
-          "slug": "urshifu-single",
-          "cssClass": ".pokesprite.pokemon.urshifu-single.shiny",
+          "slug": "urshifu-single-strike",
+          "cssClass": ".pokesprite.pokemon.urshifu-single-strike.shiny",
           "modifiers": [
             "shiny"
           ]
@@ -77577,16 +77577,16 @@
       {
         "regular": {
           "name": "Urshifu-Single-3DS",
-          "slug": "urshifu-single",
-          "cssClass": ".pokesprite.pokemon.urshifu-single.n3ds",
+          "slug": "urshifu-single-strike",
+          "cssClass": ".pokesprite.pokemon.urshifu-single-strike.n3ds",
           "modifiers": [
             "n3ds"
           ]
         },
         "shiny": {
           "name": "Urshifu-Single-3DS-★",
-          "slug": "urshifu-single",
-          "cssClass": ".pokesprite.pokemon.urshifu-single.shiny.n3ds",
+          "slug": "urshifu-single-strike",
+          "cssClass": ".pokesprite.pokemon.urshifu-single-strike.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -77596,13 +77596,13 @@
       {
         "regular": {
           "name": "Urshifu-Single-Gmax",
-          "slug": "urshifu-single-gmax",
-          "cssClass": ".pokesprite.pokemon.urshifu-single-gmax"
+          "slug": "urshifu-single-strike-gmax",
+          "cssClass": ".pokesprite.pokemon.urshifu-single-strike-gmax"
         },
         "shiny": {
           "name": "Urshifu-Single-Gmax-★",
-          "slug": "urshifu-single-gmax",
-          "cssClass": ".pokesprite.pokemon.urshifu-single-gmax.shiny",
+          "slug": "urshifu-single-strike-gmax",
+          "cssClass": ".pokesprite.pokemon.urshifu-single-strike-gmax.shiny",
           "modifiers": [
             "shiny"
           ]
@@ -77611,16 +77611,16 @@
       {
         "regular": {
           "name": "Urshifu-Single-Gmax-3DS",
-          "slug": "urshifu-single-gmax",
-          "cssClass": ".pokesprite.pokemon.urshifu-single-gmax.n3ds",
+          "slug": "urshifu-single-strike-gmax",
+          "cssClass": ".pokesprite.pokemon.urshifu-single-strike-gmax.n3ds",
           "modifiers": [
             "n3ds"
           ]
         },
         "shiny": {
           "name": "Urshifu-Single-Gmax-3DS-★",
-          "slug": "urshifu-single-gmax",
-          "cssClass": ".pokesprite.pokemon.urshifu-single-gmax.shiny.n3ds",
+          "slug": "urshifu-single-strike-gmax",
+          "cssClass": ".pokesprite.pokemon.urshifu-single-strike-gmax.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -77630,16 +77630,16 @@
       {
         "regular": {
           "name": "Urshifu-Rapid-Bonus-OutsideBattle",
-          "slug": "urshifu-rapid-outside-battle",
-          "cssClass": ".pokesprite.pokemon.urshifu-rapid-outside-battle",
+          "slug": "urshifu-rapid-strike-outside-battle",
+          "cssClass": ".pokesprite.pokemon.urshifu-rapid-strike-outside-battle",
           "categories": [
             "bonus"
           ]
         },
         "shiny": {
           "name": "Urshifu-Rapid-Bonus-OutsideBattle-★",
-          "slug": "urshifu-rapid-outside-battle",
-          "cssClass": ".pokesprite.pokemon.urshifu-rapid-outside-battle.shiny",
+          "slug": "urshifu-rapid-strike-outside-battle",
+          "cssClass": ".pokesprite.pokemon.urshifu-rapid-strike-outside-battle.shiny",
           "modifiers": [
             "shiny"
           ],
@@ -77651,8 +77651,8 @@
       {
         "regular": {
           "name": "Urshifu-Rapid-Bonus-OutsideBattle-3DS",
-          "slug": "urshifu-rapid-outside-battle",
-          "cssClass": ".pokesprite.pokemon.urshifu-rapid-outside-battle.n3ds",
+          "slug": "urshifu-rapid-strike-outside-battle",
+          "cssClass": ".pokesprite.pokemon.urshifu-rapid-strike-outside-battle.n3ds",
           "modifiers": [
             "n3ds"
           ],
@@ -77662,8 +77662,8 @@
         },
         "shiny": {
           "name": "Urshifu-Rapid-Bonus-OutsideBattle-3DS-★",
-          "slug": "urshifu-rapid-outside-battle",
-          "cssClass": ".pokesprite.pokemon.urshifu-rapid-outside-battle.shiny.n3ds",
+          "slug": "urshifu-rapid-strike-outside-battle",
+          "cssClass": ".pokesprite.pokemon.urshifu-rapid-strike-outside-battle.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -77676,16 +77676,16 @@
       {
         "regular": {
           "name": "Urshifu-Single-Bonus-OutsideBattle",
-          "slug": "urshifu-single-outside-battle",
-          "cssClass": ".pokesprite.pokemon.urshifu-single-outside-battle",
+          "slug": "urshifu-single-strike-outside-battle",
+          "cssClass": ".pokesprite.pokemon.urshifu-single-strike-outside-battle",
           "categories": [
             "bonus"
           ]
         },
         "shiny": {
           "name": "Urshifu-Single-Bonus-OutsideBattle-★",
-          "slug": "urshifu-single-outside-battle",
-          "cssClass": ".pokesprite.pokemon.urshifu-single-outside-battle.shiny",
+          "slug": "urshifu-single-strike-outside-battle",
+          "cssClass": ".pokesprite.pokemon.urshifu-single-strike-outside-battle.shiny",
           "modifiers": [
             "shiny"
           ],
@@ -77697,8 +77697,8 @@
       {
         "regular": {
           "name": "Urshifu-Single-Bonus-OutsideBattle-3DS",
-          "slug": "urshifu-single-outside-battle",
-          "cssClass": ".pokesprite.pokemon.urshifu-single-outside-battle.n3ds",
+          "slug": "urshifu-single-strike-outside-battle",
+          "cssClass": ".pokesprite.pokemon.urshifu-single-strike-outside-battle.n3ds",
           "modifiers": [
             "n3ds"
           ],
@@ -77708,8 +77708,8 @@
         },
         "shiny": {
           "name": "Urshifu-Single-Bonus-OutsideBattle-3DS-★",
-          "slug": "urshifu-single-outside-battle",
-          "cssClass": ".pokesprite.pokemon.urshifu-single-outside-battle.shiny.n3ds",
+          "slug": "urshifu-single-strike-outside-battle",
+          "cssClass": ".pokesprite.pokemon.urshifu-single-strike-outside-battle.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -79269,13 +79269,13 @@
       {
         "regular": {
           "name": "Maushold-FamilyofFour",
-          "slug": "maushold-familyof-four",
-          "cssClass": ".pokesprite.pokemon.maushold-familyof-four"
+          "slug": "maushold-family-of-four",
+          "cssClass": ".pokesprite.pokemon.maushold-family-of-four"
         },
         "shiny": {
           "name": "Maushold-FamilyofFour-★",
-          "slug": "maushold-familyof-four",
-          "cssClass": ".pokesprite.pokemon.maushold-familyof-four.shiny",
+          "slug": "maushold-family-of-four",
+          "cssClass": ".pokesprite.pokemon.maushold-family-of-four.shiny",
           "modifiers": [
             "shiny"
           ]
@@ -79284,16 +79284,16 @@
       {
         "regular": {
           "name": "Maushold-FamilyofFour-3DS",
-          "slug": "maushold-familyof-four",
-          "cssClass": ".pokesprite.pokemon.maushold-familyof-four.n3ds",
+          "slug": "maushold-family-of-four",
+          "cssClass": ".pokesprite.pokemon.maushold-family-of-four.n3ds",
           "modifiers": [
             "n3ds"
           ]
         },
         "shiny": {
           "name": "Maushold-FamilyofFour-3DS-★",
-          "slug": "maushold-familyof-four",
-          "cssClass": ".pokesprite.pokemon.maushold-familyof-four.shiny.n3ds",
+          "slug": "maushold-family-of-four",
+          "cssClass": ".pokesprite.pokemon.maushold-family-of-four.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -79303,13 +79303,13 @@
       {
         "regular": {
           "name": "Maushold-FamilyofThree",
-          "slug": "maushold-familyof-three",
-          "cssClass": ".pokesprite.pokemon.maushold-familyof-three"
+          "slug": "maushold-family-of-three",
+          "cssClass": ".pokesprite.pokemon.maushold-family-of-three"
         },
         "shiny": {
           "name": "Maushold-FamilyofThree-★",
-          "slug": "maushold-familyof-three",
-          "cssClass": ".pokesprite.pokemon.maushold-familyof-three.shiny",
+          "slug": "maushold-family-of-three",
+          "cssClass": ".pokesprite.pokemon.maushold-family-of-three.shiny",
           "modifiers": [
             "shiny"
           ]
@@ -79318,16 +79318,16 @@
       {
         "regular": {
           "name": "Maushold-FamilyofThree-3DS",
-          "slug": "maushold-familyof-three",
-          "cssClass": ".pokesprite.pokemon.maushold-familyof-three.n3ds",
+          "slug": "maushold-family-of-three",
+          "cssClass": ".pokesprite.pokemon.maushold-family-of-three.n3ds",
           "modifiers": [
             "n3ds"
           ]
         },
         "shiny": {
           "name": "Maushold-FamilyofThree-3DS-★",
-          "slug": "maushold-familyof-three",
-          "cssClass": ".pokesprite.pokemon.maushold-familyof-three.shiny.n3ds",
+          "slug": "maushold-family-of-three",
+          "cssClass": ".pokesprite.pokemon.maushold-family-of-three.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -80079,13 +80079,13 @@
       {
         "regular": {
           "name": "Dudunsparce-Threesegment",
-          "slug": "dudunsparce-threesegment",
-          "cssClass": ".pokesprite.pokemon.dudunsparce-threesegment"
+          "slug": "dudunsparce-three-segment",
+          "cssClass": ".pokesprite.pokemon.dudunsparce-three-segment"
         },
         "shiny": {
           "name": "Dudunsparce-Threesegment-★",
-          "slug": "dudunsparce-threesegment",
-          "cssClass": ".pokesprite.pokemon.dudunsparce-threesegment.shiny",
+          "slug": "dudunsparce-three-segment",
+          "cssClass": ".pokesprite.pokemon.dudunsparce-three-segment.shiny",
           "modifiers": [
             "shiny"
           ]
@@ -80094,16 +80094,16 @@
       {
         "regular": {
           "name": "Dudunsparce-Threesegment-3DS",
-          "slug": "dudunsparce-threesegment",
-          "cssClass": ".pokesprite.pokemon.dudunsparce-threesegment.n3ds",
+          "slug": "dudunsparce-three-segment",
+          "cssClass": ".pokesprite.pokemon.dudunsparce-three-segment.n3ds",
           "modifiers": [
             "n3ds"
           ]
         },
         "shiny": {
           "name": "Dudunsparce-Threesegment-3DS-★",
-          "slug": "dudunsparce-threesegment",
-          "cssClass": ".pokesprite.pokemon.dudunsparce-threesegment.shiny.n3ds",
+          "slug": "dudunsparce-three-segment",
+          "cssClass": ".pokesprite.pokemon.dudunsparce-three-segment.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"

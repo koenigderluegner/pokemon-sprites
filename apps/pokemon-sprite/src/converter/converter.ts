@@ -98,10 +98,23 @@ function getIconMeta(iconName: string): IconMeta {
       .replace(/swirlcream[^\w]/g, '-swirl')
       .replace(/cream[^\w]/g, '-cream');
   }
-  if (sanitizedIconName.startsWith('Pikachu')) {
-
-    sanitizedIconName = sanitizedIconName.replace(/cap/g, '-cap')
+  if (sanitizedIconName.startsWith('Urshifu')) {
+    sanitizedIconName = sanitizedIconName.replace(/Rapid/g, 'RapidStrike');
+    sanitizedIconName = sanitizedIconName.replace(/Single/g, 'SingleStrike');
   }
+  if (sanitizedIconName.startsWith('Pikachu')) {
+    sanitizedIconName = sanitizedIconName.replace(/cap/g, '-cap');
+  }
+
+  sanitizedIconName = sanitizedIconName
+    .replace(/Lowkey/g, 'LowKey') // toxtricity
+    .replace(/Bluestriped/g, 'BlueStriped') // basculin
+    .replace(/Whitestriped/g, 'WhiteStriped') // basculin
+    .replace(/Redstriped/g, 'RedStriped') // basculin
+    .replace(/Familyof/g, 'FamilyOf') // maushold
+    .replace(/Threesegment/g, 'ThreeSegment') // dudunsparce
+    .replace(/OriginalLivery/g, 'Original'); // magearna
+
 
   const result: IconMeta = {name: iconName, slug: '', cssClass: ''};
 
