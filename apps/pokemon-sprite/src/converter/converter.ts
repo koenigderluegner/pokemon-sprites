@@ -79,19 +79,33 @@ results.reverse().forEach(result => {
 
 Object.values(pairs).forEach((value) => {
 
-  if(!value.icons.some(iconPair => iconPair.regular.name === value.species)){
+  if (!value.icons.some(iconPair => iconPair.regular.name === value.species)) {
     console.log('missing regular icon for ' + value.species);
   }
 
-})
+});
 
 fs.writeFileSync(path.join(__dirname, '../assets/converter/converted-pokemon-entries.json'), JSON.stringify(pairs, null, 2));
 
 function getIconMeta(iconName: string): IconMeta {
 
+  let sanitizedIconName = iconName
+    .replace(/Minior-Core/g, 'Minior');
+
+  if (sanitizedIconName.startsWith('Alcremie')) {
+
+    sanitizedIconName = sanitizedIconName.replace(/sweet/g, '')
+      .replace(/swirlcream[^\w]/g, '-swirl')
+      .replace(/cream[^\w]/g, '-cream');
+  }
+  if (sanitizedIconName.startsWith('Pikachu')) {
+
+    sanitizedIconName = sanitizedIconName.replace(/cap/g, '-cap')
+  }
+
   const result: IconMeta = {name: iconName, slug: '', cssClass: ''};
 
-  let parts: string[] | Set<string> = iconName.split('-');
+  let parts: string[] | Set<string> = sanitizedIconName.split('-');
 
   parts[0] = parts[0]
     .replace(/Jangmoo/g, 'Jangmo-o')
@@ -106,8 +120,10 @@ function getIconMeta(iconName: string): IconMeta {
 
   parts = parts.map((s, index) => index === 0 ? s.toLowerCase() :
     s
-     .replace(/([a-z0-9])([A-Z])/g, '$1-$2')
-    .toLowerCase());
+      .replace(/([a-zéáűőúöüó0-9])([A-Z])/g, '$1-$2')
+      .toLowerCase()
+      .replace(/é/g, 'e')
+  );
   parts = new Set(parts);
 
   const categories = parts.intersection(ICON_CATEGORIES);

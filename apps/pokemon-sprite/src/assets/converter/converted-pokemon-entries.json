@@ -3591,13 +3591,13 @@
       {
         "regular": {
           "name": "Pikachu-Alolacap",
-          "slug": "pikachu-alolacap",
-          "cssClass": ".pokesprite.pokemon.pikachu-alolacap"
+          "slug": "pikachu-alola-cap",
+          "cssClass": ".pokesprite.pokemon.pikachu-alola-cap"
         },
         "shiny": {
           "name": "Pikachu-Alolacap-★",
-          "slug": "pikachu-alolacap",
-          "cssClass": ".pokesprite.pokemon.pikachu-alolacap.shiny",
+          "slug": "pikachu-alola-cap",
+          "cssClass": ".pokesprite.pokemon.pikachu-alola-cap.shiny",
           "modifiers": [
             "shiny"
           ]
@@ -3606,16 +3606,16 @@
       {
         "regular": {
           "name": "Pikachu-Alolacap-3DS",
-          "slug": "pikachu-alolacap",
-          "cssClass": ".pokesprite.pokemon.pikachu-alolacap.n3ds",
+          "slug": "pikachu-alola-cap",
+          "cssClass": ".pokesprite.pokemon.pikachu-alola-cap.n3ds",
           "modifiers": [
             "n3ds"
           ]
         },
         "shiny": {
           "name": "Pikachu-Alolacap-3DS-★",
-          "slug": "pikachu-alolacap",
-          "cssClass": ".pokesprite.pokemon.pikachu-alolacap.shiny.n3ds",
+          "slug": "pikachu-alola-cap",
+          "cssClass": ".pokesprite.pokemon.pikachu-alola-cap.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -3897,13 +3897,13 @@
       {
         "regular": {
           "name": "Pikachu-Hoenncap",
-          "slug": "pikachu-hoenncap",
-          "cssClass": ".pokesprite.pokemon.pikachu-hoenncap"
+          "slug": "pikachu-hoenn-cap",
+          "cssClass": ".pokesprite.pokemon.pikachu-hoenn-cap"
         },
         "shiny": {
           "name": "Pikachu-Hoenncap-★",
-          "slug": "pikachu-hoenncap",
-          "cssClass": ".pokesprite.pokemon.pikachu-hoenncap.shiny",
+          "slug": "pikachu-hoenn-cap",
+          "cssClass": ".pokesprite.pokemon.pikachu-hoenn-cap.shiny",
           "modifiers": [
             "shiny"
           ]
@@ -3912,16 +3912,16 @@
       {
         "regular": {
           "name": "Pikachu-Hoenncap-3DS",
-          "slug": "pikachu-hoenncap",
-          "cssClass": ".pokesprite.pokemon.pikachu-hoenncap.n3ds",
+          "slug": "pikachu-hoenn-cap",
+          "cssClass": ".pokesprite.pokemon.pikachu-hoenn-cap.n3ds",
           "modifiers": [
             "n3ds"
           ]
         },
         "shiny": {
           "name": "Pikachu-Hoenncap-3DS-★",
-          "slug": "pikachu-hoenncap",
-          "cssClass": ".pokesprite.pokemon.pikachu-hoenncap.shiny.n3ds",
+          "slug": "pikachu-hoenn-cap",
+          "cssClass": ".pokesprite.pokemon.pikachu-hoenn-cap.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -3931,13 +3931,13 @@
       {
         "regular": {
           "name": "Pikachu-Kaloscap",
-          "slug": "pikachu-kaloscap",
-          "cssClass": ".pokesprite.pokemon.pikachu-kaloscap"
+          "slug": "pikachu-kalos-cap",
+          "cssClass": ".pokesprite.pokemon.pikachu-kalos-cap"
         },
         "shiny": {
           "name": "Pikachu-Kaloscap-★",
-          "slug": "pikachu-kaloscap",
-          "cssClass": ".pokesprite.pokemon.pikachu-kaloscap.shiny",
+          "slug": "pikachu-kalos-cap",
+          "cssClass": ".pokesprite.pokemon.pikachu-kalos-cap.shiny",
           "modifiers": [
             "shiny"
           ]
@@ -3946,16 +3946,16 @@
       {
         "regular": {
           "name": "Pikachu-Kaloscap-3DS",
-          "slug": "pikachu-kaloscap",
-          "cssClass": ".pokesprite.pokemon.pikachu-kaloscap.n3ds",
+          "slug": "pikachu-kalos-cap",
+          "cssClass": ".pokesprite.pokemon.pikachu-kalos-cap.n3ds",
           "modifiers": [
             "n3ds"
           ]
         },
         "shiny": {
           "name": "Pikachu-Kaloscap-3DS-★",
-          "slug": "pikachu-kaloscap",
-          "cssClass": ".pokesprite.pokemon.pikachu-kaloscap.shiny.n3ds",
+          "slug": "pikachu-kalos-cap",
+          "cssClass": ".pokesprite.pokemon.pikachu-kalos-cap.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -3965,13 +3965,13 @@
       {
         "regular": {
           "name": "Pikachu-Originalcap",
-          "slug": "pikachu-originalcap",
-          "cssClass": ".pokesprite.pokemon.pikachu-originalcap"
+          "slug": "pikachu-original-cap",
+          "cssClass": ".pokesprite.pokemon.pikachu-original-cap"
         },
         "shiny": {
           "name": "Pikachu-Originalcap-★",
-          "slug": "pikachu-originalcap",
-          "cssClass": ".pokesprite.pokemon.pikachu-originalcap.shiny",
+          "slug": "pikachu-original-cap",
+          "cssClass": ".pokesprite.pokemon.pikachu-original-cap.shiny",
           "modifiers": [
             "shiny"
           ]
@@ -3980,16 +3980,16 @@
       {
         "regular": {
           "name": "Pikachu-Originalcap-3DS",
-          "slug": "pikachu-originalcap",
-          "cssClass": ".pokesprite.pokemon.pikachu-originalcap.n3ds",
+          "slug": "pikachu-original-cap",
+          "cssClass": ".pokesprite.pokemon.pikachu-original-cap.n3ds",
           "modifiers": [
             "n3ds"
           ]
         },
         "shiny": {
           "name": "Pikachu-Originalcap-3DS-★",
-          "slug": "pikachu-originalcap",
-          "cssClass": ".pokesprite.pokemon.pikachu-originalcap.shiny.n3ds",
+          "slug": "pikachu-original-cap",
+          "cssClass": ".pokesprite.pokemon.pikachu-original-cap.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -3999,13 +3999,13 @@
       {
         "regular": {
           "name": "Pikachu-Originalcap-F",
-          "slug": "pikachu-originalcap-f",
-          "cssClass": ".pokesprite.pokemon.pikachu-originalcap-f"
+          "slug": "pikachu-original-cap-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-original-cap-f"
         },
         "shiny": {
           "name": "Pikachu-Originalcap-F-★",
-          "slug": "pikachu-originalcap-f",
-          "cssClass": ".pokesprite.pokemon.pikachu-originalcap-f.shiny",
+          "slug": "pikachu-original-cap-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-original-cap-f.shiny",
           "modifiers": [
             "shiny"
           ]
@@ -4014,16 +4014,16 @@
       {
         "regular": {
           "name": "Pikachu-Originalcap-F-3DS",
-          "slug": "pikachu-originalcap-f",
-          "cssClass": ".pokesprite.pokemon.pikachu-originalcap-f.n3ds",
+          "slug": "pikachu-original-cap-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-original-cap-f.n3ds",
           "modifiers": [
             "n3ds"
           ]
         },
         "shiny": {
           "name": "Pikachu-Originalcap-F-3DS-★",
-          "slug": "pikachu-originalcap-f",
-          "cssClass": ".pokesprite.pokemon.pikachu-originalcap-f.shiny.n3ds",
+          "slug": "pikachu-original-cap-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-original-cap-f.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -4033,13 +4033,13 @@
       {
         "regular": {
           "name": "Pikachu-Partnercap",
-          "slug": "pikachu-partnercap",
-          "cssClass": ".pokesprite.pokemon.pikachu-partnercap"
+          "slug": "pikachu-partner-cap",
+          "cssClass": ".pokesprite.pokemon.pikachu-partner-cap"
         },
         "shiny": {
           "name": "Pikachu-Partnercap-★",
-          "slug": "pikachu-partnercap",
-          "cssClass": ".pokesprite.pokemon.pikachu-partnercap.shiny",
+          "slug": "pikachu-partner-cap",
+          "cssClass": ".pokesprite.pokemon.pikachu-partner-cap.shiny",
           "modifiers": [
             "shiny"
           ]
@@ -4048,16 +4048,16 @@
       {
         "regular": {
           "name": "Pikachu-Partnercap-3DS-USUM",
-          "slug": "pikachu-partnercap-usum",
-          "cssClass": ".pokesprite.pokemon.pikachu-partnercap-usum.n3ds",
+          "slug": "pikachu-partner-cap-usum",
+          "cssClass": ".pokesprite.pokemon.pikachu-partner-cap-usum.n3ds",
           "modifiers": [
             "n3ds"
           ]
         },
         "shiny": {
           "name": "Pikachu-Partnercap-3DS-USUM-★",
-          "slug": "pikachu-partnercap-usum",
-          "cssClass": ".pokesprite.pokemon.pikachu-partnercap-usum.shiny.n3ds",
+          "slug": "pikachu-partner-cap-usum",
+          "cssClass": ".pokesprite.pokemon.pikachu-partner-cap-usum.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -4067,16 +4067,16 @@
       {
         "regular": {
           "name": "Pikachu-Partnercap-Switch-Optional",
-          "slug": "pikachu-partnercap-optional",
-          "cssClass": ".pokesprite.pokemon.pikachu-partnercap-optional.switch",
+          "slug": "pikachu-partner-cap-optional",
+          "cssClass": ".pokesprite.pokemon.pikachu-partner-cap-optional.switch",
           "modifiers": [
             "switch"
           ]
         },
         "shiny": {
           "name": "Pikachu-Partnercap-Switch-Optional-★",
-          "slug": "pikachu-partnercap-optional",
-          "cssClass": ".pokesprite.pokemon.pikachu-partnercap-optional.switch.shiny",
+          "slug": "pikachu-partner-cap-optional",
+          "cssClass": ".pokesprite.pokemon.pikachu-partner-cap-optional.switch.shiny",
           "modifiers": [
             "switch",
             "shiny"
@@ -4086,16 +4086,16 @@
       {
         "regular": {
           "name": "Pikachu-Partnercap-Switch-SwSh",
-          "slug": "pikachu-partnercap-sw-sh",
-          "cssClass": ".pokesprite.pokemon.pikachu-partnercap-sw-sh.switch",
+          "slug": "pikachu-partner-cap-sw-sh",
+          "cssClass": ".pokesprite.pokemon.pikachu-partner-cap-sw-sh.switch",
           "modifiers": [
             "switch"
           ]
         },
         "shiny": {
           "name": "Pikachu-Partnercap-Switch-SwSh-★",
-          "slug": "pikachu-partnercap-sw-sh",
-          "cssClass": ".pokesprite.pokemon.pikachu-partnercap-sw-sh.switch.shiny",
+          "slug": "pikachu-partner-cap-sw-sh",
+          "cssClass": ".pokesprite.pokemon.pikachu-partner-cap-sw-sh.switch.shiny",
           "modifiers": [
             "switch",
             "shiny"
@@ -4105,13 +4105,13 @@
       {
         "regular": {
           "name": "Pikachu-Sinnohcap",
-          "slug": "pikachu-sinnohcap",
-          "cssClass": ".pokesprite.pokemon.pikachu-sinnohcap"
+          "slug": "pikachu-sinnoh-cap",
+          "cssClass": ".pokesprite.pokemon.pikachu-sinnoh-cap"
         },
         "shiny": {
           "name": "Pikachu-Sinnohcap-★",
-          "slug": "pikachu-sinnohcap",
-          "cssClass": ".pokesprite.pokemon.pikachu-sinnohcap.shiny",
+          "slug": "pikachu-sinnoh-cap",
+          "cssClass": ".pokesprite.pokemon.pikachu-sinnoh-cap.shiny",
           "modifiers": [
             "shiny"
           ]
@@ -4120,16 +4120,16 @@
       {
         "regular": {
           "name": "Pikachu-Sinnohcap-3DS",
-          "slug": "pikachu-sinnohcap",
-          "cssClass": ".pokesprite.pokemon.pikachu-sinnohcap.n3ds",
+          "slug": "pikachu-sinnoh-cap",
+          "cssClass": ".pokesprite.pokemon.pikachu-sinnoh-cap.n3ds",
           "modifiers": [
             "n3ds"
           ]
         },
         "shiny": {
           "name": "Pikachu-Sinnohcap-3DS-★",
-          "slug": "pikachu-sinnohcap",
-          "cssClass": ".pokesprite.pokemon.pikachu-sinnohcap.shiny.n3ds",
+          "slug": "pikachu-sinnoh-cap",
+          "cssClass": ".pokesprite.pokemon.pikachu-sinnoh-cap.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -4275,13 +4275,13 @@
       {
         "regular": {
           "name": "Pikachu-Unovacap",
-          "slug": "pikachu-unovacap",
-          "cssClass": ".pokesprite.pokemon.pikachu-unovacap"
+          "slug": "pikachu-unova-cap",
+          "cssClass": ".pokesprite.pokemon.pikachu-unova-cap"
         },
         "shiny": {
           "name": "Pikachu-Unovacap-★",
-          "slug": "pikachu-unovacap",
-          "cssClass": ".pokesprite.pokemon.pikachu-unovacap.shiny",
+          "slug": "pikachu-unova-cap",
+          "cssClass": ".pokesprite.pokemon.pikachu-unova-cap.shiny",
           "modifiers": [
             "shiny"
           ]
@@ -4290,16 +4290,16 @@
       {
         "regular": {
           "name": "Pikachu-Unovacap-3DS",
-          "slug": "pikachu-unovacap",
-          "cssClass": ".pokesprite.pokemon.pikachu-unovacap.n3ds",
+          "slug": "pikachu-unova-cap",
+          "cssClass": ".pokesprite.pokemon.pikachu-unova-cap.n3ds",
           "modifiers": [
             "n3ds"
           ]
         },
         "shiny": {
           "name": "Pikachu-Unovacap-3DS-★",
-          "slug": "pikachu-unovacap",
-          "cssClass": ".pokesprite.pokemon.pikachu-unovacap.shiny.n3ds",
+          "slug": "pikachu-unova-cap",
+          "cssClass": ".pokesprite.pokemon.pikachu-unova-cap.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -4309,13 +4309,13 @@
       {
         "regular": {
           "name": "Pikachu-Worldcap",
-          "slug": "pikachu-worldcap",
-          "cssClass": ".pokesprite.pokemon.pikachu-worldcap"
+          "slug": "pikachu-world-cap",
+          "cssClass": ".pokesprite.pokemon.pikachu-world-cap"
         },
         "shiny": {
           "name": "Pikachu-Worldcap-★",
-          "slug": "pikachu-worldcap",
-          "cssClass": ".pokesprite.pokemon.pikachu-worldcap.shiny",
+          "slug": "pikachu-world-cap",
+          "cssClass": ".pokesprite.pokemon.pikachu-world-cap.shiny",
           "modifiers": [
             "shiny"
           ]
@@ -4324,16 +4324,16 @@
       {
         "regular": {
           "name": "Pikachu-Worldcap-Switch-SwSh",
-          "slug": "pikachu-worldcap-sw-sh",
-          "cssClass": ".pokesprite.pokemon.pikachu-worldcap-sw-sh.switch",
+          "slug": "pikachu-world-cap-sw-sh",
+          "cssClass": ".pokesprite.pokemon.pikachu-world-cap-sw-sh.switch",
           "modifiers": [
             "switch"
           ]
         },
         "shiny": {
           "name": "Pikachu-Worldcap-Switch-SwSh-★",
-          "slug": "pikachu-worldcap-sw-sh",
-          "cssClass": ".pokesprite.pokemon.pikachu-worldcap-sw-sh.switch.shiny",
+          "slug": "pikachu-world-cap-sw-sh",
+          "cssClass": ".pokesprite.pokemon.pikachu-world-cap-sw-sh.switch.shiny",
           "modifiers": [
             "switch",
             "shiny"
@@ -26447,6 +26447,21 @@
             "shiny"
           ]
         }
+      },
+      {
+        "regular": {
+          "name": "Sentret-Optional",
+          "slug": "sentret-optional",
+          "cssClass": ".pokesprite.pokemon.sentret-optional"
+        },
+        "shiny": {
+          "name": "Sentret-Optional-★",
+          "slug": "sentret-optional",
+          "cssClass": ".pokesprite.pokemon.sentret-optional.shiny",
+          "modifiers": [
+            "shiny"
+          ]
+        }
       }
     ]
   },
@@ -26899,6 +26914,25 @@
             "n3ds"
           ]
         }
+      },
+      {
+        "regular": {
+          "name": "Ariados-3DS-Optional",
+          "slug": "ariados-optional",
+          "cssClass": ".pokesprite.pokemon.ariados-optional.n3ds",
+          "modifiers": [
+            "n3ds"
+          ]
+        },
+        "shiny": {
+          "name": "Ariados-3DS-Optional-★",
+          "slug": "ariados-optional",
+          "cssClass": ".pokesprite.pokemon.ariados-optional.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ]
+        }
       }
     ]
   },
@@ -26975,6 +27009,21 @@
           "name": "Chinchou-★",
           "slug": "chinchou",
           "cssClass": ".pokesprite.pokemon.chinchou.shiny",
+          "modifiers": [
+            "shiny"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Chinchou-Optional",
+          "slug": "chinchou-optional",
+          "cssClass": ".pokesprite.pokemon.chinchou-optional"
+        },
+        "shiny": {
+          "name": "Chinchou-Optional-★",
+          "slug": "chinchou-optional",
+          "cssClass": ".pokesprite.pokemon.chinchou-optional.shiny",
           "modifiers": [
             "shiny"
           ]
@@ -32276,9 +32325,9 @@
       },
       {
         "regular": {
-          "name": "SKarmory-Mega",
-          "slug": "s-karmory-mega",
-          "cssClass": ".pokesprite.pokemon.s-karmory-mega"
+          "name": "Skarmory-Mega",
+          "slug": "skarmory-mega",
+          "cssClass": ".pokesprite.pokemon.skarmory-mega"
         },
         "shiny": {
           "name": "Skarmory-Mega-★",
@@ -42732,14 +42781,14 @@
       },
       {
         "regular": {
-          "name": "Burmy-Sand",
-          "slug": "burmy-sand",
-          "cssClass": ".pokesprite.pokemon.burmy-sand"
+          "name": "Burmy-Sandy",
+          "slug": "burmy-sandy",
+          "cssClass": ".pokesprite.pokemon.burmy-sandy"
         },
         "shiny": {
-          "name": "Burmy-Sand-★",
-          "slug": "burmy-sand",
-          "cssClass": ".pokesprite.pokemon.burmy-sand.shiny",
+          "name": "Burmy-Sandy-★",
+          "slug": "burmy-sandy",
+          "cssClass": ".pokesprite.pokemon.burmy-sandy.shiny",
           "modifiers": [
             "shiny"
           ]
@@ -44013,6 +44062,25 @@
           "cssClass": ".pokesprite.pokemon.stunky.shiny",
           "modifiers": [
             "shiny"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Stunky-3DS-XY",
+          "slug": "stunky-xy",
+          "cssClass": ".pokesprite.pokemon.stunky-xy.n3ds",
+          "modifiers": [
+            "n3ds"
+          ]
+        },
+        "shiny": {
+          "name": "Stunky-3DS-XY-★",
+          "slug": "stunky-xy",
+          "cssClass": ".pokesprite.pokemon.stunky-xy.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
           ]
         }
       }
@@ -47814,8 +47882,8 @@
       {
         "regular": {
           "name": "Rotom-Bonus-Pokédex",
-          "slug": "rotom-pokédex",
-          "cssClass": ".pokesprite.pokemon.rotom-pokédex",
+          "slug": "rotom-pokedex",
+          "cssClass": ".pokesprite.pokemon.rotom-pokedex",
           "categories": [
             "bonus"
           ]
@@ -47825,8 +47893,8 @@
       {
         "regular": {
           "name": "Rotom-Bonus-Pokédex-3DS",
-          "slug": "rotom-pokédex",
-          "cssClass": ".pokesprite.pokemon.rotom-pokédex.n3ds",
+          "slug": "rotom-pokedex",
+          "cssClass": ".pokesprite.pokemon.rotom-pokedex.n3ds",
           "modifiers": [
             "n3ds"
           ],
@@ -48489,8 +48557,8 @@
       {
         "regular": {
           "name": "Rotom-Bonus-Smartphone-SV-FlabébéFlower",
-          "slug": "rotom-smartphone-sv-flabébéflower",
-          "cssClass": ".pokesprite.pokemon.rotom-smartphone-sv-flabébéflower",
+          "slug": "rotom-smartphone-sv-flabebe-flower",
+          "cssClass": ".pokesprite.pokemon.rotom-smartphone-sv-flabebe-flower",
           "categories": [
             "bonus"
           ]
@@ -48500,8 +48568,8 @@
       {
         "regular": {
           "name": "Rotom-Bonus-Smartphone-SV-FlabébéFlower-3DS",
-          "slug": "rotom-smartphone-sv-flabébéflower",
-          "cssClass": ".pokesprite.pokemon.rotom-smartphone-sv-flabébéflower.n3ds",
+          "slug": "rotom-smartphone-sv-flabebe-flower",
+          "cssClass": ".pokesprite.pokemon.rotom-smartphone-sv-flabebe-flower.n3ds",
           "modifiers": [
             "n3ds"
           ],
@@ -49114,8 +49182,8 @@
       {
         "regular": {
           "name": "Rotom-Bonus-Smartphone-SV-PokéballBlue",
-          "slug": "rotom-smartphone-sv-pokéball-blue",
-          "cssClass": ".pokesprite.pokemon.rotom-smartphone-sv-pokéball-blue",
+          "slug": "rotom-smartphone-sv-pokeball-blue",
+          "cssClass": ".pokesprite.pokemon.rotom-smartphone-sv-pokeball-blue",
           "categories": [
             "bonus"
           ]
@@ -49125,8 +49193,8 @@
       {
         "regular": {
           "name": "Rotom-Bonus-Smartphone-SV-PokéballBlue-3DS",
-          "slug": "rotom-smartphone-sv-pokéball-blue",
-          "cssClass": ".pokesprite.pokemon.rotom-smartphone-sv-pokéball-blue.n3ds",
+          "slug": "rotom-smartphone-sv-pokeball-blue",
+          "cssClass": ".pokesprite.pokemon.rotom-smartphone-sv-pokeball-blue.n3ds",
           "modifiers": [
             "n3ds"
           ],
@@ -49139,8 +49207,8 @@
       {
         "regular": {
           "name": "Rotom-Bonus-Smartphone-SV-PokéballGreen",
-          "slug": "rotom-smartphone-sv-pokéball-green",
-          "cssClass": ".pokesprite.pokemon.rotom-smartphone-sv-pokéball-green",
+          "slug": "rotom-smartphone-sv-pokeball-green",
+          "cssClass": ".pokesprite.pokemon.rotom-smartphone-sv-pokeball-green",
           "categories": [
             "bonus"
           ]
@@ -49150,8 +49218,8 @@
       {
         "regular": {
           "name": "Rotom-Bonus-Smartphone-SV-PokéballGreen-3DS",
-          "slug": "rotom-smartphone-sv-pokéball-green",
-          "cssClass": ".pokesprite.pokemon.rotom-smartphone-sv-pokéball-green.n3ds",
+          "slug": "rotom-smartphone-sv-pokeball-green",
+          "cssClass": ".pokesprite.pokemon.rotom-smartphone-sv-pokeball-green.n3ds",
           "modifiers": [
             "n3ds"
           ],
@@ -49164,8 +49232,8 @@
       {
         "regular": {
           "name": "Rotom-Bonus-Smartphone-SV-PokéballPurple",
-          "slug": "rotom-smartphone-sv-pokéball-purple",
-          "cssClass": ".pokesprite.pokemon.rotom-smartphone-sv-pokéball-purple",
+          "slug": "rotom-smartphone-sv-pokeball-purple",
+          "cssClass": ".pokesprite.pokemon.rotom-smartphone-sv-pokeball-purple",
           "categories": [
             "bonus"
           ]
@@ -49175,8 +49243,8 @@
       {
         "regular": {
           "name": "Rotom-Bonus-Smartphone-SV-PokéballPurple-3DS",
-          "slug": "rotom-smartphone-sv-pokéball-purple",
-          "cssClass": ".pokesprite.pokemon.rotom-smartphone-sv-pokéball-purple.n3ds",
+          "slug": "rotom-smartphone-sv-pokeball-purple",
+          "cssClass": ".pokesprite.pokemon.rotom-smartphone-sv-pokeball-purple.n3ds",
           "modifiers": [
             "n3ds"
           ],
@@ -49189,8 +49257,8 @@
       {
         "regular": {
           "name": "Rotom-Bonus-Smartphone-SV-PokéballRed",
-          "slug": "rotom-smartphone-sv-pokéball-red",
-          "cssClass": ".pokesprite.pokemon.rotom-smartphone-sv-pokéball-red",
+          "slug": "rotom-smartphone-sv-pokeball-red",
+          "cssClass": ".pokesprite.pokemon.rotom-smartphone-sv-pokeball-red",
           "categories": [
             "bonus"
           ]
@@ -49200,8 +49268,8 @@
       {
         "regular": {
           "name": "Rotom-Bonus-Smartphone-SV-PokéballRed-3DS",
-          "slug": "rotom-smartphone-sv-pokéball-red",
-          "cssClass": ".pokesprite.pokemon.rotom-smartphone-sv-pokéball-red.n3ds",
+          "slug": "rotom-smartphone-sv-pokeball-red",
+          "cssClass": ".pokesprite.pokemon.rotom-smartphone-sv-pokeball-red.n3ds",
           "modifiers": [
             "n3ds"
           ],
@@ -49214,8 +49282,8 @@
       {
         "regular": {
           "name": "Rotom-Bonus-Smartphone-SV-PokéballYellow",
-          "slug": "rotom-smartphone-sv-pokéball-yellow",
-          "cssClass": ".pokesprite.pokemon.rotom-smartphone-sv-pokéball-yellow",
+          "slug": "rotom-smartphone-sv-pokeball-yellow",
+          "cssClass": ".pokesprite.pokemon.rotom-smartphone-sv-pokeball-yellow",
           "categories": [
             "bonus"
           ]
@@ -49225,8 +49293,8 @@
       {
         "regular": {
           "name": "Rotom-Bonus-Smartphone-SV-PokéballYellow-3DS",
-          "slug": "rotom-smartphone-sv-pokéball-yellow",
-          "cssClass": ".pokesprite.pokemon.rotom-smartphone-sv-pokéball-yellow.n3ds",
+          "slug": "rotom-smartphone-sv-pokeball-yellow",
+          "cssClass": ".pokesprite.pokemon.rotom-smartphone-sv-pokeball-yellow.n3ds",
           "modifiers": [
             "n3ds"
           ],
@@ -49239,8 +49307,8 @@
       {
         "regular": {
           "name": "Rotom-Bonus-Smartphone-SV-Pokétch",
-          "slug": "rotom-smartphone-sv-pokétch",
-          "cssClass": ".pokesprite.pokemon.rotom-smartphone-sv-pokétch",
+          "slug": "rotom-smartphone-sv-poketch",
+          "cssClass": ".pokesprite.pokemon.rotom-smartphone-sv-poketch",
           "categories": [
             "bonus"
           ]
@@ -49250,8 +49318,8 @@
       {
         "regular": {
           "name": "Rotom-Bonus-Smartphone-SV-Pokétch-3DS",
-          "slug": "rotom-smartphone-sv-pokétch",
-          "cssClass": ".pokesprite.pokemon.rotom-smartphone-sv-pokétch.n3ds",
+          "slug": "rotom-smartphone-sv-poketch",
+          "cssClass": ".pokesprite.pokemon.rotom-smartphone-sv-poketch.n3ds",
           "modifiers": [
             "n3ds"
           ],
@@ -52455,6 +52523,25 @@
             "shiny"
           ]
         }
+      },
+      {
+        "regular": {
+          "name": "Roggenrola-3DS",
+          "slug": "roggenrola",
+          "cssClass": ".pokesprite.pokemon.roggenrola.n3ds",
+          "modifiers": [
+            "n3ds"
+          ]
+        },
+        "shiny": {
+          "name": "Roggenrola-3DS-★",
+          "slug": "roggenrola",
+          "cssClass": ".pokesprite.pokemon.roggenrola.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ]
+        }
       }
     ]
   },
@@ -52615,6 +52702,25 @@
           "cssClass": ".pokesprite.pokemon.drilbur.shiny",
           "modifiers": [
             "shiny"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Drilbur-3DS",
+          "slug": "drilbur",
+          "cssClass": ".pokesprite.pokemon.drilbur.n3ds",
+          "modifiers": [
+            "n3ds"
+          ]
+        },
+        "shiny": {
+          "name": "Drilbur-3DS-★",
+          "slug": "drilbur",
+          "cssClass": ".pokesprite.pokemon.drilbur.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
           ]
         }
       }
@@ -53449,6 +53555,25 @@
           "cssClass": ".pokesprite.pokemon.petilil.shiny",
           "modifiers": [
             "shiny"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Petilil-3DS",
+          "slug": "petilil",
+          "cssClass": ".pokesprite.pokemon.petilil.n3ds",
+          "modifiers": [
+            "n3ds"
+          ]
+        },
+        "shiny": {
+          "name": "Petilil-3DS-★",
+          "slug": "petilil",
+          "cssClass": ".pokesprite.pokemon.petilil.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
           ]
         }
       }
@@ -55609,6 +55734,25 @@
             "shiny"
           ]
         }
+      },
+      {
+        "regular": {
+          "name": "Karrablast-3DS",
+          "slug": "karrablast",
+          "cssClass": ".pokesprite.pokemon.karrablast.n3ds",
+          "modifiers": [
+            "n3ds"
+          ]
+        },
+        "shiny": {
+          "name": "Karrablast-3DS-★",
+          "slug": "karrablast",
+          "cssClass": ".pokesprite.pokemon.karrablast.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ]
+        }
       }
     ]
   },
@@ -56277,6 +56421,25 @@
             "shiny"
           ]
         }
+      },
+      {
+        "regular": {
+          "name": "Elgyem-3DS",
+          "slug": "elgyem",
+          "cssClass": ".pokesprite.pokemon.elgyem.n3ds",
+          "modifiers": [
+            "n3ds"
+          ]
+        },
+        "shiny": {
+          "name": "Elgyem-3DS-★",
+          "slug": "elgyem",
+          "cssClass": ".pokesprite.pokemon.elgyem.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ]
+        }
       }
     ]
   },
@@ -56765,6 +56928,25 @@
           "cssClass": ".pokesprite.pokemon.shelmet.shiny",
           "modifiers": [
             "shiny"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Shelmet-3DS",
+          "slug": "shelmet",
+          "cssClass": ".pokesprite.pokemon.shelmet.n3ds",
+          "modifiers": [
+            "n3ds"
+          ]
+        },
+        "shiny": {
+          "name": "Shelmet-3DS-★",
+          "slug": "shelmet",
+          "cssClass": ".pokesprite.pokemon.shelmet.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
           ]
         }
       }
@@ -59372,6 +59554,25 @@
       },
       {
         "regular": {
+          "name": "Greninja-Mega-Switch-Optional",
+          "slug": "greninja-mega-optional",
+          "cssClass": ".pokesprite.pokemon.greninja-mega-optional.switch",
+          "modifiers": [
+            "switch"
+          ]
+        },
+        "shiny": {
+          "name": "Greninja-Mega-Switch-Optional-★",
+          "slug": "greninja-mega-optional",
+          "cssClass": ".pokesprite.pokemon.greninja-mega-optional.switch.shiny",
+          "modifiers": [
+            "switch",
+            "shiny"
+          ]
+        }
+      },
+      {
+        "regular": {
           "name": "Greninja-GO-Halloween",
           "slug": "greninja-halloween",
           "cssClass": ".pokesprite.pokemon.greninja-halloween",
@@ -60474,13 +60675,13 @@
       {
         "regular": {
           "name": "Vivillon-PokéBall",
-          "slug": "vivillon-pokéball",
-          "cssClass": ".pokesprite.pokemon.vivillon-pokéball"
+          "slug": "vivillon-poke-ball",
+          "cssClass": ".pokesprite.pokemon.vivillon-poke-ball"
         },
         "shiny": {
           "name": "Vivillon-PokéBall-★",
-          "slug": "vivillon-pokéball",
-          "cssClass": ".pokesprite.pokemon.vivillon-pokéball.shiny",
+          "slug": "vivillon-poke-ball",
+          "cssClass": ".pokesprite.pokemon.vivillon-poke-ball.shiny",
           "modifiers": [
             "shiny"
           ]
@@ -60489,16 +60690,16 @@
       {
         "regular": {
           "name": "Vivillon-PokéBall-3DS",
-          "slug": "vivillon-pokéball",
-          "cssClass": ".pokesprite.pokemon.vivillon-pokéball.n3ds",
+          "slug": "vivillon-poke-ball",
+          "cssClass": ".pokesprite.pokemon.vivillon-poke-ball.n3ds",
           "modifiers": [
             "n3ds"
           ]
         },
         "shiny": {
           "name": "Vivillon-PokéBall-3DS-★",
-          "slug": "vivillon-pokéball",
-          "cssClass": ".pokesprite.pokemon.vivillon-pokéball.shiny.n3ds",
+          "slug": "vivillon-poke-ball",
+          "cssClass": ".pokesprite.pokemon.vivillon-poke-ball.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -68279,13 +68480,13 @@
       {
         "regular": {
           "name": "Minior-Core-Blue",
-          "slug": "minior-core-blue",
-          "cssClass": ".pokesprite.pokemon.minior-core-blue"
+          "slug": "minior-blue",
+          "cssClass": ".pokesprite.pokemon.minior-blue"
         },
         "shiny": {
           "name": "Minior-Core-Blue-★",
-          "slug": "minior-core-blue",
-          "cssClass": ".pokesprite.pokemon.minior-core-blue.shiny",
+          "slug": "minior-blue",
+          "cssClass": ".pokesprite.pokemon.minior-blue.shiny",
           "modifiers": [
             "shiny"
           ]
@@ -68294,16 +68495,16 @@
       {
         "regular": {
           "name": "Minior-Core-Blue-3DS",
-          "slug": "minior-core-blue",
-          "cssClass": ".pokesprite.pokemon.minior-core-blue.n3ds",
+          "slug": "minior-blue",
+          "cssClass": ".pokesprite.pokemon.minior-blue.n3ds",
           "modifiers": [
             "n3ds"
           ]
         },
         "shiny": {
           "name": "Minior-Core-Blue-3DS-★",
-          "slug": "minior-core-blue",
-          "cssClass": ".pokesprite.pokemon.minior-core-blue.shiny.n3ds",
+          "slug": "minior-blue",
+          "cssClass": ".pokesprite.pokemon.minior-blue.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -68313,13 +68514,13 @@
       {
         "regular": {
           "name": "Minior-Core-Green",
-          "slug": "minior-core-green",
-          "cssClass": ".pokesprite.pokemon.minior-core-green"
+          "slug": "minior-green",
+          "cssClass": ".pokesprite.pokemon.minior-green"
         },
         "shiny": {
           "name": "Minior-Core-Green-★",
-          "slug": "minior-core-green",
-          "cssClass": ".pokesprite.pokemon.minior-core-green.shiny",
+          "slug": "minior-green",
+          "cssClass": ".pokesprite.pokemon.minior-green.shiny",
           "modifiers": [
             "shiny"
           ]
@@ -68328,16 +68529,16 @@
       {
         "regular": {
           "name": "Minior-Core-Green-3DS",
-          "slug": "minior-core-green",
-          "cssClass": ".pokesprite.pokemon.minior-core-green.n3ds",
+          "slug": "minior-green",
+          "cssClass": ".pokesprite.pokemon.minior-green.n3ds",
           "modifiers": [
             "n3ds"
           ]
         },
         "shiny": {
           "name": "Minior-Core-Green-3DS-★",
-          "slug": "minior-core-green",
-          "cssClass": ".pokesprite.pokemon.minior-core-green.shiny.n3ds",
+          "slug": "minior-green",
+          "cssClass": ".pokesprite.pokemon.minior-green.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -68347,13 +68548,13 @@
       {
         "regular": {
           "name": "Minior-Core-Indigo",
-          "slug": "minior-core-indigo",
-          "cssClass": ".pokesprite.pokemon.minior-core-indigo"
+          "slug": "minior-indigo",
+          "cssClass": ".pokesprite.pokemon.minior-indigo"
         },
         "shiny": {
           "name": "Minior-Core-Indigo-★",
-          "slug": "minior-core-indigo",
-          "cssClass": ".pokesprite.pokemon.minior-core-indigo.shiny",
+          "slug": "minior-indigo",
+          "cssClass": ".pokesprite.pokemon.minior-indigo.shiny",
           "modifiers": [
             "shiny"
           ]
@@ -68362,16 +68563,16 @@
       {
         "regular": {
           "name": "Minior-Core-Indigo-3DS",
-          "slug": "minior-core-indigo",
-          "cssClass": ".pokesprite.pokemon.minior-core-indigo.n3ds",
+          "slug": "minior-indigo",
+          "cssClass": ".pokesprite.pokemon.minior-indigo.n3ds",
           "modifiers": [
             "n3ds"
           ]
         },
         "shiny": {
           "name": "Minior-Core-Indigo-3DS-★",
-          "slug": "minior-core-indigo",
-          "cssClass": ".pokesprite.pokemon.minior-core-indigo.shiny.n3ds",
+          "slug": "minior-indigo",
+          "cssClass": ".pokesprite.pokemon.minior-indigo.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -68381,13 +68582,13 @@
       {
         "regular": {
           "name": "Minior-Core-Orange",
-          "slug": "minior-core-orange",
-          "cssClass": ".pokesprite.pokemon.minior-core-orange"
+          "slug": "minior-orange",
+          "cssClass": ".pokesprite.pokemon.minior-orange"
         },
         "shiny": {
           "name": "Minior-Core-Orange-★",
-          "slug": "minior-core-orange",
-          "cssClass": ".pokesprite.pokemon.minior-core-orange.shiny",
+          "slug": "minior-orange",
+          "cssClass": ".pokesprite.pokemon.minior-orange.shiny",
           "modifiers": [
             "shiny"
           ]
@@ -68396,16 +68597,16 @@
       {
         "regular": {
           "name": "Minior-Core-Orange-3DS",
-          "slug": "minior-core-orange",
-          "cssClass": ".pokesprite.pokemon.minior-core-orange.n3ds",
+          "slug": "minior-orange",
+          "cssClass": ".pokesprite.pokemon.minior-orange.n3ds",
           "modifiers": [
             "n3ds"
           ]
         },
         "shiny": {
           "name": "Minior-Core-Orange-3DS-★",
-          "slug": "minior-core-orange",
-          "cssClass": ".pokesprite.pokemon.minior-core-orange.shiny.n3ds",
+          "slug": "minior-orange",
+          "cssClass": ".pokesprite.pokemon.minior-orange.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -68415,13 +68616,13 @@
       {
         "regular": {
           "name": "Minior-Core-Red",
-          "slug": "minior-core-red",
-          "cssClass": ".pokesprite.pokemon.minior-core-red"
+          "slug": "minior-red",
+          "cssClass": ".pokesprite.pokemon.minior-red"
         },
         "shiny": {
           "name": "Minior-Core-Red-★",
-          "slug": "minior-core-red",
-          "cssClass": ".pokesprite.pokemon.minior-core-red.shiny",
+          "slug": "minior-red",
+          "cssClass": ".pokesprite.pokemon.minior-red.shiny",
           "modifiers": [
             "shiny"
           ]
@@ -68430,16 +68631,16 @@
       {
         "regular": {
           "name": "Minior-Core-Red-3DS",
-          "slug": "minior-core-red",
-          "cssClass": ".pokesprite.pokemon.minior-core-red.n3ds",
+          "slug": "minior-red",
+          "cssClass": ".pokesprite.pokemon.minior-red.n3ds",
           "modifiers": [
             "n3ds"
           ]
         },
         "shiny": {
           "name": "Minior-Core-Red-3DS-★",
-          "slug": "minior-core-red",
-          "cssClass": ".pokesprite.pokemon.minior-core-red.shiny.n3ds",
+          "slug": "minior-red",
+          "cssClass": ".pokesprite.pokemon.minior-red.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -68449,13 +68650,13 @@
       {
         "regular": {
           "name": "Minior-Core-Violet",
-          "slug": "minior-core-violet",
-          "cssClass": ".pokesprite.pokemon.minior-core-violet"
+          "slug": "minior-violet",
+          "cssClass": ".pokesprite.pokemon.minior-violet"
         },
         "shiny": {
           "name": "Minior-Core-Violet-★",
-          "slug": "minior-core-violet",
-          "cssClass": ".pokesprite.pokemon.minior-core-violet.shiny",
+          "slug": "minior-violet",
+          "cssClass": ".pokesprite.pokemon.minior-violet.shiny",
           "modifiers": [
             "shiny"
           ]
@@ -68464,16 +68665,16 @@
       {
         "regular": {
           "name": "Minior-Core-Violet-3DS",
-          "slug": "minior-core-violet",
-          "cssClass": ".pokesprite.pokemon.minior-core-violet.n3ds",
+          "slug": "minior-violet",
+          "cssClass": ".pokesprite.pokemon.minior-violet.n3ds",
           "modifiers": [
             "n3ds"
           ]
         },
         "shiny": {
           "name": "Minior-Core-Violet-3DS-★",
-          "slug": "minior-core-violet",
-          "cssClass": ".pokesprite.pokemon.minior-core-violet.shiny.n3ds",
+          "slug": "minior-violet",
+          "cssClass": ".pokesprite.pokemon.minior-violet.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -68483,13 +68684,13 @@
       {
         "regular": {
           "name": "Minior-Core-Yellow",
-          "slug": "minior-core-yellow",
-          "cssClass": ".pokesprite.pokemon.minior-core-yellow"
+          "slug": "minior-yellow",
+          "cssClass": ".pokesprite.pokemon.minior-yellow"
         },
         "shiny": {
           "name": "Minior-Core-Yellow-★",
-          "slug": "minior-core-yellow",
-          "cssClass": ".pokesprite.pokemon.minior-core-yellow.shiny",
+          "slug": "minior-yellow",
+          "cssClass": ".pokesprite.pokemon.minior-yellow.shiny",
           "modifiers": [
             "shiny"
           ]
@@ -68498,16 +68699,16 @@
       {
         "regular": {
           "name": "Minior-Core-Yellow-3DS",
-          "slug": "minior-core-yellow",
-          "cssClass": ".pokesprite.pokemon.minior-core-yellow.n3ds",
+          "slug": "minior-yellow",
+          "cssClass": ".pokesprite.pokemon.minior-yellow.n3ds",
           "modifiers": [
             "n3ds"
           ]
         },
         "shiny": {
           "name": "Minior-Core-Yellow-3DS-★",
-          "slug": "minior-core-yellow",
-          "cssClass": ".pokesprite.pokemon.minior-core-yellow.shiny.n3ds",
+          "slug": "minior-yellow",
+          "cssClass": ".pokesprite.pokemon.minior-yellow.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -73426,8 +73627,20 @@
         },
         "shiny": {
           "name": "Alcremie-Caramelswirlcream-★",
-          "slug": "alcremie-caramelswirlcream",
-          "cssClass": ".pokesprite.pokemon.alcremie-caramelswirlcream.shiny",
+          "slug": "alcremie-caramel-swirl★",
+          "cssClass": ".pokesprite.pokemon.alcremie-caramel-swirl★"
+        }
+      },
+      {
+        "regular": {
+          "name": "Alcremie-Caramelswirlcream-3DS",
+          "slug": "alcremie-caramel-swirl3-ds",
+          "cssClass": ".pokesprite.pokemon.alcremie-caramel-swirl3-ds"
+        },
+        "shiny": {
+          "name": "Alcremie-Caramelswirlcream-3DS-★",
+          "slug": "alcremie-caramel-swirl3-ds",
+          "cssClass": ".pokesprite.pokemon.alcremie-caramel-swirl3-ds.shiny",
           "modifiers": [
             "shiny"
           ]
@@ -73435,33 +73648,14 @@
       },
       {
         "regular": {
-          "name": "Alcremie-Caramelswirlcream-3DS",
-          "slug": "alcremie-caramelswirlcream",
-          "cssClass": ".pokesprite.pokemon.alcremie-caramelswirlcream.n3ds",
-          "modifiers": [
-            "n3ds"
-          ]
-        },
-        "shiny": {
-          "name": "Alcremie-Caramelswirlcream-3DS-★",
-          "slug": "alcremie-caramelswirlcream",
-          "cssClass": ".pokesprite.pokemon.alcremie-caramelswirlcream.shiny.n3ds",
-          "modifiers": [
-            "shiny",
-            "n3ds"
-          ]
-        }
-      },
-      {
-        "regular": {
           "name": "Alcremie-Caramelswirlcream-Berrysweet",
-          "slug": "alcremie-caramelswirlcream-berrysweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-caramelswirlcream-berrysweet"
+          "slug": "alcremie-caramel-swirl-berry",
+          "cssClass": ".pokesprite.pokemon.alcremie-caramel-swirl-berry"
         },
         "shiny": {
           "name": "Alcremie-Caramelswirlcream-Berrysweet-★",
-          "slug": "alcremie-caramelswirlcream-berrysweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-caramelswirlcream-berrysweet.shiny",
+          "slug": "alcremie-caramel-swirl-berry",
+          "cssClass": ".pokesprite.pokemon.alcremie-caramel-swirl-berry.shiny",
           "modifiers": [
             "shiny"
           ]
@@ -73470,16 +73664,16 @@
       {
         "regular": {
           "name": "Alcremie-Caramelswirlcream-Berrysweet-3DS",
-          "slug": "alcremie-caramelswirlcream-berrysweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-caramelswirlcream-berrysweet.n3ds",
+          "slug": "alcremie-caramel-swirl-berry",
+          "cssClass": ".pokesprite.pokemon.alcremie-caramel-swirl-berry.n3ds",
           "modifiers": [
             "n3ds"
           ]
         },
         "shiny": {
           "name": "Alcremie-Caramelswirlcream-Berrysweet-3DS-★",
-          "slug": "alcremie-caramelswirlcream-berrysweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-caramelswirlcream-berrysweet.shiny.n3ds",
+          "slug": "alcremie-caramel-swirl-berry",
+          "cssClass": ".pokesprite.pokemon.alcremie-caramel-swirl-berry.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -73489,13 +73683,13 @@
       {
         "regular": {
           "name": "Alcremie-Caramelswirlcream-Cloversweet",
-          "slug": "alcremie-caramelswirlcream-cloversweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-caramelswirlcream-cloversweet"
+          "slug": "alcremie-caramel-swirl-clover",
+          "cssClass": ".pokesprite.pokemon.alcremie-caramel-swirl-clover"
         },
         "shiny": {
           "name": "Alcremie-Caramelswirlcream-Cloversweet-★",
-          "slug": "alcremie-caramelswirlcream-cloversweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-caramelswirlcream-cloversweet.shiny",
+          "slug": "alcremie-caramel-swirl-clover",
+          "cssClass": ".pokesprite.pokemon.alcremie-caramel-swirl-clover.shiny",
           "modifiers": [
             "shiny"
           ]
@@ -73504,16 +73698,16 @@
       {
         "regular": {
           "name": "Alcremie-Caramelswirlcream-Cloversweet-3DS",
-          "slug": "alcremie-caramelswirlcream-cloversweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-caramelswirlcream-cloversweet.n3ds",
+          "slug": "alcremie-caramel-swirl-clover",
+          "cssClass": ".pokesprite.pokemon.alcremie-caramel-swirl-clover.n3ds",
           "modifiers": [
             "n3ds"
           ]
         },
         "shiny": {
           "name": "Alcremie-Caramelswirlcream-Cloversweet-3DS-★",
-          "slug": "alcremie-caramelswirlcream-cloversweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-caramelswirlcream-cloversweet.shiny.n3ds",
+          "slug": "alcremie-caramel-swirl-clover",
+          "cssClass": ".pokesprite.pokemon.alcremie-caramel-swirl-clover.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -73523,13 +73717,13 @@
       {
         "regular": {
           "name": "Alcremie-Caramelswirlcream-Flowersweet",
-          "slug": "alcremie-caramelswirlcream-flowersweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-caramelswirlcream-flowersweet"
+          "slug": "alcremie-caramel-swirl-flower",
+          "cssClass": ".pokesprite.pokemon.alcremie-caramel-swirl-flower"
         },
         "shiny": {
           "name": "Alcremie-Caramelswirlcream-Flowersweet-★",
-          "slug": "alcremie-caramelswirlcream-flowersweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-caramelswirlcream-flowersweet.shiny",
+          "slug": "alcremie-caramel-swirl-flower",
+          "cssClass": ".pokesprite.pokemon.alcremie-caramel-swirl-flower.shiny",
           "modifiers": [
             "shiny"
           ]
@@ -73538,16 +73732,16 @@
       {
         "regular": {
           "name": "Alcremie-Caramelswirlcream-Flowersweet-3DS",
-          "slug": "alcremie-caramelswirlcream-flowersweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-caramelswirlcream-flowersweet.n3ds",
+          "slug": "alcremie-caramel-swirl-flower",
+          "cssClass": ".pokesprite.pokemon.alcremie-caramel-swirl-flower.n3ds",
           "modifiers": [
             "n3ds"
           ]
         },
         "shiny": {
           "name": "Alcremie-Caramelswirlcream-Flowersweet-3DS-★",
-          "slug": "alcremie-caramelswirlcream-flowersweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-caramelswirlcream-flowersweet.shiny.n3ds",
+          "slug": "alcremie-caramel-swirl-flower",
+          "cssClass": ".pokesprite.pokemon.alcremie-caramel-swirl-flower.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -73557,13 +73751,13 @@
       {
         "regular": {
           "name": "Alcremie-Caramelswirlcream-Lovesweet",
-          "slug": "alcremie-caramelswirlcream-lovesweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-caramelswirlcream-lovesweet"
+          "slug": "alcremie-caramel-swirl-love",
+          "cssClass": ".pokesprite.pokemon.alcremie-caramel-swirl-love"
         },
         "shiny": {
           "name": "Alcremie-Caramelswirlcream-Lovesweet-★",
-          "slug": "alcremie-caramelswirlcream-lovesweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-caramelswirlcream-lovesweet.shiny",
+          "slug": "alcremie-caramel-swirl-love",
+          "cssClass": ".pokesprite.pokemon.alcremie-caramel-swirl-love.shiny",
           "modifiers": [
             "shiny"
           ]
@@ -73572,16 +73766,16 @@
       {
         "regular": {
           "name": "Alcremie-Caramelswirlcream-Lovesweet-3DS",
-          "slug": "alcremie-caramelswirlcream-lovesweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-caramelswirlcream-lovesweet.n3ds",
+          "slug": "alcremie-caramel-swirl-love",
+          "cssClass": ".pokesprite.pokemon.alcremie-caramel-swirl-love.n3ds",
           "modifiers": [
             "n3ds"
           ]
         },
         "shiny": {
           "name": "Alcremie-Caramelswirlcream-Lovesweet-3DS-★",
-          "slug": "alcremie-caramelswirlcream-lovesweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-caramelswirlcream-lovesweet.shiny.n3ds",
+          "slug": "alcremie-caramel-swirl-love",
+          "cssClass": ".pokesprite.pokemon.alcremie-caramel-swirl-love.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -73591,13 +73785,13 @@
       {
         "regular": {
           "name": "Alcremie-Caramelswirlcream-Ribbonsweet",
-          "slug": "alcremie-caramelswirlcream-ribbonsweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-caramelswirlcream-ribbonsweet"
+          "slug": "alcremie-caramel-swirl-ribbon",
+          "cssClass": ".pokesprite.pokemon.alcremie-caramel-swirl-ribbon"
         },
         "shiny": {
           "name": "Alcremie-Caramelswirlcream-Ribbonsweet-★",
-          "slug": "alcremie-caramelswirlcream-ribbonsweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-caramelswirlcream-ribbonsweet.shiny",
+          "slug": "alcremie-caramel-swirl-ribbon",
+          "cssClass": ".pokesprite.pokemon.alcremie-caramel-swirl-ribbon.shiny",
           "modifiers": [
             "shiny"
           ]
@@ -73606,16 +73800,16 @@
       {
         "regular": {
           "name": "Alcremie-Caramelswirlcream-Ribbonsweet-3DS",
-          "slug": "alcremie-caramelswirlcream-ribbonsweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-caramelswirlcream-ribbonsweet.n3ds",
+          "slug": "alcremie-caramel-swirl-ribbon",
+          "cssClass": ".pokesprite.pokemon.alcremie-caramel-swirl-ribbon.n3ds",
           "modifiers": [
             "n3ds"
           ]
         },
         "shiny": {
           "name": "Alcremie-Caramelswirlcream-Ribbonsweet-3DS-★",
-          "slug": "alcremie-caramelswirlcream-ribbonsweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-caramelswirlcream-ribbonsweet.shiny.n3ds",
+          "slug": "alcremie-caramel-swirl-ribbon",
+          "cssClass": ".pokesprite.pokemon.alcremie-caramel-swirl-ribbon.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -73625,13 +73819,13 @@
       {
         "regular": {
           "name": "Alcremie-Caramelswirlcream-Starsweet",
-          "slug": "alcremie-caramelswirlcream-starsweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-caramelswirlcream-starsweet"
+          "slug": "alcremie-caramel-swirl-star",
+          "cssClass": ".pokesprite.pokemon.alcremie-caramel-swirl-star"
         },
         "shiny": {
           "name": "Alcremie-Caramelswirlcream-Starsweet-★",
-          "slug": "alcremie-caramelswirlcream-starsweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-caramelswirlcream-starsweet.shiny",
+          "slug": "alcremie-caramel-swirl-star",
+          "cssClass": ".pokesprite.pokemon.alcremie-caramel-swirl-star.shiny",
           "modifiers": [
             "shiny"
           ]
@@ -73640,16 +73834,16 @@
       {
         "regular": {
           "name": "Alcremie-Caramelswirlcream-Starsweet-3DS",
-          "slug": "alcremie-caramelswirlcream-starsweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-caramelswirlcream-starsweet.n3ds",
+          "slug": "alcremie-caramel-swirl-star",
+          "cssClass": ".pokesprite.pokemon.alcremie-caramel-swirl-star.n3ds",
           "modifiers": [
             "n3ds"
           ]
         },
         "shiny": {
           "name": "Alcremie-Caramelswirlcream-Starsweet-3DS-★",
-          "slug": "alcremie-caramelswirlcream-starsweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-caramelswirlcream-starsweet.shiny.n3ds",
+          "slug": "alcremie-caramel-swirl-star",
+          "cssClass": ".pokesprite.pokemon.alcremie-caramel-swirl-star.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -73659,13 +73853,13 @@
       {
         "regular": {
           "name": "Alcremie-Caramelswirlcream-Strawberrysweet",
-          "slug": "alcremie-caramelswirlcream-strawberrysweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-caramelswirlcream-strawberrysweet"
+          "slug": "alcremie-caramel-swirl-strawberry",
+          "cssClass": ".pokesprite.pokemon.alcremie-caramel-swirl-strawberry"
         },
         "shiny": {
           "name": "Alcremie-Caramelswirlcream-Strawberrysweet-★",
-          "slug": "alcremie-caramelswirlcream-strawberrysweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-caramelswirlcream-strawberrysweet.shiny",
+          "slug": "alcremie-caramel-swirl-strawberry",
+          "cssClass": ".pokesprite.pokemon.alcremie-caramel-swirl-strawberry.shiny",
           "modifiers": [
             "shiny"
           ]
@@ -73674,16 +73868,16 @@
       {
         "regular": {
           "name": "Alcremie-Caramelswirlcream-Strawberrysweet-3DS",
-          "slug": "alcremie-caramelswirlcream-strawberrysweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-caramelswirlcream-strawberrysweet.n3ds",
+          "slug": "alcremie-caramel-swirl-strawberry",
+          "cssClass": ".pokesprite.pokemon.alcremie-caramel-swirl-strawberry.n3ds",
           "modifiers": [
             "n3ds"
           ]
         },
         "shiny": {
           "name": "Alcremie-Caramelswirlcream-Strawberrysweet-3DS-★",
-          "slug": "alcremie-caramelswirlcream-strawberrysweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-caramelswirlcream-strawberrysweet.shiny.n3ds",
+          "slug": "alcremie-caramel-swirl-strawberry",
+          "cssClass": ".pokesprite.pokemon.alcremie-caramel-swirl-strawberry.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -73732,8 +73926,20 @@
         },
         "shiny": {
           "name": "Alcremie-Lemoncream-★",
-          "slug": "alcremie-lemoncream",
-          "cssClass": ".pokesprite.pokemon.alcremie-lemoncream.shiny",
+          "slug": "alcremie-lemon-cream★",
+          "cssClass": ".pokesprite.pokemon.alcremie-lemon-cream★"
+        }
+      },
+      {
+        "regular": {
+          "name": "Alcremie-Lemoncream-3DS",
+          "slug": "alcremie-lemon-cream3-ds",
+          "cssClass": ".pokesprite.pokemon.alcremie-lemon-cream3-ds"
+        },
+        "shiny": {
+          "name": "Alcremie-Lemoncream-3DS-★",
+          "slug": "alcremie-lemon-cream3-ds",
+          "cssClass": ".pokesprite.pokemon.alcremie-lemon-cream3-ds.shiny",
           "modifiers": [
             "shiny"
           ]
@@ -73741,33 +73947,14 @@
       },
       {
         "regular": {
-          "name": "Alcremie-Lemoncream-3DS",
-          "slug": "alcremie-lemoncream",
-          "cssClass": ".pokesprite.pokemon.alcremie-lemoncream.n3ds",
-          "modifiers": [
-            "n3ds"
-          ]
-        },
-        "shiny": {
-          "name": "Alcremie-Lemoncream-3DS-★",
-          "slug": "alcremie-lemoncream",
-          "cssClass": ".pokesprite.pokemon.alcremie-lemoncream.shiny.n3ds",
-          "modifiers": [
-            "shiny",
-            "n3ds"
-          ]
-        }
-      },
-      {
-        "regular": {
           "name": "Alcremie-Lemoncream-Berrysweet",
-          "slug": "alcremie-lemoncream-berrysweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-lemoncream-berrysweet"
+          "slug": "alcremie-lemon-cream-berry",
+          "cssClass": ".pokesprite.pokemon.alcremie-lemon-cream-berry"
         },
         "shiny": {
           "name": "Alcremie-Lemoncream-Berrysweet-★",
-          "slug": "alcremie-lemoncream-berrysweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-lemoncream-berrysweet.shiny",
+          "slug": "alcremie-lemon-cream-berry",
+          "cssClass": ".pokesprite.pokemon.alcremie-lemon-cream-berry.shiny",
           "modifiers": [
             "shiny"
           ]
@@ -73776,16 +73963,16 @@
       {
         "regular": {
           "name": "Alcremie-Lemoncream-Berrysweet-3DS",
-          "slug": "alcremie-lemoncream-berrysweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-lemoncream-berrysweet.n3ds",
+          "slug": "alcremie-lemon-cream-berry",
+          "cssClass": ".pokesprite.pokemon.alcremie-lemon-cream-berry.n3ds",
           "modifiers": [
             "n3ds"
           ]
         },
         "shiny": {
           "name": "Alcremie-Lemoncream-Berrysweet-3DS-★",
-          "slug": "alcremie-lemoncream-berrysweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-lemoncream-berrysweet.shiny.n3ds",
+          "slug": "alcremie-lemon-cream-berry",
+          "cssClass": ".pokesprite.pokemon.alcremie-lemon-cream-berry.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -73795,13 +73982,13 @@
       {
         "regular": {
           "name": "Alcremie-Lemoncream-Cloversweet",
-          "slug": "alcremie-lemoncream-cloversweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-lemoncream-cloversweet"
+          "slug": "alcremie-lemon-cream-clover",
+          "cssClass": ".pokesprite.pokemon.alcremie-lemon-cream-clover"
         },
         "shiny": {
           "name": "Alcremie-Lemoncream-Cloversweet-★",
-          "slug": "alcremie-lemoncream-cloversweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-lemoncream-cloversweet.shiny",
+          "slug": "alcremie-lemon-cream-clover",
+          "cssClass": ".pokesprite.pokemon.alcremie-lemon-cream-clover.shiny",
           "modifiers": [
             "shiny"
           ]
@@ -73810,16 +73997,16 @@
       {
         "regular": {
           "name": "Alcremie-Lemoncream-Cloversweet-3DS",
-          "slug": "alcremie-lemoncream-cloversweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-lemoncream-cloversweet.n3ds",
+          "slug": "alcremie-lemon-cream-clover",
+          "cssClass": ".pokesprite.pokemon.alcremie-lemon-cream-clover.n3ds",
           "modifiers": [
             "n3ds"
           ]
         },
         "shiny": {
           "name": "Alcremie-Lemoncream-Cloversweet-3DS-★",
-          "slug": "alcremie-lemoncream-cloversweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-lemoncream-cloversweet.shiny.n3ds",
+          "slug": "alcremie-lemon-cream-clover",
+          "cssClass": ".pokesprite.pokemon.alcremie-lemon-cream-clover.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -73829,13 +74016,13 @@
       {
         "regular": {
           "name": "Alcremie-Lemoncream-Flowersweet",
-          "slug": "alcremie-lemoncream-flowersweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-lemoncream-flowersweet"
+          "slug": "alcremie-lemon-cream-flower",
+          "cssClass": ".pokesprite.pokemon.alcremie-lemon-cream-flower"
         },
         "shiny": {
           "name": "Alcremie-Lemoncream-Flowersweet-★",
-          "slug": "alcremie-lemoncream-flowersweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-lemoncream-flowersweet.shiny",
+          "slug": "alcremie-lemon-cream-flower",
+          "cssClass": ".pokesprite.pokemon.alcremie-lemon-cream-flower.shiny",
           "modifiers": [
             "shiny"
           ]
@@ -73844,16 +74031,16 @@
       {
         "regular": {
           "name": "Alcremie-Lemoncream-Flowersweet-3DS",
-          "slug": "alcremie-lemoncream-flowersweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-lemoncream-flowersweet.n3ds",
+          "slug": "alcremie-lemon-cream-flower",
+          "cssClass": ".pokesprite.pokemon.alcremie-lemon-cream-flower.n3ds",
           "modifiers": [
             "n3ds"
           ]
         },
         "shiny": {
           "name": "Alcremie-Lemoncream-Flowersweet-3DS-★",
-          "slug": "alcremie-lemoncream-flowersweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-lemoncream-flowersweet.shiny.n3ds",
+          "slug": "alcremie-lemon-cream-flower",
+          "cssClass": ".pokesprite.pokemon.alcremie-lemon-cream-flower.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -73863,13 +74050,13 @@
       {
         "regular": {
           "name": "Alcremie-Lemoncream-Lovesweet",
-          "slug": "alcremie-lemoncream-lovesweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-lemoncream-lovesweet"
+          "slug": "alcremie-lemon-cream-love",
+          "cssClass": ".pokesprite.pokemon.alcremie-lemon-cream-love"
         },
         "shiny": {
           "name": "Alcremie-Lemoncream-Lovesweet-★",
-          "slug": "alcremie-lemoncream-lovesweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-lemoncream-lovesweet.shiny",
+          "slug": "alcremie-lemon-cream-love",
+          "cssClass": ".pokesprite.pokemon.alcremie-lemon-cream-love.shiny",
           "modifiers": [
             "shiny"
           ]
@@ -73878,16 +74065,16 @@
       {
         "regular": {
           "name": "Alcremie-Lemoncream-Lovesweet-3DS",
-          "slug": "alcremie-lemoncream-lovesweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-lemoncream-lovesweet.n3ds",
+          "slug": "alcremie-lemon-cream-love",
+          "cssClass": ".pokesprite.pokemon.alcremie-lemon-cream-love.n3ds",
           "modifiers": [
             "n3ds"
           ]
         },
         "shiny": {
           "name": "Alcremie-Lemoncream-Lovesweet-3DS-★",
-          "slug": "alcremie-lemoncream-lovesweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-lemoncream-lovesweet.shiny.n3ds",
+          "slug": "alcremie-lemon-cream-love",
+          "cssClass": ".pokesprite.pokemon.alcremie-lemon-cream-love.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -73897,13 +74084,13 @@
       {
         "regular": {
           "name": "Alcremie-Lemoncream-Ribbonsweet",
-          "slug": "alcremie-lemoncream-ribbonsweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-lemoncream-ribbonsweet"
+          "slug": "alcremie-lemon-cream-ribbon",
+          "cssClass": ".pokesprite.pokemon.alcremie-lemon-cream-ribbon"
         },
         "shiny": {
           "name": "Alcremie-Lemoncream-Ribbonsweet-★",
-          "slug": "alcremie-lemoncream-ribbonsweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-lemoncream-ribbonsweet.shiny",
+          "slug": "alcremie-lemon-cream-ribbon",
+          "cssClass": ".pokesprite.pokemon.alcremie-lemon-cream-ribbon.shiny",
           "modifiers": [
             "shiny"
           ]
@@ -73912,16 +74099,16 @@
       {
         "regular": {
           "name": "Alcremie-Lemoncream-Ribbonsweet-3DS",
-          "slug": "alcremie-lemoncream-ribbonsweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-lemoncream-ribbonsweet.n3ds",
+          "slug": "alcremie-lemon-cream-ribbon",
+          "cssClass": ".pokesprite.pokemon.alcremie-lemon-cream-ribbon.n3ds",
           "modifiers": [
             "n3ds"
           ]
         },
         "shiny": {
           "name": "Alcremie-Lemoncream-Ribbonsweet-3DS-★",
-          "slug": "alcremie-lemoncream-ribbonsweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-lemoncream-ribbonsweet.shiny.n3ds",
+          "slug": "alcremie-lemon-cream-ribbon",
+          "cssClass": ".pokesprite.pokemon.alcremie-lemon-cream-ribbon.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -73931,13 +74118,13 @@
       {
         "regular": {
           "name": "Alcremie-Lemoncream-Starsweet",
-          "slug": "alcremie-lemoncream-starsweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-lemoncream-starsweet"
+          "slug": "alcremie-lemon-cream-star",
+          "cssClass": ".pokesprite.pokemon.alcremie-lemon-cream-star"
         },
         "shiny": {
           "name": "Alcremie-Lemoncream-Starsweet-★",
-          "slug": "alcremie-lemoncream-starsweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-lemoncream-starsweet.shiny",
+          "slug": "alcremie-lemon-cream-star",
+          "cssClass": ".pokesprite.pokemon.alcremie-lemon-cream-star.shiny",
           "modifiers": [
             "shiny"
           ]
@@ -73946,16 +74133,16 @@
       {
         "regular": {
           "name": "Alcremie-Lemoncream-Starsweet-3DS",
-          "slug": "alcremie-lemoncream-starsweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-lemoncream-starsweet.n3ds",
+          "slug": "alcremie-lemon-cream-star",
+          "cssClass": ".pokesprite.pokemon.alcremie-lemon-cream-star.n3ds",
           "modifiers": [
             "n3ds"
           ]
         },
         "shiny": {
           "name": "Alcremie-Lemoncream-Starsweet-3DS-★",
-          "slug": "alcremie-lemoncream-starsweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-lemoncream-starsweet.shiny.n3ds",
+          "slug": "alcremie-lemon-cream-star",
+          "cssClass": ".pokesprite.pokemon.alcremie-lemon-cream-star.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -73965,13 +74152,13 @@
       {
         "regular": {
           "name": "Alcremie-Lemoncream-Strawberrysweet",
-          "slug": "alcremie-lemoncream-strawberrysweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-lemoncream-strawberrysweet"
+          "slug": "alcremie-lemon-cream-strawberry",
+          "cssClass": ".pokesprite.pokemon.alcremie-lemon-cream-strawberry"
         },
         "shiny": {
           "name": "Alcremie-Lemoncream-Strawberrysweet-★",
-          "slug": "alcremie-lemoncream-strawberrysweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-lemoncream-strawberrysweet.shiny",
+          "slug": "alcremie-lemon-cream-strawberry",
+          "cssClass": ".pokesprite.pokemon.alcremie-lemon-cream-strawberry.shiny",
           "modifiers": [
             "shiny"
           ]
@@ -73980,16 +74167,16 @@
       {
         "regular": {
           "name": "Alcremie-Lemoncream-Strawberrysweet-3DS",
-          "slug": "alcremie-lemoncream-strawberrysweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-lemoncream-strawberrysweet.n3ds",
+          "slug": "alcremie-lemon-cream-strawberry",
+          "cssClass": ".pokesprite.pokemon.alcremie-lemon-cream-strawberry.n3ds",
           "modifiers": [
             "n3ds"
           ]
         },
         "shiny": {
           "name": "Alcremie-Lemoncream-Strawberrysweet-3DS-★",
-          "slug": "alcremie-lemoncream-strawberrysweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-lemoncream-strawberrysweet.shiny.n3ds",
+          "slug": "alcremie-lemon-cream-strawberry",
+          "cssClass": ".pokesprite.pokemon.alcremie-lemon-cream-strawberry.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -74004,8 +74191,20 @@
         },
         "shiny": {
           "name": "Alcremie-Matchacream-★",
-          "slug": "alcremie-matchacream",
-          "cssClass": ".pokesprite.pokemon.alcremie-matchacream.shiny",
+          "slug": "alcremie-matcha-cream★",
+          "cssClass": ".pokesprite.pokemon.alcremie-matcha-cream★"
+        }
+      },
+      {
+        "regular": {
+          "name": "Alcremie-Matchacream-3DS",
+          "slug": "alcremie-matcha-cream3-ds",
+          "cssClass": ".pokesprite.pokemon.alcremie-matcha-cream3-ds"
+        },
+        "shiny": {
+          "name": "Alcremie-Matchacream-3DS-★",
+          "slug": "alcremie-matcha-cream3-ds",
+          "cssClass": ".pokesprite.pokemon.alcremie-matcha-cream3-ds.shiny",
           "modifiers": [
             "shiny"
           ]
@@ -74013,33 +74212,14 @@
       },
       {
         "regular": {
-          "name": "Alcremie-Matchacream-3DS",
-          "slug": "alcremie-matchacream",
-          "cssClass": ".pokesprite.pokemon.alcremie-matchacream.n3ds",
-          "modifiers": [
-            "n3ds"
-          ]
-        },
-        "shiny": {
-          "name": "Alcremie-Matchacream-3DS-★",
-          "slug": "alcremie-matchacream",
-          "cssClass": ".pokesprite.pokemon.alcremie-matchacream.shiny.n3ds",
-          "modifiers": [
-            "shiny",
-            "n3ds"
-          ]
-        }
-      },
-      {
-        "regular": {
           "name": "Alcremie-Matchacream-Berrysweet",
-          "slug": "alcremie-matchacream-berrysweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-matchacream-berrysweet"
+          "slug": "alcremie-matcha-cream-berry",
+          "cssClass": ".pokesprite.pokemon.alcremie-matcha-cream-berry"
         },
         "shiny": {
           "name": "Alcremie-Matchacream-Berrysweet-★",
-          "slug": "alcremie-matchacream-berrysweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-matchacream-berrysweet.shiny",
+          "slug": "alcremie-matcha-cream-berry",
+          "cssClass": ".pokesprite.pokemon.alcremie-matcha-cream-berry.shiny",
           "modifiers": [
             "shiny"
           ]
@@ -74048,16 +74228,16 @@
       {
         "regular": {
           "name": "Alcremie-Matchacream-Berrysweet-3DS",
-          "slug": "alcremie-matchacream-berrysweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-matchacream-berrysweet.n3ds",
+          "slug": "alcremie-matcha-cream-berry",
+          "cssClass": ".pokesprite.pokemon.alcremie-matcha-cream-berry.n3ds",
           "modifiers": [
             "n3ds"
           ]
         },
         "shiny": {
           "name": "Alcremie-Matchacream-Berrysweet-3DS-★",
-          "slug": "alcremie-matchacream-berrysweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-matchacream-berrysweet.shiny.n3ds",
+          "slug": "alcremie-matcha-cream-berry",
+          "cssClass": ".pokesprite.pokemon.alcremie-matcha-cream-berry.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -74067,13 +74247,13 @@
       {
         "regular": {
           "name": "Alcremie-Matchacream-Cloversweet",
-          "slug": "alcremie-matchacream-cloversweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-matchacream-cloversweet"
+          "slug": "alcremie-matcha-cream-clover",
+          "cssClass": ".pokesprite.pokemon.alcremie-matcha-cream-clover"
         },
         "shiny": {
           "name": "Alcremie-Matchacream-Cloversweet-★",
-          "slug": "alcremie-matchacream-cloversweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-matchacream-cloversweet.shiny",
+          "slug": "alcremie-matcha-cream-clover",
+          "cssClass": ".pokesprite.pokemon.alcremie-matcha-cream-clover.shiny",
           "modifiers": [
             "shiny"
           ]
@@ -74082,16 +74262,16 @@
       {
         "regular": {
           "name": "Alcremie-Matchacream-Cloversweet-3DS",
-          "slug": "alcremie-matchacream-cloversweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-matchacream-cloversweet.n3ds",
+          "slug": "alcremie-matcha-cream-clover",
+          "cssClass": ".pokesprite.pokemon.alcremie-matcha-cream-clover.n3ds",
           "modifiers": [
             "n3ds"
           ]
         },
         "shiny": {
           "name": "Alcremie-Matchacream-Cloversweet-3DS-★",
-          "slug": "alcremie-matchacream-cloversweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-matchacream-cloversweet.shiny.n3ds",
+          "slug": "alcremie-matcha-cream-clover",
+          "cssClass": ".pokesprite.pokemon.alcremie-matcha-cream-clover.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -74101,13 +74281,13 @@
       {
         "regular": {
           "name": "Alcremie-Matchacream-Flowersweet",
-          "slug": "alcremie-matchacream-flowersweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-matchacream-flowersweet"
+          "slug": "alcremie-matcha-cream-flower",
+          "cssClass": ".pokesprite.pokemon.alcremie-matcha-cream-flower"
         },
         "shiny": {
           "name": "Alcremie-Matchacream-Flowersweet-★",
-          "slug": "alcremie-matchacream-flowersweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-matchacream-flowersweet.shiny",
+          "slug": "alcremie-matcha-cream-flower",
+          "cssClass": ".pokesprite.pokemon.alcremie-matcha-cream-flower.shiny",
           "modifiers": [
             "shiny"
           ]
@@ -74116,16 +74296,16 @@
       {
         "regular": {
           "name": "Alcremie-Matchacream-Flowersweet-3DS",
-          "slug": "alcremie-matchacream-flowersweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-matchacream-flowersweet.n3ds",
+          "slug": "alcremie-matcha-cream-flower",
+          "cssClass": ".pokesprite.pokemon.alcremie-matcha-cream-flower.n3ds",
           "modifiers": [
             "n3ds"
           ]
         },
         "shiny": {
           "name": "Alcremie-Matchacream-Flowersweet-3DS-★",
-          "slug": "alcremie-matchacream-flowersweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-matchacream-flowersweet.shiny.n3ds",
+          "slug": "alcremie-matcha-cream-flower",
+          "cssClass": ".pokesprite.pokemon.alcremie-matcha-cream-flower.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -74135,13 +74315,13 @@
       {
         "regular": {
           "name": "Alcremie-Matchacream-Lovesweet",
-          "slug": "alcremie-matchacream-lovesweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-matchacream-lovesweet"
+          "slug": "alcremie-matcha-cream-love",
+          "cssClass": ".pokesprite.pokemon.alcremie-matcha-cream-love"
         },
         "shiny": {
           "name": "Alcremie-Matchacream-Lovesweet-★",
-          "slug": "alcremie-matchacream-lovesweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-matchacream-lovesweet.shiny",
+          "slug": "alcremie-matcha-cream-love",
+          "cssClass": ".pokesprite.pokemon.alcremie-matcha-cream-love.shiny",
           "modifiers": [
             "shiny"
           ]
@@ -74150,16 +74330,16 @@
       {
         "regular": {
           "name": "Alcremie-Matchacream-Lovesweet-3DS",
-          "slug": "alcremie-matchacream-lovesweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-matchacream-lovesweet.n3ds",
+          "slug": "alcremie-matcha-cream-love",
+          "cssClass": ".pokesprite.pokemon.alcremie-matcha-cream-love.n3ds",
           "modifiers": [
             "n3ds"
           ]
         },
         "shiny": {
           "name": "Alcremie-Matchacream-Lovesweet-3DS-★",
-          "slug": "alcremie-matchacream-lovesweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-matchacream-lovesweet.shiny.n3ds",
+          "slug": "alcremie-matcha-cream-love",
+          "cssClass": ".pokesprite.pokemon.alcremie-matcha-cream-love.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -74169,13 +74349,13 @@
       {
         "regular": {
           "name": "Alcremie-Matchacream-Ribbonsweet",
-          "slug": "alcremie-matchacream-ribbonsweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-matchacream-ribbonsweet"
+          "slug": "alcremie-matcha-cream-ribbon",
+          "cssClass": ".pokesprite.pokemon.alcremie-matcha-cream-ribbon"
         },
         "shiny": {
           "name": "Alcremie-Matchacream-Ribbonsweet-★",
-          "slug": "alcremie-matchacream-ribbonsweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-matchacream-ribbonsweet.shiny",
+          "slug": "alcremie-matcha-cream-ribbon",
+          "cssClass": ".pokesprite.pokemon.alcremie-matcha-cream-ribbon.shiny",
           "modifiers": [
             "shiny"
           ]
@@ -74184,16 +74364,16 @@
       {
         "regular": {
           "name": "Alcremie-Matchacream-Ribbonsweet-3DS",
-          "slug": "alcremie-matchacream-ribbonsweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-matchacream-ribbonsweet.n3ds",
+          "slug": "alcremie-matcha-cream-ribbon",
+          "cssClass": ".pokesprite.pokemon.alcremie-matcha-cream-ribbon.n3ds",
           "modifiers": [
             "n3ds"
           ]
         },
         "shiny": {
           "name": "Alcremie-Matchacream-Ribbonsweet-3DS-★",
-          "slug": "alcremie-matchacream-ribbonsweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-matchacream-ribbonsweet.shiny.n3ds",
+          "slug": "alcremie-matcha-cream-ribbon",
+          "cssClass": ".pokesprite.pokemon.alcremie-matcha-cream-ribbon.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -74203,13 +74383,13 @@
       {
         "regular": {
           "name": "Alcremie-Matchacream-Starsweet",
-          "slug": "alcremie-matchacream-starsweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-matchacream-starsweet"
+          "slug": "alcremie-matcha-cream-star",
+          "cssClass": ".pokesprite.pokemon.alcremie-matcha-cream-star"
         },
         "shiny": {
           "name": "Alcremie-Matchacream-Starsweet-★",
-          "slug": "alcremie-matchacream-starsweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-matchacream-starsweet.shiny",
+          "slug": "alcremie-matcha-cream-star",
+          "cssClass": ".pokesprite.pokemon.alcremie-matcha-cream-star.shiny",
           "modifiers": [
             "shiny"
           ]
@@ -74218,16 +74398,16 @@
       {
         "regular": {
           "name": "Alcremie-Matchacream-Starsweet-3DS",
-          "slug": "alcremie-matchacream-starsweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-matchacream-starsweet.n3ds",
+          "slug": "alcremie-matcha-cream-star",
+          "cssClass": ".pokesprite.pokemon.alcremie-matcha-cream-star.n3ds",
           "modifiers": [
             "n3ds"
           ]
         },
         "shiny": {
           "name": "Alcremie-Matchacream-Starsweet-3DS-★",
-          "slug": "alcremie-matchacream-starsweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-matchacream-starsweet.shiny.n3ds",
+          "slug": "alcremie-matcha-cream-star",
+          "cssClass": ".pokesprite.pokemon.alcremie-matcha-cream-star.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -74237,13 +74417,13 @@
       {
         "regular": {
           "name": "Alcremie-Matchacream-Strawberrysweet",
-          "slug": "alcremie-matchacream-strawberrysweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-matchacream-strawberrysweet"
+          "slug": "alcremie-matcha-cream-strawberry",
+          "cssClass": ".pokesprite.pokemon.alcremie-matcha-cream-strawberry"
         },
         "shiny": {
           "name": "Alcremie-Matchacream-Strawberrysweet-★",
-          "slug": "alcremie-matchacream-strawberrysweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-matchacream-strawberrysweet.shiny",
+          "slug": "alcremie-matcha-cream-strawberry",
+          "cssClass": ".pokesprite.pokemon.alcremie-matcha-cream-strawberry.shiny",
           "modifiers": [
             "shiny"
           ]
@@ -74252,16 +74432,16 @@
       {
         "regular": {
           "name": "Alcremie-Matchacream-Strawberrysweet-3DS",
-          "slug": "alcremie-matchacream-strawberrysweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-matchacream-strawberrysweet.n3ds",
+          "slug": "alcremie-matcha-cream-strawberry",
+          "cssClass": ".pokesprite.pokemon.alcremie-matcha-cream-strawberry.n3ds",
           "modifiers": [
             "n3ds"
           ]
         },
         "shiny": {
           "name": "Alcremie-Matchacream-Strawberrysweet-3DS-★",
-          "slug": "alcremie-matchacream-strawberrysweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-matchacream-strawberrysweet.shiny.n3ds",
+          "slug": "alcremie-matcha-cream-strawberry",
+          "cssClass": ".pokesprite.pokemon.alcremie-matcha-cream-strawberry.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -74276,8 +74456,20 @@
         },
         "shiny": {
           "name": "Alcremie-Mintcream-★",
-          "slug": "alcremie-mintcream",
-          "cssClass": ".pokesprite.pokemon.alcremie-mintcream.shiny",
+          "slug": "alcremie-mint-cream★",
+          "cssClass": ".pokesprite.pokemon.alcremie-mint-cream★"
+        }
+      },
+      {
+        "regular": {
+          "name": "Alcremie-Mintcream-3DS",
+          "slug": "alcremie-mint-cream3-ds",
+          "cssClass": ".pokesprite.pokemon.alcremie-mint-cream3-ds"
+        },
+        "shiny": {
+          "name": "Alcremie-Mintcream-3DS-★",
+          "slug": "alcremie-mint-cream3-ds",
+          "cssClass": ".pokesprite.pokemon.alcremie-mint-cream3-ds.shiny",
           "modifiers": [
             "shiny"
           ]
@@ -74285,33 +74477,14 @@
       },
       {
         "regular": {
-          "name": "Alcremie-Mintcream-3DS",
-          "slug": "alcremie-mintcream",
-          "cssClass": ".pokesprite.pokemon.alcremie-mintcream.n3ds",
-          "modifiers": [
-            "n3ds"
-          ]
-        },
-        "shiny": {
-          "name": "Alcremie-Mintcream-3DS-★",
-          "slug": "alcremie-mintcream",
-          "cssClass": ".pokesprite.pokemon.alcremie-mintcream.shiny.n3ds",
-          "modifiers": [
-            "shiny",
-            "n3ds"
-          ]
-        }
-      },
-      {
-        "regular": {
           "name": "Alcremie-Mintcream-Berrysweet",
-          "slug": "alcremie-mintcream-berrysweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-mintcream-berrysweet"
+          "slug": "alcremie-mint-cream-berry",
+          "cssClass": ".pokesprite.pokemon.alcremie-mint-cream-berry"
         },
         "shiny": {
           "name": "Alcremie-Mintcream-Berrysweet-★",
-          "slug": "alcremie-mintcream-berrysweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-mintcream-berrysweet.shiny",
+          "slug": "alcremie-mint-cream-berry",
+          "cssClass": ".pokesprite.pokemon.alcremie-mint-cream-berry.shiny",
           "modifiers": [
             "shiny"
           ]
@@ -74320,16 +74493,16 @@
       {
         "regular": {
           "name": "Alcremie-Mintcream-Berrysweet-3DS",
-          "slug": "alcremie-mintcream-berrysweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-mintcream-berrysweet.n3ds",
+          "slug": "alcremie-mint-cream-berry",
+          "cssClass": ".pokesprite.pokemon.alcremie-mint-cream-berry.n3ds",
           "modifiers": [
             "n3ds"
           ]
         },
         "shiny": {
           "name": "Alcremie-Mintcream-Berrysweet-3DS-★",
-          "slug": "alcremie-mintcream-berrysweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-mintcream-berrysweet.shiny.n3ds",
+          "slug": "alcremie-mint-cream-berry",
+          "cssClass": ".pokesprite.pokemon.alcremie-mint-cream-berry.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -74339,13 +74512,13 @@
       {
         "regular": {
           "name": "Alcremie-Mintcream-Cloversweet",
-          "slug": "alcremie-mintcream-cloversweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-mintcream-cloversweet"
+          "slug": "alcremie-mint-cream-clover",
+          "cssClass": ".pokesprite.pokemon.alcremie-mint-cream-clover"
         },
         "shiny": {
           "name": "Alcremie-Mintcream-Cloversweet-★",
-          "slug": "alcremie-mintcream-cloversweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-mintcream-cloversweet.shiny",
+          "slug": "alcremie-mint-cream-clover",
+          "cssClass": ".pokesprite.pokemon.alcremie-mint-cream-clover.shiny",
           "modifiers": [
             "shiny"
           ]
@@ -74354,16 +74527,16 @@
       {
         "regular": {
           "name": "Alcremie-Mintcream-Cloversweet-3DS",
-          "slug": "alcremie-mintcream-cloversweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-mintcream-cloversweet.n3ds",
+          "slug": "alcremie-mint-cream-clover",
+          "cssClass": ".pokesprite.pokemon.alcremie-mint-cream-clover.n3ds",
           "modifiers": [
             "n3ds"
           ]
         },
         "shiny": {
           "name": "Alcremie-Mintcream-Cloversweet-3DS-★",
-          "slug": "alcremie-mintcream-cloversweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-mintcream-cloversweet.shiny.n3ds",
+          "slug": "alcremie-mint-cream-clover",
+          "cssClass": ".pokesprite.pokemon.alcremie-mint-cream-clover.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -74373,13 +74546,13 @@
       {
         "regular": {
           "name": "Alcremie-Mintcream-Flowersweet",
-          "slug": "alcremie-mintcream-flowersweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-mintcream-flowersweet"
+          "slug": "alcremie-mint-cream-flower",
+          "cssClass": ".pokesprite.pokemon.alcremie-mint-cream-flower"
         },
         "shiny": {
           "name": "Alcremie-Mintcream-Flowersweet-★",
-          "slug": "alcremie-mintcream-flowersweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-mintcream-flowersweet.shiny",
+          "slug": "alcremie-mint-cream-flower",
+          "cssClass": ".pokesprite.pokemon.alcremie-mint-cream-flower.shiny",
           "modifiers": [
             "shiny"
           ]
@@ -74388,16 +74561,16 @@
       {
         "regular": {
           "name": "Alcremie-Mintcream-Flowersweet-3DS",
-          "slug": "alcremie-mintcream-flowersweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-mintcream-flowersweet.n3ds",
+          "slug": "alcremie-mint-cream-flower",
+          "cssClass": ".pokesprite.pokemon.alcremie-mint-cream-flower.n3ds",
           "modifiers": [
             "n3ds"
           ]
         },
         "shiny": {
           "name": "Alcremie-Mintcream-Flowersweet-3DS-★",
-          "slug": "alcremie-mintcream-flowersweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-mintcream-flowersweet.shiny.n3ds",
+          "slug": "alcremie-mint-cream-flower",
+          "cssClass": ".pokesprite.pokemon.alcremie-mint-cream-flower.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -74407,13 +74580,13 @@
       {
         "regular": {
           "name": "Alcremie-Mintcream-Lovesweet",
-          "slug": "alcremie-mintcream-lovesweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-mintcream-lovesweet"
+          "slug": "alcremie-mint-cream-love",
+          "cssClass": ".pokesprite.pokemon.alcremie-mint-cream-love"
         },
         "shiny": {
           "name": "Alcremie-Mintcream-Lovesweet-★",
-          "slug": "alcremie-mintcream-lovesweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-mintcream-lovesweet.shiny",
+          "slug": "alcremie-mint-cream-love",
+          "cssClass": ".pokesprite.pokemon.alcremie-mint-cream-love.shiny",
           "modifiers": [
             "shiny"
           ]
@@ -74422,16 +74595,16 @@
       {
         "regular": {
           "name": "Alcremie-Mintcream-Lovesweet-3DS",
-          "slug": "alcremie-mintcream-lovesweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-mintcream-lovesweet.n3ds",
+          "slug": "alcremie-mint-cream-love",
+          "cssClass": ".pokesprite.pokemon.alcremie-mint-cream-love.n3ds",
           "modifiers": [
             "n3ds"
           ]
         },
         "shiny": {
           "name": "Alcremie-Mintcream-Lovesweet-3DS-★",
-          "slug": "alcremie-mintcream-lovesweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-mintcream-lovesweet.shiny.n3ds",
+          "slug": "alcremie-mint-cream-love",
+          "cssClass": ".pokesprite.pokemon.alcremie-mint-cream-love.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -74441,13 +74614,13 @@
       {
         "regular": {
           "name": "Alcremie-Mintcream-Ribbonsweet",
-          "slug": "alcremie-mintcream-ribbonsweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-mintcream-ribbonsweet"
+          "slug": "alcremie-mint-cream-ribbon",
+          "cssClass": ".pokesprite.pokemon.alcremie-mint-cream-ribbon"
         },
         "shiny": {
           "name": "Alcremie-Mintcream-Ribbonsweet-★",
-          "slug": "alcremie-mintcream-ribbonsweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-mintcream-ribbonsweet.shiny",
+          "slug": "alcremie-mint-cream-ribbon",
+          "cssClass": ".pokesprite.pokemon.alcremie-mint-cream-ribbon.shiny",
           "modifiers": [
             "shiny"
           ]
@@ -74456,16 +74629,16 @@
       {
         "regular": {
           "name": "Alcremie-Mintcream-Ribbonsweet-3DS",
-          "slug": "alcremie-mintcream-ribbonsweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-mintcream-ribbonsweet.n3ds",
+          "slug": "alcremie-mint-cream-ribbon",
+          "cssClass": ".pokesprite.pokemon.alcremie-mint-cream-ribbon.n3ds",
           "modifiers": [
             "n3ds"
           ]
         },
         "shiny": {
           "name": "Alcremie-Mintcream-Ribbonsweet-3DS-★",
-          "slug": "alcremie-mintcream-ribbonsweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-mintcream-ribbonsweet.shiny.n3ds",
+          "slug": "alcremie-mint-cream-ribbon",
+          "cssClass": ".pokesprite.pokemon.alcremie-mint-cream-ribbon.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -74475,13 +74648,13 @@
       {
         "regular": {
           "name": "Alcremie-Mintcream-Starsweet",
-          "slug": "alcremie-mintcream-starsweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-mintcream-starsweet"
+          "slug": "alcremie-mint-cream-star",
+          "cssClass": ".pokesprite.pokemon.alcremie-mint-cream-star"
         },
         "shiny": {
           "name": "Alcremie-Mintcream-Starsweet-★",
-          "slug": "alcremie-mintcream-starsweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-mintcream-starsweet.shiny",
+          "slug": "alcremie-mint-cream-star",
+          "cssClass": ".pokesprite.pokemon.alcremie-mint-cream-star.shiny",
           "modifiers": [
             "shiny"
           ]
@@ -74490,16 +74663,16 @@
       {
         "regular": {
           "name": "Alcremie-Mintcream-Starsweet-3DS",
-          "slug": "alcremie-mintcream-starsweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-mintcream-starsweet.n3ds",
+          "slug": "alcremie-mint-cream-star",
+          "cssClass": ".pokesprite.pokemon.alcremie-mint-cream-star.n3ds",
           "modifiers": [
             "n3ds"
           ]
         },
         "shiny": {
           "name": "Alcremie-Mintcream-Starsweet-3DS-★",
-          "slug": "alcremie-mintcream-starsweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-mintcream-starsweet.shiny.n3ds",
+          "slug": "alcremie-mint-cream-star",
+          "cssClass": ".pokesprite.pokemon.alcremie-mint-cream-star.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -74509,13 +74682,13 @@
       {
         "regular": {
           "name": "Alcremie-Mintcream-Strawberrysweet",
-          "slug": "alcremie-mintcream-strawberrysweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-mintcream-strawberrysweet"
+          "slug": "alcremie-mint-cream-strawberry",
+          "cssClass": ".pokesprite.pokemon.alcremie-mint-cream-strawberry"
         },
         "shiny": {
           "name": "Alcremie-Mintcream-Strawberrysweet-★",
-          "slug": "alcremie-mintcream-strawberrysweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-mintcream-strawberrysweet.shiny",
+          "slug": "alcremie-mint-cream-strawberry",
+          "cssClass": ".pokesprite.pokemon.alcremie-mint-cream-strawberry.shiny",
           "modifiers": [
             "shiny"
           ]
@@ -74524,16 +74697,16 @@
       {
         "regular": {
           "name": "Alcremie-Mintcream-Strawberrysweet-3DS",
-          "slug": "alcremie-mintcream-strawberrysweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-mintcream-strawberrysweet.n3ds",
+          "slug": "alcremie-mint-cream-strawberry",
+          "cssClass": ".pokesprite.pokemon.alcremie-mint-cream-strawberry.n3ds",
           "modifiers": [
             "n3ds"
           ]
         },
         "shiny": {
           "name": "Alcremie-Mintcream-Strawberrysweet-3DS-★",
-          "slug": "alcremie-mintcream-strawberrysweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-mintcream-strawberrysweet.shiny.n3ds",
+          "slug": "alcremie-mint-cream-strawberry",
+          "cssClass": ".pokesprite.pokemon.alcremie-mint-cream-strawberry.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -74548,8 +74721,20 @@
         },
         "shiny": {
           "name": "Alcremie-Rainbowswirlcream-★",
-          "slug": "alcremie-rainbowswirlcream",
-          "cssClass": ".pokesprite.pokemon.alcremie-rainbowswirlcream.shiny",
+          "slug": "alcremie-rainbow-swirl★",
+          "cssClass": ".pokesprite.pokemon.alcremie-rainbow-swirl★"
+        }
+      },
+      {
+        "regular": {
+          "name": "Alcremie-Rainbowswirlcream-3DS",
+          "slug": "alcremie-rainbow-swirl3-ds",
+          "cssClass": ".pokesprite.pokemon.alcremie-rainbow-swirl3-ds"
+        },
+        "shiny": {
+          "name": "Alcremie-Rainbowswirlcream-3DS-★",
+          "slug": "alcremie-rainbow-swirl3-ds",
+          "cssClass": ".pokesprite.pokemon.alcremie-rainbow-swirl3-ds.shiny",
           "modifiers": [
             "shiny"
           ]
@@ -74557,33 +74742,14 @@
       },
       {
         "regular": {
-          "name": "Alcremie-Rainbowswirlcream-3DS",
-          "slug": "alcremie-rainbowswirlcream",
-          "cssClass": ".pokesprite.pokemon.alcremie-rainbowswirlcream.n3ds",
-          "modifiers": [
-            "n3ds"
-          ]
-        },
-        "shiny": {
-          "name": "Alcremie-Rainbowswirlcream-3DS-★",
-          "slug": "alcremie-rainbowswirlcream",
-          "cssClass": ".pokesprite.pokemon.alcremie-rainbowswirlcream.shiny.n3ds",
-          "modifiers": [
-            "shiny",
-            "n3ds"
-          ]
-        }
-      },
-      {
-        "regular": {
           "name": "Alcremie-Rainbowswirlcream-Berrysweet",
-          "slug": "alcremie-rainbowswirlcream-berrysweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-rainbowswirlcream-berrysweet"
+          "slug": "alcremie-rainbow-swirl-berry",
+          "cssClass": ".pokesprite.pokemon.alcremie-rainbow-swirl-berry"
         },
         "shiny": {
           "name": "Alcremie-Rainbowswirlcream-Berrysweet-★",
-          "slug": "alcremie-rainbowswirlcream-berrysweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-rainbowswirlcream-berrysweet.shiny",
+          "slug": "alcremie-rainbow-swirl-berry",
+          "cssClass": ".pokesprite.pokemon.alcremie-rainbow-swirl-berry.shiny",
           "modifiers": [
             "shiny"
           ]
@@ -74592,16 +74758,16 @@
       {
         "regular": {
           "name": "Alcremie-Rainbowswirlcream-Berrysweet-3DS",
-          "slug": "alcremie-rainbowswirlcream-berrysweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-rainbowswirlcream-berrysweet.n3ds",
+          "slug": "alcremie-rainbow-swirl-berry",
+          "cssClass": ".pokesprite.pokemon.alcremie-rainbow-swirl-berry.n3ds",
           "modifiers": [
             "n3ds"
           ]
         },
         "shiny": {
           "name": "Alcremie-Rainbowswirlcream-Berrysweet-3DS-★",
-          "slug": "alcremie-rainbowswirlcream-berrysweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-rainbowswirlcream-berrysweet.shiny.n3ds",
+          "slug": "alcremie-rainbow-swirl-berry",
+          "cssClass": ".pokesprite.pokemon.alcremie-rainbow-swirl-berry.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -74611,13 +74777,13 @@
       {
         "regular": {
           "name": "Alcremie-Rainbowswirlcream-Cloversweet",
-          "slug": "alcremie-rainbowswirlcream-cloversweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-rainbowswirlcream-cloversweet"
+          "slug": "alcremie-rainbow-swirl-clover",
+          "cssClass": ".pokesprite.pokemon.alcremie-rainbow-swirl-clover"
         },
         "shiny": {
           "name": "Alcremie-Rainbowswirlcream-Cloversweet-★",
-          "slug": "alcremie-rainbowswirlcream-cloversweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-rainbowswirlcream-cloversweet.shiny",
+          "slug": "alcremie-rainbow-swirl-clover",
+          "cssClass": ".pokesprite.pokemon.alcremie-rainbow-swirl-clover.shiny",
           "modifiers": [
             "shiny"
           ]
@@ -74626,16 +74792,16 @@
       {
         "regular": {
           "name": "Alcremie-Rainbowswirlcream-Cloversweet-3DS",
-          "slug": "alcremie-rainbowswirlcream-cloversweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-rainbowswirlcream-cloversweet.n3ds",
+          "slug": "alcremie-rainbow-swirl-clover",
+          "cssClass": ".pokesprite.pokemon.alcremie-rainbow-swirl-clover.n3ds",
           "modifiers": [
             "n3ds"
           ]
         },
         "shiny": {
           "name": "Alcremie-Rainbowswirlcream-Cloversweet-3DS-★",
-          "slug": "alcremie-rainbowswirlcream-cloversweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-rainbowswirlcream-cloversweet.shiny.n3ds",
+          "slug": "alcremie-rainbow-swirl-clover",
+          "cssClass": ".pokesprite.pokemon.alcremie-rainbow-swirl-clover.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -74645,13 +74811,13 @@
       {
         "regular": {
           "name": "Alcremie-Rainbowswirlcream-Flowersweet",
-          "slug": "alcremie-rainbowswirlcream-flowersweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-rainbowswirlcream-flowersweet"
+          "slug": "alcremie-rainbow-swirl-flower",
+          "cssClass": ".pokesprite.pokemon.alcremie-rainbow-swirl-flower"
         },
         "shiny": {
           "name": "Alcremie-Rainbowswirlcream-Flowersweet-★",
-          "slug": "alcremie-rainbowswirlcream-flowersweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-rainbowswirlcream-flowersweet.shiny",
+          "slug": "alcremie-rainbow-swirl-flower",
+          "cssClass": ".pokesprite.pokemon.alcremie-rainbow-swirl-flower.shiny",
           "modifiers": [
             "shiny"
           ]
@@ -74660,16 +74826,16 @@
       {
         "regular": {
           "name": "Alcremie-Rainbowswirlcream-Flowersweet-3DS",
-          "slug": "alcremie-rainbowswirlcream-flowersweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-rainbowswirlcream-flowersweet.n3ds",
+          "slug": "alcremie-rainbow-swirl-flower",
+          "cssClass": ".pokesprite.pokemon.alcremie-rainbow-swirl-flower.n3ds",
           "modifiers": [
             "n3ds"
           ]
         },
         "shiny": {
           "name": "Alcremie-Rainbowswirlcream-Flowersweet-3DS-★",
-          "slug": "alcremie-rainbowswirlcream-flowersweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-rainbowswirlcream-flowersweet.shiny.n3ds",
+          "slug": "alcremie-rainbow-swirl-flower",
+          "cssClass": ".pokesprite.pokemon.alcremie-rainbow-swirl-flower.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -74679,13 +74845,13 @@
       {
         "regular": {
           "name": "Alcremie-Rainbowswirlcream-Lovesweet",
-          "slug": "alcremie-rainbowswirlcream-lovesweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-rainbowswirlcream-lovesweet"
+          "slug": "alcremie-rainbow-swirl-love",
+          "cssClass": ".pokesprite.pokemon.alcremie-rainbow-swirl-love"
         },
         "shiny": {
           "name": "Alcremie-Rainbowswirlcream-Lovesweet-★",
-          "slug": "alcremie-rainbowswirlcream-lovesweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-rainbowswirlcream-lovesweet.shiny",
+          "slug": "alcremie-rainbow-swirl-love",
+          "cssClass": ".pokesprite.pokemon.alcremie-rainbow-swirl-love.shiny",
           "modifiers": [
             "shiny"
           ]
@@ -74694,16 +74860,16 @@
       {
         "regular": {
           "name": "Alcremie-Rainbowswirlcream-Lovesweet-3DS",
-          "slug": "alcremie-rainbowswirlcream-lovesweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-rainbowswirlcream-lovesweet.n3ds",
+          "slug": "alcremie-rainbow-swirl-love",
+          "cssClass": ".pokesprite.pokemon.alcremie-rainbow-swirl-love.n3ds",
           "modifiers": [
             "n3ds"
           ]
         },
         "shiny": {
           "name": "Alcremie-Rainbowswirlcream-Lovesweet-3DS-★",
-          "slug": "alcremie-rainbowswirlcream-lovesweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-rainbowswirlcream-lovesweet.shiny.n3ds",
+          "slug": "alcremie-rainbow-swirl-love",
+          "cssClass": ".pokesprite.pokemon.alcremie-rainbow-swirl-love.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -74713,13 +74879,13 @@
       {
         "regular": {
           "name": "Alcremie-Rainbowswirlcream-Ribbonsweet",
-          "slug": "alcremie-rainbowswirlcream-ribbonsweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-rainbowswirlcream-ribbonsweet"
+          "slug": "alcremie-rainbow-swirl-ribbon",
+          "cssClass": ".pokesprite.pokemon.alcremie-rainbow-swirl-ribbon"
         },
         "shiny": {
           "name": "Alcremie-Rainbowswirlcream-Ribbonsweet-★",
-          "slug": "alcremie-rainbowswirlcream-ribbonsweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-rainbowswirlcream-ribbonsweet.shiny",
+          "slug": "alcremie-rainbow-swirl-ribbon",
+          "cssClass": ".pokesprite.pokemon.alcremie-rainbow-swirl-ribbon.shiny",
           "modifiers": [
             "shiny"
           ]
@@ -74728,16 +74894,16 @@
       {
         "regular": {
           "name": "Alcremie-Rainbowswirlcream-Ribbonsweet-3DS",
-          "slug": "alcremie-rainbowswirlcream-ribbonsweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-rainbowswirlcream-ribbonsweet.n3ds",
+          "slug": "alcremie-rainbow-swirl-ribbon",
+          "cssClass": ".pokesprite.pokemon.alcremie-rainbow-swirl-ribbon.n3ds",
           "modifiers": [
             "n3ds"
           ]
         },
         "shiny": {
           "name": "Alcremie-Rainbowswirlcream-Ribbonsweet-3DS-★",
-          "slug": "alcremie-rainbowswirlcream-ribbonsweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-rainbowswirlcream-ribbonsweet.shiny.n3ds",
+          "slug": "alcremie-rainbow-swirl-ribbon",
+          "cssClass": ".pokesprite.pokemon.alcremie-rainbow-swirl-ribbon.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -74747,13 +74913,13 @@
       {
         "regular": {
           "name": "Alcremie-Rainbowswirlcream-Starsweet",
-          "slug": "alcremie-rainbowswirlcream-starsweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-rainbowswirlcream-starsweet"
+          "slug": "alcremie-rainbow-swirl-star",
+          "cssClass": ".pokesprite.pokemon.alcremie-rainbow-swirl-star"
         },
         "shiny": {
           "name": "Alcremie-Rainbowswirlcream-Starsweet-★",
-          "slug": "alcremie-rainbowswirlcream-starsweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-rainbowswirlcream-starsweet.shiny",
+          "slug": "alcremie-rainbow-swirl-star",
+          "cssClass": ".pokesprite.pokemon.alcremie-rainbow-swirl-star.shiny",
           "modifiers": [
             "shiny"
           ]
@@ -74762,16 +74928,16 @@
       {
         "regular": {
           "name": "Alcremie-Rainbowswirlcream-Starsweet-3DS",
-          "slug": "alcremie-rainbowswirlcream-starsweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-rainbowswirlcream-starsweet.n3ds",
+          "slug": "alcremie-rainbow-swirl-star",
+          "cssClass": ".pokesprite.pokemon.alcremie-rainbow-swirl-star.n3ds",
           "modifiers": [
             "n3ds"
           ]
         },
         "shiny": {
           "name": "Alcremie-Rainbowswirlcream-Starsweet-3DS-★",
-          "slug": "alcremie-rainbowswirlcream-starsweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-rainbowswirlcream-starsweet.shiny.n3ds",
+          "slug": "alcremie-rainbow-swirl-star",
+          "cssClass": ".pokesprite.pokemon.alcremie-rainbow-swirl-star.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -74781,13 +74947,13 @@
       {
         "regular": {
           "name": "Alcremie-Rainbowswirlcream-Strawberrysweet",
-          "slug": "alcremie-rainbowswirlcream-strawberrysweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-rainbowswirlcream-strawberrysweet"
+          "slug": "alcremie-rainbow-swirl-strawberry",
+          "cssClass": ".pokesprite.pokemon.alcremie-rainbow-swirl-strawberry"
         },
         "shiny": {
           "name": "Alcremie-Rainbowswirlcream-Strawberrysweet-★",
-          "slug": "alcremie-rainbowswirlcream-strawberrysweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-rainbowswirlcream-strawberrysweet.shiny",
+          "slug": "alcremie-rainbow-swirl-strawberry",
+          "cssClass": ".pokesprite.pokemon.alcremie-rainbow-swirl-strawberry.shiny",
           "modifiers": [
             "shiny"
           ]
@@ -74796,16 +74962,16 @@
       {
         "regular": {
           "name": "Alcremie-Rainbowswirlcream-Strawberrysweet-3DS",
-          "slug": "alcremie-rainbowswirlcream-strawberrysweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-rainbowswirlcream-strawberrysweet.n3ds",
+          "slug": "alcremie-rainbow-swirl-strawberry",
+          "cssClass": ".pokesprite.pokemon.alcremie-rainbow-swirl-strawberry.n3ds",
           "modifiers": [
             "n3ds"
           ]
         },
         "shiny": {
           "name": "Alcremie-Rainbowswirlcream-Strawberrysweet-3DS-★",
-          "slug": "alcremie-rainbowswirlcream-strawberrysweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-rainbowswirlcream-strawberrysweet.shiny.n3ds",
+          "slug": "alcremie-rainbow-swirl-strawberry",
+          "cssClass": ".pokesprite.pokemon.alcremie-rainbow-swirl-strawberry.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -74820,8 +74986,20 @@
         },
         "shiny": {
           "name": "Alcremie-Rubycream-★",
-          "slug": "alcremie-rubycream",
-          "cssClass": ".pokesprite.pokemon.alcremie-rubycream.shiny",
+          "slug": "alcremie-ruby-cream★",
+          "cssClass": ".pokesprite.pokemon.alcremie-ruby-cream★"
+        }
+      },
+      {
+        "regular": {
+          "name": "Alcremie-Rubycream-3DS",
+          "slug": "alcremie-ruby-cream3-ds",
+          "cssClass": ".pokesprite.pokemon.alcremie-ruby-cream3-ds"
+        },
+        "shiny": {
+          "name": "Alcremie-Rubycream-3DS-★",
+          "slug": "alcremie-ruby-cream3-ds",
+          "cssClass": ".pokesprite.pokemon.alcremie-ruby-cream3-ds.shiny",
           "modifiers": [
             "shiny"
           ]
@@ -74829,33 +75007,14 @@
       },
       {
         "regular": {
-          "name": "Alcremie-Rubycream-3DS",
-          "slug": "alcremie-rubycream",
-          "cssClass": ".pokesprite.pokemon.alcremie-rubycream.n3ds",
-          "modifiers": [
-            "n3ds"
-          ]
-        },
-        "shiny": {
-          "name": "Alcremie-Rubycream-3DS-★",
-          "slug": "alcremie-rubycream",
-          "cssClass": ".pokesprite.pokemon.alcremie-rubycream.shiny.n3ds",
-          "modifiers": [
-            "shiny",
-            "n3ds"
-          ]
-        }
-      },
-      {
-        "regular": {
           "name": "Alcremie-Rubycream-Berrysweet",
-          "slug": "alcremie-rubycream-berrysweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-rubycream-berrysweet"
+          "slug": "alcremie-ruby-cream-berry",
+          "cssClass": ".pokesprite.pokemon.alcremie-ruby-cream-berry"
         },
         "shiny": {
           "name": "Alcremie-Rubycream-Berrysweet-★",
-          "slug": "alcremie-rubycream-berrysweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-rubycream-berrysweet.shiny",
+          "slug": "alcremie-ruby-cream-berry",
+          "cssClass": ".pokesprite.pokemon.alcremie-ruby-cream-berry.shiny",
           "modifiers": [
             "shiny"
           ]
@@ -74864,16 +75023,16 @@
       {
         "regular": {
           "name": "Alcremie-Rubycream-Berrysweet-3DS",
-          "slug": "alcremie-rubycream-berrysweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-rubycream-berrysweet.n3ds",
+          "slug": "alcremie-ruby-cream-berry",
+          "cssClass": ".pokesprite.pokemon.alcremie-ruby-cream-berry.n3ds",
           "modifiers": [
             "n3ds"
           ]
         },
         "shiny": {
           "name": "Alcremie-Rubycream-Berrysweet-3DS-★",
-          "slug": "alcremie-rubycream-berrysweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-rubycream-berrysweet.shiny.n3ds",
+          "slug": "alcremie-ruby-cream-berry",
+          "cssClass": ".pokesprite.pokemon.alcremie-ruby-cream-berry.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -74883,13 +75042,13 @@
       {
         "regular": {
           "name": "Alcremie-Rubycream-Cloversweet",
-          "slug": "alcremie-rubycream-cloversweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-rubycream-cloversweet"
+          "slug": "alcremie-ruby-cream-clover",
+          "cssClass": ".pokesprite.pokemon.alcremie-ruby-cream-clover"
         },
         "shiny": {
           "name": "Alcremie-Rubycream-Cloversweet-★",
-          "slug": "alcremie-rubycream-cloversweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-rubycream-cloversweet.shiny",
+          "slug": "alcremie-ruby-cream-clover",
+          "cssClass": ".pokesprite.pokemon.alcremie-ruby-cream-clover.shiny",
           "modifiers": [
             "shiny"
           ]
@@ -74898,16 +75057,16 @@
       {
         "regular": {
           "name": "Alcremie-Rubycream-Cloversweet-3DS",
-          "slug": "alcremie-rubycream-cloversweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-rubycream-cloversweet.n3ds",
+          "slug": "alcremie-ruby-cream-clover",
+          "cssClass": ".pokesprite.pokemon.alcremie-ruby-cream-clover.n3ds",
           "modifiers": [
             "n3ds"
           ]
         },
         "shiny": {
           "name": "Alcremie-Rubycream-Cloversweet-3DS-★",
-          "slug": "alcremie-rubycream-cloversweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-rubycream-cloversweet.shiny.n3ds",
+          "slug": "alcremie-ruby-cream-clover",
+          "cssClass": ".pokesprite.pokemon.alcremie-ruby-cream-clover.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -74917,13 +75076,13 @@
       {
         "regular": {
           "name": "Alcremie-Rubycream-Flowersweet",
-          "slug": "alcremie-rubycream-flowersweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-rubycream-flowersweet"
+          "slug": "alcremie-ruby-cream-flower",
+          "cssClass": ".pokesprite.pokemon.alcremie-ruby-cream-flower"
         },
         "shiny": {
           "name": "Alcremie-Rubycream-Flowersweet-★",
-          "slug": "alcremie-rubycream-flowersweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-rubycream-flowersweet.shiny",
+          "slug": "alcremie-ruby-cream-flower",
+          "cssClass": ".pokesprite.pokemon.alcremie-ruby-cream-flower.shiny",
           "modifiers": [
             "shiny"
           ]
@@ -74932,16 +75091,16 @@
       {
         "regular": {
           "name": "Alcremie-Rubycream-Flowersweet-3DS",
-          "slug": "alcremie-rubycream-flowersweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-rubycream-flowersweet.n3ds",
+          "slug": "alcremie-ruby-cream-flower",
+          "cssClass": ".pokesprite.pokemon.alcremie-ruby-cream-flower.n3ds",
           "modifiers": [
             "n3ds"
           ]
         },
         "shiny": {
           "name": "Alcremie-Rubycream-Flowersweet-3DS-★",
-          "slug": "alcremie-rubycream-flowersweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-rubycream-flowersweet.shiny.n3ds",
+          "slug": "alcremie-ruby-cream-flower",
+          "cssClass": ".pokesprite.pokemon.alcremie-ruby-cream-flower.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -74951,13 +75110,13 @@
       {
         "regular": {
           "name": "Alcremie-Rubycream-Lovesweet",
-          "slug": "alcremie-rubycream-lovesweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-rubycream-lovesweet"
+          "slug": "alcremie-ruby-cream-love",
+          "cssClass": ".pokesprite.pokemon.alcremie-ruby-cream-love"
         },
         "shiny": {
           "name": "Alcremie-Rubycream-Lovesweet-★",
-          "slug": "alcremie-rubycream-lovesweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-rubycream-lovesweet.shiny",
+          "slug": "alcremie-ruby-cream-love",
+          "cssClass": ".pokesprite.pokemon.alcremie-ruby-cream-love.shiny",
           "modifiers": [
             "shiny"
           ]
@@ -74966,16 +75125,16 @@
       {
         "regular": {
           "name": "Alcremie-Rubycream-Lovesweet-3DS",
-          "slug": "alcremie-rubycream-lovesweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-rubycream-lovesweet.n3ds",
+          "slug": "alcremie-ruby-cream-love",
+          "cssClass": ".pokesprite.pokemon.alcremie-ruby-cream-love.n3ds",
           "modifiers": [
             "n3ds"
           ]
         },
         "shiny": {
           "name": "Alcremie-Rubycream-Lovesweet-3DS-★",
-          "slug": "alcremie-rubycream-lovesweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-rubycream-lovesweet.shiny.n3ds",
+          "slug": "alcremie-ruby-cream-love",
+          "cssClass": ".pokesprite.pokemon.alcremie-ruby-cream-love.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -74985,13 +75144,13 @@
       {
         "regular": {
           "name": "Alcremie-Rubycream-Ribbonsweet",
-          "slug": "alcremie-rubycream-ribbonsweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-rubycream-ribbonsweet"
+          "slug": "alcremie-ruby-cream-ribbon",
+          "cssClass": ".pokesprite.pokemon.alcremie-ruby-cream-ribbon"
         },
         "shiny": {
           "name": "Alcremie-Rubycream-Ribbonsweet-★",
-          "slug": "alcremie-rubycream-ribbonsweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-rubycream-ribbonsweet.shiny",
+          "slug": "alcremie-ruby-cream-ribbon",
+          "cssClass": ".pokesprite.pokemon.alcremie-ruby-cream-ribbon.shiny",
           "modifiers": [
             "shiny"
           ]
@@ -75000,16 +75159,16 @@
       {
         "regular": {
           "name": "Alcremie-Rubycream-Ribbonsweet-3DS",
-          "slug": "alcremie-rubycream-ribbonsweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-rubycream-ribbonsweet.n3ds",
+          "slug": "alcremie-ruby-cream-ribbon",
+          "cssClass": ".pokesprite.pokemon.alcremie-ruby-cream-ribbon.n3ds",
           "modifiers": [
             "n3ds"
           ]
         },
         "shiny": {
           "name": "Alcremie-Rubycream-Ribbonsweet-3DS-★",
-          "slug": "alcremie-rubycream-ribbonsweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-rubycream-ribbonsweet.shiny.n3ds",
+          "slug": "alcremie-ruby-cream-ribbon",
+          "cssClass": ".pokesprite.pokemon.alcremie-ruby-cream-ribbon.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -75019,13 +75178,13 @@
       {
         "regular": {
           "name": "Alcremie-Rubycream-Starsweet",
-          "slug": "alcremie-rubycream-starsweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-rubycream-starsweet"
+          "slug": "alcremie-ruby-cream-star",
+          "cssClass": ".pokesprite.pokemon.alcremie-ruby-cream-star"
         },
         "shiny": {
           "name": "Alcremie-Rubycream-Starsweet-★",
-          "slug": "alcremie-rubycream-starsweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-rubycream-starsweet.shiny",
+          "slug": "alcremie-ruby-cream-star",
+          "cssClass": ".pokesprite.pokemon.alcremie-ruby-cream-star.shiny",
           "modifiers": [
             "shiny"
           ]
@@ -75034,16 +75193,16 @@
       {
         "regular": {
           "name": "Alcremie-Rubycream-Starsweet-3DS",
-          "slug": "alcremie-rubycream-starsweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-rubycream-starsweet.n3ds",
+          "slug": "alcremie-ruby-cream-star",
+          "cssClass": ".pokesprite.pokemon.alcremie-ruby-cream-star.n3ds",
           "modifiers": [
             "n3ds"
           ]
         },
         "shiny": {
           "name": "Alcremie-Rubycream-Starsweet-3DS-★",
-          "slug": "alcremie-rubycream-starsweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-rubycream-starsweet.shiny.n3ds",
+          "slug": "alcremie-ruby-cream-star",
+          "cssClass": ".pokesprite.pokemon.alcremie-ruby-cream-star.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -75053,13 +75212,13 @@
       {
         "regular": {
           "name": "Alcremie-Rubycream-Strawberrysweet",
-          "slug": "alcremie-rubycream-strawberrysweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-rubycream-strawberrysweet"
+          "slug": "alcremie-ruby-cream-strawberry",
+          "cssClass": ".pokesprite.pokemon.alcremie-ruby-cream-strawberry"
         },
         "shiny": {
           "name": "Alcremie-Rubycream-Strawberrysweet-★",
-          "slug": "alcremie-rubycream-strawberrysweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-rubycream-strawberrysweet.shiny",
+          "slug": "alcremie-ruby-cream-strawberry",
+          "cssClass": ".pokesprite.pokemon.alcremie-ruby-cream-strawberry.shiny",
           "modifiers": [
             "shiny"
           ]
@@ -75068,16 +75227,16 @@
       {
         "regular": {
           "name": "Alcremie-Rubycream-Strawberrysweet-3DS",
-          "slug": "alcremie-rubycream-strawberrysweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-rubycream-strawberrysweet.n3ds",
+          "slug": "alcremie-ruby-cream-strawberry",
+          "cssClass": ".pokesprite.pokemon.alcremie-ruby-cream-strawberry.n3ds",
           "modifiers": [
             "n3ds"
           ]
         },
         "shiny": {
           "name": "Alcremie-Rubycream-Strawberrysweet-3DS-★",
-          "slug": "alcremie-rubycream-strawberrysweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-rubycream-strawberrysweet.shiny.n3ds",
+          "slug": "alcremie-ruby-cream-strawberry",
+          "cssClass": ".pokesprite.pokemon.alcremie-ruby-cream-strawberry.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -75092,8 +75251,20 @@
         },
         "shiny": {
           "name": "Alcremie-Rubyswirlcream-★",
-          "slug": "alcremie-rubyswirlcream",
-          "cssClass": ".pokesprite.pokemon.alcremie-rubyswirlcream.shiny",
+          "slug": "alcremie-ruby-swirl★",
+          "cssClass": ".pokesprite.pokemon.alcremie-ruby-swirl★"
+        }
+      },
+      {
+        "regular": {
+          "name": "Alcremie-Rubyswirlcream-3DS",
+          "slug": "alcremie-ruby-swirl3-ds",
+          "cssClass": ".pokesprite.pokemon.alcremie-ruby-swirl3-ds"
+        },
+        "shiny": {
+          "name": "Alcremie-Rubyswirlcream-3DS-★",
+          "slug": "alcremie-ruby-swirl3-ds",
+          "cssClass": ".pokesprite.pokemon.alcremie-ruby-swirl3-ds.shiny",
           "modifiers": [
             "shiny"
           ]
@@ -75101,33 +75272,14 @@
       },
       {
         "regular": {
-          "name": "Alcremie-Rubyswirlcream-3DS",
-          "slug": "alcremie-rubyswirlcream",
-          "cssClass": ".pokesprite.pokemon.alcremie-rubyswirlcream.n3ds",
-          "modifiers": [
-            "n3ds"
-          ]
-        },
-        "shiny": {
-          "name": "Alcremie-Rubyswirlcream-3DS-★",
-          "slug": "alcremie-rubyswirlcream",
-          "cssClass": ".pokesprite.pokemon.alcremie-rubyswirlcream.shiny.n3ds",
-          "modifiers": [
-            "shiny",
-            "n3ds"
-          ]
-        }
-      },
-      {
-        "regular": {
           "name": "Alcremie-Rubyswirlcream-Berrysweet",
-          "slug": "alcremie-rubyswirlcream-berrysweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-rubyswirlcream-berrysweet"
+          "slug": "alcremie-ruby-swirl-berry",
+          "cssClass": ".pokesprite.pokemon.alcremie-ruby-swirl-berry"
         },
         "shiny": {
           "name": "Alcremie-Rubyswirlcream-Berrysweet-★",
-          "slug": "alcremie-rubyswirlcream-berrysweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-rubyswirlcream-berrysweet.shiny",
+          "slug": "alcremie-ruby-swirl-berry",
+          "cssClass": ".pokesprite.pokemon.alcremie-ruby-swirl-berry.shiny",
           "modifiers": [
             "shiny"
           ]
@@ -75136,16 +75288,16 @@
       {
         "regular": {
           "name": "Alcremie-Rubyswirlcream-Berrysweet-3DS",
-          "slug": "alcremie-rubyswirlcream-berrysweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-rubyswirlcream-berrysweet.n3ds",
+          "slug": "alcremie-ruby-swirl-berry",
+          "cssClass": ".pokesprite.pokemon.alcremie-ruby-swirl-berry.n3ds",
           "modifiers": [
             "n3ds"
           ]
         },
         "shiny": {
           "name": "Alcremie-Rubyswirlcream-Berrysweet-3DS-★",
-          "slug": "alcremie-rubyswirlcream-berrysweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-rubyswirlcream-berrysweet.shiny.n3ds",
+          "slug": "alcremie-ruby-swirl-berry",
+          "cssClass": ".pokesprite.pokemon.alcremie-ruby-swirl-berry.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -75155,13 +75307,13 @@
       {
         "regular": {
           "name": "Alcremie-Rubyswirlcream-Cloversweet",
-          "slug": "alcremie-rubyswirlcream-cloversweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-rubyswirlcream-cloversweet"
+          "slug": "alcremie-ruby-swirl-clover",
+          "cssClass": ".pokesprite.pokemon.alcremie-ruby-swirl-clover"
         },
         "shiny": {
           "name": "Alcremie-Rubyswirlcream-Cloversweet-★",
-          "slug": "alcremie-rubyswirlcream-cloversweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-rubyswirlcream-cloversweet.shiny",
+          "slug": "alcremie-ruby-swirl-clover",
+          "cssClass": ".pokesprite.pokemon.alcremie-ruby-swirl-clover.shiny",
           "modifiers": [
             "shiny"
           ]
@@ -75170,16 +75322,16 @@
       {
         "regular": {
           "name": "Alcremie-Rubyswirlcream-Cloversweet-3DS",
-          "slug": "alcremie-rubyswirlcream-cloversweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-rubyswirlcream-cloversweet.n3ds",
+          "slug": "alcremie-ruby-swirl-clover",
+          "cssClass": ".pokesprite.pokemon.alcremie-ruby-swirl-clover.n3ds",
           "modifiers": [
             "n3ds"
           ]
         },
         "shiny": {
           "name": "Alcremie-Rubyswirlcream-Cloversweet-3DS-★",
-          "slug": "alcremie-rubyswirlcream-cloversweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-rubyswirlcream-cloversweet.shiny.n3ds",
+          "slug": "alcremie-ruby-swirl-clover",
+          "cssClass": ".pokesprite.pokemon.alcremie-ruby-swirl-clover.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -75189,13 +75341,13 @@
       {
         "regular": {
           "name": "Alcremie-Rubyswirlcream-Flowersweet",
-          "slug": "alcremie-rubyswirlcream-flowersweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-rubyswirlcream-flowersweet"
+          "slug": "alcremie-ruby-swirl-flower",
+          "cssClass": ".pokesprite.pokemon.alcremie-ruby-swirl-flower"
         },
         "shiny": {
           "name": "Alcremie-Rubyswirlcream-Flowersweet-★",
-          "slug": "alcremie-rubyswirlcream-flowersweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-rubyswirlcream-flowersweet.shiny",
+          "slug": "alcremie-ruby-swirl-flower",
+          "cssClass": ".pokesprite.pokemon.alcremie-ruby-swirl-flower.shiny",
           "modifiers": [
             "shiny"
           ]
@@ -75204,16 +75356,16 @@
       {
         "regular": {
           "name": "Alcremie-Rubyswirlcream-Flowersweet-3DS",
-          "slug": "alcremie-rubyswirlcream-flowersweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-rubyswirlcream-flowersweet.n3ds",
+          "slug": "alcremie-ruby-swirl-flower",
+          "cssClass": ".pokesprite.pokemon.alcremie-ruby-swirl-flower.n3ds",
           "modifiers": [
             "n3ds"
           ]
         },
         "shiny": {
           "name": "Alcremie-Rubyswirlcream-Flowersweet-3DS-★",
-          "slug": "alcremie-rubyswirlcream-flowersweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-rubyswirlcream-flowersweet.shiny.n3ds",
+          "slug": "alcremie-ruby-swirl-flower",
+          "cssClass": ".pokesprite.pokemon.alcremie-ruby-swirl-flower.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -75223,13 +75375,13 @@
       {
         "regular": {
           "name": "Alcremie-Rubyswirlcream-Lovesweet",
-          "slug": "alcremie-rubyswirlcream-lovesweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-rubyswirlcream-lovesweet"
+          "slug": "alcremie-ruby-swirl-love",
+          "cssClass": ".pokesprite.pokemon.alcremie-ruby-swirl-love"
         },
         "shiny": {
           "name": "Alcremie-Rubyswirlcream-Lovesweet-★",
-          "slug": "alcremie-rubyswirlcream-lovesweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-rubyswirlcream-lovesweet.shiny",
+          "slug": "alcremie-ruby-swirl-love",
+          "cssClass": ".pokesprite.pokemon.alcremie-ruby-swirl-love.shiny",
           "modifiers": [
             "shiny"
           ]
@@ -75238,16 +75390,16 @@
       {
         "regular": {
           "name": "Alcremie-Rubyswirlcream-Lovesweet-3DS",
-          "slug": "alcremie-rubyswirlcream-lovesweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-rubyswirlcream-lovesweet.n3ds",
+          "slug": "alcremie-ruby-swirl-love",
+          "cssClass": ".pokesprite.pokemon.alcremie-ruby-swirl-love.n3ds",
           "modifiers": [
             "n3ds"
           ]
         },
         "shiny": {
           "name": "Alcremie-Rubyswirlcream-Lovesweet-3DS-★",
-          "slug": "alcremie-rubyswirlcream-lovesweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-rubyswirlcream-lovesweet.shiny.n3ds",
+          "slug": "alcremie-ruby-swirl-love",
+          "cssClass": ".pokesprite.pokemon.alcremie-ruby-swirl-love.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -75257,13 +75409,13 @@
       {
         "regular": {
           "name": "Alcremie-Rubyswirlcream-Ribbonsweet",
-          "slug": "alcremie-rubyswirlcream-ribbonsweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-rubyswirlcream-ribbonsweet"
+          "slug": "alcremie-ruby-swirl-ribbon",
+          "cssClass": ".pokesprite.pokemon.alcremie-ruby-swirl-ribbon"
         },
         "shiny": {
           "name": "Alcremie-Rubyswirlcream-Ribbonsweet-★",
-          "slug": "alcremie-rubyswirlcream-ribbonsweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-rubyswirlcream-ribbonsweet.shiny",
+          "slug": "alcremie-ruby-swirl-ribbon",
+          "cssClass": ".pokesprite.pokemon.alcremie-ruby-swirl-ribbon.shiny",
           "modifiers": [
             "shiny"
           ]
@@ -75272,16 +75424,16 @@
       {
         "regular": {
           "name": "Alcremie-Rubyswirlcream-Ribbonsweet-3DS",
-          "slug": "alcremie-rubyswirlcream-ribbonsweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-rubyswirlcream-ribbonsweet.n3ds",
+          "slug": "alcremie-ruby-swirl-ribbon",
+          "cssClass": ".pokesprite.pokemon.alcremie-ruby-swirl-ribbon.n3ds",
           "modifiers": [
             "n3ds"
           ]
         },
         "shiny": {
           "name": "Alcremie-Rubyswirlcream-Ribbonsweet-3DS-★",
-          "slug": "alcremie-rubyswirlcream-ribbonsweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-rubyswirlcream-ribbonsweet.shiny.n3ds",
+          "slug": "alcremie-ruby-swirl-ribbon",
+          "cssClass": ".pokesprite.pokemon.alcremie-ruby-swirl-ribbon.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -75291,13 +75443,13 @@
       {
         "regular": {
           "name": "Alcremie-Rubyswirlcream-Starsweet",
-          "slug": "alcremie-rubyswirlcream-starsweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-rubyswirlcream-starsweet"
+          "slug": "alcremie-ruby-swirl-star",
+          "cssClass": ".pokesprite.pokemon.alcremie-ruby-swirl-star"
         },
         "shiny": {
           "name": "Alcremie-Rubyswirlcream-Starsweet-★",
-          "slug": "alcremie-rubyswirlcream-starsweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-rubyswirlcream-starsweet.shiny",
+          "slug": "alcremie-ruby-swirl-star",
+          "cssClass": ".pokesprite.pokemon.alcremie-ruby-swirl-star.shiny",
           "modifiers": [
             "shiny"
           ]
@@ -75306,16 +75458,16 @@
       {
         "regular": {
           "name": "Alcremie-Rubyswirlcream-Starsweet-3DS",
-          "slug": "alcremie-rubyswirlcream-starsweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-rubyswirlcream-starsweet.n3ds",
+          "slug": "alcremie-ruby-swirl-star",
+          "cssClass": ".pokesprite.pokemon.alcremie-ruby-swirl-star.n3ds",
           "modifiers": [
             "n3ds"
           ]
         },
         "shiny": {
           "name": "Alcremie-Rubyswirlcream-Starsweet-3DS-★",
-          "slug": "alcremie-rubyswirlcream-starsweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-rubyswirlcream-starsweet.shiny.n3ds",
+          "slug": "alcremie-ruby-swirl-star",
+          "cssClass": ".pokesprite.pokemon.alcremie-ruby-swirl-star.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -75325,13 +75477,13 @@
       {
         "regular": {
           "name": "Alcremie-Rubyswirlcream-Strawberrysweet",
-          "slug": "alcremie-rubyswirlcream-strawberrysweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-rubyswirlcream-strawberrysweet"
+          "slug": "alcremie-ruby-swirl-strawberry",
+          "cssClass": ".pokesprite.pokemon.alcremie-ruby-swirl-strawberry"
         },
         "shiny": {
           "name": "Alcremie-Rubyswirlcream-Strawberrysweet-★",
-          "slug": "alcremie-rubyswirlcream-strawberrysweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-rubyswirlcream-strawberrysweet.shiny",
+          "slug": "alcremie-ruby-swirl-strawberry",
+          "cssClass": ".pokesprite.pokemon.alcremie-ruby-swirl-strawberry.shiny",
           "modifiers": [
             "shiny"
           ]
@@ -75340,16 +75492,16 @@
       {
         "regular": {
           "name": "Alcremie-Rubyswirlcream-Strawberrysweet-3DS",
-          "slug": "alcremie-rubyswirlcream-strawberrysweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-rubyswirlcream-strawberrysweet.n3ds",
+          "slug": "alcremie-ruby-swirl-strawberry",
+          "cssClass": ".pokesprite.pokemon.alcremie-ruby-swirl-strawberry.n3ds",
           "modifiers": [
             "n3ds"
           ]
         },
         "shiny": {
           "name": "Alcremie-Rubyswirlcream-Strawberrysweet-3DS-★",
-          "slug": "alcremie-rubyswirlcream-strawberrysweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-rubyswirlcream-strawberrysweet.shiny.n3ds",
+          "slug": "alcremie-ruby-swirl-strawberry",
+          "cssClass": ".pokesprite.pokemon.alcremie-ruby-swirl-strawberry.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -75364,8 +75516,20 @@
         },
         "shiny": {
           "name": "Alcremie-Saltedcream-★",
-          "slug": "alcremie-saltedcream",
-          "cssClass": ".pokesprite.pokemon.alcremie-saltedcream.shiny",
+          "slug": "alcremie-salted-cream★",
+          "cssClass": ".pokesprite.pokemon.alcremie-salted-cream★"
+        }
+      },
+      {
+        "regular": {
+          "name": "Alcremie-Saltedcream-3DS",
+          "slug": "alcremie-salted-cream3-ds",
+          "cssClass": ".pokesprite.pokemon.alcremie-salted-cream3-ds"
+        },
+        "shiny": {
+          "name": "Alcremie-Saltedcream-3DS-★",
+          "slug": "alcremie-salted-cream3-ds",
+          "cssClass": ".pokesprite.pokemon.alcremie-salted-cream3-ds.shiny",
           "modifiers": [
             "shiny"
           ]
@@ -75373,33 +75537,14 @@
       },
       {
         "regular": {
-          "name": "Alcremie-Saltedcream-3DS",
-          "slug": "alcremie-saltedcream",
-          "cssClass": ".pokesprite.pokemon.alcremie-saltedcream.n3ds",
-          "modifiers": [
-            "n3ds"
-          ]
-        },
-        "shiny": {
-          "name": "Alcremie-Saltedcream-3DS-★",
-          "slug": "alcremie-saltedcream",
-          "cssClass": ".pokesprite.pokemon.alcremie-saltedcream.shiny.n3ds",
-          "modifiers": [
-            "shiny",
-            "n3ds"
-          ]
-        }
-      },
-      {
-        "regular": {
           "name": "Alcremie-Saltedcream-Berrysweet",
-          "slug": "alcremie-saltedcream-berrysweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-saltedcream-berrysweet"
+          "slug": "alcremie-salted-cream-berry",
+          "cssClass": ".pokesprite.pokemon.alcremie-salted-cream-berry"
         },
         "shiny": {
           "name": "Alcremie-Saltedcream-Berrysweet-★",
-          "slug": "alcremie-saltedcream-berrysweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-saltedcream-berrysweet.shiny",
+          "slug": "alcremie-salted-cream-berry",
+          "cssClass": ".pokesprite.pokemon.alcremie-salted-cream-berry.shiny",
           "modifiers": [
             "shiny"
           ]
@@ -75408,16 +75553,16 @@
       {
         "regular": {
           "name": "Alcremie-Saltedcream-Berrysweet-3DS",
-          "slug": "alcremie-saltedcream-berrysweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-saltedcream-berrysweet.n3ds",
+          "slug": "alcremie-salted-cream-berry",
+          "cssClass": ".pokesprite.pokemon.alcremie-salted-cream-berry.n3ds",
           "modifiers": [
             "n3ds"
           ]
         },
         "shiny": {
           "name": "Alcremie-Saltedcream-Berrysweet-3DS-★",
-          "slug": "alcremie-saltedcream-berrysweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-saltedcream-berrysweet.shiny.n3ds",
+          "slug": "alcremie-salted-cream-berry",
+          "cssClass": ".pokesprite.pokemon.alcremie-salted-cream-berry.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -75427,13 +75572,13 @@
       {
         "regular": {
           "name": "Alcremie-Saltedcream-Cloversweet",
-          "slug": "alcremie-saltedcream-cloversweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-saltedcream-cloversweet"
+          "slug": "alcremie-salted-cream-clover",
+          "cssClass": ".pokesprite.pokemon.alcremie-salted-cream-clover"
         },
         "shiny": {
           "name": "Alcremie-Saltedcream-Cloversweet-★",
-          "slug": "alcremie-saltedcream-cloversweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-saltedcream-cloversweet.shiny",
+          "slug": "alcremie-salted-cream-clover",
+          "cssClass": ".pokesprite.pokemon.alcremie-salted-cream-clover.shiny",
           "modifiers": [
             "shiny"
           ]
@@ -75442,16 +75587,16 @@
       {
         "regular": {
           "name": "Alcremie-Saltedcream-Cloversweet-3DS",
-          "slug": "alcremie-saltedcream-cloversweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-saltedcream-cloversweet.n3ds",
+          "slug": "alcremie-salted-cream-clover",
+          "cssClass": ".pokesprite.pokemon.alcremie-salted-cream-clover.n3ds",
           "modifiers": [
             "n3ds"
           ]
         },
         "shiny": {
           "name": "Alcremie-Saltedcream-Cloversweet-3DS-★",
-          "slug": "alcremie-saltedcream-cloversweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-saltedcream-cloversweet.shiny.n3ds",
+          "slug": "alcremie-salted-cream-clover",
+          "cssClass": ".pokesprite.pokemon.alcremie-salted-cream-clover.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -75461,13 +75606,13 @@
       {
         "regular": {
           "name": "Alcremie-Saltedcream-Flowersweet",
-          "slug": "alcremie-saltedcream-flowersweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-saltedcream-flowersweet"
+          "slug": "alcremie-salted-cream-flower",
+          "cssClass": ".pokesprite.pokemon.alcremie-salted-cream-flower"
         },
         "shiny": {
           "name": "Alcremie-Saltedcream-Flowersweet-★",
-          "slug": "alcremie-saltedcream-flowersweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-saltedcream-flowersweet.shiny",
+          "slug": "alcremie-salted-cream-flower",
+          "cssClass": ".pokesprite.pokemon.alcremie-salted-cream-flower.shiny",
           "modifiers": [
             "shiny"
           ]
@@ -75476,16 +75621,16 @@
       {
         "regular": {
           "name": "Alcremie-Saltedcream-Flowersweet-3DS",
-          "slug": "alcremie-saltedcream-flowersweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-saltedcream-flowersweet.n3ds",
+          "slug": "alcremie-salted-cream-flower",
+          "cssClass": ".pokesprite.pokemon.alcremie-salted-cream-flower.n3ds",
           "modifiers": [
             "n3ds"
           ]
         },
         "shiny": {
           "name": "Alcremie-Saltedcream-Flowersweet-3DS-★",
-          "slug": "alcremie-saltedcream-flowersweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-saltedcream-flowersweet.shiny.n3ds",
+          "slug": "alcremie-salted-cream-flower",
+          "cssClass": ".pokesprite.pokemon.alcremie-salted-cream-flower.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -75495,13 +75640,13 @@
       {
         "regular": {
           "name": "Alcremie-Saltedcream-Lovesweet",
-          "slug": "alcremie-saltedcream-lovesweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-saltedcream-lovesweet"
+          "slug": "alcremie-salted-cream-love",
+          "cssClass": ".pokesprite.pokemon.alcremie-salted-cream-love"
         },
         "shiny": {
           "name": "Alcremie-Saltedcream-Lovesweet-★",
-          "slug": "alcremie-saltedcream-lovesweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-saltedcream-lovesweet.shiny",
+          "slug": "alcremie-salted-cream-love",
+          "cssClass": ".pokesprite.pokemon.alcremie-salted-cream-love.shiny",
           "modifiers": [
             "shiny"
           ]
@@ -75510,16 +75655,16 @@
       {
         "regular": {
           "name": "Alcremie-Saltedcream-Lovesweet-3DS",
-          "slug": "alcremie-saltedcream-lovesweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-saltedcream-lovesweet.n3ds",
+          "slug": "alcremie-salted-cream-love",
+          "cssClass": ".pokesprite.pokemon.alcremie-salted-cream-love.n3ds",
           "modifiers": [
             "n3ds"
           ]
         },
         "shiny": {
           "name": "Alcremie-Saltedcream-Lovesweet-3DS-★",
-          "slug": "alcremie-saltedcream-lovesweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-saltedcream-lovesweet.shiny.n3ds",
+          "slug": "alcremie-salted-cream-love",
+          "cssClass": ".pokesprite.pokemon.alcremie-salted-cream-love.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -75529,13 +75674,13 @@
       {
         "regular": {
           "name": "Alcremie-Saltedcream-Ribbonsweet",
-          "slug": "alcremie-saltedcream-ribbonsweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-saltedcream-ribbonsweet"
+          "slug": "alcremie-salted-cream-ribbon",
+          "cssClass": ".pokesprite.pokemon.alcremie-salted-cream-ribbon"
         },
         "shiny": {
           "name": "Alcremie-Saltedcream-Ribbonsweet-★",
-          "slug": "alcremie-saltedcream-ribbonsweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-saltedcream-ribbonsweet.shiny",
+          "slug": "alcremie-salted-cream-ribbon",
+          "cssClass": ".pokesprite.pokemon.alcremie-salted-cream-ribbon.shiny",
           "modifiers": [
             "shiny"
           ]
@@ -75544,16 +75689,16 @@
       {
         "regular": {
           "name": "Alcremie-Saltedcream-Ribbonsweet-3DS",
-          "slug": "alcremie-saltedcream-ribbonsweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-saltedcream-ribbonsweet.n3ds",
+          "slug": "alcremie-salted-cream-ribbon",
+          "cssClass": ".pokesprite.pokemon.alcremie-salted-cream-ribbon.n3ds",
           "modifiers": [
             "n3ds"
           ]
         },
         "shiny": {
           "name": "Alcremie-Saltedcream-Ribbonsweet-3DS-★",
-          "slug": "alcremie-saltedcream-ribbonsweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-saltedcream-ribbonsweet.shiny.n3ds",
+          "slug": "alcremie-salted-cream-ribbon",
+          "cssClass": ".pokesprite.pokemon.alcremie-salted-cream-ribbon.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -75563,13 +75708,13 @@
       {
         "regular": {
           "name": "Alcremie-Saltedcream-Starsweet",
-          "slug": "alcremie-saltedcream-starsweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-saltedcream-starsweet"
+          "slug": "alcremie-salted-cream-star",
+          "cssClass": ".pokesprite.pokemon.alcremie-salted-cream-star"
         },
         "shiny": {
           "name": "Alcremie-Saltedcream-Starsweet-★",
-          "slug": "alcremie-saltedcream-starsweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-saltedcream-starsweet.shiny",
+          "slug": "alcremie-salted-cream-star",
+          "cssClass": ".pokesprite.pokemon.alcremie-salted-cream-star.shiny",
           "modifiers": [
             "shiny"
           ]
@@ -75578,16 +75723,16 @@
       {
         "regular": {
           "name": "Alcremie-Saltedcream-Starsweet-3DS",
-          "slug": "alcremie-saltedcream-starsweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-saltedcream-starsweet.n3ds",
+          "slug": "alcremie-salted-cream-star",
+          "cssClass": ".pokesprite.pokemon.alcremie-salted-cream-star.n3ds",
           "modifiers": [
             "n3ds"
           ]
         },
         "shiny": {
           "name": "Alcremie-Saltedcream-Starsweet-3DS-★",
-          "slug": "alcremie-saltedcream-starsweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-saltedcream-starsweet.shiny.n3ds",
+          "slug": "alcremie-salted-cream-star",
+          "cssClass": ".pokesprite.pokemon.alcremie-salted-cream-star.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -75597,13 +75742,13 @@
       {
         "regular": {
           "name": "Alcremie-Saltedcream-Strawberrysweet",
-          "slug": "alcremie-saltedcream-strawberrysweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-saltedcream-strawberrysweet"
+          "slug": "alcremie-salted-cream-strawberry",
+          "cssClass": ".pokesprite.pokemon.alcremie-salted-cream-strawberry"
         },
         "shiny": {
           "name": "Alcremie-Saltedcream-Strawberrysweet-★",
-          "slug": "alcremie-saltedcream-strawberrysweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-saltedcream-strawberrysweet.shiny",
+          "slug": "alcremie-salted-cream-strawberry",
+          "cssClass": ".pokesprite.pokemon.alcremie-salted-cream-strawberry.shiny",
           "modifiers": [
             "shiny"
           ]
@@ -75612,16 +75757,16 @@
       {
         "regular": {
           "name": "Alcremie-Saltedcream-Strawberrysweet-3DS",
-          "slug": "alcremie-saltedcream-strawberrysweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-saltedcream-strawberrysweet.n3ds",
+          "slug": "alcremie-salted-cream-strawberry",
+          "cssClass": ".pokesprite.pokemon.alcremie-salted-cream-strawberry.n3ds",
           "modifiers": [
             "n3ds"
           ]
         },
         "shiny": {
           "name": "Alcremie-Saltedcream-Strawberrysweet-3DS-★",
-          "slug": "alcremie-saltedcream-strawberrysweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-saltedcream-strawberrysweet.shiny.n3ds",
+          "slug": "alcremie-salted-cream-strawberry",
+          "cssClass": ".pokesprite.pokemon.alcremie-salted-cream-strawberry.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -75636,8 +75781,20 @@
         },
         "shiny": {
           "name": "Alcremie-Vanillacream-★",
-          "slug": "alcremie-vanillacream",
-          "cssClass": ".pokesprite.pokemon.alcremie-vanillacream.shiny",
+          "slug": "alcremie-vanilla-cream★",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream★"
+        }
+      },
+      {
+        "regular": {
+          "name": "Alcremie-Vanillacream-3DS",
+          "slug": "alcremie-vanilla-cream3-ds",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream3-ds"
+        },
+        "shiny": {
+          "name": "Alcremie-Vanillacream-3DS-★",
+          "slug": "alcremie-vanilla-cream3-ds",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream3-ds.shiny",
           "modifiers": [
             "shiny"
           ]
@@ -75645,33 +75802,14 @@
       },
       {
         "regular": {
-          "name": "Alcremie-Vanillacream-3DS",
-          "slug": "alcremie-vanillacream",
-          "cssClass": ".pokesprite.pokemon.alcremie-vanillacream.n3ds",
-          "modifiers": [
-            "n3ds"
-          ]
-        },
-        "shiny": {
-          "name": "Alcremie-Vanillacream-3DS-★",
-          "slug": "alcremie-vanillacream",
-          "cssClass": ".pokesprite.pokemon.alcremie-vanillacream.shiny.n3ds",
-          "modifiers": [
-            "shiny",
-            "n3ds"
-          ]
-        }
-      },
-      {
-        "regular": {
           "name": "Alcremie-Vanillacream-Berrysweet",
-          "slug": "alcremie-vanillacream-berrysweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-vanillacream-berrysweet"
+          "slug": "alcremie-vanilla-cream-berry",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-berry"
         },
         "shiny": {
           "name": "Alcremie-Vanillacream-Berrysweet-★",
-          "slug": "alcremie-vanillacream-berrysweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-vanillacream-berrysweet.shiny",
+          "slug": "alcremie-vanilla-cream-berry",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-berry.shiny",
           "modifiers": [
             "shiny"
           ]
@@ -75680,16 +75818,16 @@
       {
         "regular": {
           "name": "Alcremie-Vanillacream-Berrysweet-3DS",
-          "slug": "alcremie-vanillacream-berrysweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-vanillacream-berrysweet.n3ds",
+          "slug": "alcremie-vanilla-cream-berry",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-berry.n3ds",
           "modifiers": [
             "n3ds"
           ]
         },
         "shiny": {
           "name": "Alcremie-Vanillacream-Berrysweet-3DS-★",
-          "slug": "alcremie-vanillacream-berrysweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-vanillacream-berrysweet.shiny.n3ds",
+          "slug": "alcremie-vanilla-cream-berry",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-berry.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -75699,13 +75837,13 @@
       {
         "regular": {
           "name": "Alcremie-Vanillacream-Cloversweet",
-          "slug": "alcremie-vanillacream-cloversweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-vanillacream-cloversweet"
+          "slug": "alcremie-vanilla-cream-clover",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-clover"
         },
         "shiny": {
           "name": "Alcremie-Vanillacream-Cloversweet-★",
-          "slug": "alcremie-vanillacream-cloversweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-vanillacream-cloversweet.shiny",
+          "slug": "alcremie-vanilla-cream-clover",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-clover.shiny",
           "modifiers": [
             "shiny"
           ]
@@ -75714,16 +75852,16 @@
       {
         "regular": {
           "name": "Alcremie-Vanillacream-Cloversweet-3DS",
-          "slug": "alcremie-vanillacream-cloversweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-vanillacream-cloversweet.n3ds",
+          "slug": "alcremie-vanilla-cream-clover",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-clover.n3ds",
           "modifiers": [
             "n3ds"
           ]
         },
         "shiny": {
           "name": "Alcremie-Vanillacream-Cloversweet-3DS-★",
-          "slug": "alcremie-vanillacream-cloversweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-vanillacream-cloversweet.shiny.n3ds",
+          "slug": "alcremie-vanilla-cream-clover",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-clover.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -75733,13 +75871,13 @@
       {
         "regular": {
           "name": "Alcremie-Vanillacream-Flowersweet",
-          "slug": "alcremie-vanillacream-flowersweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-vanillacream-flowersweet"
+          "slug": "alcremie-vanilla-cream-flower",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-flower"
         },
         "shiny": {
           "name": "Alcremie-Vanillacream-Flowersweet-★",
-          "slug": "alcremie-vanillacream-flowersweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-vanillacream-flowersweet.shiny",
+          "slug": "alcremie-vanilla-cream-flower",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-flower.shiny",
           "modifiers": [
             "shiny"
           ]
@@ -75748,16 +75886,16 @@
       {
         "regular": {
           "name": "Alcremie-Vanillacream-Flowersweet-3DS",
-          "slug": "alcremie-vanillacream-flowersweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-vanillacream-flowersweet.n3ds",
+          "slug": "alcremie-vanilla-cream-flower",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-flower.n3ds",
           "modifiers": [
             "n3ds"
           ]
         },
         "shiny": {
           "name": "Alcremie-Vanillacream-Flowersweet-3DS-★",
-          "slug": "alcremie-vanillacream-flowersweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-vanillacream-flowersweet.shiny.n3ds",
+          "slug": "alcremie-vanilla-cream-flower",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-flower.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -75767,13 +75905,13 @@
       {
         "regular": {
           "name": "Alcremie-Vanillacream-Lovesweet",
-          "slug": "alcremie-vanillacream-lovesweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-vanillacream-lovesweet"
+          "slug": "alcremie-vanilla-cream-love",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-love"
         },
         "shiny": {
           "name": "Alcremie-Vanillacream-Lovesweet-★",
-          "slug": "alcremie-vanillacream-lovesweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-vanillacream-lovesweet.shiny",
+          "slug": "alcremie-vanilla-cream-love",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-love.shiny",
           "modifiers": [
             "shiny"
           ]
@@ -75782,16 +75920,16 @@
       {
         "regular": {
           "name": "Alcremie-Vanillacream-Lovesweet-3DS",
-          "slug": "alcremie-vanillacream-lovesweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-vanillacream-lovesweet.n3ds",
+          "slug": "alcremie-vanilla-cream-love",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-love.n3ds",
           "modifiers": [
             "n3ds"
           ]
         },
         "shiny": {
           "name": "Alcremie-Vanillacream-Lovesweet-3DS-★",
-          "slug": "alcremie-vanillacream-lovesweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-vanillacream-lovesweet.shiny.n3ds",
+          "slug": "alcremie-vanilla-cream-love",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-love.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -75801,13 +75939,13 @@
       {
         "regular": {
           "name": "Alcremie-Vanillacream-Ribbonsweet",
-          "slug": "alcremie-vanillacream-ribbonsweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-vanillacream-ribbonsweet"
+          "slug": "alcremie-vanilla-cream-ribbon",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-ribbon"
         },
         "shiny": {
           "name": "Alcremie-Vanillacream-Ribbonsweet-★",
-          "slug": "alcremie-vanillacream-ribbonsweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-vanillacream-ribbonsweet.shiny",
+          "slug": "alcremie-vanilla-cream-ribbon",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-ribbon.shiny",
           "modifiers": [
             "shiny"
           ]
@@ -75816,16 +75954,16 @@
       {
         "regular": {
           "name": "Alcremie-Vanillacream-Ribbonsweet-3DS",
-          "slug": "alcremie-vanillacream-ribbonsweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-vanillacream-ribbonsweet.n3ds",
+          "slug": "alcremie-vanilla-cream-ribbon",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-ribbon.n3ds",
           "modifiers": [
             "n3ds"
           ]
         },
         "shiny": {
           "name": "Alcremie-Vanillacream-Ribbonsweet-3DS-★",
-          "slug": "alcremie-vanillacream-ribbonsweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-vanillacream-ribbonsweet.shiny.n3ds",
+          "slug": "alcremie-vanilla-cream-ribbon",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-ribbon.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -75835,13 +75973,13 @@
       {
         "regular": {
           "name": "Alcremie-Vanillacream-Starsweet",
-          "slug": "alcremie-vanillacream-starsweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-vanillacream-starsweet"
+          "slug": "alcremie-vanilla-cream-star",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-star"
         },
         "shiny": {
           "name": "Alcremie-Vanillacream-Starsweet-★",
-          "slug": "alcremie-vanillacream-starsweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-vanillacream-starsweet.shiny",
+          "slug": "alcremie-vanilla-cream-star",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-star.shiny",
           "modifiers": [
             "shiny"
           ]
@@ -75850,16 +75988,16 @@
       {
         "regular": {
           "name": "Alcremie-Vanillacream-Starsweet-3DS",
-          "slug": "alcremie-vanillacream-starsweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-vanillacream-starsweet.n3ds",
+          "slug": "alcremie-vanilla-cream-star",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-star.n3ds",
           "modifiers": [
             "n3ds"
           ]
         },
         "shiny": {
           "name": "Alcremie-Vanillacream-Starsweet-3DS-★",
-          "slug": "alcremie-vanillacream-starsweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-vanillacream-starsweet.shiny.n3ds",
+          "slug": "alcremie-vanilla-cream-star",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-star.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -75869,13 +76007,13 @@
       {
         "regular": {
           "name": "Alcremie-Vanillacream-Strawberrysweet",
-          "slug": "alcremie-vanillacream-strawberrysweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-vanillacream-strawberrysweet"
+          "slug": "alcremie-vanilla-cream-strawberry",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-strawberry"
         },
         "shiny": {
           "name": "Alcremie-Vanillacream-Strawberrysweet-★",
-          "slug": "alcremie-vanillacream-strawberrysweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-vanillacream-strawberrysweet.shiny",
+          "slug": "alcremie-vanilla-cream-strawberry",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-strawberry.shiny",
           "modifiers": [
             "shiny"
           ]
@@ -75884,16 +76022,16 @@
       {
         "regular": {
           "name": "Alcremie-Vanillacream-Strawberrysweet-3DS",
-          "slug": "alcremie-vanillacream-strawberrysweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-vanillacream-strawberrysweet.n3ds",
+          "slug": "alcremie-vanilla-cream-strawberry",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-strawberry.n3ds",
           "modifiers": [
             "n3ds"
           ]
         },
         "shiny": {
           "name": "Alcremie-Vanillacream-Strawberrysweet-3DS-★",
-          "slug": "alcremie-vanillacream-strawberrysweet",
-          "cssClass": ".pokesprite.pokemon.alcremie-vanillacream-strawberrysweet.shiny.n3ds",
+          "slug": "alcremie-vanilla-cream-strawberry",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-strawberry.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
