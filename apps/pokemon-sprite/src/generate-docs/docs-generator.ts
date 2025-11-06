@@ -133,7 +133,8 @@ function writeDocumentHeader(stream: fs.WriteStream) {
 }
 </script>
   </head>
-  <body class="container">`, 'utf-8');
+  <body class="container">
+<h1>Pokémon sprites</h1>`, 'utf-8');
 }
 
 function writeTableOfContents(stream: fs.WriteStream) {
