@@ -30,14 +30,14 @@ writeStream.end();
 
 function writeTableHeader(stream: fs.WriteStream) {
 
-  stream.write(`<table>
+  stream.write(`<div class="table-wrapper"><table>
 <thead>
 <tr>
-<th>#</th>
-<th>Name</th>
+<th class="dex-col">#</th>
+<th class="name-col">Name</th>
 <th>Form</th>
-<th>Regular</th>
-<th>Shiny</th>
+<th class="min-width">Regular</th>
+<th class="min-width">Shiny</th>
 </tr>
 </thead>
 <tbody>`, 'utf-8');
@@ -48,7 +48,7 @@ function writeTableHeader(stream: fs.WriteStream) {
 function writeTableFooter(stream: fs.WriteStream) {
 
   stream.write(`</tbody>
-</table>`, 'utf-8');
+</table></div>`, 'utf-8');
 
 
 }
@@ -56,8 +56,8 @@ function writeTableFooter(stream: fs.WriteStream) {
 function writeTableSpriteRow(stream: fs.WriteStream, entry: PokemonEntry) {
 
   stream.write(`<tr>
-<td id="${entry.id}" rowspan="${entry.icons.length}"><a href="#${entry.id}">${entry.id}</a></td>
-<td id="${entry.species}" rowspan="${entry.icons.length}"><a href="#${entry.species}">${entry.species}</a></td>
+<td class="dex-col" id="${entry.id}" rowspan="${entry.icons.length}"><a href="#${entry.id}">${entry.id}</a></td>
+<td class="name-col" id="${entry.species}" rowspan="${entry.icons.length}"><a href="#${entry.species}">${entry.species}</a></td>
 ${getIconFields(entry.icons[0], entry.species)}
 </tr>`, 'utf-8');
   if (entry.icons.length > 1) {
@@ -133,7 +133,7 @@ function writeDocumentHeader(stream: fs.WriteStream) {
 }
 </script>
   </head>
-  <body>`, 'utf-8');
+  <body class="container">`, 'utf-8');
 }
 
 function writeTableOfContents(stream: fs.WriteStream) {
