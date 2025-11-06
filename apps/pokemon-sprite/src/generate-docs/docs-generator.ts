@@ -58,12 +58,12 @@ function writeTableSpriteRow(stream: fs.WriteStream, entry: PokemonEntry) {
   stream.write(`<tr>
 <td id="${entry.id}" rowspan="${entry.icons.length}"><a href="#${entry.id}">${entry.id}</a></td>
 <td id="${entry.species}" rowspan="${entry.icons.length}"><a href="#${entry.species}">${entry.species}</a></td>
-${getIconFields(entry.icons[0])}
+${getIconFields(entry.icons[0], entry.species)}
 </tr>`, 'utf-8');
   if (entry.icons.length > 1) {
     for (let i = 1; i < entry.icons.length; i++) {
       stream.write(`<tr>
-${getIconFields(entry.icons[i])}
+${getIconFields(entry.icons[i], entry.species)}
 </tr>`, 'utf-8');
     }
 
@@ -72,13 +72,27 @@ ${getIconFields(entry.icons[i])}
 
 }
 
-function getIconFields(iconPair: PokemonIconPair): string {
+function getIconFields(iconPair: PokemonIconPair, speciesName: string): string {
   const  regularClasses = iconPair.regular.cssClass.split('.').filter(s => !!s).join(' ');
   const shinyClasses = iconPair.shiny?.cssClass.split('.').filter(s => !!s).join(' ') ?? '';
+  const formName = iconPair.regular.name.length > speciesName.length ? iconPair.regular.name.substring(speciesName.length + 1) : '-';
   return `
-<td>-</td>
-  <td><div class="sprite-with-text"><div class="${regularClasses}"></div> ${iconPair.regular?.name} <button onclick="clipboard('${regularClasses}')"><img width="24" height="24" src="./clipboard.svg"></button></div></td>
-<td><div class="sprite-with-text">${iconPair.shiny ? `<div class="${shinyClasses}"></div>` : ''}${iconPair.shiny?.name ?? '-'} ${iconPair.shiny ? `<button onclick="clipboard('${shinyClasses}')"><img width="24" height="24" src="./clipboard.svg"></button>` : ''}</div></td>`;
+<td>${formName}</td>
+  <td>
+  <div class="sprite-with-text">
+  <div class="${regularClasses}"></div>
+  <button onclick="clipboard('${regularClasses}')">
+  <img width="24" height="24" src="./clipboard.svg">
+  </button>
+   <button onclick="downloadImage('${iconPair.regular.name}')">
+  <img width="24" height="24" src="./download.svg">
+  </button>
+  </div>
+  </td>
+<td>
+<div class="sprite-with-text">${iconPair.shiny ? `<div class="${shinyClasses}"></div>` : ''}${!iconPair.shiny?.name ? '-' : ''} ${iconPair.shiny ? `<button title="Copy CSS class" onclick="clipboard('${shinyClasses}')"><img width="24" height="24" src="./clipboard.svg"></button>   <button onclick="downloadImage('${iconPair.shiny.name}')">
+  <img width="24" height="24" src="./download.svg">
+  </button>` : ''}</div></td>`;
 }
 
 
@@ -90,10 +104,19 @@ function writeDocumentHeader(stream: fs.WriteStream) {
     <title>Pokémon Sprite - Index</title>
     <link href="./docs.css" rel="stylesheet"/>
     <link href="./spritesheet.css" rel="stylesheet"/>
-    <script>
+    <script type="text/javascript">
     function clipboard(text){
       navigator.clipboard.writeText(text);
     }
+
+    function downloadImage(iconName) {
+      const link = document.createElement('a');
+      link.href = 'https://raw.githubusercontent.com/koenigderluegner/pokemon-sprites/refs/heads/main/apps/pokemon-sprite/src/assets/icons/menu-sprites/' + iconName '.png';
+      link.download = iconName + '.png';
+      document.body.appendChild(link);
+      link.click();
+      document.body.removeChild(link);
+}
 </script>
   </head>
   <body>`, 'utf-8');
