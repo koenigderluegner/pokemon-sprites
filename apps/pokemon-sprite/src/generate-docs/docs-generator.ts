@@ -111,7 +111,7 @@ function writeDocumentHeader(stream: fs.WriteStream) {
 
     function downloadImage(iconName) {
       const link = document.createElement('a');
-      link.href = 'https://raw.githubusercontent.com/koenigderluegner/pokemon-sprites/refs/heads/main/apps/pokemon-sprite/src/assets/icons/menu-sprites/' + iconName '.png';
+      link.href = 'https://raw.githubusercontent.com/koenigderluegner/pokemon-sprites/refs/heads/main/apps/pokemon-sprite/src/assets/icons/menu-sprites/' + iconName + '.png';
       link.download = iconName + '.png';
       document.body.appendChild(link);
       link.click();
