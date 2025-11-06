@@ -107,12 +107,6 @@ function getIconMeta(iconName: string): IconMeta {
   }
 
   sanitizedIconName = sanitizedIconName
-    .replace(/Lowkey/g, 'LowKey') // toxtricity
-    .replace(/Bluestriped/g, 'BlueStriped') // basculin
-    .replace(/Whitestriped/g, 'WhiteStriped') // basculin
-    .replace(/Redstriped/g, 'RedStriped') // basculin
-    .replace(/Familyof/g, 'FamilyOf') // maushold
-    .replace(/Threesegment/g, 'ThreeSegment') // dudunsparce
     .replace(/OriginalLivery/g, 'Original'); // magearna
 
 

@@ -31711,6 +31711,71 @@
             "shiny"
           ]
         }
+      },
+      {
+        "regular": {
+          "name": "Teddiursa-3DS",
+          "slug": "teddiursa",
+          "cssClass": ".pokesprite.pokemon.teddiursa.n3ds",
+          "modifiers": [
+            "n3ds"
+          ]
+        },
+        "shiny": {
+          "name": "Teddiursa-3DS-★",
+          "slug": "teddiursa",
+          "cssClass": ".pokesprite.pokemon.teddiursa.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Teddiursa-GO-Halloween",
+          "slug": "teddiursa-halloween",
+          "cssClass": ".pokesprite.pokemon.teddiursa-halloween",
+          "categories": [
+            "go"
+          ]
+        },
+        "shiny": {
+          "name": "Teddiursa-GO-Halloween-★",
+          "slug": "teddiursa-halloween",
+          "cssClass": ".pokesprite.pokemon.teddiursa-halloween.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "go"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Teddiursa-GO-Halloween-3DS",
+          "slug": "teddiursa-halloween",
+          "cssClass": ".pokesprite.pokemon.teddiursa-halloween.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "go"
+          ]
+        },
+        "shiny": {
+          "name": "Teddiursa-GO-Halloween-3DS-★",
+          "slug": "teddiursa-halloween",
+          "cssClass": ".pokesprite.pokemon.teddiursa-halloween.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "go"
+          ]
+        }
       }
     ]
   },
@@ -31783,6 +31848,98 @@
           "modifiers": [
             "shiny",
             "n3ds"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Ursaring-GO-Halloween",
+          "slug": "ursaring-halloween",
+          "cssClass": ".pokesprite.pokemon.ursaring-halloween",
+          "categories": [
+            "go"
+          ]
+        },
+        "shiny": {
+          "name": "Ursaring-GO-Halloween-★",
+          "slug": "ursaring-halloween",
+          "cssClass": ".pokesprite.pokemon.ursaring-halloween.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "go"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Ursaring-GO-Halloween-3DS",
+          "slug": "ursaring-halloween",
+          "cssClass": ".pokesprite.pokemon.ursaring-halloween.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "go"
+          ]
+        },
+        "shiny": {
+          "name": "Ursaring-GO-Halloween-3DS-★",
+          "slug": "ursaring-halloween",
+          "cssClass": ".pokesprite.pokemon.ursaring-halloween.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "go"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Ursaring-GO-Halloween-F",
+          "slug": "ursaring-halloween-f",
+          "cssClass": ".pokesprite.pokemon.ursaring-halloween-f",
+          "categories": [
+            "go"
+          ]
+        },
+        "shiny": {
+          "name": "Ursaring-GO-Halloween-F-★",
+          "slug": "ursaring-halloween-f",
+          "cssClass": ".pokesprite.pokemon.ursaring-halloween-f.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "go"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Ursaring-GO-Halloween-F-3DS",
+          "slug": "ursaring-halloween-f",
+          "cssClass": ".pokesprite.pokemon.ursaring-halloween-f.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "go"
+          ]
+        },
+        "shiny": {
+          "name": "Ursaring-GO-Halloween-F-3DS-★",
+          "slug": "ursaring-halloween-f",
+          "cssClass": ".pokesprite.pokemon.ursaring-halloween-f.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "go"
           ]
         }
       }
@@ -36506,6 +36663,25 @@
             "shiny"
           ]
         }
+      },
+      {
+        "regular": {
+          "name": "Makuhita-3DS",
+          "slug": "makuhita",
+          "cssClass": ".pokesprite.pokemon.makuhita.n3ds",
+          "modifiers": [
+            "n3ds"
+          ]
+        },
+        "shiny": {
+          "name": "Makuhita-3DS-★",
+          "slug": "makuhita",
+          "cssClass": ".pokesprite.pokemon.makuhita.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ]
+        }
       }
     ]
   },
@@ -38987,6 +39163,25 @@
             "shiny"
           ]
         }
+      },
+      {
+        "regular": {
+          "name": "Anorith-3DS",
+          "slug": "anorith",
+          "cssClass": ".pokesprite.pokemon.anorith.n3ds",
+          "modifiers": [
+            "n3ds"
+          ]
+        },
+        "shiny": {
+          "name": "Anorith-3DS-★",
+          "slug": "anorith",
+          "cssClass": ".pokesprite.pokemon.anorith.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ]
+        }
       }
     ]
   },
@@ -39046,6 +39241,25 @@
           "cssClass": ".pokesprite.pokemon.feebas.shiny",
           "modifiers": [
             "shiny"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Feebas-3DS",
+          "slug": "feebas",
+          "cssClass": ".pokesprite.pokemon.feebas.n3ds",
+          "modifiers": [
+            "n3ds"
+          ]
+        },
+        "shiny": {
+          "name": "Feebas-3DS-★",
+          "slug": "feebas",
+          "cssClass": ".pokesprite.pokemon.feebas.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
           ]
         }
       }
@@ -39913,6 +40127,25 @@
       },
       {
         "regular": {
+          "name": "Spheal-3DS",
+          "slug": "spheal",
+          "cssClass": ".pokesprite.pokemon.spheal.n3ds",
+          "modifiers": [
+            "n3ds"
+          ]
+        },
+        "shiny": {
+          "name": "Spheal-3DS-★",
+          "slug": "spheal",
+          "cssClass": ".pokesprite.pokemon.spheal.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ]
+        }
+      },
+      {
+        "regular": {
           "name": "Spheal-GO-Holiday2021",
           "slug": "spheal-holiday2021",
           "cssClass": ".pokesprite.pokemon.spheal-holiday2021",
@@ -39926,6 +40159,31 @@
           "cssClass": ".pokesprite.pokemon.spheal-holiday2021.shiny",
           "modifiers": [
             "shiny"
+          ],
+          "categories": [
+            "go"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Spheal-GO-Holiday2021-3DS",
+          "slug": "spheal-holiday2021",
+          "cssClass": ".pokesprite.pokemon.spheal-holiday2021.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "go"
+          ]
+        },
+        "shiny": {
+          "name": "Spheal-GO-Holiday2021-3DS-★",
+          "slug": "spheal-holiday2021",
+          "cssClass": ".pokesprite.pokemon.spheal-holiday2021.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
           ],
           "categories": [
             "go"
@@ -44658,6 +44916,21 @@
           "name": "Munchlax-★",
           "slug": "munchlax",
           "cssClass": ".pokesprite.pokemon.munchlax.shiny",
+          "modifiers": [
+            "shiny"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Munchlax-G6",
+          "slug": "munchlax-g6",
+          "cssClass": ".pokesprite.pokemon.munchlax-g6"
+        },
+        "shiny": {
+          "name": "Munchlax-G6-★",
+          "slug": "munchlax-g6",
+          "cssClass": ".pokesprite.pokemon.munchlax-g6.shiny",
           "modifiers": [
             "shiny"
           ]
@@ -53727,12 +54000,12 @@
       },
       {
         "regular": {
-          "name": "Basculin-Bluestriped",
+          "name": "Basculin-BlueStriped",
           "slug": "basculin-blue-striped",
           "cssClass": ".pokesprite.pokemon.basculin-blue-striped"
         },
         "shiny": {
-          "name": "Basculin-Bluestriped-★",
+          "name": "Basculin-BlueStriped-★",
           "slug": "basculin-blue-striped",
           "cssClass": ".pokesprite.pokemon.basculin-blue-striped.shiny",
           "modifiers": [
@@ -53742,7 +54015,7 @@
       },
       {
         "regular": {
-          "name": "Basculin-Bluestriped-3DS",
+          "name": "Basculin-BlueStriped-3DS",
           "slug": "basculin-blue-striped",
           "cssClass": ".pokesprite.pokemon.basculin-blue-striped.n3ds",
           "modifiers": [
@@ -53750,7 +54023,7 @@
           ]
         },
         "shiny": {
-          "name": "Basculin-Bluestriped-3DS-★",
+          "name": "Basculin-BlueStriped-3DS-★",
           "slug": "basculin-blue-striped",
           "cssClass": ".pokesprite.pokemon.basculin-blue-striped.shiny.n3ds",
           "modifiers": [
@@ -53761,12 +54034,12 @@
       },
       {
         "regular": {
-          "name": "Basculin-Redstriped",
+          "name": "Basculin-RedStriped",
           "slug": "basculin-red-striped",
           "cssClass": ".pokesprite.pokemon.basculin-red-striped"
         },
         "shiny": {
-          "name": "Basculin-Redstriped-★",
+          "name": "Basculin-RedStriped-★",
           "slug": "basculin-red-striped",
           "cssClass": ".pokesprite.pokemon.basculin-red-striped.shiny",
           "modifiers": [
@@ -53776,7 +54049,7 @@
       },
       {
         "regular": {
-          "name": "Basculin-Redstriped-3DS",
+          "name": "Basculin-RedStriped-3DS",
           "slug": "basculin-red-striped",
           "cssClass": ".pokesprite.pokemon.basculin-red-striped.n3ds",
           "modifiers": [
@@ -53784,7 +54057,7 @@
           ]
         },
         "shiny": {
-          "name": "Basculin-Redstriped-3DS-★",
+          "name": "Basculin-RedStriped-3DS-★",
           "slug": "basculin-red-striped",
           "cssClass": ".pokesprite.pokemon.basculin-red-striped.shiny.n3ds",
           "modifiers": [
@@ -53795,12 +54068,12 @@
       },
       {
         "regular": {
-          "name": "Basculin-Whitestriped",
+          "name": "Basculin-WhiteStriped",
           "slug": "basculin-white-striped",
           "cssClass": ".pokesprite.pokemon.basculin-white-striped"
         },
         "shiny": {
-          "name": "Basculin-Whitestriped-★",
+          "name": "Basculin-WhiteStriped-★",
           "slug": "basculin-white-striped",
           "cssClass": ".pokesprite.pokemon.basculin-white-striped.shiny",
           "modifiers": [
@@ -53810,7 +54083,7 @@
       },
       {
         "regular": {
-          "name": "Basculin-Whitestriped-3DS",
+          "name": "Basculin-WhiteStriped-3DS",
           "slug": "basculin-white-striped",
           "cssClass": ".pokesprite.pokemon.basculin-white-striped.n3ds",
           "modifiers": [
@@ -53818,7 +54091,7 @@
           ]
         },
         "shiny": {
-          "name": "Basculin-Whitestriped-3DS-★",
+          "name": "Basculin-WhiteStriped-3DS-★",
           "slug": "basculin-white-striped",
           "cssClass": ".pokesprite.pokemon.basculin-white-striped.shiny.n3ds",
           "modifiers": [
@@ -57221,6 +57494,25 @@
           "cssClass": ".pokesprite.pokemon.golett.shiny",
           "modifiers": [
             "shiny"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Golett-3DS",
+          "slug": "golett",
+          "cssClass": ".pokesprite.pokemon.golett.n3ds",
+          "modifiers": [
+            "n3ds"
+          ]
+        },
+        "shiny": {
+          "name": "Golett-3DS-★",
+          "slug": "golett",
+          "cssClass": ".pokesprite.pokemon.golett.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
           ]
         }
       }
@@ -64554,6 +64846,27 @@
             "n3ds"
           ]
         }
+      },
+      {
+        "regular": {
+          "name": "Noibat-GO-Halloween",
+          "slug": "noibat-halloween",
+          "cssClass": ".pokesprite.pokemon.noibat-halloween",
+          "categories": [
+            "go"
+          ]
+        },
+        "shiny": {
+          "name": "Noibat-GO-Halloween-★",
+          "slug": "noibat-halloween",
+          "cssClass": ".pokesprite.pokemon.noibat-halloween.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "go"
+          ]
+        }
       }
     ]
   },
@@ -64592,6 +64905,52 @@
           "modifiers": [
             "shiny",
             "n3ds"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Noivern-GO-Halloween",
+          "slug": "noivern-halloween",
+          "cssClass": ".pokesprite.pokemon.noivern-halloween",
+          "categories": [
+            "go"
+          ]
+        },
+        "shiny": {
+          "name": "Noivern-GO-Halloween-★",
+          "slug": "noivern-halloween",
+          "cssClass": ".pokesprite.pokemon.noivern-halloween.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "go"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Noivern-GO-Halloween-3DS",
+          "slug": "noivern-halloween",
+          "cssClass": ".pokesprite.pokemon.noivern-halloween.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "go"
+          ]
+        },
+        "shiny": {
+          "name": "Noivern-GO-Halloween-3DS-★",
+          "slug": "noivern-halloween",
+          "cssClass": ".pokesprite.pokemon.noivern-halloween.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "go"
           ]
         }
       }
@@ -72799,12 +73158,12 @@
       },
       {
         "regular": {
-          "name": "Toxtricity-Lowkey",
+          "name": "Toxtricity-LowKey",
           "slug": "toxtricity-low-key",
           "cssClass": ".pokesprite.pokemon.toxtricity-low-key"
         },
         "shiny": {
-          "name": "Toxtricity-Lowkey-★",
+          "name": "Toxtricity-LowKey-★",
           "slug": "toxtricity-low-key",
           "cssClass": ".pokesprite.pokemon.toxtricity-low-key.shiny",
           "modifiers": [
@@ -72814,7 +73173,7 @@
       },
       {
         "regular": {
-          "name": "Toxtricity-Lowkey-3DS",
+          "name": "Toxtricity-LowKey-3DS",
           "slug": "toxtricity-low-key",
           "cssClass": ".pokesprite.pokemon.toxtricity-low-key.n3ds",
           "modifiers": [
@@ -72822,7 +73181,7 @@
           ]
         },
         "shiny": {
-          "name": "Toxtricity-Lowkey-3DS-★",
+          "name": "Toxtricity-LowKey-3DS-★",
           "slug": "toxtricity-low-key",
           "cssClass": ".pokesprite.pokemon.toxtricity-low-key.shiny.n3ds",
           "modifiers": [
@@ -78248,6 +78607,52 @@
             "n3ds"
           ]
         }
+      },
+      {
+        "regular": {
+          "name": "Ursaluna-GO-Halloween",
+          "slug": "ursaluna-halloween",
+          "cssClass": ".pokesprite.pokemon.ursaluna-halloween",
+          "categories": [
+            "go"
+          ]
+        },
+        "shiny": {
+          "name": "Ursaluna-GO-Halloween-★",
+          "slug": "ursaluna-halloween",
+          "cssClass": ".pokesprite.pokemon.ursaluna-halloween.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "go"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Ursaluna-GO-Halloween-3DS",
+          "slug": "ursaluna-halloween",
+          "cssClass": ".pokesprite.pokemon.ursaluna-halloween.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "go"
+          ]
+        },
+        "shiny": {
+          "name": "Ursaluna-GO-Halloween-3DS-★",
+          "slug": "ursaluna-halloween",
+          "cssClass": ".pokesprite.pokemon.ursaluna-halloween.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "go"
+          ]
+        }
       }
     ]
   },
@@ -79268,12 +79673,12 @@
       },
       {
         "regular": {
-          "name": "Maushold-FamilyofFour",
+          "name": "Maushold-FamilyOfFour",
           "slug": "maushold-family-of-four",
           "cssClass": ".pokesprite.pokemon.maushold-family-of-four"
         },
         "shiny": {
-          "name": "Maushold-FamilyofFour-★",
+          "name": "Maushold-FamilyOfFour-★",
           "slug": "maushold-family-of-four",
           "cssClass": ".pokesprite.pokemon.maushold-family-of-four.shiny",
           "modifiers": [
@@ -79283,7 +79688,7 @@
       },
       {
         "regular": {
-          "name": "Maushold-FamilyofFour-3DS",
+          "name": "Maushold-FamilyOfFour-3DS",
           "slug": "maushold-family-of-four",
           "cssClass": ".pokesprite.pokemon.maushold-family-of-four.n3ds",
           "modifiers": [
@@ -79291,7 +79696,7 @@
           ]
         },
         "shiny": {
-          "name": "Maushold-FamilyofFour-3DS-★",
+          "name": "Maushold-FamilyOfFour-3DS-★",
           "slug": "maushold-family-of-four",
           "cssClass": ".pokesprite.pokemon.maushold-family-of-four.shiny.n3ds",
           "modifiers": [
@@ -79302,12 +79707,12 @@
       },
       {
         "regular": {
-          "name": "Maushold-FamilyofThree",
+          "name": "Maushold-FamilyOfThree",
           "slug": "maushold-family-of-three",
           "cssClass": ".pokesprite.pokemon.maushold-family-of-three"
         },
         "shiny": {
-          "name": "Maushold-FamilyofThree-★",
+          "name": "Maushold-FamilyOfThree-★",
           "slug": "maushold-family-of-three",
           "cssClass": ".pokesprite.pokemon.maushold-family-of-three.shiny",
           "modifiers": [
@@ -79317,7 +79722,7 @@
       },
       {
         "regular": {
-          "name": "Maushold-FamilyofThree-3DS",
+          "name": "Maushold-FamilyOfThree-3DS",
           "slug": "maushold-family-of-three",
           "cssClass": ".pokesprite.pokemon.maushold-family-of-three.n3ds",
           "modifiers": [
@@ -79325,7 +79730,7 @@
           ]
         },
         "shiny": {
-          "name": "Maushold-FamilyofThree-3DS-★",
+          "name": "Maushold-FamilyOfThree-3DS-★",
           "slug": "maushold-family-of-three",
           "cssClass": ".pokesprite.pokemon.maushold-family-of-three.shiny.n3ds",
           "modifiers": [
@@ -80078,12 +80483,12 @@
       },
       {
         "regular": {
-          "name": "Dudunsparce-Threesegment",
+          "name": "Dudunsparce-ThreeSegment",
           "slug": "dudunsparce-three-segment",
           "cssClass": ".pokesprite.pokemon.dudunsparce-three-segment"
         },
         "shiny": {
-          "name": "Dudunsparce-Threesegment-★",
+          "name": "Dudunsparce-ThreeSegment-★",
           "slug": "dudunsparce-three-segment",
           "cssClass": ".pokesprite.pokemon.dudunsparce-three-segment.shiny",
           "modifiers": [
@@ -80093,7 +80498,7 @@
       },
       {
         "regular": {
-          "name": "Dudunsparce-Threesegment-3DS",
+          "name": "Dudunsparce-ThreeSegment-3DS",
           "slug": "dudunsparce-three-segment",
           "cssClass": ".pokesprite.pokemon.dudunsparce-three-segment.n3ds",
           "modifiers": [
@@ -80101,7 +80506,7 @@
           ]
         },
         "shiny": {
-          "name": "Dudunsparce-Threesegment-3DS-★",
+          "name": "Dudunsparce-ThreeSegment-3DS-★",
           "slug": "dudunsparce-three-segment",
           "cssClass": ".pokesprite.pokemon.dudunsparce-three-segment.shiny.n3ds",
           "modifiers": [
@@ -80112,14 +80517,14 @@
       },
       {
         "regular": {
-          "name": "Dudunsparce-Twosegment",
-          "slug": "dudunsparce-twosegment",
-          "cssClass": ".pokesprite.pokemon.dudunsparce-twosegment"
+          "name": "Dudunsparce-TwoSegment",
+          "slug": "dudunsparce-two-segment",
+          "cssClass": ".pokesprite.pokemon.dudunsparce-two-segment"
         },
         "shiny": {
-          "name": "Dudunsparce-Twosegment-★",
-          "slug": "dudunsparce-twosegment",
-          "cssClass": ".pokesprite.pokemon.dudunsparce-twosegment.shiny",
+          "name": "Dudunsparce-TwoSegment-★",
+          "slug": "dudunsparce-two-segment",
+          "cssClass": ".pokesprite.pokemon.dudunsparce-two-segment.shiny",
           "modifiers": [
             "shiny"
           ]
@@ -80127,17 +80532,17 @@
       },
       {
         "regular": {
-          "name": "Dudunsparce-Twosegment-3DS",
-          "slug": "dudunsparce-twosegment",
-          "cssClass": ".pokesprite.pokemon.dudunsparce-twosegment.n3ds",
+          "name": "Dudunsparce-TwoSegment-3DS",
+          "slug": "dudunsparce-two-segment",
+          "cssClass": ".pokesprite.pokemon.dudunsparce-two-segment.n3ds",
           "modifiers": [
             "n3ds"
           ]
         },
         "shiny": {
-          "name": "Dudunsparce-Twosegment-3DS-★",
-          "slug": "dudunsparce-twosegment",
-          "cssClass": ".pokesprite.pokemon.dudunsparce-twosegment.shiny.n3ds",
+          "name": "Dudunsparce-TwoSegment-3DS-★",
+          "slug": "dudunsparce-two-segment",
+          "cssClass": ".pokesprite.pokemon.dudunsparce-two-segment.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
