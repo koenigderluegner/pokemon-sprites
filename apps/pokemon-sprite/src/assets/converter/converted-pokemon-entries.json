@@ -7672,6 +7672,190 @@
       },
       {
         "regular": {
+          "name": "Pikachu-GO-GOTOUR2026Calem",
+          "slug": "pikachu-gotour2026-calem",
+          "cssClass": ".pokesprite.pokemon.pikachu-gotour2026-calem",
+          "categories": [
+            "go"
+          ]
+        },
+        "shiny": {
+          "name": "Pikachu-GO-GOTOUR2026Calem-★",
+          "slug": "pikachu-gotour2026-calem",
+          "cssClass": ".pokesprite.pokemon.pikachu-gotour2026-calem.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "go"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Pikachu-GO-GOTOUR2026Calem-3DS",
+          "slug": "pikachu-gotour2026-calem",
+          "cssClass": ".pokesprite.pokemon.pikachu-gotour2026-calem.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "go"
+          ]
+        },
+        "shiny": {
+          "name": "Pikachu-GO-GOTOUR2026Calem-3DS-★",
+          "slug": "pikachu-gotour2026-calem",
+          "cssClass": ".pokesprite.pokemon.pikachu-gotour2026-calem.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "go"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Pikachu-GO-GOTOUR2026Calem-F",
+          "slug": "pikachu-gotour2026-calem-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-gotour2026-calem-f",
+          "categories": [
+            "go"
+          ]
+        },
+        "shiny": {
+          "name": "Pikachu-GO-GOTOUR2026Calem-F-★",
+          "slug": "pikachu-gotour2026-calem-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-gotour2026-calem-f.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "go"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Pikachu-GO-GOTOUR2026Calem-F-3DS",
+          "slug": "pikachu-gotour2026-calem-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-gotour2026-calem-f.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "go"
+          ]
+        },
+        "shiny": {
+          "name": "Pikachu-GO-GOTOUR2026Calem-F-3DS-★",
+          "slug": "pikachu-gotour2026-calem-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-gotour2026-calem-f.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "go"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Pikachu-GO-GOTour2026Serena",
+          "slug": "pikachu-gotour2026-serena",
+          "cssClass": ".pokesprite.pokemon.pikachu-gotour2026-serena",
+          "categories": [
+            "go"
+          ]
+        },
+        "shiny": {
+          "name": "Pikachu-GO-GOTour2026Serena-★",
+          "slug": "pikachu-gotour2026-serena",
+          "cssClass": ".pokesprite.pokemon.pikachu-gotour2026-serena.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "go"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Pikachu-GO-GOTour2026Serena-3DS",
+          "slug": "pikachu-gotour2026-serena",
+          "cssClass": ".pokesprite.pokemon.pikachu-gotour2026-serena.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "go"
+          ]
+        },
+        "shiny": {
+          "name": "Pikachu-GO-GOTour2026Serena-3DS-★",
+          "slug": "pikachu-gotour2026-serena",
+          "cssClass": ".pokesprite.pokemon.pikachu-gotour2026-serena.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "go"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Pikachu-GO-GOTour2026Serena-F",
+          "slug": "pikachu-gotour2026-serena-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-gotour2026-serena-f",
+          "categories": [
+            "go"
+          ]
+        },
+        "shiny": {
+          "name": "Pikachu-GO-GOTour2026Serena-F-★",
+          "slug": "pikachu-gotour2026-serena-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-gotour2026-serena-f.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "go"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Pikachu-GO-GOTour2026Serena-F-3DS",
+          "slug": "pikachu-gotour2026-serena-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-gotour2026-serena-f.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "go"
+          ]
+        },
+        "shiny": {
+          "name": "Pikachu-GO-GOTour2026Serena-F-3DS-★",
+          "slug": "pikachu-gotour2026-serena-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-gotour2026-serena-f.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "go"
+          ]
+        }
+      },
+      {
+        "regular": {
           "name": "Pikachu-GO-Halloween2017",
           "slug": "pikachu-halloween2017",
           "cssClass": ".pokesprite.pokemon.pikachu-halloween2017",
@@ -27978,6 +28162,98 @@
             "n3ds"
           ]
         }
+      },
+      {
+        "regular": {
+          "name": "Sudowoodo-GO-Winter2025",
+          "slug": "sudowoodo-winter2025",
+          "cssClass": ".pokesprite.pokemon.sudowoodo-winter2025",
+          "categories": [
+            "go"
+          ]
+        },
+        "shiny": {
+          "name": "Sudowoodo-GO-Winter2025-★",
+          "slug": "sudowoodo-winter2025",
+          "cssClass": ".pokesprite.pokemon.sudowoodo-winter2025.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "go"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Sudowoodo-GO-Winter2025-3DS",
+          "slug": "sudowoodo-winter2025",
+          "cssClass": ".pokesprite.pokemon.sudowoodo-winter2025.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "go"
+          ]
+        },
+        "shiny": {
+          "name": "Sudowoodo-GO-Winter2025-3DS-★",
+          "slug": "sudowoodo-winter2025",
+          "cssClass": ".pokesprite.pokemon.sudowoodo-winter2025.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "go"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Sudowoodo-GO-Winter2025-F",
+          "slug": "sudowoodo-winter2025-f",
+          "cssClass": ".pokesprite.pokemon.sudowoodo-winter2025-f",
+          "categories": [
+            "go"
+          ]
+        },
+        "shiny": {
+          "name": "Sudowoodo-GO-Winter2025-F-★",
+          "slug": "sudowoodo-winter2025-f",
+          "cssClass": ".pokesprite.pokemon.sudowoodo-winter2025-f.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "go"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Sudowoodo-GO-Winter2025-F-3DS",
+          "slug": "sudowoodo-winter2025-f",
+          "cssClass": ".pokesprite.pokemon.sudowoodo-winter2025-f.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "go"
+          ]
+        },
+        "shiny": {
+          "name": "Sudowoodo-GO-Winter2025-F-3DS-★",
+          "slug": "sudowoodo-winter2025-f",
+          "cssClass": ".pokesprite.pokemon.sudowoodo-winter2025-f.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "go"
+          ]
+        }
       }
     ]
   },
@@ -39862,6 +40138,40 @@
           "name": "Chimecho-3DS-★",
           "slug": "chimecho",
           "cssClass": ".pokesprite.pokemon.chimecho.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Chimecho-Mega",
+          "slug": "chimecho-mega",
+          "cssClass": ".pokesprite.pokemon.chimecho-mega"
+        },
+        "shiny": {
+          "name": "Chimecho-Mega-★",
+          "slug": "chimecho-mega",
+          "cssClass": ".pokesprite.pokemon.chimecho-mega.shiny",
+          "modifiers": [
+            "shiny"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Chimecho-Mega-3DS",
+          "slug": "chimecho-mega",
+          "cssClass": ".pokesprite.pokemon.chimecho-mega.n3ds",
+          "modifiers": [
+            "n3ds"
+          ]
+        },
+        "shiny": {
+          "name": "Chimecho-Mega-3DS-★",
+          "slug": "chimecho-mega",
+          "cssClass": ".pokesprite.pokemon.chimecho-mega.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -66479,6 +66789,52 @@
             "n3ds"
           ]
         }
+      },
+      {
+        "regular": {
+          "name": "Charjabug-GO-Winter2025",
+          "slug": "charjabug-winter2025",
+          "cssClass": ".pokesprite.pokemon.charjabug-winter2025",
+          "categories": [
+            "go"
+          ]
+        },
+        "shiny": {
+          "name": "Charjabug-GO-Winter2025-★",
+          "slug": "charjabug-winter2025",
+          "cssClass": ".pokesprite.pokemon.charjabug-winter2025.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "go"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Charjabug-GO-Winter2025-3DS",
+          "slug": "charjabug-winter2025",
+          "cssClass": ".pokesprite.pokemon.charjabug-winter2025.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "go"
+          ]
+        },
+        "shiny": {
+          "name": "Charjabug-GO-Winter2025-3DS-★",
+          "slug": "charjabug-winter2025",
+          "cssClass": ".pokesprite.pokemon.charjabug-winter2025.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "go"
+          ]
+        }
       }
     ]
   },
@@ -66517,6 +66873,52 @@
           "modifiers": [
             "shiny",
             "n3ds"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Vikavolt-GO-Winter2025",
+          "slug": "vikavolt-winter2025",
+          "cssClass": ".pokesprite.pokemon.vikavolt-winter2025",
+          "categories": [
+            "go"
+          ]
+        },
+        "shiny": {
+          "name": "Vikavolt-GO-Winter2025-★",
+          "slug": "vikavolt-winter2025",
+          "cssClass": ".pokesprite.pokemon.vikavolt-winter2025.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "go"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Vikavolt-GO-Winter2025-3DS",
+          "slug": "vikavolt-winter2025",
+          "cssClass": ".pokesprite.pokemon.vikavolt-winter2025.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "go"
+          ]
+        },
+        "shiny": {
+          "name": "Vikavolt-GO-Winter2025-3DS-★",
+          "slug": "vikavolt-winter2025",
+          "cssClass": ".pokesprite.pokemon.vikavolt-winter2025.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "go"
           ]
         }
       }
@@ -70605,18 +71007,15 @@
             "n3ds"
           ]
         },
-        "shiny": null
-      },
-      {
-        "regular": {
-          "name": "Magearna-3DS-",
-          "slug": "magearna-",
-          "cssClass": ".pokesprite.pokemon.magearna-.n3ds",
+        "shiny": {
+          "name": "Magearna-3DS-★",
+          "slug": "magearna",
+          "cssClass": ".pokesprite.pokemon.magearna.shiny.n3ds",
           "modifiers": [
+            "shiny",
             "n3ds"
           ]
-        },
-        "shiny": null
+        }
       },
       {
         "regular": {
@@ -71119,6 +71518,40 @@
           "name": "Zeraora-3DS-★",
           "slug": "zeraora",
           "cssClass": ".pokesprite.pokemon.zeraora.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Zeraora-Mega",
+          "slug": "zeraora-mega",
+          "cssClass": ".pokesprite.pokemon.zeraora-mega"
+        },
+        "shiny": {
+          "name": "Zeraora-Mega-★",
+          "slug": "zeraora-mega",
+          "cssClass": ".pokesprite.pokemon.zeraora-mega.shiny",
+          "modifiers": [
+            "shiny"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Zeraora-Mega-3DS",
+          "slug": "zeraora-mega",
+          "cssClass": ".pokesprite.pokemon.zeraora-mega.n3ds",
+          "modifiers": [
+            "n3ds"
+          ]
+        },
+        "shiny": {
+          "name": "Zeraora-Mega-3DS-★",
+          "slug": "zeraora-mega",
+          "cssClass": ".pokesprite.pokemon.zeraora-mega.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -82747,6 +83180,40 @@
           "name": "Baxcalibur-3DS-★",
           "slug": "baxcalibur",
           "cssClass": ".pokesprite.pokemon.baxcalibur.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Baxcalibur-Mega",
+          "slug": "baxcalibur-mega",
+          "cssClass": ".pokesprite.pokemon.baxcalibur-mega"
+        },
+        "shiny": {
+          "name": "Baxcalibur-Mega-★",
+          "slug": "baxcalibur-mega",
+          "cssClass": ".pokesprite.pokemon.baxcalibur-mega.shiny",
+          "modifiers": [
+            "shiny"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Baxcalibur-Mega-3DS",
+          "slug": "baxcalibur-mega",
+          "cssClass": ".pokesprite.pokemon.baxcalibur-mega.n3ds",
+          "modifiers": [
+            "n3ds"
+          ]
+        },
+        "shiny": {
+          "name": "Baxcalibur-Mega-3DS-★",
+          "slug": "baxcalibur-mega",
+          "cssClass": ".pokesprite.pokemon.baxcalibur-mega.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
