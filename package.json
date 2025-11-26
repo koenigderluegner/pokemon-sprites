@@ -2,7 +2,9 @@
   "name": "@pokemon-sprite/source",
   "version": "0.0.0",
   "license": "MIT",
-  "scripts": {},
+  "scripts": {
+    "update-all": "nx run pokemon-sprite:convert-assets:convert && nx run pokemon-sprite:generate-spritesheet:generate && nx run pokemon-sprite:generate-docs:generate"
+  },
   "private": true,
   "dependencies": {
     "@types/spritesmith": "^3.4.5",
