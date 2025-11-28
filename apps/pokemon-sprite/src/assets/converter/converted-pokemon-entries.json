@@ -85402,5 +85402,625 @@
         }
       }
     ]
+  },
+  {
+    "id": 9999,
+    "species": "Egg",
+    "icons": [
+      {
+        "regular": {
+          "name": "Egg-10km",
+          "slug": "egg-10km",
+          "cssClass": ".pokesprite.pokemon.egg-10km"
+        },
+        "shiny": null
+      },
+      {
+        "regular": {
+          "name": "Egg-12km",
+          "slug": "egg-12km",
+          "cssClass": ".pokesprite.pokemon.egg-12km"
+        },
+        "shiny": null
+      },
+      {
+        "regular": {
+          "name": "Egg-2km",
+          "slug": "egg-2km",
+          "cssClass": ".pokesprite.pokemon.egg-2km"
+        },
+        "shiny": null
+      },
+      {
+        "regular": {
+          "name": "Egg-5km",
+          "slug": "egg-5km",
+          "cssClass": ".pokesprite.pokemon.egg-5km"
+        },
+        "shiny": null
+      },
+      {
+        "regular": {
+          "name": "Egg-7km",
+          "slug": "egg-7km",
+          "cssClass": ".pokesprite.pokemon.egg-7km"
+        },
+        "shiny": null
+      },
+      {
+        "regular": {
+          "name": "Egg-Manaphy",
+          "slug": "egg-manaphy",
+          "cssClass": ".pokesprite.pokemon.egg-manaphy"
+        },
+        "shiny": null
+      },
+      {
+        "regular": {
+          "name": "Egg-Placeholder-Big",
+          "slug": "egg-placeholder-big",
+          "cssClass": ".pokesprite.pokemon.egg-placeholder-big"
+        },
+        "shiny": null
+      },
+      {
+        "regular": {
+          "name": "Egg-Placeholder-Small",
+          "slug": "egg-placeholder-small",
+          "cssClass": ".pokesprite.pokemon.egg-placeholder-small"
+        },
+        "shiny": null
+      },
+      {
+        "regular": {
+          "name": "Egg-Bonus-Anime-Aerodactyl",
+          "slug": "egg-anime-aerodactyl",
+          "cssClass": ".pokesprite.pokemon.egg-anime-aerodactyl",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": null
+      },
+      {
+        "regular": {
+          "name": "Egg-Bonus-Anime-Azurill",
+          "slug": "egg-anime-azurill",
+          "cssClass": ".pokesprite.pokemon.egg-anime-azurill",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": null
+      },
+      {
+        "regular": {
+          "name": "Egg-Bonus-Anime-Chinchou",
+          "slug": "egg-anime-chinchou",
+          "cssClass": ".pokesprite.pokemon.egg-anime-chinchou",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": null
+      },
+      {
+        "regular": {
+          "name": "Egg-Bonus-Anime-Cyndaquil",
+          "slug": "egg-anime-cyndaquil",
+          "cssClass": ".pokesprite.pokemon.egg-anime-cyndaquil",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": null
+      },
+      {
+        "regular": {
+          "name": "Egg-Bonus-Anime-Drowzee",
+          "slug": "egg-anime-drowzee",
+          "cssClass": ".pokesprite.pokemon.egg-anime-drowzee",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": null
+      },
+      {
+        "regular": {
+          "name": "Egg-Bonus-Anime-Eevee",
+          "slug": "egg-anime-eevee",
+          "cssClass": ".pokesprite.pokemon.egg-anime-eevee",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": null
+      },
+      {
+        "regular": {
+          "name": "Egg-Bonus-Anime-Froakie",
+          "slug": "egg-anime-froakie",
+          "cssClass": ".pokesprite.pokemon.egg-anime-froakie",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": null
+      },
+      {
+        "regular": {
+          "name": "Egg-Bonus-Anime-Happiny",
+          "slug": "egg-anime-happiny",
+          "cssClass": ".pokesprite.pokemon.egg-anime-happiny",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": null
+      },
+      {
+        "regular": {
+          "name": "Egg-Bonus-Anime-Larvitar",
+          "slug": "egg-anime-larvitar",
+          "cssClass": ".pokesprite.pokemon.egg-anime-larvitar",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": null
+      },
+      {
+        "regular": {
+          "name": "Egg-Bonus-Anime-Noibat",
+          "slug": "egg-anime-noibat",
+          "cssClass": ".pokesprite.pokemon.egg-anime-noibat",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": null
+      },
+      {
+        "regular": {
+          "name": "Egg-Bonus-Anime-Pidove",
+          "slug": "egg-anime-pidove",
+          "cssClass": ".pokesprite.pokemon.egg-anime-pidove",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": null
+      },
+      {
+        "regular": {
+          "name": "Egg-Bonus-Anime-Pikipek",
+          "slug": "egg-anime-pikipek",
+          "cssClass": ".pokesprite.pokemon.egg-anime-pikipek",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": null
+      },
+      {
+        "regular": {
+          "name": "Egg-Bonus-Anime-Psyduck",
+          "slug": "egg-anime-psyduck",
+          "cssClass": ".pokesprite.pokemon.egg-anime-psyduck",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": null
+      },
+      {
+        "regular": {
+          "name": "Egg-Bonus-Anime-Sandshrew",
+          "slug": "egg-anime-sandshrew",
+          "cssClass": ".pokesprite.pokemon.egg-anime-sandshrew",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": null
+      },
+      {
+        "regular": {
+          "name": "Egg-Bonus-Anime-Scraggy",
+          "slug": "egg-anime-scraggy",
+          "cssClass": ".pokesprite.pokemon.egg-anime-scraggy",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": null
+      },
+      {
+        "regular": {
+          "name": "Egg-Bonus-Anime-Sentret",
+          "slug": "egg-anime-sentret",
+          "cssClass": ".pokesprite.pokemon.egg-anime-sentret",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": null
+      },
+      {
+        "regular": {
+          "name": "Egg-Bonus-Anime-Spinarak",
+          "slug": "egg-anime-spinarak",
+          "cssClass": ".pokesprite.pokemon.egg-anime-spinarak",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": null
+      },
+      {
+        "regular": {
+          "name": "Egg-Bonus-Anime-Vulpix",
+          "slug": "egg-anime-vulpix",
+          "cssClass": ".pokesprite.pokemon.egg-anime-vulpix",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": null
+      },
+      {
+        "regular": {
+          "name": "Egg-Bonus-Anime-Vulpix-Alola",
+          "slug": "egg-anime-vulpix-alola",
+          "cssClass": ".pokesprite.pokemon.egg-anime-vulpix-alola",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": null
+      },
+      {
+        "regular": {
+          "name": "Egg-Bonus-Anime-Wingull",
+          "slug": "egg-anime-wingull",
+          "cssClass": ".pokesprite.pokemon.egg-anime-wingull",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": null
+      },
+      {
+        "regular": {
+          "name": "Egg-Bonus-Channel-Aipom",
+          "slug": "egg-channel-aipom",
+          "cssClass": ".pokesprite.pokemon.egg-channel-aipom",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": null
+      },
+      {
+        "regular": {
+          "name": "Egg-Bonus-Channel-Bellsprout",
+          "slug": "egg-channel-bellsprout",
+          "cssClass": ".pokesprite.pokemon.egg-channel-bellsprout",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": null
+      },
+      {
+        "regular": {
+          "name": "Egg-Bonus-Channel-Blank",
+          "slug": "egg-channel-blank",
+          "cssClass": ".pokesprite.pokemon.egg-channel-blank",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": null
+      },
+      {
+        "regular": {
+          "name": "Egg-Bonus-Channel-Hoppip",
+          "slug": "egg-channel-hoppip",
+          "cssClass": ".pokesprite.pokemon.egg-channel-hoppip",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": null
+      },
+      {
+        "regular": {
+          "name": "Egg-Bonus-Channel-Krabby",
+          "slug": "egg-channel-krabby",
+          "cssClass": ".pokesprite.pokemon.egg-channel-krabby",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": null
+      },
+      {
+        "regular": {
+          "name": "Egg-Bonus-Channel-Ledyba",
+          "slug": "egg-channel-ledyba",
+          "cssClass": ".pokesprite.pokemon.egg-channel-ledyba",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": null
+      },
+      {
+        "regular": {
+          "name": "Egg-Bonus-Channel-Mudkip",
+          "slug": "egg-channel-mudkip",
+          "cssClass": ".pokesprite.pokemon.egg-channel-mudkip",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": null
+      },
+      {
+        "regular": {
+          "name": "Egg-Bonus-Channel-Oddish",
+          "slug": "egg-channel-oddish",
+          "cssClass": ".pokesprite.pokemon.egg-channel-oddish",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": null
+      },
+      {
+        "regular": {
+          "name": "Egg-Bonus-Channel-Phanpy",
+          "slug": "egg-channel-phanpy",
+          "cssClass": ".pokesprite.pokemon.egg-channel-phanpy",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": null
+      },
+      {
+        "regular": {
+          "name": "Egg-Bonus-Channel-Pichu",
+          "slug": "egg-channel-pichu",
+          "cssClass": ".pokesprite.pokemon.egg-channel-pichu",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": null
+      },
+      {
+        "regular": {
+          "name": "Egg-Bonus-Channel-Slowpoke",
+          "slug": "egg-channel-slowpoke",
+          "cssClass": ".pokesprite.pokemon.egg-channel-slowpoke",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": null
+      },
+      {
+        "regular": {
+          "name": "Egg-Bonus-Channel-Smoochum",
+          "slug": "egg-channel-smoochum",
+          "cssClass": ".pokesprite.pokemon.egg-channel-smoochum",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": null
+      },
+      {
+        "regular": {
+          "name": "Egg-Bonus-Channel-Swinub",
+          "slug": "egg-channel-swinub",
+          "cssClass": ".pokesprite.pokemon.egg-channel-swinub",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": null
+      },
+      {
+        "regular": {
+          "name": "Egg-Bonus-Channel-Teddiursa",
+          "slug": "egg-channel-teddiursa",
+          "cssClass": ".pokesprite.pokemon.egg-channel-teddiursa",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": null
+      },
+      {
+        "regular": {
+          "name": "Egg-Bonus-Channel-Torchic",
+          "slug": "egg-channel-torchic",
+          "cssClass": ".pokesprite.pokemon.egg-channel-torchic",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": null
+      },
+      {
+        "regular": {
+          "name": "Egg-Bonus-Channel-Treecko",
+          "slug": "egg-channel-treecko",
+          "cssClass": ".pokesprite.pokemon.egg-channel-treecko",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": null
+      },
+      {
+        "regular": {
+          "name": "Egg-Bonus-Channel-Wooper",
+          "slug": "egg-channel-wooper",
+          "cssClass": ".pokesprite.pokemon.egg-channel-wooper",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": null
+      },
+      {
+        "regular": {
+          "name": "Egg-Bonus-HeyYouPikachu-Togepi",
+          "slug": "egg-hey-you-pikachu-togepi",
+          "cssClass": ".pokesprite.pokemon.egg-hey-you-pikachu-togepi",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": null
+      },
+      {
+        "regular": {
+          "name": "Egg-Bonus-HGSSEvent",
+          "slug": "egg-hgssevent",
+          "cssClass": ".pokesprite.pokemon.egg-hgssevent",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": null
+      },
+      {
+        "regular": {
+          "name": "Egg-Bonus-Manga-Larvitar",
+          "slug": "egg-manga-larvitar",
+          "cssClass": ".pokesprite.pokemon.egg-manga-larvitar",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": null
+      },
+      {
+        "regular": {
+          "name": "Egg-Bonus-Manga-Phione",
+          "slug": "egg-manga-phione",
+          "cssClass": ".pokesprite.pokemon.egg-manga-phione",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": null
+      },
+      {
+        "regular": {
+          "name": "Egg-Bonus-Merch-Cubone",
+          "slug": "egg-merch-cubone",
+          "cssClass": ".pokesprite.pokemon.egg-merch-cubone",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": null
+      },
+      {
+        "regular": {
+          "name": "Egg-Bonus-PinballRS",
+          "slug": "egg-pinball-rs",
+          "cssClass": ".pokesprite.pokemon.egg-pinball-rs",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": null
+      },
+      {
+        "regular": {
+          "name": "Egg-Bonus-PuzzleLeague-Cleffa",
+          "slug": "egg-puzzle-league-cleffa",
+          "cssClass": ".pokesprite.pokemon.egg-puzzle-league-cleffa",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": null
+      },
+      {
+        "regular": {
+          "name": "Egg-Bonus-PuzzleLeague-Elekid",
+          "slug": "egg-puzzle-league-elekid",
+          "cssClass": ".pokesprite.pokemon.egg-puzzle-league-elekid",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": null
+      },
+      {
+        "regular": {
+          "name": "Egg-Bonus-PuzzleLeague-Igglybuff",
+          "slug": "egg-puzzle-league-igglybuff",
+          "cssClass": ".pokesprite.pokemon.egg-puzzle-league-igglybuff",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": null
+      },
+      {
+        "regular": {
+          "name": "Egg-Bonus-PuzzleLeague-Magby",
+          "slug": "egg-puzzle-league-magby",
+          "cssClass": ".pokesprite.pokemon.egg-puzzle-league-magby",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": null
+      },
+      {
+        "regular": {
+          "name": "Egg-Bonus-Snap-Articuno",
+          "slug": "egg-snap-articuno",
+          "cssClass": ".pokesprite.pokemon.egg-snap-articuno",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": null
+      },
+      {
+        "regular": {
+          "name": "Egg-Bonus-Snap-Moltres",
+          "slug": "egg-snap-moltres",
+          "cssClass": ".pokesprite.pokemon.egg-snap-moltres",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": null
+      },
+      {
+        "regular": {
+          "name": "Egg-Bonus-Snap-Zapdos",
+          "slug": "egg-snap-zapdos",
+          "cssClass": ".pokesprite.pokemon.egg-snap-zapdos",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": null
+      }
+    ]
   }
 ]

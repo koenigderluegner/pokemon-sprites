@@ -4103,5 +4103,9 @@ export const speciesList: SpeciesList = [
   {
     'species': 'Pecharunt',
     'id': 1025
+  },
+  {
+    'species': 'Egg',
+    'id': 9999
   }
 ];

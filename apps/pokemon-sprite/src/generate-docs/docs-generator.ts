@@ -148,6 +148,7 @@ function writeTableOfContents(stream: fs.WriteStream) {
 <li><a href="#Rowlet">#0722 Rowlet</a></li>
 <li><a href="#Grookey">#0810 Grookey</a></li>
 <li><a href="#Sprigatito">#0906 Sprigatito</a></li>
+<li><a href="#Egg">Eggs</a></li>
 <li><a href="#credits">Credits</a></li>
 </ul>`, 'utf-8');
 }
