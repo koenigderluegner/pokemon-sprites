@@ -117,7 +117,7 @@ export const speciesList: SpeciesList = [
     'id': 28
   },
   {
-    'species': 'Nidoran F',
+    'species': 'Nidoran♀',
     'id': 29
   },
   {
@@ -129,7 +129,7 @@ export const speciesList: SpeciesList = [
     'id': 31
   },
   {
-    'species': 'Nidoran M',
+    'species': 'Nidoran♂',
     'id': 32
   },
   {
