@@ -82676,46 +82676,6 @@
   },
   {
     "id": 924,
-    "species": "Clodsire",
-    "icons": [
-      {
-        "regular": {
-          "name": "Clodsire",
-          "slug": "clodsire",
-          "cssClass": ".pokesprite.pokemon.clodsire"
-        },
-        "shiny": {
-          "name": "Clodsire-★",
-          "slug": "clodsire",
-          "cssClass": ".pokesprite.pokemon.clodsire.shiny",
-          "modifiers": [
-            "shiny"
-          ]
-        }
-      },
-      {
-        "regular": {
-          "name": "Clodsire-3DS",
-          "slug": "clodsire",
-          "cssClass": ".pokesprite.pokemon.clodsire.n3ds",
-          "modifiers": [
-            "n3ds"
-          ]
-        },
-        "shiny": {
-          "name": "Clodsire-3DS-★",
-          "slug": "clodsire",
-          "cssClass": ".pokesprite.pokemon.clodsire.shiny.n3ds",
-          "modifiers": [
-            "shiny",
-            "n3ds"
-          ]
-        }
-      }
-    ]
-  },
-  {
-    "id": 925,
     "species": "Tandemaus",
     "icons": [
       {
@@ -82736,7 +82696,7 @@
     ]
   },
   {
-    "id": 926,
+    "id": 925,
     "species": "Maushold",
     "icons": [
       {
@@ -82844,7 +82804,7 @@
     ]
   },
   {
-    "id": 927,
+    "id": 926,
     "species": "Fidough",
     "icons": [
       {
@@ -82865,7 +82825,7 @@
     ]
   },
   {
-    "id": 928,
+    "id": 927,
     "species": "Dachsbun",
     "icons": [
       {
@@ -82905,7 +82865,7 @@
     ]
   },
   {
-    "id": 929,
+    "id": 928,
     "species": "Smoliv",
     "icons": [
       {
@@ -82926,7 +82886,7 @@
     ]
   },
   {
-    "id": 930,
+    "id": 929,
     "species": "Dolliv",
     "icons": [
       {
@@ -82966,7 +82926,7 @@
     ]
   },
   {
-    "id": 931,
+    "id": 930,
     "species": "Arboliva",
     "icons": [
       {
@@ -83006,7 +82966,7 @@
     ]
   },
   {
-    "id": 932,
+    "id": 931,
     "species": "Squawkabilly",
     "icons": [
       {
@@ -83182,7 +83142,7 @@
     ]
   },
   {
-    "id": 933,
+    "id": 932,
     "species": "Nacli",
     "icons": [
       {
@@ -83203,7 +83163,7 @@
     ]
   },
   {
-    "id": 934,
+    "id": 933,
     "species": "Naclstack",
     "icons": [
       {
@@ -83243,7 +83203,7 @@
     ]
   },
   {
-    "id": 935,
+    "id": 934,
     "species": "Garganacl",
     "icons": [
       {
@@ -83283,47 +83243,7 @@
     ]
   },
   {
-    "id": 936,
-    "species": "Annihilape",
-    "icons": [
-      {
-        "regular": {
-          "name": "Annihilape",
-          "slug": "annihilape",
-          "cssClass": ".pokesprite.pokemon.annihilape"
-        },
-        "shiny": {
-          "name": "Annihilape-★",
-          "slug": "annihilape",
-          "cssClass": ".pokesprite.pokemon.annihilape.shiny",
-          "modifiers": [
-            "shiny"
-          ]
-        }
-      },
-      {
-        "regular": {
-          "name": "Annihilape-3DS",
-          "slug": "annihilape",
-          "cssClass": ".pokesprite.pokemon.annihilape.n3ds",
-          "modifiers": [
-            "n3ds"
-          ]
-        },
-        "shiny": {
-          "name": "Annihilape-3DS-★",
-          "slug": "annihilape",
-          "cssClass": ".pokesprite.pokemon.annihilape.shiny.n3ds",
-          "modifiers": [
-            "shiny",
-            "n3ds"
-          ]
-        }
-      }
-    ]
-  },
-  {
-    "id": 937,
+    "id": 935,
     "species": "Charcadet",
     "icons": [
       {
@@ -83344,7 +83264,7 @@
     ]
   },
   {
-    "id": 938,
+    "id": 936,
     "species": "Armarouge",
     "icons": [
       {
@@ -83384,7 +83304,7 @@
     ]
   },
   {
-    "id": 939,
+    "id": 937,
     "species": "Ceruledge",
     "icons": [
       {
@@ -83424,7 +83344,7 @@
     ]
   },
   {
-    "id": 940,
+    "id": 938,
     "species": "Tadbulb",
     "icons": [
       {
@@ -83445,7 +83365,7 @@
     ]
   },
   {
-    "id": 941,
+    "id": 939,
     "species": "Bellibolt",
     "icons": [
       {
@@ -83485,7 +83405,7 @@
     ]
   },
   {
-    "id": 942,
+    "id": 940,
     "species": "Wattrel",
     "icons": [
       {
@@ -83506,7 +83426,7 @@
     ]
   },
   {
-    "id": 943,
+    "id": 941,
     "species": "Kilowattrel",
     "icons": [
       {
@@ -83546,155 +83466,7 @@
     ]
   },
   {
-    "id": 944,
-    "species": "Dudunsparce",
-    "icons": [
-      {
-        "regular": {
-          "name": "Dudunsparce",
-          "slug": "dudunsparce",
-          "cssClass": ".pokesprite.pokemon.dudunsparce"
-        },
-        "shiny": {
-          "name": "Dudunsparce-★",
-          "slug": "dudunsparce",
-          "cssClass": ".pokesprite.pokemon.dudunsparce.shiny",
-          "modifiers": [
-            "shiny"
-          ]
-        }
-      },
-      {
-        "regular": {
-          "name": "Dudunsparce-3DS",
-          "slug": "dudunsparce",
-          "cssClass": ".pokesprite.pokemon.dudunsparce.n3ds",
-          "modifiers": [
-            "n3ds"
-          ]
-        },
-        "shiny": {
-          "name": "Dudunsparce-3DS-★",
-          "slug": "dudunsparce",
-          "cssClass": ".pokesprite.pokemon.dudunsparce.shiny.n3ds",
-          "modifiers": [
-            "shiny",
-            "n3ds"
-          ]
-        }
-      },
-      {
-        "regular": {
-          "name": "Dudunsparce-ThreeSegment",
-          "slug": "dudunsparce-three-segment",
-          "cssClass": ".pokesprite.pokemon.dudunsparce-three-segment"
-        },
-        "shiny": {
-          "name": "Dudunsparce-ThreeSegment-★",
-          "slug": "dudunsparce-three-segment",
-          "cssClass": ".pokesprite.pokemon.dudunsparce-three-segment.shiny",
-          "modifiers": [
-            "shiny"
-          ]
-        }
-      },
-      {
-        "regular": {
-          "name": "Dudunsparce-ThreeSegment-3DS",
-          "slug": "dudunsparce-three-segment",
-          "cssClass": ".pokesprite.pokemon.dudunsparce-three-segment.n3ds",
-          "modifiers": [
-            "n3ds"
-          ]
-        },
-        "shiny": {
-          "name": "Dudunsparce-ThreeSegment-3DS-★",
-          "slug": "dudunsparce-three-segment",
-          "cssClass": ".pokesprite.pokemon.dudunsparce-three-segment.shiny.n3ds",
-          "modifiers": [
-            "shiny",
-            "n3ds"
-          ]
-        }
-      },
-      {
-        "regular": {
-          "name": "Dudunsparce-TwoSegment",
-          "slug": "dudunsparce-two-segment",
-          "cssClass": ".pokesprite.pokemon.dudunsparce-two-segment"
-        },
-        "shiny": {
-          "name": "Dudunsparce-TwoSegment-★",
-          "slug": "dudunsparce-two-segment",
-          "cssClass": ".pokesprite.pokemon.dudunsparce-two-segment.shiny",
-          "modifiers": [
-            "shiny"
-          ]
-        }
-      },
-      {
-        "regular": {
-          "name": "Dudunsparce-TwoSegment-3DS",
-          "slug": "dudunsparce-two-segment",
-          "cssClass": ".pokesprite.pokemon.dudunsparce-two-segment.n3ds",
-          "modifiers": [
-            "n3ds"
-          ]
-        },
-        "shiny": {
-          "name": "Dudunsparce-TwoSegment-3DS-★",
-          "slug": "dudunsparce-two-segment",
-          "cssClass": ".pokesprite.pokemon.dudunsparce-two-segment.shiny.n3ds",
-          "modifiers": [
-            "shiny",
-            "n3ds"
-          ]
-        }
-      }
-    ]
-  },
-  {
-    "id": 945,
-    "species": "Farigiraf",
-    "icons": [
-      {
-        "regular": {
-          "name": "Farigiraf",
-          "slug": "farigiraf",
-          "cssClass": ".pokesprite.pokemon.farigiraf"
-        },
-        "shiny": {
-          "name": "Farigiraf-★",
-          "slug": "farigiraf",
-          "cssClass": ".pokesprite.pokemon.farigiraf.shiny",
-          "modifiers": [
-            "shiny"
-          ]
-        }
-      },
-      {
-        "regular": {
-          "name": "Farigiraf-3DS",
-          "slug": "farigiraf",
-          "cssClass": ".pokesprite.pokemon.farigiraf.n3ds",
-          "modifiers": [
-            "n3ds"
-          ]
-        },
-        "shiny": {
-          "name": "Farigiraf-3DS-★",
-          "slug": "farigiraf",
-          "cssClass": ".pokesprite.pokemon.farigiraf.shiny.n3ds",
-          "modifiers": [
-            "shiny",
-            "n3ds"
-          ]
-        }
-      }
-    ]
-  },
-  {
-    "id": 946,
+    "id": 942,
     "species": "Maschiff",
     "icons": [
       {
@@ -83715,7 +83487,7 @@
     ]
   },
   {
-    "id": 947,
+    "id": 943,
     "species": "Mabosstiff",
     "icons": [
       {
@@ -83755,7 +83527,7 @@
     ]
   },
   {
-    "id": 948,
+    "id": 944,
     "species": "Shroodle",
     "icons": [
       {
@@ -83776,7 +83548,7 @@
     ]
   },
   {
-    "id": 949,
+    "id": 945,
     "species": "Grafaiai",
     "icons": [
       {
@@ -83816,7 +83588,7 @@
     ]
   },
   {
-    "id": 950,
+    "id": 946,
     "species": "Bramblin",
     "icons": [
       {
@@ -83837,7 +83609,7 @@
     ]
   },
   {
-    "id": 951,
+    "id": 947,
     "species": "Brambleghast",
     "icons": [
       {
@@ -83877,7 +83649,7 @@
     ]
   },
   {
-    "id": 952,
+    "id": 948,
     "species": "Toedscool",
     "icons": [
       {
@@ -83898,7 +83670,7 @@
     ]
   },
   {
-    "id": 953,
+    "id": 949,
     "species": "Toedscruel",
     "icons": [
       {
@@ -83938,7 +83710,7 @@
     ]
   },
   {
-    "id": 954,
+    "id": 950,
     "species": "Klawf",
     "icons": [
       {
@@ -83978,7 +83750,7 @@
     ]
   },
   {
-    "id": 955,
+    "id": 951,
     "species": "Capsakid",
     "icons": [
       {
@@ -83999,7 +83771,7 @@
     ]
   },
   {
-    "id": 956,
+    "id": 952,
     "species": "Scovillain",
     "icons": [
       {
@@ -84039,7 +83811,7 @@
     ]
   },
   {
-    "id": 957,
+    "id": 953,
     "species": "Rellor",
     "icons": [
       {
@@ -84060,7 +83832,7 @@
     ]
   },
   {
-    "id": 958,
+    "id": 954,
     "species": "Rabsca",
     "icons": [
       {
@@ -84100,7 +83872,7 @@
     ]
   },
   {
-    "id": 959,
+    "id": 955,
     "species": "Flittle",
     "icons": [
       {
@@ -84121,7 +83893,7 @@
     ]
   },
   {
-    "id": 960,
+    "id": 956,
     "species": "Espathra",
     "icons": [
       {
@@ -84161,7 +83933,7 @@
     ]
   },
   {
-    "id": 961,
+    "id": 957,
     "species": "Tinkatink",
     "icons": [
       {
@@ -84203,7 +83975,7 @@
     ]
   },
   {
-    "id": 962,
+    "id": 958,
     "species": "Tinkatuff",
     "icons": [
       {
@@ -84289,7 +84061,7 @@
     ]
   },
   {
-    "id": 963,
+    "id": 959,
     "species": "Tinkaton",
     "icons": [
       {
@@ -84375,7 +84147,7 @@
     ]
   },
   {
-    "id": 964,
+    "id": 960,
     "species": "Wiglett",
     "icons": [
       {
@@ -84396,7 +84168,7 @@
     ]
   },
   {
-    "id": 965,
+    "id": 961,
     "species": "Wugtrio",
     "icons": [
       {
@@ -84436,7 +84208,7 @@
     ]
   },
   {
-    "id": 966,
+    "id": 962,
     "species": "Bombirdier",
     "icons": [
       {
@@ -84476,7 +84248,7 @@
     ]
   },
   {
-    "id": 967,
+    "id": 963,
     "species": "Finizen",
     "icons": [
       {
@@ -84497,7 +84269,7 @@
     ]
   },
   {
-    "id": 968,
+    "id": 964,
     "species": "Palafin",
     "icons": [
       {
@@ -84567,7 +84339,7 @@
     ]
   },
   {
-    "id": 969,
+    "id": 965,
     "species": "Varoom",
     "icons": [
       {
@@ -84588,7 +84360,7 @@
     ]
   },
   {
-    "id": 970,
+    "id": 966,
     "species": "Revavroom",
     "icons": [
       {
@@ -84733,7 +84505,7 @@
     ]
   },
   {
-    "id": 971,
+    "id": 967,
     "species": "Cyclizar",
     "icons": [
       {
@@ -84865,7 +84637,7 @@
     ]
   },
   {
-    "id": 972,
+    "id": 968,
     "species": "Orthworm",
     "icons": [
       {
@@ -84905,7 +84677,7 @@
     ]
   },
   {
-    "id": 973,
+    "id": 969,
     "species": "Glimmet",
     "icons": [
       {
@@ -84926,7 +84698,7 @@
     ]
   },
   {
-    "id": 974,
+    "id": 970,
     "species": "Glimmora",
     "icons": [
       {
@@ -84966,7 +84738,7 @@
     ]
   },
   {
-    "id": 975,
+    "id": 971,
     "species": "Greavard",
     "icons": [
       {
@@ -84987,7 +84759,7 @@
     ]
   },
   {
-    "id": 976,
+    "id": 972,
     "species": "Houndstone",
     "icons": [
       {
@@ -85027,7 +84799,7 @@
     ]
   },
   {
-    "id": 977,
+    "id": 973,
     "species": "Flamigo",
     "icons": [
       {
@@ -85067,7 +84839,7 @@
     ]
   },
   {
-    "id": 978,
+    "id": 974,
     "species": "Cetoddle",
     "icons": [
       {
@@ -85088,7 +84860,7 @@
     ]
   },
   {
-    "id": 979,
+    "id": 975,
     "species": "Cetitan",
     "icons": [
       {
@@ -85128,47 +84900,7 @@
     ]
   },
   {
-    "id": 980,
-    "species": "Kingambit",
-    "icons": [
-      {
-        "regular": {
-          "name": "Kingambit",
-          "slug": "kingambit",
-          "cssClass": ".pokesprite.pokemon.kingambit"
-        },
-        "shiny": {
-          "name": "Kingambit-★",
-          "slug": "kingambit",
-          "cssClass": ".pokesprite.pokemon.kingambit.shiny",
-          "modifiers": [
-            "shiny"
-          ]
-        }
-      },
-      {
-        "regular": {
-          "name": "Kingambit-3DS",
-          "slug": "kingambit",
-          "cssClass": ".pokesprite.pokemon.kingambit.n3ds",
-          "modifiers": [
-            "n3ds"
-          ]
-        },
-        "shiny": {
-          "name": "Kingambit-3DS-★",
-          "slug": "kingambit",
-          "cssClass": ".pokesprite.pokemon.kingambit.shiny.n3ds",
-          "modifiers": [
-            "shiny",
-            "n3ds"
-          ]
-        }
-      }
-    ]
-  },
-  {
-    "id": 981,
+    "id": 976,
     "species": "Veluza",
     "icons": [
       {
@@ -85208,7 +84940,7 @@
     ]
   },
   {
-    "id": 982,
+    "id": 977,
     "species": "Dondozo",
     "icons": [
       {
@@ -85248,7 +84980,7 @@
     ]
   },
   {
-    "id": 983,
+    "id": 978,
     "species": "Tatsugiri",
     "icons": [
       {
@@ -85381,6 +85113,274 @@
           "name": "Tatsugiri-Stretchy-3DS-★",
           "slug": "tatsugiri-stretchy",
           "cssClass": ".pokesprite.pokemon.tatsugiri-stretchy.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": 979,
+    "species": "Annihilape",
+    "icons": [
+      {
+        "regular": {
+          "name": "Annihilape",
+          "slug": "annihilape",
+          "cssClass": ".pokesprite.pokemon.annihilape"
+        },
+        "shiny": {
+          "name": "Annihilape-★",
+          "slug": "annihilape",
+          "cssClass": ".pokesprite.pokemon.annihilape.shiny",
+          "modifiers": [
+            "shiny"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Annihilape-3DS",
+          "slug": "annihilape",
+          "cssClass": ".pokesprite.pokemon.annihilape.n3ds",
+          "modifiers": [
+            "n3ds"
+          ]
+        },
+        "shiny": {
+          "name": "Annihilape-3DS-★",
+          "slug": "annihilape",
+          "cssClass": ".pokesprite.pokemon.annihilape.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": 980,
+    "species": "Clodsire",
+    "icons": [
+      {
+        "regular": {
+          "name": "Clodsire",
+          "slug": "clodsire",
+          "cssClass": ".pokesprite.pokemon.clodsire"
+        },
+        "shiny": {
+          "name": "Clodsire-★",
+          "slug": "clodsire",
+          "cssClass": ".pokesprite.pokemon.clodsire.shiny",
+          "modifiers": [
+            "shiny"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Clodsire-3DS",
+          "slug": "clodsire",
+          "cssClass": ".pokesprite.pokemon.clodsire.n3ds",
+          "modifiers": [
+            "n3ds"
+          ]
+        },
+        "shiny": {
+          "name": "Clodsire-3DS-★",
+          "slug": "clodsire",
+          "cssClass": ".pokesprite.pokemon.clodsire.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": 981,
+    "species": "Farigiraf",
+    "icons": [
+      {
+        "regular": {
+          "name": "Farigiraf",
+          "slug": "farigiraf",
+          "cssClass": ".pokesprite.pokemon.farigiraf"
+        },
+        "shiny": {
+          "name": "Farigiraf-★",
+          "slug": "farigiraf",
+          "cssClass": ".pokesprite.pokemon.farigiraf.shiny",
+          "modifiers": [
+            "shiny"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Farigiraf-3DS",
+          "slug": "farigiraf",
+          "cssClass": ".pokesprite.pokemon.farigiraf.n3ds",
+          "modifiers": [
+            "n3ds"
+          ]
+        },
+        "shiny": {
+          "name": "Farigiraf-3DS-★",
+          "slug": "farigiraf",
+          "cssClass": ".pokesprite.pokemon.farigiraf.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": 982,
+    "species": "Dudunsparce",
+    "icons": [
+      {
+        "regular": {
+          "name": "Dudunsparce",
+          "slug": "dudunsparce",
+          "cssClass": ".pokesprite.pokemon.dudunsparce"
+        },
+        "shiny": {
+          "name": "Dudunsparce-★",
+          "slug": "dudunsparce",
+          "cssClass": ".pokesprite.pokemon.dudunsparce.shiny",
+          "modifiers": [
+            "shiny"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Dudunsparce-3DS",
+          "slug": "dudunsparce",
+          "cssClass": ".pokesprite.pokemon.dudunsparce.n3ds",
+          "modifiers": [
+            "n3ds"
+          ]
+        },
+        "shiny": {
+          "name": "Dudunsparce-3DS-★",
+          "slug": "dudunsparce",
+          "cssClass": ".pokesprite.pokemon.dudunsparce.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Dudunsparce-ThreeSegment",
+          "slug": "dudunsparce-three-segment",
+          "cssClass": ".pokesprite.pokemon.dudunsparce-three-segment"
+        },
+        "shiny": {
+          "name": "Dudunsparce-ThreeSegment-★",
+          "slug": "dudunsparce-three-segment",
+          "cssClass": ".pokesprite.pokemon.dudunsparce-three-segment.shiny",
+          "modifiers": [
+            "shiny"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Dudunsparce-ThreeSegment-3DS",
+          "slug": "dudunsparce-three-segment",
+          "cssClass": ".pokesprite.pokemon.dudunsparce-three-segment.n3ds",
+          "modifiers": [
+            "n3ds"
+          ]
+        },
+        "shiny": {
+          "name": "Dudunsparce-ThreeSegment-3DS-★",
+          "slug": "dudunsparce-three-segment",
+          "cssClass": ".pokesprite.pokemon.dudunsparce-three-segment.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Dudunsparce-TwoSegment",
+          "slug": "dudunsparce-two-segment",
+          "cssClass": ".pokesprite.pokemon.dudunsparce-two-segment"
+        },
+        "shiny": {
+          "name": "Dudunsparce-TwoSegment-★",
+          "slug": "dudunsparce-two-segment",
+          "cssClass": ".pokesprite.pokemon.dudunsparce-two-segment.shiny",
+          "modifiers": [
+            "shiny"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Dudunsparce-TwoSegment-3DS",
+          "slug": "dudunsparce-two-segment",
+          "cssClass": ".pokesprite.pokemon.dudunsparce-two-segment.n3ds",
+          "modifiers": [
+            "n3ds"
+          ]
+        },
+        "shiny": {
+          "name": "Dudunsparce-TwoSegment-3DS-★",
+          "slug": "dudunsparce-two-segment",
+          "cssClass": ".pokesprite.pokemon.dudunsparce-two-segment.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": 983,
+    "species": "Kingambit",
+    "icons": [
+      {
+        "regular": {
+          "name": "Kingambit",
+          "slug": "kingambit",
+          "cssClass": ".pokesprite.pokemon.kingambit"
+        },
+        "shiny": {
+          "name": "Kingambit-★",
+          "slug": "kingambit",
+          "cssClass": ".pokesprite.pokemon.kingambit.shiny",
+          "modifiers": [
+            "shiny"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Kingambit-3DS",
+          "slug": "kingambit",
+          "cssClass": ".pokesprite.pokemon.kingambit.n3ds",
+          "modifiers": [
+            "n3ds"
+          ]
+        },
+        "shiny": {
+          "name": "Kingambit-3DS-★",
+          "slug": "kingambit",
+          "cssClass": ".pokesprite.pokemon.kingambit.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
