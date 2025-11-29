@@ -62,8 +62,9 @@ ${getIconFields(entry.icons[0], entry.species)}
 </tr>`, 'utf-8');
   if (entry.icons.length > 1) {
     for (let i = 1; i < entry.icons.length; i++) {
+      const speciesNameFromIcon = entry.icons[0].regular.name.split('-')[0];
       stream.write(`<tr>
-${getIconFields(entry.icons[i], entry.species)}
+${getIconFields(entry.icons[i], speciesNameFromIcon)}
 </tr>`, 'utf-8');
     }
 
@@ -73,7 +74,7 @@ ${getIconFields(entry.icons[i], entry.species)}
 }
 
 function getIconFields(iconPair: PokemonIconPair, speciesName: string): string {
-  const  regularClasses = iconPair.regular.cssClass.split('.').filter(s => !!s).join(' ');
+  const regularClasses = iconPair.regular.cssClass.split('.').filter(s => !!s).join(' ');
   const shinyClasses = iconPair.shiny?.cssClass.split('.').filter(s => !!s).join(' ') ?? '';
   const formName = iconPair.regular.name.length > speciesName.length ? iconPair.regular.name.substring(speciesName.length + 1) : '-';
   return `
