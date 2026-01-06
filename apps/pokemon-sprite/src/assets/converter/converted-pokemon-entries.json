@@ -3822,6 +3822,25 @@
       },
       {
         "regular": {
+          "name": "Weedle-3DS",
+          "slug": "weedle",
+          "cssClass": ".pokesprite.pokemon.weedle.n3ds",
+          "modifiers": [
+            "n3ds"
+          ]
+        },
+        "shiny": {
+          "name": "Weedle-3DS-★",
+          "slug": "weedle",
+          "cssClass": ".pokesprite.pokemon.weedle.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ]
+        }
+      },
+      {
+        "regular": {
           "name": "Weedle-Bonus-Anime-Pinkan",
           "slug": "weedle-anime-pinkan",
           "cssClass": ".pokesprite.pokemon.weedle-anime-pinkan",
@@ -3835,6 +3854,31 @@
           "cssClass": ".pokesprite.pokemon.weedle-anime-pinkan.shiny",
           "modifiers": [
             "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Weedle-Bonus-Anime-Pinkan-3DS",
+          "slug": "weedle-anime-pinkan",
+          "cssClass": ".pokesprite.pokemon.weedle-anime-pinkan.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Weedle-Bonus-Anime-Pinkan-3DS-★",
+          "slug": "weedle-anime-pinkan",
+          "cssClass": ".pokesprite.pokemon.weedle-anime-pinkan.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
           ],
           "categories": [
             "bonus"
@@ -3978,6 +4022,25 @@
       },
       {
         "regular": {
+          "name": "Pidgey-3DS",
+          "slug": "pidgey",
+          "cssClass": ".pokesprite.pokemon.pidgey.n3ds",
+          "modifiers": [
+            "n3ds"
+          ]
+        },
+        "shiny": {
+          "name": "Pidgey-3DS-★",
+          "slug": "pidgey",
+          "cssClass": ".pokesprite.pokemon.pidgey.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ]
+        }
+      },
+      {
+        "regular": {
           "name": "Pidgey-Bonus-Anime-EP164-Denjiro",
           "slug": "pidgey-anime-ep164-denjiro",
           "cssClass": ".pokesprite.pokemon.pidgey-anime-ep164-denjiro",
@@ -3991,6 +4054,31 @@
           "cssClass": ".pokesprite.pokemon.pidgey-anime-ep164-denjiro.shiny",
           "modifiers": [
             "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Pidgey-Bonus-Anime-EP164-Denjiro-3DS",
+          "slug": "pidgey-anime-ep164-denjiro",
+          "cssClass": ".pokesprite.pokemon.pidgey-anime-ep164-denjiro.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Pidgey-Bonus-Anime-EP164-Denjiro-3DS-★",
+          "slug": "pidgey-anime-ep164-denjiro",
+          "cssClass": ".pokesprite.pokemon.pidgey-anime-ep164-denjiro.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
           ],
           "categories": [
             "bonus"
@@ -4020,6 +4108,31 @@
       },
       {
         "regular": {
+          "name": "Pidgey-Bonus-Anime-EP164-Ken-3DS",
+          "slug": "pidgey-anime-ep164-ken",
+          "cssClass": ".pokesprite.pokemon.pidgey-anime-ep164-ken.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Pidgey-Bonus-Anime-EP164-Ken-3DS-★",
+          "slug": "pidgey-anime-ep164-ken",
+          "cssClass": ".pokesprite.pokemon.pidgey-anime-ep164-ken.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
           "name": "Pidgey-Bonus-Anime-EP211-Orville",
           "slug": "pidgey-anime-ep211-orville",
           "cssClass": ".pokesprite.pokemon.pidgey-anime-ep211-orville",
@@ -4033,6 +4146,31 @@
           "cssClass": ".pokesprite.pokemon.pidgey-anime-ep211-orville.shiny",
           "modifiers": [
             "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Pidgey-Bonus-Anime-EP211-Orville-3DS",
+          "slug": "pidgey-anime-ep211-orville",
+          "cssClass": ".pokesprite.pokemon.pidgey-anime-ep211-orville.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Pidgey-Bonus-Anime-EP211-Orville-3DS-★",
+          "slug": "pidgey-anime-ep211-orville",
+          "cssClass": ".pokesprite.pokemon.pidgey-anime-ep211-orville.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
           ],
           "categories": [
             "bonus"
@@ -4062,6 +4200,31 @@
       },
       {
         "regular": {
+          "name": "Pidgey-Bonus-Anime-EP211-Wilbur-3DS",
+          "slug": "pidgey-anime-ep211-wilbur",
+          "cssClass": ".pokesprite.pokemon.pidgey-anime-ep211-wilbur.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Pidgey-Bonus-Anime-EP211-Wilbur-3DS-★",
+          "slug": "pidgey-anime-ep211-wilbur",
+          "cssClass": ".pokesprite.pokemon.pidgey-anime-ep211-wilbur.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
           "name": "Pidgey-Bonus-Anime-Pinkan",
           "slug": "pidgey-anime-pinkan",
           "cssClass": ".pokesprite.pokemon.pidgey-anime-pinkan",
@@ -4075,6 +4238,31 @@
           "cssClass": ".pokesprite.pokemon.pidgey-anime-pinkan.shiny",
           "modifiers": [
             "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Pidgey-Bonus-Anime-Pinkan-3DS",
+          "slug": "pidgey-anime-pinkan",
+          "cssClass": ".pokesprite.pokemon.pidgey-anime-pinkan.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Pidgey-Bonus-Anime-Pinkan-3DS-★",
+          "slug": "pidgey-anime-pinkan",
+          "cssClass": ".pokesprite.pokemon.pidgey-anime-pinkan.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
           ],
           "categories": [
             "bonus"
@@ -4589,7 +4777,17 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Raticate-Bonus-Anime-Valencian-F-★",
+          "slug": "raticate-anime-valencian-f",
+          "cssClass": ".pokesprite.pokemon.raticate-anime-valencian-f.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -4634,6 +4832,25 @@
           "cssClass": ".pokesprite.pokemon.spearow.shiny",
           "modifiers": [
             "shiny"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Spearow-3DS",
+          "slug": "spearow",
+          "cssClass": ".pokesprite.pokemon.spearow.n3ds",
+          "modifiers": [
+            "n3ds"
+          ]
+        },
+        "shiny": {
+          "name": "Spearow-3DS-★",
+          "slug": "spearow",
+          "cssClass": ".pokesprite.pokemon.spearow.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
           ]
         }
       }
@@ -14799,6 +15016,98 @@
             "n3ds"
           ]
         }
+      },
+      {
+        "regular": {
+          "name": "Nidoran♀-Bonus-Anime-Pinkan",
+          "slug": "nidoran-f-anime-pinkan",
+          "cssClass": ".pokesprite.pokemon.nidoran-f-anime-pinkan",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Nidoran♀-Bonus-Anime-Pinkan-★",
+          "slug": "nidoran-f-anime-pinkan",
+          "cssClass": ".pokesprite.pokemon.nidoran-f-anime-pinkan.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Nidoran♀-Bonus-Anime-Pinkan-3DS",
+          "slug": "nidoran-f-anime-pinkan",
+          "cssClass": ".pokesprite.pokemon.nidoran-f-anime-pinkan.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Nidoran♀-Bonus-Anime-Pinkan-3DS-★",
+          "slug": "nidoran-f-anime-pinkan",
+          "cssClass": ".pokesprite.pokemon.nidoran-f-anime-pinkan.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Nidoran♀-Bonus-Anime-Valencian",
+          "slug": "nidoran-f-anime-valencian",
+          "cssClass": ".pokesprite.pokemon.nidoran-f-anime-valencian",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Nidoran♀-Bonus-Anime-Valencian-★",
+          "slug": "nidoran-f-anime-valencian",
+          "cssClass": ".pokesprite.pokemon.nidoran-f-anime-valencian.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Nidoran♀-Bonus-Anime-Valencian-3DS",
+          "slug": "nidoran-f-anime-valencian",
+          "cssClass": ".pokesprite.pokemon.nidoran-f-anime-valencian.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Nidoran♀-Bonus-Anime-Valencian-3DS-★",
+          "slug": "nidoran-f-anime-valencian",
+          "cssClass": ".pokesprite.pokemon.nidoran-f-anime-valencian.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       }
     ]
   },
@@ -14837,6 +15146,52 @@
           "modifiers": [
             "shiny",
             "n3ds"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Nidorina-Bonus-Anime-Valencian",
+          "slug": "nidorina-anime-valencian",
+          "cssClass": ".pokesprite.pokemon.nidorina-anime-valencian",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Nidorina-Bonus-Anime-Valencian-★",
+          "slug": "nidorina-anime-valencian",
+          "cssClass": ".pokesprite.pokemon.nidorina-anime-valencian.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Nidorina-Bonus-Anime-Valencian-3DS",
+          "slug": "nidorina-anime-valencian",
+          "cssClass": ".pokesprite.pokemon.nidorina-anime-valencian.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Nidorina-Bonus-Anime-Valencian-3DS-★",
+          "slug": "nidorina-anime-valencian",
+          "cssClass": ".pokesprite.pokemon.nidorina-anime-valencian.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
           ]
         }
       }
@@ -14969,6 +15324,52 @@
             "go"
           ]
         }
+      },
+      {
+        "regular": {
+          "name": "Nidoqueen-Bonus-Anime-BabyClone",
+          "slug": "nidoqueen-anime-baby-clone",
+          "cssClass": ".pokesprite.pokemon.nidoqueen-anime-baby-clone",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Nidoqueen-Bonus-Anime-BabyClone-★",
+          "slug": "nidoqueen-anime-baby-clone",
+          "cssClass": ".pokesprite.pokemon.nidoqueen-anime-baby-clone.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Nidoqueen-Bonus-Anime-BabyClone-3DS",
+          "slug": "nidoqueen-anime-baby-clone",
+          "cssClass": ".pokesprite.pokemon.nidoqueen-anime-baby-clone.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Nidoqueen-Bonus-Anime-BabyClone-3DS-★",
+          "slug": "nidoqueen-anime-baby-clone",
+          "cssClass": ".pokesprite.pokemon.nidoqueen-anime-baby-clone.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       }
     ]
   },
@@ -15007,6 +15408,98 @@
           "modifiers": [
             "shiny",
             "n3ds"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Nidoran♂-Bonus-Anime-Pinkan",
+          "slug": "nidoran-m-anime-pinkan",
+          "cssClass": ".pokesprite.pokemon.nidoran-m-anime-pinkan",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Nidoran♂-Bonus-Anime-Pinkan-★",
+          "slug": "nidoran-m-anime-pinkan",
+          "cssClass": ".pokesprite.pokemon.nidoran-m-anime-pinkan.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Nidoran♂-Bonus-Anime-Pinkan-3DS",
+          "slug": "nidoran-m-anime-pinkan",
+          "cssClass": ".pokesprite.pokemon.nidoran-m-anime-pinkan.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Nidoran♂-Bonus-Anime-Pinkan-3DS-★",
+          "slug": "nidoran-m-anime-pinkan",
+          "cssClass": ".pokesprite.pokemon.nidoran-m-anime-pinkan.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Nidoran♂-Bonus-Anime-Valencian",
+          "slug": "nidoran-m-anime-valencian",
+          "cssClass": ".pokesprite.pokemon.nidoran-m-anime-valencian",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Nidoran♂-Bonus-Anime-Valencian-★",
+          "slug": "nidoran-m-anime-valencian",
+          "cssClass": ".pokesprite.pokemon.nidoran-m-anime-valencian.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Nidoran♂-Bonus-Anime-Valencian-3DS",
+          "slug": "nidoran-m-anime-valencian",
+          "cssClass": ".pokesprite.pokemon.nidoran-m-anime-valencian.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Nidoran♂-Bonus-Anime-Valencian-3DS-★",
+          "slug": "nidoran-m-anime-valencian",
+          "cssClass": ".pokesprite.pokemon.nidoran-m-anime-valencian.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
           ]
         }
       }
@@ -15223,6 +15716,77 @@
           ],
           "categories": [
             "go"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Nidoking-Bonus-Anime-Pinkan",
+          "slug": "nidoking-anime-pinkan",
+          "cssClass": ".pokesprite.pokemon.nidoking-anime-pinkan",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Nidoking-Bonus-Anime-Pinkan-★",
+          "slug": "nidoking-anime-pinkan",
+          "cssClass": ".pokesprite.pokemon.nidoking-anime-pinkan.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Nidoking-Bonus-Anime-Pinkan-3DS",
+          "slug": "nidoking-anime-pinkan",
+          "cssClass": ".pokesprite.pokemon.nidoking-anime-pinkan.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Nidoking-Bonus-Anime-Pinkan-3DS-★",
+          "slug": "nidoking-anime-pinkan",
+          "cssClass": ".pokesprite.pokemon.nidoking-anime-pinkan.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Nidoking-Bonus-Anime-Pinkan-Switch-LGPE",
+          "slug": "nidoking-anime-pinkan-lgpe",
+          "cssClass": ".pokesprite.pokemon.nidoking-anime-pinkan-lgpe.switch",
+          "modifiers": [
+            "switch"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Nidoking-Bonus-Anime-Pinkan-Switch-LGPE-★",
+          "slug": "nidoking-anime-pinkan-lgpe",
+          "cssClass": ".pokesprite.pokemon.nidoking-anime-pinkan-lgpe.switch.shiny",
+          "modifiers": [
+            "switch",
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
           ]
         }
       }
@@ -16748,6 +17312,48 @@
             "shiny"
           ]
         }
+      },
+      {
+        "regular": {
+          "name": "Paras-Bonus-Anime-Pinkan",
+          "slug": "paras-anime-pinkan",
+          "cssClass": ".pokesprite.pokemon.paras-anime-pinkan",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Paras-Bonus-Anime-Pinkan-★",
+          "slug": "paras-anime-pinkan",
+          "cssClass": ".pokesprite.pokemon.paras-anime-pinkan.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Paras-Bonus-Anime-Valencian",
+          "slug": "paras-anime-valencian",
+          "cssClass": ".pokesprite.pokemon.paras-anime-valencian",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Paras-Bonus-Anime-Valencian-★",
+          "slug": "paras-anime-valencian",
+          "cssClass": ".pokesprite.pokemon.paras-anime-valencian.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       }
     ]
   },
@@ -16807,6 +17413,27 @@
           "cssClass": ".pokesprite.pokemon.venonat.shiny",
           "modifiers": [
             "shiny"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Venonat-Bonus-Anime-Pinkan",
+          "slug": "venonat-anime-pinkan",
+          "cssClass": ".pokesprite.pokemon.venonat-anime-pinkan",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Venonat-Bonus-Anime-Pinkan-★",
+          "slug": "venonat-anime-pinkan",
+          "cssClass": ".pokesprite.pokemon.venonat-anime-pinkan.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
           ]
         }
       }
@@ -16967,6 +17594,52 @@
           ],
           "categories": [
             "go"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "DIglett-Bonus-Anime-Pinkan",
+          "slug": "d-iglett-anime-pinkan",
+          "cssClass": ".pokesprite.pokemon.d-iglett-anime-pinkan",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "DIglett-Bonus-Anime-Pinkan-★",
+          "slug": "d-iglett-anime-pinkan",
+          "cssClass": ".pokesprite.pokemon.d-iglett-anime-pinkan.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "DIglett-Bonus-Anime-Pinkan-3DS",
+          "slug": "d-iglett-anime-pinkan",
+          "cssClass": ".pokesprite.pokemon.d-iglett-anime-pinkan.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "DIglett-Bonus-Anime-Pinkan-3DS-★",
+          "slug": "d-iglett-anime-pinkan",
+          "cssClass": ".pokesprite.pokemon.d-iglett-anime-pinkan.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
           ]
         }
       },
@@ -17508,6 +18181,48 @@
             "shiny"
           ]
         }
+      },
+      {
+        "regular": {
+          "name": "Mankey-Bonus-Ash",
+          "slug": "mankey-ash",
+          "cssClass": ".pokesprite.pokemon.mankey-ash",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Mankey-Bonus-Ash-★",
+          "slug": "mankey-ash",
+          "cssClass": ".pokesprite.pokemon.mankey-ash.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Mankey-Bonus-Pinkan",
+          "slug": "mankey-pinkan",
+          "cssClass": ".pokesprite.pokemon.mankey-pinkan",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Mankey-Bonus-Pinkan-★",
+          "slug": "mankey-pinkan",
+          "cssClass": ".pokesprite.pokemon.mankey-pinkan.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       }
     ]
   },
@@ -17546,6 +18261,144 @@
           "modifiers": [
             "shiny",
             "n3ds"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Primeape-Bonus-Anime-Ash",
+          "slug": "primeape-anime-ash",
+          "cssClass": ".pokesprite.pokemon.primeape-anime-ash",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Primeape-Bonus-Anime-Ash-★",
+          "slug": "primeape-anime-ash",
+          "cssClass": ".pokesprite.pokemon.primeape-anime-ash.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Primeape-Bonus-Anime-Ash-3DS",
+          "slug": "primeape-anime-ash",
+          "cssClass": ".pokesprite.pokemon.primeape-anime-ash.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Primeape-Bonus-Anime-Ash-3DS-★",
+          "slug": "primeape-anime-ash",
+          "cssClass": ".pokesprite.pokemon.primeape-anime-ash.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Primeape-Bonus-Anime-Ash-EP029",
+          "slug": "primeape-anime-ash-ep029",
+          "cssClass": ".pokesprite.pokemon.primeape-anime-ash-ep029",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Primeape-Bonus-Anime-Ash-EP029-★",
+          "slug": "primeape-anime-ash-ep029",
+          "cssClass": ".pokesprite.pokemon.primeape-anime-ash-ep029.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Primeape-Bonus-Anime-Ash-EP029-3DS",
+          "slug": "primeape-anime-ash-ep029",
+          "cssClass": ".pokesprite.pokemon.primeape-anime-ash-ep029.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Primeape-Bonus-Anime-Ash-EP029-3DS-★",
+          "slug": "primeape-anime-ash-ep029",
+          "cssClass": ".pokesprite.pokemon.primeape-anime-ash-ep029.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Primeape-Bonus-Anime-Pinkan",
+          "slug": "primeape-anime-pinkan",
+          "cssClass": ".pokesprite.pokemon.primeape-anime-pinkan",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Primeape-Bonus-Anime-Pinkan-★",
+          "slug": "primeape-anime-pinkan",
+          "cssClass": ".pokesprite.pokemon.primeape-anime-pinkan.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Primeape-Bonus-Anime-Pinkan-3DS",
+          "slug": "primeape-anime-pinkan",
+          "cssClass": ".pokesprite.pokemon.primeape-anime-pinkan.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Primeape-Bonus-Anime-Pinkan-3DS-★",
+          "slug": "primeape-anime-pinkan",
+          "cssClass": ".pokesprite.pokemon.primeape-anime-pinkan.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
           ]
         }
       }
@@ -18034,6 +18887,152 @@
             "shiny"
           ]
         }
+      },
+      {
+        "regular": {
+          "name": "Alakazam-Bonus-Anime-Giant",
+          "slug": "alakazam-anime-giant",
+          "cssClass": ".pokesprite.pokemon.alakazam-anime-giant",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Alakazam-Bonus-Anime-Giant-★",
+          "slug": "alakazam-anime-giant",
+          "cssClass": ".pokesprite.pokemon.alakazam-anime-giant.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Alakazam-Bonus-Anime-Giant-F",
+          "slug": "alakazam-anime-giant-f",
+          "cssClass": ".pokesprite.pokemon.alakazam-anime-giant-f",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Alakazam-Bonus-Anime-Giant-F-★",
+          "slug": "alakazam-anime-giant-f",
+          "cssClass": ".pokesprite.pokemon.alakazam-anime-giant-f.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Alakazam-Bonus-Anime-Giant-F-Switch-LGPE",
+          "slug": "alakazam-anime-giant-f-lgpe",
+          "cssClass": ".pokesprite.pokemon.alakazam-anime-giant-f-lgpe.switch",
+          "modifiers": [
+            "switch"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Alakazam-Bonus-Anime-Giant-F-Switch-LGPE-★",
+          "slug": "alakazam-anime-giant-f-lgpe",
+          "cssClass": ".pokesprite.pokemon.alakazam-anime-giant-f-lgpe.switch.shiny",
+          "modifiers": [
+            "switch",
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Alakazam-Bonus-Anime-Giant-Switch-3DS",
+          "slug": "alakazam-anime-giant",
+          "cssClass": ".pokesprite.pokemon.alakazam-anime-giant.switch.n3ds",
+          "modifiers": [
+            "switch",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Alakazam-Bonus-Anime-Giant-Switch-3DS-★",
+          "slug": "alakazam-anime-giant",
+          "cssClass": ".pokesprite.pokemon.alakazam-anime-giant.switch.shiny.n3ds",
+          "modifiers": [
+            "switch",
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Alakazam-Bonus-Anime-Giant-Switch-F-3DS",
+          "slug": "alakazam-anime-giant-f",
+          "cssClass": ".pokesprite.pokemon.alakazam-anime-giant-f.switch.n3ds",
+          "modifiers": [
+            "switch",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Alakazam-Bonus-Anime-Giant-Switch-F-3DS-★",
+          "slug": "alakazam-anime-giant-f",
+          "cssClass": ".pokesprite.pokemon.alakazam-anime-giant-f.switch.shiny.n3ds",
+          "modifiers": [
+            "switch",
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Alakazam-Bonus-Anime-Giant-Switch-LGPE",
+          "slug": "alakazam-anime-giant-lgpe",
+          "cssClass": ".pokesprite.pokemon.alakazam-anime-giant-lgpe.switch",
+          "modifiers": [
+            "switch"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Alakazam-Bonus-Anime-Giant-Switch-LGPE-★",
+          "slug": "alakazam-anime-giant-lgpe",
+          "cssClass": ".pokesprite.pokemon.alakazam-anime-giant-lgpe.switch.shiny",
+          "modifiers": [
+            "switch",
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       }
     ]
   },
@@ -18318,6 +19317,52 @@
           "modifiers": [
             "shiny",
             "n3ds"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Weepinbell-Bonus-Anime-Valencian",
+          "slug": "weepinbell-anime-valencian",
+          "cssClass": ".pokesprite.pokemon.weepinbell-anime-valencian",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Weepinbell-Bonus-Anime-Valencian-★",
+          "slug": "weepinbell-anime-valencian",
+          "cssClass": ".pokesprite.pokemon.weepinbell-anime-valencian.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Weepinbell-Bonus-Anime-Valencian-3DS",
+          "slug": "weepinbell-anime-valencian",
+          "cssClass": ".pokesprite.pokemon.weepinbell-anime-valencian.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Weepinbell-Bonus-Anime-Valencian-3DS-★",
+          "slug": "weepinbell-anime-valencian",
+          "cssClass": ".pokesprite.pokemon.weepinbell-anime-valencian.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
           ]
         }
       }
@@ -20223,6 +21268,52 @@
       },
       {
         "regular": {
+          "name": "Gengar-Bonus-Anime-Giant",
+          "slug": "gengar-anime-giant",
+          "cssClass": ".pokesprite.pokemon.gengar-anime-giant",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Gengar-Bonus-Anime-Giant-★",
+          "slug": "gengar-anime-giant",
+          "cssClass": ".pokesprite.pokemon.gengar-anime-giant.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Gengar-Bonus-Anime-Giant-3DS",
+          "slug": "gengar-anime-giant",
+          "cssClass": ".pokesprite.pokemon.gengar-anime-giant.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Gengar-Bonus-Anime-Giant-3DS-★",
+          "slug": "gengar-anime-giant",
+          "cssClass": ".pokesprite.pokemon.gengar-anime-giant.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
           "name": "Gengar-Bonus-Pokken",
           "slug": "gengar-pokken",
           "cssClass": ".pokesprite.pokemon.gengar-pokken",
@@ -20626,6 +21717,27 @@
             "shiny"
           ]
         }
+      },
+      {
+        "regular": {
+          "name": "Voltorb-Bonus-Anime-Watermelon",
+          "slug": "voltorb-anime-watermelon",
+          "cssClass": ".pokesprite.pokemon.voltorb-anime-watermelon",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Voltorb-Bonus-Anime-Watermelon-★",
+          "slug": "voltorb-anime-watermelon",
+          "cssClass": ".pokesprite.pokemon.voltorb-anime-watermelon.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       }
     ]
   },
@@ -20732,6 +21844,52 @@
           "modifiers": [
             "shiny",
             "n3ds"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Electrode-Bonus-Anime-Natasha",
+          "slug": "electrode-anime-natasha",
+          "cssClass": ".pokesprite.pokemon.electrode-anime-natasha",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Electrode-Bonus-Anime-Natasha-★",
+          "slug": "electrode-anime-natasha",
+          "cssClass": ".pokesprite.pokemon.electrode-anime-natasha.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Electrode-Bonus-Anime-Natasha-3DS",
+          "slug": "electrode-anime-natasha",
+          "cssClass": ".pokesprite.pokemon.electrode-anime-natasha.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Electrode-Bonus-Anime-Natasha-3DS-★",
+          "slug": "electrode-anime-natasha",
+          "cssClass": ".pokesprite.pokemon.electrode-anime-natasha.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
           ]
         }
       }
@@ -22350,6 +23508,102 @@
             "shiny"
           ]
         }
+      },
+      {
+        "regular": {
+          "name": "Scyther-Bonus-Anime-Tracey",
+          "slug": "scyther-anime-tracey",
+          "cssClass": ".pokesprite.pokemon.scyther-anime-tracey",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Scyther-Bonus-Anime-Tracey-★",
+          "slug": "scyther-anime-tracey",
+          "cssClass": ".pokesprite.pokemon.scyther-anime-tracey.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Scyther-Bonus-Anime-Tracey-3DS",
+          "slug": "scyther-anime-tracey",
+          "cssClass": ".pokesprite.pokemon.scyther-anime-tracey.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Scyther-Bonus-Anime-Tracey-3DS-★",
+          "slug": "scyther-anime-tracey",
+          "cssClass": ".pokesprite.pokemon.scyther-anime-tracey.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Scyther-Bonus-Anime-Tracey-Switch-LGPE",
+          "slug": "scyther-anime-tracey-lgpe",
+          "cssClass": ".pokesprite.pokemon.scyther-anime-tracey-lgpe.switch",
+          "modifiers": [
+            "switch"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Scyther-Bonus-Anime-Tracey-Switch-LGPE-★",
+          "slug": "scyther-anime-tracey-lgpe",
+          "cssClass": ".pokesprite.pokemon.scyther-anime-tracey-lgpe.switch.shiny",
+          "modifiers": [
+            "switch",
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Scyther-Bonus-Anime-Tracey-Switch-SwSh",
+          "slug": "scyther-anime-tracey-sw-sh",
+          "cssClass": ".pokesprite.pokemon.scyther-anime-tracey-sw-sh.switch",
+          "modifiers": [
+            "switch"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Scyther-Bonus-Anime-Tracey-Switch-SwSh-★",
+          "slug": "scyther-anime-tracey-sw-sh",
+          "cssClass": ".pokesprite.pokemon.scyther-anime-tracey-sw-sh.switch.shiny",
+          "modifiers": [
+            "switch",
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       }
     ]
   },
@@ -23176,6 +24430,69 @@
       },
       {
         "regular": {
+          "name": "Magikarp-Bonus-Anime-AG079",
+          "slug": "magikarp-anime-ag079",
+          "cssClass": ".pokesprite.pokemon.magikarp-anime-ag079",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Magikarp-Bonus-Anime-AG079-★",
+          "slug": "magikarp-anime-ag079",
+          "cssClass": ".pokesprite.pokemon.magikarp-anime-ag079.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Magikarp-Bonus-Concierge",
+          "slug": "magikarp-concierge",
+          "cssClass": ".pokesprite.pokemon.magikarp-concierge",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Magikarp-Bonus-Concierge-★",
+          "slug": "magikarp-concierge",
+          "cssClass": ".pokesprite.pokemon.magikarp-concierge.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Magikarp-Bonus-Concierge-F",
+          "slug": "magikarp-concierge-f",
+          "cssClass": ".pokesprite.pokemon.magikarp-concierge-f",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Magikarp-Bonus-Concierge-F-★",
+          "slug": "magikarp-concierge-f",
+          "cssClass": ".pokesprite.pokemon.magikarp-concierge-f.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
           "name": "Magikarp-Bonus-Jump-ApricotStripes",
           "slug": "magikarp-jump-apricot-stripes",
           "cssClass": ".pokesprite.pokemon.magikarp-jump-apricot-stripes",
@@ -23941,6 +25258,98 @@
             "n3ds"
           ]
         }
+      },
+      {
+        "regular": {
+          "name": "Gyarados-Bonus-Concierge",
+          "slug": "gyarados-concierge",
+          "cssClass": ".pokesprite.pokemon.gyarados-concierge",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Gyarados-Bonus-Concierge-★",
+          "slug": "gyarados-concierge",
+          "cssClass": ".pokesprite.pokemon.gyarados-concierge.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Gyarados-Bonus-Concierge-3DS",
+          "slug": "gyarados-concierge",
+          "cssClass": ".pokesprite.pokemon.gyarados-concierge.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Gyarados-Bonus-Concierge-3DS-★",
+          "slug": "gyarados-concierge",
+          "cssClass": ".pokesprite.pokemon.gyarados-concierge.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Gyarados-Bonus-Concierge-F",
+          "slug": "gyarados-concierge-f",
+          "cssClass": ".pokesprite.pokemon.gyarados-concierge-f",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Gyarados-Bonus-Concierge-F-★",
+          "slug": "gyarados-concierge-f",
+          "cssClass": ".pokesprite.pokemon.gyarados-concierge-f.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Gyarados-Bonus-Concierge-F-3DS",
+          "slug": "gyarados-concierge-f",
+          "cssClass": ".pokesprite.pokemon.gyarados-concierge-f.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Gyarados-Bonus-Concierge-F-3DS-★",
+          "slug": "gyarados-concierge-f",
+          "cssClass": ".pokesprite.pokemon.gyarados-concierge-f.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       }
     ]
   },
@@ -24110,6 +25519,144 @@
       },
       {
         "regular": {
+          "name": "Lapras-Bonus-Anime-Ash",
+          "slug": "lapras-anime-ash",
+          "cssClass": ".pokesprite.pokemon.lapras-anime-ash",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Lapras-Bonus-Anime-Ash-★",
+          "slug": "lapras-anime-ash",
+          "cssClass": ".pokesprite.pokemon.lapras-anime-ash.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Lapras-Bonus-Anime-Ash-3DS",
+          "slug": "lapras-anime-ash",
+          "cssClass": ".pokesprite.pokemon.lapras-anime-ash.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Lapras-Bonus-Anime-Ash-3DS-★",
+          "slug": "lapras-anime-ash",
+          "cssClass": ".pokesprite.pokemon.lapras-anime-ash.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Lapras-Bonus-Anime-AshMom",
+          "slug": "lapras-anime-ash-mom",
+          "cssClass": ".pokesprite.pokemon.lapras-anime-ash-mom",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Lapras-Bonus-Anime-AshMom-★",
+          "slug": "lapras-anime-ash-mom",
+          "cssClass": ".pokesprite.pokemon.lapras-anime-ash-mom.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Lapras-Bonus-Anime-AshMom-3DS",
+          "slug": "lapras-anime-ash-mom",
+          "cssClass": ".pokesprite.pokemon.lapras-anime-ash-mom.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Lapras-Bonus-Anime-AshMom-3DS-★",
+          "slug": "lapras-anime-ash-mom",
+          "cssClass": ".pokesprite.pokemon.lapras-anime-ash-mom.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Lapras-Bonus-Anime-Lucius",
+          "slug": "lapras-anime-lucius",
+          "cssClass": ".pokesprite.pokemon.lapras-anime-lucius",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Lapras-Bonus-Anime-Lucius-★",
+          "slug": "lapras-anime-lucius",
+          "cssClass": ".pokesprite.pokemon.lapras-anime-lucius.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Lapras-Bonus-Anime-Lucius-3DS",
+          "slug": "lapras-anime-lucius",
+          "cssClass": ".pokesprite.pokemon.lapras-anime-lucius.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Lapras-Bonus-Anime-Lucius-3DS-★",
+          "slug": "lapras-anime-lucius",
+          "cssClass": ".pokesprite.pokemon.lapras-anime-lucius.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
           "name": "Lapras-Bonus-PageRider",
           "slug": "lapras-page-rider",
           "cssClass": ".pokesprite.pokemon.lapras-page-rider",
@@ -24145,6 +25692,52 @@
           "name": "Lapras-Bonus-PageRider-3DS-★",
           "slug": "lapras-page-rider",
           "cssClass": ".pokesprite.pokemon.lapras-page-rider.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Lapras-Bonus-PodLeader",
+          "slug": "lapras-pod-leader",
+          "cssClass": ".pokesprite.pokemon.lapras-pod-leader",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Lapras-Bonus-PodLeader-★",
+          "slug": "lapras-pod-leader",
+          "cssClass": ".pokesprite.pokemon.lapras-pod-leader.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Lapras-Bonus-PodLeader-3DS",
+          "slug": "lapras-pod-leader",
+          "cssClass": ".pokesprite.pokemon.lapras-pod-leader.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Lapras-Bonus-PodLeader-3DS-★",
+          "slug": "lapras-pod-leader",
+          "cssClass": ".pokesprite.pokemon.lapras-pod-leader.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -25082,6 +26675,52 @@
           ],
           "categories": [
             "go"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Eevee-Bonus-Anime-Sandy",
+          "slug": "eevee-anime-sandy",
+          "cssClass": ".pokesprite.pokemon.eevee-anime-sandy",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Eevee-Bonus-Anime-Sandy-★",
+          "slug": "eevee-anime-sandy",
+          "cssClass": ".pokesprite.pokemon.eevee-anime-sandy.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Eevee-Bonus-Anime-Sandy-3DS",
+          "slug": "eevee-anime-sandy",
+          "cssClass": ".pokesprite.pokemon.eevee-anime-sandy.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Eevee-Bonus-Anime-Sandy-3DS-★",
+          "slug": "eevee-anime-sandy",
+          "cssClass": ".pokesprite.pokemon.eevee-anime-sandy.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
           ]
         }
       },
@@ -30384,6 +32023,27 @@
           "cssClass": ".pokesprite.pokemon.hoppip.shiny",
           "modifiers": [
             "shiny"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Hoppip-Bonus-Anime-AG084",
+          "slug": "hoppip-anime-ag084",
+          "cssClass": ".pokesprite.pokemon.hoppip-anime-ag084",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Hoppip-Bonus-Anime-AG084-★",
+          "slug": "hoppip-anime-ag084",
+          "cssClass": ".pokesprite.pokemon.hoppip-anime-ag084.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
           ]
         }
       }
@@ -41531,6 +43191,52 @@
             "n3ds"
           ]
         }
+      },
+      {
+        "regular": {
+          "name": "Whiscash-Bonus-Anime-Nero",
+          "slug": "whiscash-anime-nero",
+          "cssClass": ".pokesprite.pokemon.whiscash-anime-nero",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Whiscash-Bonus-Anime-Nero-★",
+          "slug": "whiscash-anime-nero",
+          "cssClass": ".pokesprite.pokemon.whiscash-anime-nero.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Whiscash-Bonus-Anime-Nero-3DS",
+          "slug": "whiscash-anime-nero",
+          "cssClass": ".pokesprite.pokemon.whiscash-anime-nero.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Whiscash-Bonus-Anime-Nero-3DS-★",
+          "slug": "whiscash-anime-nero",
+          "cssClass": ".pokesprite.pokemon.whiscash-anime-nero.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       }
     ]
   },
@@ -42580,6 +44286,40 @@
           "name": "Absol-Mega-3DS-★",
           "slug": "absol-mega",
           "cssClass": ".pokesprite.pokemon.absol-mega.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Absol-Megaz",
+          "slug": "absol-megaz",
+          "cssClass": ".pokesprite.pokemon.absol-megaz"
+        },
+        "shiny": {
+          "name": "Absol-Megaz-★",
+          "slug": "absol-megaz",
+          "cssClass": ".pokesprite.pokemon.absol-megaz.shiny",
+          "modifiers": [
+            "shiny"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Absol-Megaz-3DS",
+          "slug": "absol-megaz",
+          "cssClass": ".pokesprite.pokemon.absol-megaz.n3ds",
+          "modifiers": [
+            "n3ds"
+          ]
+        },
+        "shiny": {
+          "name": "Absol-Megaz-3DS-★",
+          "slug": "absol-megaz",
+          "cssClass": ".pokesprite.pokemon.absol-megaz.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -44877,6 +46617,40 @@
           "name": "Staraptor-F-3DS-★",
           "slug": "staraptor-f",
           "cssClass": ".pokesprite.pokemon.staraptor-f.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Staraptor-Mega",
+          "slug": "staraptor-mega",
+          "cssClass": ".pokesprite.pokemon.staraptor-mega"
+        },
+        "shiny": {
+          "name": "Staraptor-Mega-★",
+          "slug": "staraptor-mega",
+          "cssClass": ".pokesprite.pokemon.staraptor-mega.shiny",
+          "modifiers": [
+            "shiny"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Staraptor-Mega-3DS",
+          "slug": "staraptor-mega",
+          "cssClass": ".pokesprite.pokemon.staraptor-mega.n3ds",
+          "modifiers": [
+            "n3ds"
+          ]
+        },
+        "shiny": {
+          "name": "Staraptor-Mega-3DS-★",
+          "slug": "staraptor-mega",
+          "cssClass": ".pokesprite.pokemon.staraptor-mega.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -47536,6 +49310,40 @@
       },
       {
         "regular": {
+          "name": "Garchomp-Megaz",
+          "slug": "garchomp-megaz",
+          "cssClass": ".pokesprite.pokemon.garchomp-megaz"
+        },
+        "shiny": {
+          "name": "Garchomp-Megaz-★",
+          "slug": "garchomp-megaz",
+          "cssClass": ".pokesprite.pokemon.garchomp-megaz.shiny",
+          "modifiers": [
+            "shiny"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Garchomp-Megaz-3DS",
+          "slug": "garchomp-megaz",
+          "cssClass": ".pokesprite.pokemon.garchomp-megaz.n3ds",
+          "modifiers": [
+            "n3ds"
+          ]
+        },
+        "shiny": {
+          "name": "Garchomp-Megaz-3DS-★",
+          "slug": "garchomp-megaz",
+          "cssClass": ".pokesprite.pokemon.garchomp-megaz.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ]
+        }
+      },
+      {
+        "regular": {
           "name": "Garchomp-Bonus-Pokken",
           "slug": "garchomp-pokken",
           "cssClass": ".pokesprite.pokemon.garchomp-pokken",
@@ -47753,6 +49561,40 @@
           "name": "Lucario-Mega-3DS-★",
           "slug": "lucario-mega",
           "cssClass": ".pokesprite.pokemon.lucario-mega.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Lucario-Megaz",
+          "slug": "lucario-megaz",
+          "cssClass": ".pokesprite.pokemon.lucario-megaz"
+        },
+        "shiny": {
+          "name": "Lucario-Megaz-★",
+          "slug": "lucario-megaz",
+          "cssClass": ".pokesprite.pokemon.lucario-megaz.shiny",
+          "modifiers": [
+            "shiny"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Lucario-Megaz-3DS",
+          "slug": "lucario-megaz",
+          "cssClass": ".pokesprite.pokemon.lucario-megaz.n3ds",
+          "modifiers": [
+            "n3ds"
+          ]
+        },
+        "shiny": {
+          "name": "Lucario-Megaz-3DS-★",
+          "slug": "lucario-megaz",
+          "cssClass": ".pokesprite.pokemon.lucario-megaz.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -53287,6 +55129,40 @@
             "n3ds"
           ]
         }
+      },
+      {
+        "regular": {
+          "name": "Heatran-Mega",
+          "slug": "heatran-mega",
+          "cssClass": ".pokesprite.pokemon.heatran-mega"
+        },
+        "shiny": {
+          "name": "Heatran-Mega-★",
+          "slug": "heatran-mega",
+          "cssClass": ".pokesprite.pokemon.heatran-mega.shiny",
+          "modifiers": [
+            "shiny"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Heatran-Mega-3DS",
+          "slug": "heatran-mega",
+          "cssClass": ".pokesprite.pokemon.heatran-mega.n3ds",
+          "modifiers": [
+            "n3ds"
+          ]
+        },
+        "shiny": {
+          "name": "Heatran-Mega-3DS-★",
+          "slug": "heatran-mega",
+          "cssClass": ".pokesprite.pokemon.heatran-mega.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ]
+        }
       }
     ]
   },
@@ -53606,6 +55482,40 @@
           "name": "Darkrai-3DS-★",
           "slug": "darkrai",
           "cssClass": ".pokesprite.pokemon.darkrai.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Darkrai-Mega",
+          "slug": "darkrai-mega",
+          "cssClass": ".pokesprite.pokemon.darkrai-mega"
+        },
+        "shiny": {
+          "name": "Darkrai-Mega-★",
+          "slug": "darkrai-mega",
+          "cssClass": ".pokesprite.pokemon.darkrai-mega.shiny",
+          "modifiers": [
+            "shiny"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Darkrai-Mega-3DS",
+          "slug": "darkrai-mega",
+          "cssClass": ".pokesprite.pokemon.darkrai-mega.n3ds",
+          "modifiers": [
+            "n3ds"
+          ]
+        },
+        "shiny": {
+          "name": "Darkrai-Mega-3DS-★",
+          "slug": "darkrai-mega",
+          "cssClass": ".pokesprite.pokemon.darkrai-mega.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -54636,6 +56546,44 @@
           "modifiers": [
             "shiny",
             "n3ds"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Emboar-Mega-Switch-Optional",
+          "slug": "emboar-mega-optional",
+          "cssClass": ".pokesprite.pokemon.emboar-mega-optional.switch",
+          "modifiers": [
+            "switch"
+          ]
+        },
+        "shiny": {
+          "name": "Emboar-Mega-Switch-Optional-★",
+          "slug": "emboar-mega-optional",
+          "cssClass": ".pokesprite.pokemon.emboar-mega-optional.switch.shiny",
+          "modifiers": [
+            "switch",
+            "shiny"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Emboar-Switch-Optional",
+          "slug": "emboar-optional",
+          "cssClass": ".pokesprite.pokemon.emboar-optional.switch",
+          "modifiers": [
+            "switch"
+          ]
+        },
+        "shiny": {
+          "name": "Emboar-Switch-Optional-★",
+          "slug": "emboar-optional",
+          "cssClass": ".pokesprite.pokemon.emboar-optional.switch.shiny",
+          "modifiers": [
+            "switch",
+            "shiny"
           ]
         }
       }
@@ -60399,6 +62347,40 @@
       },
       {
         "regular": {
+          "name": "Golurk-Mega",
+          "slug": "golurk-mega",
+          "cssClass": ".pokesprite.pokemon.golurk-mega"
+        },
+        "shiny": {
+          "name": "Golurk-Mega-★",
+          "slug": "golurk-mega",
+          "cssClass": ".pokesprite.pokemon.golurk-mega.shiny",
+          "modifiers": [
+            "shiny"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Golurk-Mega-3DS",
+          "slug": "golurk-mega",
+          "cssClass": ".pokesprite.pokemon.golurk-mega.n3ds",
+          "modifiers": [
+            "n3ds"
+          ]
+        },
+        "shiny": {
+          "name": "Golurk-Mega-3DS-★",
+          "slug": "golurk-mega",
+          "cssClass": ".pokesprite.pokemon.golurk-mega.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ]
+        }
+      },
+      {
+        "regular": {
           "name": "Golurk-Switch-SwSh",
           "slug": "golurk-sw-sh",
           "cssClass": ".pokesprite.pokemon.golurk-sw-sh.switch",
@@ -62352,6 +64334,52 @@
       },
       {
         "regular": {
+          "name": "Braixen-Bonus-Anime-Serena",
+          "slug": "braixen-anime-serena",
+          "cssClass": ".pokesprite.pokemon.braixen-anime-serena",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Braixen-Bonus-Anime-Serena-★",
+          "slug": "braixen-anime-serena",
+          "cssClass": ".pokesprite.pokemon.braixen-anime-serena.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Braixen-Bonus-Anime-Serena-3DS",
+          "slug": "braixen-anime-serena",
+          "cssClass": ".pokesprite.pokemon.braixen-anime-serena.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Braixen-Bonus-Anime-Serena-3DS-★",
+          "slug": "braixen-anime-serena",
+          "cssClass": ".pokesprite.pokemon.braixen-anime-serena.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
           "name": "Braixen-Bonus-Pokken",
           "slug": "braixen-pokken",
           "cssClass": ".pokesprite.pokemon.braixen-pokken",
@@ -64140,6 +66168,40 @@
       },
       {
         "regular": {
+          "name": "Pyroar-F-Mega",
+          "slug": "pyroar-f-mega",
+          "cssClass": ".pokesprite.pokemon.pyroar-f-mega"
+        },
+        "shiny": {
+          "name": "Pyroar-F-Mega-★",
+          "slug": "pyroar-f-mega",
+          "cssClass": ".pokesprite.pokemon.pyroar-f-mega.shiny",
+          "modifiers": [
+            "shiny"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Pyroar-F-Mega-3DS",
+          "slug": "pyroar-f-mega",
+          "cssClass": ".pokesprite.pokemon.pyroar-f-mega.n3ds",
+          "modifiers": [
+            "n3ds"
+          ]
+        },
+        "shiny": {
+          "name": "Pyroar-F-Mega-3DS-★",
+          "slug": "pyroar-f-mega",
+          "cssClass": ".pokesprite.pokemon.pyroar-f-mega.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ]
+        }
+      },
+      {
+        "regular": {
           "name": "Pyroar-Mega",
           "slug": "pyroar-mega",
           "cssClass": ".pokesprite.pokemon.pyroar-mega"
@@ -65497,6 +67559,74 @@
           "name": "Meowstic-F-3DS-★",
           "slug": "meowstic-f",
           "cssClass": ".pokesprite.pokemon.meowstic-f.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Meowstic-F-Mega",
+          "slug": "meowstic-f-mega",
+          "cssClass": ".pokesprite.pokemon.meowstic-f-mega"
+        },
+        "shiny": {
+          "name": "Meowstic-F-Mega-★",
+          "slug": "meowstic-f-mega",
+          "cssClass": ".pokesprite.pokemon.meowstic-f-mega.shiny",
+          "modifiers": [
+            "shiny"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Meowstic-F-Mega-3DS",
+          "slug": "meowstic-f-mega",
+          "cssClass": ".pokesprite.pokemon.meowstic-f-mega.n3ds",
+          "modifiers": [
+            "n3ds"
+          ]
+        },
+        "shiny": {
+          "name": "Meowstic-F-Mega-3DS-★",
+          "slug": "meowstic-f-mega",
+          "cssClass": ".pokesprite.pokemon.meowstic-f-mega.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Meowstic-Mega",
+          "slug": "meowstic-mega",
+          "cssClass": ".pokesprite.pokemon.meowstic-mega"
+        },
+        "shiny": {
+          "name": "Meowstic-Mega-★",
+          "slug": "meowstic-mega",
+          "cssClass": ".pokesprite.pokemon.meowstic-mega.shiny",
+          "modifiers": [
+            "shiny"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Meowstic-Mega-3DS",
+          "slug": "meowstic-mega",
+          "cssClass": ".pokesprite.pokemon.meowstic-mega.n3ds",
+          "modifiers": [
+            "n3ds"
+          ]
+        },
+        "shiny": {
+          "name": "Meowstic-Mega-3DS-★",
+          "slug": "meowstic-mega",
+          "cssClass": ".pokesprite.pokemon.meowstic-mega.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -69670,6 +71800,40 @@
             "n3ds"
           ]
         }
+      },
+      {
+        "regular": {
+          "name": "Crabominable-Mega",
+          "slug": "crabominable-mega",
+          "cssClass": ".pokesprite.pokemon.crabominable-mega"
+        },
+        "shiny": {
+          "name": "Crabominable-Mega-★",
+          "slug": "crabominable-mega",
+          "cssClass": ".pokesprite.pokemon.crabominable-mega.shiny",
+          "modifiers": [
+            "shiny"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Crabominable-Mega-3DS",
+          "slug": "crabominable-mega",
+          "cssClass": ".pokesprite.pokemon.crabominable-mega.n3ds",
+          "modifiers": [
+            "n3ds"
+          ]
+        },
+        "shiny": {
+          "name": "Crabominable-Mega-3DS-★",
+          "slug": "crabominable-mega",
+          "cssClass": ".pokesprite.pokemon.crabominable-mega.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ]
+        }
       }
     ]
   },
@@ -71037,6 +73201,40 @@
           "name": "Golisopod-3DS-★",
           "slug": "golisopod",
           "cssClass": ".pokesprite.pokemon.golisopod.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Golisopod-Mega",
+          "slug": "golisopod-mega",
+          "cssClass": ".pokesprite.pokemon.golisopod-mega"
+        },
+        "shiny": {
+          "name": "Golisopod-Mega-★",
+          "slug": "golisopod-mega",
+          "cssClass": ".pokesprite.pokemon.golisopod-mega.shiny",
+          "modifiers": [
+            "shiny"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Golisopod-Mega-3DS",
+          "slug": "golisopod-mega",
+          "cssClass": ".pokesprite.pokemon.golisopod-mega.n3ds",
+          "modifiers": [
+            "n3ds"
+          ]
+        },
+        "shiny": {
+          "name": "Golisopod-Mega-3DS-★",
+          "slug": "golisopod-mega",
+          "cssClass": ".pokesprite.pokemon.golisopod-mega.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -73688,6 +75886,40 @@
       },
       {
         "regular": {
+          "name": "Magearna-Mega",
+          "slug": "magearna-mega",
+          "cssClass": ".pokesprite.pokemon.magearna-mega"
+        },
+        "shiny": {
+          "name": "Magearna-Mega-★",
+          "slug": "magearna-mega",
+          "cssClass": ".pokesprite.pokemon.magearna-mega.shiny",
+          "modifiers": [
+            "shiny"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Magearna-Mega-3DS",
+          "slug": "magearna-mega",
+          "cssClass": ".pokesprite.pokemon.magearna-mega.n3ds",
+          "modifiers": [
+            "n3ds"
+          ]
+        },
+        "shiny": {
+          "name": "Magearna-Mega-3DS-★",
+          "slug": "magearna-mega",
+          "cssClass": ".pokesprite.pokemon.magearna-mega.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ]
+        }
+      },
+      {
+        "regular": {
           "name": "Magearna-OriginalLivery",
           "slug": "magearna-original",
           "cssClass": ".pokesprite.pokemon.magearna-original"
@@ -73722,6 +75954,40 @@
       },
       {
         "regular": {
+          "name": "Magearna-OriginalLivery-Mega",
+          "slug": "magearna-original-mega",
+          "cssClass": ".pokesprite.pokemon.magearna-original-mega"
+        },
+        "shiny": {
+          "name": "Magearna-OriginalLivery-Mega-★",
+          "slug": "magearna-original-mega",
+          "cssClass": ".pokesprite.pokemon.magearna-original-mega.shiny",
+          "modifiers": [
+            "shiny"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Magearna-OriginalLivery-Mega-3DS",
+          "slug": "magearna-original-mega",
+          "cssClass": ".pokesprite.pokemon.magearna-original-mega.n3ds",
+          "modifiers": [
+            "n3ds"
+          ]
+        },
+        "shiny": {
+          "name": "Magearna-OriginalLivery-Mega-3DS-★",
+          "slug": "magearna-original-mega",
+          "cssClass": ".pokesprite.pokemon.magearna-original-mega.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ]
+        }
+      },
+      {
+        "regular": {
           "name": "Magearna-PresentDay",
           "slug": "magearna-present-day",
           "cssClass": ".pokesprite.pokemon.magearna-present-day"
@@ -73748,6 +76014,40 @@
           "name": "Magearna-PresentDay-3DS-★",
           "slug": "magearna-present-day",
           "cssClass": ".pokesprite.pokemon.magearna-present-day.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Magearna-PresentDay-Mega",
+          "slug": "magearna-present-day-mega",
+          "cssClass": ".pokesprite.pokemon.magearna-present-day-mega"
+        },
+        "shiny": {
+          "name": "Magearna-PresentDay-Mega-★",
+          "slug": "magearna-present-day-mega",
+          "cssClass": ".pokesprite.pokemon.magearna-present-day-mega.shiny",
+          "modifiers": [
+            "shiny"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Magearna-PresentDay-Mega-3DS",
+          "slug": "magearna-present-day-mega",
+          "cssClass": ".pokesprite.pokemon.magearna-present-day-mega.n3ds",
+          "modifiers": [
+            "n3ds"
+          ]
+        },
+        "shiny": {
+          "name": "Magearna-PresentDay-Mega-3DS-★",
+          "slug": "magearna-present-day-mega",
+          "cssClass": ".pokesprite.pokemon.magearna-present-day-mega.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -83807,6 +86107,40 @@
             "n3ds"
           ]
         }
+      },
+      {
+        "regular": {
+          "name": "Scovillain-Mega",
+          "slug": "scovillain-mega",
+          "cssClass": ".pokesprite.pokemon.scovillain-mega"
+        },
+        "shiny": {
+          "name": "Scovillain-Mega-★",
+          "slug": "scovillain-mega",
+          "cssClass": ".pokesprite.pokemon.scovillain-mega.shiny",
+          "modifiers": [
+            "shiny"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Scovillain-Mega-3DS",
+          "slug": "scovillain-mega",
+          "cssClass": ".pokesprite.pokemon.scovillain-mega.n3ds",
+          "modifiers": [
+            "n3ds"
+          ]
+        },
+        "shiny": {
+          "name": "Scovillain-Mega-3DS-★",
+          "slug": "scovillain-mega",
+          "cssClass": ".pokesprite.pokemon.scovillain-mega.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ]
+        }
       }
     ]
   },
@@ -84734,6 +87068,40 @@
             "n3ds"
           ]
         }
+      },
+      {
+        "regular": {
+          "name": "Glimmora-Mega",
+          "slug": "glimmora-mega",
+          "cssClass": ".pokesprite.pokemon.glimmora-mega"
+        },
+        "shiny": {
+          "name": "Glimmora-Mega-★",
+          "slug": "glimmora-mega",
+          "cssClass": ".pokesprite.pokemon.glimmora-mega.shiny",
+          "modifiers": [
+            "shiny"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Glimmora-Mega-3DS",
+          "slug": "glimmora-mega",
+          "cssClass": ".pokesprite.pokemon.glimmora-mega.n3ds",
+          "modifiers": [
+            "n3ds"
+          ]
+        },
+        "shiny": {
+          "name": "Glimmora-Mega-3DS-★",
+          "slug": "glimmora-mega",
+          "cssClass": ".pokesprite.pokemon.glimmora-mega.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ]
+        }
       }
     ]
   },
@@ -85053,6 +87421,40 @@
       },
       {
         "regular": {
+          "name": "Tatsugiri-Curly-Mega",
+          "slug": "tatsugiri-curly-mega",
+          "cssClass": ".pokesprite.pokemon.tatsugiri-curly-mega"
+        },
+        "shiny": {
+          "name": "Tatsugiri-Curly-Mega-★",
+          "slug": "tatsugiri-curly-mega",
+          "cssClass": ".pokesprite.pokemon.tatsugiri-curly-mega.shiny",
+          "modifiers": [
+            "shiny"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Tatsugiri-Curly-Mega-3DS",
+          "slug": "tatsugiri-curly-mega",
+          "cssClass": ".pokesprite.pokemon.tatsugiri-curly-mega.n3ds",
+          "modifiers": [
+            "n3ds"
+          ]
+        },
+        "shiny": {
+          "name": "Tatsugiri-Curly-Mega-3DS-★",
+          "slug": "tatsugiri-curly-mega",
+          "cssClass": ".pokesprite.pokemon.tatsugiri-curly-mega.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ]
+        }
+      },
+      {
+        "regular": {
           "name": "Tatsugiri-Droopy",
           "slug": "tatsugiri-droopy",
           "cssClass": ".pokesprite.pokemon.tatsugiri-droopy"
@@ -85087,6 +87489,74 @@
       },
       {
         "regular": {
+          "name": "Tatsugiri-Droopy-Mega",
+          "slug": "tatsugiri-droopy-mega",
+          "cssClass": ".pokesprite.pokemon.tatsugiri-droopy-mega"
+        },
+        "shiny": {
+          "name": "Tatsugiri-Droopy-Mega-★",
+          "slug": "tatsugiri-droopy-mega",
+          "cssClass": ".pokesprite.pokemon.tatsugiri-droopy-mega.shiny",
+          "modifiers": [
+            "shiny"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Tatsugiri-Droopy-Mega-3DS",
+          "slug": "tatsugiri-droopy-mega",
+          "cssClass": ".pokesprite.pokemon.tatsugiri-droopy-mega.n3ds",
+          "modifiers": [
+            "n3ds"
+          ]
+        },
+        "shiny": {
+          "name": "Tatsugiri-Droopy-Mega-3DS-★",
+          "slug": "tatsugiri-droopy-mega",
+          "cssClass": ".pokesprite.pokemon.tatsugiri-droopy-mega.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Tatsugiri-Mega",
+          "slug": "tatsugiri-mega",
+          "cssClass": ".pokesprite.pokemon.tatsugiri-mega"
+        },
+        "shiny": {
+          "name": "Tatsugiri-Mega-★",
+          "slug": "tatsugiri-mega",
+          "cssClass": ".pokesprite.pokemon.tatsugiri-mega.shiny",
+          "modifiers": [
+            "shiny"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Tatsugiri-Mega-3DS",
+          "slug": "tatsugiri-mega",
+          "cssClass": ".pokesprite.pokemon.tatsugiri-mega.n3ds",
+          "modifiers": [
+            "n3ds"
+          ]
+        },
+        "shiny": {
+          "name": "Tatsugiri-Mega-3DS-★",
+          "slug": "tatsugiri-mega",
+          "cssClass": ".pokesprite.pokemon.tatsugiri-mega.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ]
+        }
+      },
+      {
+        "regular": {
           "name": "Tatsugiri-Stretchy",
           "slug": "tatsugiri-stretchy",
           "cssClass": ".pokesprite.pokemon.tatsugiri-stretchy"
@@ -85113,6 +87583,40 @@
           "name": "Tatsugiri-Stretchy-3DS-★",
           "slug": "tatsugiri-stretchy",
           "cssClass": ".pokesprite.pokemon.tatsugiri-stretchy.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Tatsugiri-Stretchy-Mega",
+          "slug": "tatsugiri-stretchy-mega",
+          "cssClass": ".pokesprite.pokemon.tatsugiri-stretchy-mega"
+        },
+        "shiny": {
+          "name": "Tatsugiri-Stretchy-Mega-★",
+          "slug": "tatsugiri-stretchy-mega",
+          "cssClass": ".pokesprite.pokemon.tatsugiri-stretchy-mega.shiny",
+          "modifiers": [
+            "shiny"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Tatsugiri-Stretchy-Mega-3DS",
+          "slug": "tatsugiri-stretchy-mega",
+          "cssClass": ".pokesprite.pokemon.tatsugiri-stretchy-mega.n3ds",
+          "modifiers": [
+            "n3ds"
+          ]
+        },
+        "shiny": {
+          "name": "Tatsugiri-Stretchy-Mega-3DS-★",
+          "slug": "tatsugiri-stretchy-mega",
+          "cssClass": ".pokesprite.pokemon.tatsugiri-stretchy-mega.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
