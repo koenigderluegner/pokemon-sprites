@@ -86088,6 +86088,52 @@
             "n3ds"
           ]
         }
+      },
+      {
+        "regular": {
+          "name": "Kleavor-Bonus-Anime-Lucius",
+          "slug": "kleavor-anime-lucius",
+          "cssClass": ".pokesprite.pokemon.kleavor-anime-lucius",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Kleavor-Bonus-Anime-Lucius-★",
+          "slug": "kleavor-anime-lucius",
+          "cssClass": ".pokesprite.pokemon.kleavor-anime-lucius.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Kleavor-Bonus-Anime-Lucius-3DS",
+          "slug": "kleavor-anime-lucius",
+          "cssClass": ".pokesprite.pokemon.kleavor-anime-lucius.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Kleavor-Bonus-Anime-Lucius-3DS-★",
+          "slug": "kleavor-anime-lucius",
+          "cssClass": ".pokesprite.pokemon.kleavor-anime-lucius.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       }
     ]
   },
