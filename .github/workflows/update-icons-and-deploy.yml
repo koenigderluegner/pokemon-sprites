@@ -1,0 +1,60 @@
+name: Update Icons and Deploy
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Run update-all script
+        run: npm run update-all
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          # Check if there are changes to commit
+          if [ -n "$(git status --porcelain)" ]; then
+            git add .
+            git commit -m "chore: auto-update icons, spritesheets, and docs [skip ci]"
+            git push
+          else
+            echo "No changes to commit"
+          fi
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          # Point this to your generated documentation/dist folder
+          # Based on your Nx setup, this is likely 'dist/apps/pokemon-sprite' or 'apps/pokemon-sprite/docs'
+          path: './dist/apps/pokemon-sprite'
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
