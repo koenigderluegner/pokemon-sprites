@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "license": "MIT",
   "scripts": {
-    "update-all": "nx run pokemon-sprite:convert-assets:convert && nx run pokemon-sprite:generate-spritesheet:generate && nx run pokemon-sprite:generate-docs:generate"
+    "update-all": "nx run pokemon-sprite:unzip-assets:generate && git add apps/pokemon-sprite/src/assets/icons/\\* &&  nx run pokemon-sprite:convert-assets:convert && nx run pokemon-sprite:generate-spritesheet:generate && nx run pokemon-sprite:generate-docs:generate"
   },
   "private": true,
   "dependencies": {
