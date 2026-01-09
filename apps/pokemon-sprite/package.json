@@ -64,6 +64,17 @@
         },
         "defaultConfiguration": "generate"
       },
+      "unzip-assets": {
+        "executor": "nx:run-commands",
+        "configurations": {
+          "generate": {
+            "commands": [
+              "ts-node apps/pokemon-sprite/src/unzip/unzip.ts"
+            ]
+          }
+        },
+        "defaultConfiguration": "generate"
+      },
       "convert-assets": {
         "executor": "nx:run-commands",
         "configurations": {
