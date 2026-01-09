@@ -44,17 +44,3 @@ jobs:
           else
             echo "No changes to commit"
           fi
-
-      - name: Setup Pages
-        uses: actions/configure-pages@v5
-
-      - name: Upload Pages artifact
-        uses: actions/upload-pages-artifact@v3
-        with:
-          # Point this to your generated documentation/dist folder
-          # Based on your Nx setup, this is likely 'dist/apps/pokemon-sprite' or 'apps/pokemon-sprite/docs'
-          path: './dist/apps/pokemon-sprite'
-
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v4
