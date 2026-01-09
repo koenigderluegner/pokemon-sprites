@@ -3,14 +3,29 @@ import * as unzipper from 'unzipper';
 import fg from 'fast-glob';
 import path from 'path';
 
-const entries: string[] = fg.sync([fg.convertPathToPattern(path.join(__dirname, './*.zip'))], {dot: true});
 
-if (entries.length !== 1) throw new Error('Found ' + entries.length + ' zip files, expected 1.');
+const targetPath = path.join(__dirname, '../assets/icons/menu-sprites');
+const zipPaths: string[] = fg.sync([fg.convertPathToPattern(path.join(__dirname, './*.zip'))], {dot: true});
+
+if (zipPaths.length !== 1) throw new Error('Found ' + zipPaths.length + ' zip files, expected 1.');
+
+const zipPath = zipPaths[0];
 
 async function unpack() {
-  await fs.createReadStream(entries[0])
-    .pipe(unzipper.Extract({path: path.join(__dirname, '../assets/icons/menu-sprites')}))
-    .promise();
+  fs.mkdirSync(targetPath, { recursive: true } );
+  const directory = await unzipper.Open.file(zipPath);
+
+
+  for (const entry of directory.files) {
+    const isFileInNormalDirectory = entry.path.startsWith('Normal/') && entry.type === 'File';
+    if (isFileInNormalDirectory) {
+      const fileName = entry.path.replace('Normal/', '');
+      const fullPath = path.join(targetPath, fileName);
+
+      const content = await entry.buffer();
+      fs.writeFileSync(fullPath, content);
+    }
+  }
 
   console.log('Unpacked successfully!');
 }
