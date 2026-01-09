@@ -8,7 +8,7 @@ const targetPath = path.join(__dirname, '../assets/icons/menu-sprites');
 const convertedPath = fg.convertPathToPattern(path.join(__dirname, './*.zip'));
 const zipPaths: string[] = fg.sync([convertedPath], {dot: true});
 
-if (zipPaths.length !== 1) throw new Error(`Found ${zipPaths.length} zip files, expected exactly 1. Used pattern: ${convertedPath}`);
+if (zipPaths.length !== 1) throw new Error(`Found ${zipPaths.length} zip files, expected exactly 1. Used pattern: ${convertedPath}.\nFound files: ${zipPaths.join(', ')}`);
 
 const zipPath = zipPaths[0];
 
