@@ -8,7 +8,8 @@
   "private": true,
   "dependencies": {
     "@types/spritesmith": "^3.4.5",
-    "fast-glob": "^3.3.3"
+    "fast-glob": "^3.3.3",
+    "unzipper": "^0.12.3"
   },
   "devDependencies": {
     "@eslint/js": "^9.8.0",
@@ -22,17 +23,18 @@
     "@swc/core": "~1.5.7",
     "@swc/helpers": "~0.5.11",
     "@types/node": "~22.13.11",
+    "@types/sharp": "^0.31.1",
+    "@types/unzipper": "^0.10.11",
     "esbuild": "^0.25.9",
     "eslint": "^9.8.0",
     "eslint-config-prettier": "10.0.0",
     "nx": "21.5.1",
+    "sharp": "^0.34.3",
     "spritesmith": "^3.5.1",
     "ts-node": "^10.9.2",
     "tslib": "^2.3.0",
     "typescript": "5.9.2",
-    "typescript-eslint": "8.40.0",
-    "@types/sharp": "^0.31.1",
-    "sharp": "^0.34.3"
+    "typescript-eslint": "8.40.0"
   },
   "overrides": {
     "tough-cookie": "~4.1.3",
