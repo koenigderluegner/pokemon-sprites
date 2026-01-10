@@ -3412,6 +3412,52 @@
       },
       {
         "regular": {
+          "name": "Blastoise-Bonus-Anime-Movie08-GreenArmy",
+          "slug": "blastoise-anime-movie08-green-army",
+          "cssClass": ".pokesprite.pokemon.blastoise-anime-movie08-green-army",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Blastoise-Bonus-Anime-Movie08-GreenArmy-★",
+          "slug": "blastoise-anime-movie08-green-army",
+          "cssClass": ".pokesprite.pokemon.blastoise-anime-movie08-green-army.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Blastoise-Bonus-Anime-Movie08-GreenArmy-3DS",
+          "slug": "blastoise-anime-movie08-green-army",
+          "cssClass": ".pokesprite.pokemon.blastoise-anime-movie08-green-army.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Blastoise-Bonus-Anime-Movie08-GreenArmy-3DS-★",
+          "slug": "blastoise-anime-movie08-green-army",
+          "cssClass": ".pokesprite.pokemon.blastoise-anime-movie08-green-army.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
           "name": "Blastoise-Bonus-Pokken",
           "slug": "blastoise-pokken",
           "cssClass": ".pokesprite.pokemon.blastoise-pokken",
@@ -16551,6 +16597,77 @@
       },
       {
         "regular": {
+          "name": "Nidoking-Bonus-Anime-Movie08-GreenArmy",
+          "slug": "nidoking-anime-movie08-green-army",
+          "cssClass": ".pokesprite.pokemon.nidoking-anime-movie08-green-army",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Nidoking-Bonus-Anime-Movie08-GreenArmy-★",
+          "slug": "nidoking-anime-movie08-green-army",
+          "cssClass": ".pokesprite.pokemon.nidoking-anime-movie08-green-army.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Nidoking-Bonus-Anime-Movie08-GreenArmy-3DS",
+          "slug": "nidoking-anime-movie08-green-army",
+          "cssClass": ".pokesprite.pokemon.nidoking-anime-movie08-green-army.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Nidoking-Bonus-Anime-Movie08-GreenArmy-3DS-★",
+          "slug": "nidoking-anime-movie08-green-army",
+          "cssClass": ".pokesprite.pokemon.nidoking-anime-movie08-green-army.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Nidoking-Bonus-Anime-Movie08-GreenArmy-Switch-LGPE",
+          "slug": "nidoking-anime-movie08-green-army-lgpe",
+          "cssClass": ".pokesprite.pokemon.nidoking-anime-movie08-green-army-lgpe.switch",
+          "modifiers": [
+            "switch"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Nidoking-Bonus-Anime-Movie08-GreenArmy-Switch-LGPE-★",
+          "slug": "nidoking-anime-movie08-green-army-lgpe",
+          "cssClass": ".pokesprite.pokemon.nidoking-anime-movie08-green-army-lgpe.switch.shiny",
+          "modifiers": [
+            "switch",
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
           "name": "Nidoking-Bonus-Anime-Pinkan",
           "slug": "nidoking-anime-pinkan",
           "cssClass": ".pokesprite.pokemon.nidoking-anime-pinkan",
@@ -22923,6 +23040,77 @@
       },
       {
         "regular": {
+          "name": "Onix-Bonus-Anime-Bruno",
+          "slug": "onix-anime-bruno",
+          "cssClass": ".pokesprite.pokemon.onix-anime-bruno",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Onix-Bonus-Anime-Bruno-★",
+          "slug": "onix-anime-bruno",
+          "cssClass": ".pokesprite.pokemon.onix-anime-bruno.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Onix-Bonus-Anime-Bruno-3DS",
+          "slug": "onix-anime-bruno",
+          "cssClass": ".pokesprite.pokemon.onix-anime-bruno.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Onix-Bonus-Anime-Bruno-3DS-★",
+          "slug": "onix-anime-bruno",
+          "cssClass": ".pokesprite.pokemon.onix-anime-bruno.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Onix-Bonus-Anime-Bruno-Switch-LGPE",
+          "slug": "onix-anime-bruno-lgpe",
+          "cssClass": ".pokesprite.pokemon.onix-anime-bruno-lgpe.switch",
+          "modifiers": [
+            "switch"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Onix-Bonus-Anime-Bruno-Switch-LGPE-★",
+          "slug": "onix-anime-bruno-lgpe",
+          "cssClass": ".pokesprite.pokemon.onix-anime-bruno-lgpe.switch.shiny",
+          "modifiers": [
+            "switch",
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
           "name": "Onix-Bonus-Anime-Crystal-EP088",
           "slug": "onix-anime-crystal-ep088",
           "cssClass": ".pokesprite.pokemon.onix-anime-crystal-ep088",
@@ -22983,6 +23171,77 @@
           "name": "Onix-Bonus-Anime-Crystal-EP088-Switch-LGPE-★",
           "slug": "onix-anime-crystal-ep088-lgpe",
           "cssClass": ".pokesprite.pokemon.onix-anime-crystal-ep088-lgpe.switch.shiny",
+          "modifiers": [
+            "switch",
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Onix-Bonus-Anime-Movie08-GreenArmy",
+          "slug": "onix-anime-movie08-green-army",
+          "cssClass": ".pokesprite.pokemon.onix-anime-movie08-green-army",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Onix-Bonus-Anime-Movie08-GreenArmy-★",
+          "slug": "onix-anime-movie08-green-army",
+          "cssClass": ".pokesprite.pokemon.onix-anime-movie08-green-army.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Onix-Bonus-Anime-Movie08-GreenArmy-3DS",
+          "slug": "onix-anime-movie08-green-army",
+          "cssClass": ".pokesprite.pokemon.onix-anime-movie08-green-army.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Onix-Bonus-Anime-Movie08-GreenArmy-3DS-★",
+          "slug": "onix-anime-movie08-green-army",
+          "cssClass": ".pokesprite.pokemon.onix-anime-movie08-green-army.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Onix-Bonus-Anime-Movie08-GreenArmy-Switch-LGPE",
+          "slug": "onix-anime-movie08-green-army-lgpe",
+          "cssClass": ".pokesprite.pokemon.onix-anime-movie08-green-army-lgpe.switch",
+          "modifiers": [
+            "switch"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Onix-Bonus-Anime-Movie08-GreenArmy-Switch-LGPE-★",
+          "slug": "onix-anime-movie08-green-army-lgpe",
+          "cssClass": ".pokesprite.pokemon.onix-anime-movie08-green-army-lgpe.switch.shiny",
           "modifiers": [
             "switch",
             "shiny"
@@ -41942,6 +42201,98 @@
             "n3ds"
           ]
         }
+      },
+      {
+        "regular": {
+          "name": "Octillery-Bonus-Anime-TakoyakiChef-SM117",
+          "slug": "octillery-anime-takoyaki-chef-sm117",
+          "cssClass": ".pokesprite.pokemon.octillery-anime-takoyaki-chef-sm117",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Octillery-Bonus-Anime-TakoyakiChef-SM117-★",
+          "slug": "octillery-anime-takoyaki-chef-sm117",
+          "cssClass": ".pokesprite.pokemon.octillery-anime-takoyaki-chef-sm117.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Octillery-Bonus-Anime-TakoyakiChef-SM117-3DS",
+          "slug": "octillery-anime-takoyaki-chef-sm117",
+          "cssClass": ".pokesprite.pokemon.octillery-anime-takoyaki-chef-sm117.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Octillery-Bonus-Anime-TakoyakiChef-SM117-3DS-★",
+          "slug": "octillery-anime-takoyaki-chef-sm117",
+          "cssClass": ".pokesprite.pokemon.octillery-anime-takoyaki-chef-sm117.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Octillery-Bonus-Anime-TakoyakiChef-SM117-F",
+          "slug": "octillery-anime-takoyaki-chef-sm117-f",
+          "cssClass": ".pokesprite.pokemon.octillery-anime-takoyaki-chef-sm117-f",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Octillery-Bonus-Anime-TakoyakiChef-SM117-F-★",
+          "slug": "octillery-anime-takoyaki-chef-sm117-f",
+          "cssClass": ".pokesprite.pokemon.octillery-anime-takoyaki-chef-sm117-f.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Octillery-Bonus-Anime-TakoyakiChef-SM117-F-3DS",
+          "slug": "octillery-anime-takoyaki-chef-sm117-f",
+          "cssClass": ".pokesprite.pokemon.octillery-anime-takoyaki-chef-sm117-f.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Octillery-Bonus-Anime-TakoyakiChef-SM117-F-3DS-★",
+          "slug": "octillery-anime-takoyaki-chef-sm117-f",
+          "cssClass": ".pokesprite.pokemon.octillery-anime-takoyaki-chef-sm117-f.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       }
     ]
   },
@@ -42205,6 +42556,77 @@
           "modifiers": [
             "switch",
             "shiny"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Skarmory-Bonus-Anime-Movie08-GreenArmy",
+          "slug": "skarmory-anime-movie08-green-army",
+          "cssClass": ".pokesprite.pokemon.skarmory-anime-movie08-green-army",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Skarmory-Bonus-Anime-Movie08-GreenArmy-★",
+          "slug": "skarmory-anime-movie08-green-army",
+          "cssClass": ".pokesprite.pokemon.skarmory-anime-movie08-green-army.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Skarmory-Bonus-Anime-Movie08-GreenArmy-3DS",
+          "slug": "skarmory-anime-movie08-green-army",
+          "cssClass": ".pokesprite.pokemon.skarmory-anime-movie08-green-army.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Skarmory-Bonus-Anime-Movie08-GreenArmy-3DS-★",
+          "slug": "skarmory-anime-movie08-green-army",
+          "cssClass": ".pokesprite.pokemon.skarmory-anime-movie08-green-army.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Skarmory-Bonus-Anime-Movie08-GreenArmy-Switch-SwSh",
+          "slug": "skarmory-anime-movie08-green-army-sw-sh",
+          "cssClass": ".pokesprite.pokemon.skarmory-anime-movie08-green-army-sw-sh.switch",
+          "modifiers": [
+            "switch"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Skarmory-Bonus-Anime-Movie08-GreenArmy-Switch-SwSh-★",
+          "slug": "skarmory-anime-movie08-green-army-sw-sh",
+          "cssClass": ".pokesprite.pokemon.skarmory-anime-movie08-green-army-sw-sh.switch.shiny",
+          "modifiers": [
+            "switch",
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
           ]
         }
       }
@@ -43725,6 +44147,77 @@
           "name": "Tyranitar-Bonus-Anime-EP263-Switch-SwSh-★",
           "slug": "tyranitar-anime-ep263-sw-sh",
           "cssClass": ".pokesprite.pokemon.tyranitar-anime-ep263-sw-sh.switch.shiny",
+          "modifiers": [
+            "switch",
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Tyranitar-Bonus-Anime-Movie08-GreenArmy",
+          "slug": "tyranitar-anime-movie08-green-army",
+          "cssClass": ".pokesprite.pokemon.tyranitar-anime-movie08-green-army",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Tyranitar-Bonus-Anime-Movie08-GreenArmy-★",
+          "slug": "tyranitar-anime-movie08-green-army",
+          "cssClass": ".pokesprite.pokemon.tyranitar-anime-movie08-green-army.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Tyranitar-Bonus-Anime-Movie08-GreenArmy-3DS",
+          "slug": "tyranitar-anime-movie08-green-army",
+          "cssClass": ".pokesprite.pokemon.tyranitar-anime-movie08-green-army.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Tyranitar-Bonus-Anime-Movie08-GreenArmy-3DS-★",
+          "slug": "tyranitar-anime-movie08-green-army",
+          "cssClass": ".pokesprite.pokemon.tyranitar-anime-movie08-green-army.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Tyranitar-Bonus-Anime-Movie08-GreenArmy-Switch-SwSh",
+          "slug": "tyranitar-anime-movie08-green-army-sw-sh",
+          "cssClass": ".pokesprite.pokemon.tyranitar-anime-movie08-green-army-sw-sh.switch",
+          "modifiers": [
+            "switch"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Tyranitar-Bonus-Anime-Movie08-GreenArmy-Switch-SwSh-★",
+          "slug": "tyranitar-anime-movie08-green-army-sw-sh",
+          "cssClass": ".pokesprite.pokemon.tyranitar-anime-movie08-green-army-sw-sh.switch.shiny",
           "modifiers": [
             "switch",
             "shiny"
@@ -47339,6 +47832,52 @@
           "modifiers": [
             "shiny",
             "n3ds"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Lairon-Bonus-Anime-Movie08-GreenArmy",
+          "slug": "lairon-anime-movie08-green-army",
+          "cssClass": ".pokesprite.pokemon.lairon-anime-movie08-green-army",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Lairon-Bonus-Anime-Movie08-GreenArmy-★",
+          "slug": "lairon-anime-movie08-green-army",
+          "cssClass": ".pokesprite.pokemon.lairon-anime-movie08-green-army.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Lairon-Bonus-Anime-Movie08-GreenArmy-3DS",
+          "slug": "lairon-anime-movie08-green-army",
+          "cssClass": ".pokesprite.pokemon.lairon-anime-movie08-green-army.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Lairon-Bonus-Anime-Movie08-GreenArmy-3DS-★",
+          "slug": "lairon-anime-movie08-green-army",
+          "cssClass": ".pokesprite.pokemon.lairon-anime-movie08-green-army.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
           ]
         }
       }
@@ -63384,6 +63923,98 @@
             "n3ds"
           ]
         }
+      },
+      {
+        "regular": {
+          "name": "Dewott-Bonus-Anime-Cesar",
+          "slug": "dewott-anime-cesar",
+          "cssClass": ".pokesprite.pokemon.dewott-anime-cesar",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Dewott-Bonus-Anime-Cesar-★",
+          "slug": "dewott-anime-cesar",
+          "cssClass": ".pokesprite.pokemon.dewott-anime-cesar.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Dewott-Bonus-Anime-Cesar-3DS",
+          "slug": "dewott-anime-cesar",
+          "cssClass": ".pokesprite.pokemon.dewott-anime-cesar.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Dewott-Bonus-Anime-Cesar-3DS-★",
+          "slug": "dewott-anime-cesar",
+          "cssClass": ".pokesprite.pokemon.dewott-anime-cesar.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Dewott-Bonus-Anime-Halsey",
+          "slug": "dewott-anime-halsey",
+          "cssClass": ".pokesprite.pokemon.dewott-anime-halsey",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Dewott-Bonus-Anime-Halsey-★",
+          "slug": "dewott-anime-halsey",
+          "cssClass": ".pokesprite.pokemon.dewott-anime-halsey.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Dewott-Bonus-Anime-Halsey-3DS",
+          "slug": "dewott-anime-halsey",
+          "cssClass": ".pokesprite.pokemon.dewott-anime-halsey.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Dewott-Bonus-Anime-Halsey-3DS-★",
+          "slug": "dewott-anime-halsey",
+          "cssClass": ".pokesprite.pokemon.dewott-anime-halsey.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       }
     ]
   },
@@ -63517,6 +64148,52 @@
           "modifiers": [
             "shiny",
             "n3ds"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Watchog-Bonus-Anime-Halsey",
+          "slug": "watchog-anime-halsey",
+          "cssClass": ".pokesprite.pokemon.watchog-anime-halsey",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Watchog-Bonus-Anime-Halsey-★",
+          "slug": "watchog-anime-halsey",
+          "cssClass": ".pokesprite.pokemon.watchog-anime-halsey.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Watchog-Bonus-Anime-Halsey-3DS",
+          "slug": "watchog-anime-halsey",
+          "cssClass": ".pokesprite.pokemon.watchog-anime-halsey.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Watchog-Bonus-Anime-Halsey-3DS-★",
+          "slug": "watchog-anime-halsey",
+          "cssClass": ".pokesprite.pokemon.watchog-anime-halsey.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
           ]
         }
       }
@@ -66082,6 +66759,52 @@
             "n3ds"
           ]
         }
+      },
+      {
+        "regular": {
+          "name": "Maractus-Bonus-Anime-Tussy",
+          "slug": "maractus-anime-tussy",
+          "cssClass": ".pokesprite.pokemon.maractus-anime-tussy",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Maractus-Bonus-Anime-Tussy-★",
+          "slug": "maractus-anime-tussy",
+          "cssClass": ".pokesprite.pokemon.maractus-anime-tussy.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Maractus-Bonus-Anime-Tussy-3DS",
+          "slug": "maractus-anime-tussy",
+          "cssClass": ".pokesprite.pokemon.maractus-anime-tussy.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Maractus-Bonus-Anime-Tussy-3DS-★",
+          "slug": "maractus-anime-tussy",
+          "cssClass": ".pokesprite.pokemon.maractus-anime-tussy.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       }
     ]
   },
@@ -67907,6 +68630,48 @@
           "cssClass": ".pokesprite.pokemon.frillish-f.shiny",
           "modifiers": [
             "shiny"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Frillish-Bonus-Anime-Halsey",
+          "slug": "frillish-anime-halsey",
+          "cssClass": ".pokesprite.pokemon.frillish-anime-halsey",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Frillish-Bonus-Anime-Halsey-★",
+          "slug": "frillish-anime-halsey",
+          "cssClass": ".pokesprite.pokemon.frillish-anime-halsey.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Frillish-Bonus-Anime-Halsey-F",
+          "slug": "frillish-anime-halsey-f",
+          "cssClass": ".pokesprite.pokemon.frillish-anime-halsey-f",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Frillish-Bonus-Anime-Halsey-F-★",
+          "slug": "frillish-anime-halsey-f",
+          "cssClass": ".pokesprite.pokemon.frillish-anime-halsey-f.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
           ]
         }
       }
@@ -75954,6 +76719,190 @@
           "modifiers": [
             "shiny",
             "n3ds"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Carbink-Bonus-Anime-Allotrope",
+          "slug": "carbink-anime-allotrope",
+          "cssClass": ".pokesprite.pokemon.carbink-anime-allotrope",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Carbink-Bonus-Anime-Allotrope-★",
+          "slug": "carbink-anime-allotrope",
+          "cssClass": ".pokesprite.pokemon.carbink-anime-allotrope.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Carbink-Bonus-Anime-Allotrope-3DS",
+          "slug": "carbink-anime-allotrope",
+          "cssClass": ".pokesprite.pokemon.carbink-anime-allotrope.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Carbink-Bonus-Anime-Allotrope-3DS-★",
+          "slug": "carbink-anime-allotrope",
+          "cssClass": ".pokesprite.pokemon.carbink-anime-allotrope.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Carbink-Bonus-Anime-Bort",
+          "slug": "carbink-anime-bort",
+          "cssClass": ".pokesprite.pokemon.carbink-anime-bort",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Carbink-Bonus-Anime-Bort-★",
+          "slug": "carbink-anime-bort",
+          "cssClass": ".pokesprite.pokemon.carbink-anime-bort.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Carbink-Bonus-Anime-Bort-3DS",
+          "slug": "carbink-anime-bort",
+          "cssClass": ".pokesprite.pokemon.carbink-anime-bort.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Carbink-Bonus-Anime-Bort-3DS-★",
+          "slug": "carbink-anime-bort",
+          "cssClass": ".pokesprite.pokemon.carbink-anime-bort.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Carbink-Bonus-Anime-Dace",
+          "slug": "carbink-anime-dace",
+          "cssClass": ".pokesprite.pokemon.carbink-anime-dace",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Carbink-Bonus-Anime-Dace-★",
+          "slug": "carbink-anime-dace",
+          "cssClass": ".pokesprite.pokemon.carbink-anime-dace.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Carbink-Bonus-Anime-Dace-3DS",
+          "slug": "carbink-anime-dace",
+          "cssClass": ".pokesprite.pokemon.carbink-anime-dace.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Carbink-Bonus-Anime-Dace-3DS-★",
+          "slug": "carbink-anime-dace",
+          "cssClass": ".pokesprite.pokemon.carbink-anime-dace.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Carbink-Bonus-Anime-Merrick",
+          "slug": "carbink-anime-merrick",
+          "cssClass": ".pokesprite.pokemon.carbink-anime-merrick",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Carbink-Bonus-Anime-Merrick-★",
+          "slug": "carbink-anime-merrick",
+          "cssClass": ".pokesprite.pokemon.carbink-anime-merrick.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Carbink-Bonus-Anime-Merrick-3DS",
+          "slug": "carbink-anime-merrick",
+          "cssClass": ".pokesprite.pokemon.carbink-anime-merrick.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Carbink-Bonus-Anime-Merrick-3DS-★",
+          "slug": "carbink-anime-merrick",
+          "cssClass": ".pokesprite.pokemon.carbink-anime-merrick.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
           ]
         }
       }
