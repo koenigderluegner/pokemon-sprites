@@ -1,6 +1,4 @@
 import path from 'path';
-
-import fg from 'fast-glob';
 import fs from 'fs';
 import { speciesList } from './species-list';
 import { IconMeta, PokemonEntry, PokemonIconPair } from '../generate-docs/pokemon-entry';
@@ -8,7 +6,7 @@ import { IconMeta, PokemonEntry, PokemonIconPair } from '../generate-docs/pokemo
 const assetFileEnding = '.png';
 
 const spritePath = path.join(__dirname, '../assets/icons/menu-sprites/');
-const entries: string[] = fg.sync([fg.convertPathToPattern(spritePath + '*.png')], {dot: true});
+const entries: string[] = fs.globSync(spritePath.replace(/\\/g, '/') + '*.png');
 let iconBaseNames = entries.map(s => path.basename(s, assetFileEnding));
 
 const ICON_CATEGORIES = new Set(['go', 'bonus', 'extra']);
