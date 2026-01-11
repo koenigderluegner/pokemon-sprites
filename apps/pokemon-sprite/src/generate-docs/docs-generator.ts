@@ -179,7 +179,6 @@ This is a list of present and past contributors which provided custom icons. Tha
 <a href="https://www.deviantart.com/radicalcharizard" rel="nofollow noopener" target="_blank">radicalcharizard</a>
 <a href="https://www.deviantart.com/robertovile" rel="nofollow noopener" target="_blank">robertovile</a>
 <span>TraviS</span>
-<a href="https://www.deviantart.com/trippytooni" rel="nofollow noopener" target="_blank">trippytooni</a>
 <a href="https://www.deviantart.com/ushcale" rel="nofollow noopener" target="_blank">ushcale</a>
 <a href="https://www.deviantart.com/wolfang62" rel="nofollow noopener" target="_blank">wolfang62</a>
 <a href="https://www.deviantart.com/zerudez" rel="nofollow noopener" target="_blank">zerudez</a>
