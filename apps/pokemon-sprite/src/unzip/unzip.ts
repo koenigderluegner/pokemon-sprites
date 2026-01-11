@@ -11,6 +11,7 @@ const zipPath = zipPaths[0];
 console.log(`Unpacking ${zipPath} to ${targetPath}`);
 
 async function unpack() {
+  fs.rmSync(targetPath, {recursive: true, force: true});
   fs.mkdirSync(targetPath, {recursive: true});
   const directory = await unzipper.Open.file(zipPath);
 
