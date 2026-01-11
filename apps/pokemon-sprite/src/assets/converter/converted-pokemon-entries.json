@@ -16246,6 +16246,77 @@
             "bonus"
           ]
         }
+      },
+      {
+        "regular": {
+          "name": "Nidoqueen-Bonus-Anime-Damos",
+          "slug": "nidoqueen-anime-damos",
+          "cssClass": ".pokesprite.pokemon.nidoqueen-anime-damos",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Nidoqueen-Bonus-Anime-Damos-★",
+          "slug": "nidoqueen-anime-damos",
+          "cssClass": ".pokesprite.pokemon.nidoqueen-anime-damos.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Nidoqueen-Bonus-Anime-Damos-3DS",
+          "slug": "nidoqueen-anime-damos",
+          "cssClass": ".pokesprite.pokemon.nidoqueen-anime-damos.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Nidoqueen-Bonus-Anime-Damos-3DS-★",
+          "slug": "nidoqueen-anime-damos",
+          "cssClass": ".pokesprite.pokemon.nidoqueen-anime-damos.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Nidoqueen-Bonus-Anime-Damos-Switch-LGPE",
+          "slug": "nidoqueen-anime-damos-lgpe",
+          "cssClass": ".pokesprite.pokemon.nidoqueen-anime-damos-lgpe.switch",
+          "modifiers": [
+            "switch"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Nidoqueen-Bonus-Anime-Damos-Switch-LGPE-★",
+          "slug": "nidoqueen-anime-damos-lgpe",
+          "cssClass": ".pokesprite.pokemon.nidoqueen-anime-damos-lgpe.switch.shiny",
+          "modifiers": [
+            "switch",
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       }
     ]
   },
@@ -16597,6 +16668,77 @@
       },
       {
         "regular": {
+          "name": "Nidoking-Bonus-Anime-Damos",
+          "slug": "nidoking-anime-damos",
+          "cssClass": ".pokesprite.pokemon.nidoking-anime-damos",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Nidoking-Bonus-Anime-Damos-★",
+          "slug": "nidoking-anime-damos",
+          "cssClass": ".pokesprite.pokemon.nidoking-anime-damos.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Nidoking-Bonus-Anime-Damos-3DS",
+          "slug": "nidoking-anime-damos",
+          "cssClass": ".pokesprite.pokemon.nidoking-anime-damos.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Nidoking-Bonus-Anime-Damos-3DS-★",
+          "slug": "nidoking-anime-damos",
+          "cssClass": ".pokesprite.pokemon.nidoking-anime-damos.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Nidoking-Bonus-Anime-Damos-Switch-LGPE",
+          "slug": "nidoking-anime-damos-lgpe",
+          "cssClass": ".pokesprite.pokemon.nidoking-anime-damos-lgpe.switch",
+          "modifiers": [
+            "switch"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Nidoking-Bonus-Anime-Damos-Switch-LGPE-★",
+          "slug": "nidoking-anime-damos-lgpe",
+          "cssClass": ".pokesprite.pokemon.nidoking-anime-damos-lgpe.switch.shiny",
+          "modifiers": [
+            "switch",
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
           "name": "Nidoking-Bonus-Anime-Movie08-GreenArmy",
           "slug": "nidoking-anime-movie08-green-army",
           "cssClass": ".pokesprite.pokemon.nidoking-anime-movie08-green-army",
@@ -16755,6 +16897,48 @@
           "cssClass": ".pokesprite.pokemon.clefairy.shiny",
           "modifiers": [
             "shiny"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Clefairy-Bonus-Anime-Lusamine",
+          "slug": "clefairy-anime-lusamine",
+          "cssClass": ".pokesprite.pokemon.clefairy-anime-lusamine",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Clefairy-Bonus-Anime-Lusamine-★",
+          "slug": "clefairy-anime-lusamine",
+          "cssClass": ".pokesprite.pokemon.clefairy-anime-lusamine.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Clefairy-Bonus-Manga-PocketMonsters",
+          "slug": "clefairy-manga-pocket-monsters",
+          "cssClass": ".pokesprite.pokemon.clefairy-manga-pocket-monsters",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Clefairy-Bonus-Manga-PocketMonsters-★",
+          "slug": "clefairy-manga-pocket-monsters",
+          "cssClass": ".pokesprite.pokemon.clefairy-manga-pocket-monsters.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
           ]
         }
       },
@@ -17753,6 +17937,48 @@
           "cssClass": ".pokesprite.pokemon.zubat-f.shiny",
           "modifiers": [
             "shiny"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Zubat-Bonus-Anime-DrAnna",
+          "slug": "zubat-anime-dr-anna",
+          "cssClass": ".pokesprite.pokemon.zubat-anime-dr-anna",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Zubat-Bonus-Anime-DrAnna-★",
+          "slug": "zubat-anime-dr-anna",
+          "cssClass": ".pokesprite.pokemon.zubat-anime-dr-anna.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Zubat-Bonus-Anime-DrAnna-F",
+          "slug": "zubat-anime-dr-anna-f",
+          "cssClass": ".pokesprite.pokemon.zubat-anime-dr-anna-f",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Zubat-Bonus-Anime-DrAnna-F-★",
+          "slug": "zubat-anime-dr-anna-f",
+          "cssClass": ".pokesprite.pokemon.zubat-anime-dr-anna-f.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
           ]
         }
       }
@@ -22232,6 +22458,27 @@
             "shiny"
           ]
         }
+      },
+      {
+        "regular": {
+          "name": "Seel-Bonus-Anime-Clown",
+          "slug": "seel-anime-clown",
+          "cssClass": ".pokesprite.pokemon.seel-anime-clown",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Seel-Bonus-Anime-Clown-★",
+          "slug": "seel-anime-clown",
+          "cssClass": ".pokesprite.pokemon.seel-anime-clown.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       }
     ]
   },
@@ -22920,6 +23167,52 @@
           "name": "Gengar-Bonus-Anime-Giant-3DS-★",
           "slug": "gengar-anime-giant",
           "cssClass": ".pokesprite.pokemon.gengar-anime-giant.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Gengar-Bonus-Poketoon-Hilary",
+          "slug": "gengar-poketoon-hilary",
+          "cssClass": ".pokesprite.pokemon.gengar-poketoon-hilary",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Gengar-Bonus-Poketoon-Hilary-★",
+          "slug": "gengar-poketoon-hilary",
+          "cssClass": ".pokesprite.pokemon.gengar-poketoon-hilary.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Gengar-Bonus-Poketoon-Hilary-3DS",
+          "slug": "gengar-poketoon-hilary",
+          "cssClass": ".pokesprite.pokemon.gengar-poketoon-hilary.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Gengar-Bonus-Poketoon-Hilary-3DS-★",
+          "slug": "gengar-poketoon-hilary",
+          "cssClass": ".pokesprite.pokemon.gengar-poketoon-hilary.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -34243,52 +34536,6 @@
             "bonus"
           ]
         }
-      },
-      {
-        "regular": {
-          "name": "Noctowl-Bonus-WingsAlexander",
-          "slug": "noctowl-wings-alexander",
-          "cssClass": ".pokesprite.pokemon.noctowl-wings-alexander",
-          "categories": [
-            "bonus"
-          ]
-        },
-        "shiny": {
-          "name": "Noctowl-Bonus-WingsAlexander-★",
-          "slug": "noctowl-wings-alexander",
-          "cssClass": ".pokesprite.pokemon.noctowl-wings-alexander.shiny",
-          "modifiers": [
-            "shiny"
-          ],
-          "categories": [
-            "bonus"
-          ]
-        }
-      },
-      {
-        "regular": {
-          "name": "Noctowl-Bonus-WingsAlexander-3DS",
-          "slug": "noctowl-wings-alexander",
-          "cssClass": ".pokesprite.pokemon.noctowl-wings-alexander.n3ds",
-          "modifiers": [
-            "n3ds"
-          ],
-          "categories": [
-            "bonus"
-          ]
-        },
-        "shiny": {
-          "name": "Noctowl-Bonus-WingsAlexander-3DS-★",
-          "slug": "noctowl-wings-alexander",
-          "cssClass": ".pokesprite.pokemon.noctowl-wings-alexander.shiny.n3ds",
-          "modifiers": [
-            "shiny",
-            "n3ds"
-          ],
-          "categories": [
-            "bonus"
-          ]
-        }
       }
     ]
   },
@@ -35562,6 +35809,48 @@
           "name": "Marill-Bonus-Anime-AG015-★",
           "slug": "marill-anime-ag015",
           "cssClass": ".pokesprite.pokemon.marill-anime-ag015.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Marill-Bonus-Anime-Pietra",
+          "slug": "marill-anime-pietra",
+          "cssClass": ".pokesprite.pokemon.marill-anime-pietra",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Marill-Bonus-Anime-Pietra-★",
+          "slug": "marill-anime-pietra",
+          "cssClass": ".pokesprite.pokemon.marill-anime-pietra.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Marill-Bonus-Anime-Wilhomena",
+          "slug": "marill-anime-wilhomena",
+          "cssClass": ".pokesprite.pokemon.marill-anime-wilhomena",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Marill-Bonus-Anime-Wilhomena-★",
+          "slug": "marill-anime-wilhomena",
+          "cssClass": ".pokesprite.pokemon.marill-anime-wilhomena.shiny",
           "modifiers": [
             "shiny"
           ],
@@ -38469,17 +38758,17 @@
       },
       {
         "regular": {
-          "name": "Unown-Bonus-Anime-Movie3-Form00",
-          "slug": "unown-anime-movie3-form00",
-          "cssClass": ".pokesprite.pokemon.unown-anime-movie3-form00",
+          "name": "Unown-Bonus-Anime-Movie03-Form00",
+          "slug": "unown-anime-movie03-form00",
+          "cssClass": ".pokesprite.pokemon.unown-anime-movie03-form00",
           "categories": [
             "bonus"
           ]
         },
         "shiny": {
-          "name": "Unown-Bonus-Anime-Movie3-Form00-★",
-          "slug": "unown-anime-movie3-form00",
-          "cssClass": ".pokesprite.pokemon.unown-anime-movie3-form00.shiny",
+          "name": "Unown-Bonus-Anime-Movie03-Form00-★",
+          "slug": "unown-anime-movie03-form00",
+          "cssClass": ".pokesprite.pokemon.unown-anime-movie03-form00.shiny",
           "modifiers": [
             "shiny"
           ],
@@ -38490,9 +38779,9 @@
       },
       {
         "regular": {
-          "name": "Unown-Bonus-Anime-Movie3-Form00-3DS",
-          "slug": "unown-anime-movie3-form00",
-          "cssClass": ".pokesprite.pokemon.unown-anime-movie3-form00.n3ds",
+          "name": "Unown-Bonus-Anime-Movie03-Form00-3DS",
+          "slug": "unown-anime-movie03-form00",
+          "cssClass": ".pokesprite.pokemon.unown-anime-movie03-form00.n3ds",
           "modifiers": [
             "n3ds"
           ],
@@ -38501,9 +38790,9 @@
           ]
         },
         "shiny": {
-          "name": "Unown-Bonus-Anime-Movie3-Form00-3DS-★",
-          "slug": "unown-anime-movie3-form00",
-          "cssClass": ".pokesprite.pokemon.unown-anime-movie3-form00.shiny.n3ds",
+          "name": "Unown-Bonus-Anime-Movie03-Form00-3DS-★",
+          "slug": "unown-anime-movie03-form00",
+          "cssClass": ".pokesprite.pokemon.unown-anime-movie03-form00.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -38515,17 +38804,17 @@
       },
       {
         "regular": {
-          "name": "Unown-Bonus-Anime-Movie3-Form01",
-          "slug": "unown-anime-movie3-form01",
-          "cssClass": ".pokesprite.pokemon.unown-anime-movie3-form01",
+          "name": "Unown-Bonus-Anime-Movie03-Form01",
+          "slug": "unown-anime-movie03-form01",
+          "cssClass": ".pokesprite.pokemon.unown-anime-movie03-form01",
           "categories": [
             "bonus"
           ]
         },
         "shiny": {
-          "name": "Unown-Bonus-Anime-Movie3-Form01-★",
-          "slug": "unown-anime-movie3-form01",
-          "cssClass": ".pokesprite.pokemon.unown-anime-movie3-form01.shiny",
+          "name": "Unown-Bonus-Anime-Movie03-Form01-★",
+          "slug": "unown-anime-movie03-form01",
+          "cssClass": ".pokesprite.pokemon.unown-anime-movie03-form01.shiny",
           "modifiers": [
             "shiny"
           ],
@@ -38536,9 +38825,9 @@
       },
       {
         "regular": {
-          "name": "Unown-Bonus-Anime-Movie3-Form01-3DS",
-          "slug": "unown-anime-movie3-form01",
-          "cssClass": ".pokesprite.pokemon.unown-anime-movie3-form01.n3ds",
+          "name": "Unown-Bonus-Anime-Movie03-Form01-3DS",
+          "slug": "unown-anime-movie03-form01",
+          "cssClass": ".pokesprite.pokemon.unown-anime-movie03-form01.n3ds",
           "modifiers": [
             "n3ds"
           ],
@@ -38547,9 +38836,9 @@
           ]
         },
         "shiny": {
-          "name": "Unown-Bonus-Anime-Movie3-Form01-3DS-★",
-          "slug": "unown-anime-movie3-form01",
-          "cssClass": ".pokesprite.pokemon.unown-anime-movie3-form01.shiny.n3ds",
+          "name": "Unown-Bonus-Anime-Movie03-Form01-3DS-★",
+          "slug": "unown-anime-movie03-form01",
+          "cssClass": ".pokesprite.pokemon.unown-anime-movie03-form01.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -38561,17 +38850,17 @@
       },
       {
         "regular": {
-          "name": "Unown-Bonus-Anime-Movie3-Form02",
-          "slug": "unown-anime-movie3-form02",
-          "cssClass": ".pokesprite.pokemon.unown-anime-movie3-form02",
+          "name": "Unown-Bonus-Anime-Movie03-Form02",
+          "slug": "unown-anime-movie03-form02",
+          "cssClass": ".pokesprite.pokemon.unown-anime-movie03-form02",
           "categories": [
             "bonus"
           ]
         },
         "shiny": {
-          "name": "Unown-Bonus-Anime-Movie3-Form02-★",
-          "slug": "unown-anime-movie3-form02",
-          "cssClass": ".pokesprite.pokemon.unown-anime-movie3-form02.shiny",
+          "name": "Unown-Bonus-Anime-Movie03-Form02-★",
+          "slug": "unown-anime-movie03-form02",
+          "cssClass": ".pokesprite.pokemon.unown-anime-movie03-form02.shiny",
           "modifiers": [
             "shiny"
           ],
@@ -38582,9 +38871,9 @@
       },
       {
         "regular": {
-          "name": "Unown-Bonus-Anime-Movie3-Form02-3DS",
-          "slug": "unown-anime-movie3-form02",
-          "cssClass": ".pokesprite.pokemon.unown-anime-movie3-form02.n3ds",
+          "name": "Unown-Bonus-Anime-Movie03-Form02-3DS",
+          "slug": "unown-anime-movie03-form02",
+          "cssClass": ".pokesprite.pokemon.unown-anime-movie03-form02.n3ds",
           "modifiers": [
             "n3ds"
           ],
@@ -38593,9 +38882,9 @@
           ]
         },
         "shiny": {
-          "name": "Unown-Bonus-Anime-Movie3-Form02-3DS-★",
-          "slug": "unown-anime-movie3-form02",
-          "cssClass": ".pokesprite.pokemon.unown-anime-movie3-form02.shiny.n3ds",
+          "name": "Unown-Bonus-Anime-Movie03-Form02-3DS-★",
+          "slug": "unown-anime-movie03-form02",
+          "cssClass": ".pokesprite.pokemon.unown-anime-movie03-form02.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -38607,17 +38896,17 @@
       },
       {
         "regular": {
-          "name": "Unown-Bonus-Anime-Movie3-Form03",
-          "slug": "unown-anime-movie3-form03",
-          "cssClass": ".pokesprite.pokemon.unown-anime-movie3-form03",
+          "name": "Unown-Bonus-Anime-Movie03-Form03",
+          "slug": "unown-anime-movie03-form03",
+          "cssClass": ".pokesprite.pokemon.unown-anime-movie03-form03",
           "categories": [
             "bonus"
           ]
         },
         "shiny": {
-          "name": "Unown-Bonus-Anime-Movie3-Form03-★",
-          "slug": "unown-anime-movie3-form03",
-          "cssClass": ".pokesprite.pokemon.unown-anime-movie3-form03.shiny",
+          "name": "Unown-Bonus-Anime-Movie03-Form03-★",
+          "slug": "unown-anime-movie03-form03",
+          "cssClass": ".pokesprite.pokemon.unown-anime-movie03-form03.shiny",
           "modifiers": [
             "shiny"
           ],
@@ -38628,9 +38917,9 @@
       },
       {
         "regular": {
-          "name": "Unown-Bonus-Anime-Movie3-Form03-3DS",
-          "slug": "unown-anime-movie3-form03",
-          "cssClass": ".pokesprite.pokemon.unown-anime-movie3-form03.n3ds",
+          "name": "Unown-Bonus-Anime-Movie03-Form03-3DS",
+          "slug": "unown-anime-movie03-form03",
+          "cssClass": ".pokesprite.pokemon.unown-anime-movie03-form03.n3ds",
           "modifiers": [
             "n3ds"
           ],
@@ -38639,9 +38928,9 @@
           ]
         },
         "shiny": {
-          "name": "Unown-Bonus-Anime-Movie3-Form03-3DS-★",
-          "slug": "unown-anime-movie3-form03",
-          "cssClass": ".pokesprite.pokemon.unown-anime-movie3-form03.shiny.n3ds",
+          "name": "Unown-Bonus-Anime-Movie03-Form03-3DS-★",
+          "slug": "unown-anime-movie03-form03",
+          "cssClass": ".pokesprite.pokemon.unown-anime-movie03-form03.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -38653,17 +38942,17 @@
       },
       {
         "regular": {
-          "name": "Unown-Bonus-Anime-Movie3-Form04",
-          "slug": "unown-anime-movie3-form04",
-          "cssClass": ".pokesprite.pokemon.unown-anime-movie3-form04",
+          "name": "Unown-Bonus-Anime-Movie03-Form04",
+          "slug": "unown-anime-movie03-form04",
+          "cssClass": ".pokesprite.pokemon.unown-anime-movie03-form04",
           "categories": [
             "bonus"
           ]
         },
         "shiny": {
-          "name": "Unown-Bonus-Anime-Movie3-Form04-★",
-          "slug": "unown-anime-movie3-form04",
-          "cssClass": ".pokesprite.pokemon.unown-anime-movie3-form04.shiny",
+          "name": "Unown-Bonus-Anime-Movie03-Form04-★",
+          "slug": "unown-anime-movie03-form04",
+          "cssClass": ".pokesprite.pokemon.unown-anime-movie03-form04.shiny",
           "modifiers": [
             "shiny"
           ],
@@ -38674,9 +38963,9 @@
       },
       {
         "regular": {
-          "name": "Unown-Bonus-Anime-Movie3-Form04-3DS",
-          "slug": "unown-anime-movie3-form04",
-          "cssClass": ".pokesprite.pokemon.unown-anime-movie3-form04.n3ds",
+          "name": "Unown-Bonus-Anime-Movie03-Form04-3DS",
+          "slug": "unown-anime-movie03-form04",
+          "cssClass": ".pokesprite.pokemon.unown-anime-movie03-form04.n3ds",
           "modifiers": [
             "n3ds"
           ],
@@ -38685,9 +38974,9 @@
           ]
         },
         "shiny": {
-          "name": "Unown-Bonus-Anime-Movie3-Form04-3DS-★",
-          "slug": "unown-anime-movie3-form04",
-          "cssClass": ".pokesprite.pokemon.unown-anime-movie3-form04.shiny.n3ds",
+          "name": "Unown-Bonus-Anime-Movie03-Form04-3DS-★",
+          "slug": "unown-anime-movie03-form04",
+          "cssClass": ".pokesprite.pokemon.unown-anime-movie03-form04.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -38699,17 +38988,17 @@
       },
       {
         "regular": {
-          "name": "Unown-Bonus-Anime-Movie3-Form05",
-          "slug": "unown-anime-movie3-form05",
-          "cssClass": ".pokesprite.pokemon.unown-anime-movie3-form05",
+          "name": "Unown-Bonus-Anime-Movie03-Form05",
+          "slug": "unown-anime-movie03-form05",
+          "cssClass": ".pokesprite.pokemon.unown-anime-movie03-form05",
           "categories": [
             "bonus"
           ]
         },
         "shiny": {
-          "name": "Unown-Bonus-Anime-Movie3-Form05-★",
-          "slug": "unown-anime-movie3-form05",
-          "cssClass": ".pokesprite.pokemon.unown-anime-movie3-form05.shiny",
+          "name": "Unown-Bonus-Anime-Movie03-Form05-★",
+          "slug": "unown-anime-movie03-form05",
+          "cssClass": ".pokesprite.pokemon.unown-anime-movie03-form05.shiny",
           "modifiers": [
             "shiny"
           ],
@@ -38720,9 +39009,9 @@
       },
       {
         "regular": {
-          "name": "Unown-Bonus-Anime-Movie3-Form05-3DS",
-          "slug": "unown-anime-movie3-form05",
-          "cssClass": ".pokesprite.pokemon.unown-anime-movie3-form05.n3ds",
+          "name": "Unown-Bonus-Anime-Movie03-Form05-3DS",
+          "slug": "unown-anime-movie03-form05",
+          "cssClass": ".pokesprite.pokemon.unown-anime-movie03-form05.n3ds",
           "modifiers": [
             "n3ds"
           ],
@@ -38731,9 +39020,9 @@
           ]
         },
         "shiny": {
-          "name": "Unown-Bonus-Anime-Movie3-Form05-3DS-★",
-          "slug": "unown-anime-movie3-form05",
-          "cssClass": ".pokesprite.pokemon.unown-anime-movie3-form05.shiny.n3ds",
+          "name": "Unown-Bonus-Anime-Movie03-Form05-3DS-★",
+          "slug": "unown-anime-movie03-form05",
+          "cssClass": ".pokesprite.pokemon.unown-anime-movie03-form05.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -38745,17 +39034,17 @@
       },
       {
         "regular": {
-          "name": "Unown-Bonus-Anime-Movie3-Form06",
-          "slug": "unown-anime-movie3-form06",
-          "cssClass": ".pokesprite.pokemon.unown-anime-movie3-form06",
+          "name": "Unown-Bonus-Anime-Movie03-Form06",
+          "slug": "unown-anime-movie03-form06",
+          "cssClass": ".pokesprite.pokemon.unown-anime-movie03-form06",
           "categories": [
             "bonus"
           ]
         },
         "shiny": {
-          "name": "Unown-Bonus-Anime-Movie3-Form06-★",
-          "slug": "unown-anime-movie3-form06",
-          "cssClass": ".pokesprite.pokemon.unown-anime-movie3-form06.shiny",
+          "name": "Unown-Bonus-Anime-Movie03-Form06-★",
+          "slug": "unown-anime-movie03-form06",
+          "cssClass": ".pokesprite.pokemon.unown-anime-movie03-form06.shiny",
           "modifiers": [
             "shiny"
           ],
@@ -38766,9 +39055,9 @@
       },
       {
         "regular": {
-          "name": "Unown-Bonus-Anime-Movie3-Form06-3DS",
-          "slug": "unown-anime-movie3-form06",
-          "cssClass": ".pokesprite.pokemon.unown-anime-movie3-form06.n3ds",
+          "name": "Unown-Bonus-Anime-Movie03-Form06-3DS",
+          "slug": "unown-anime-movie03-form06",
+          "cssClass": ".pokesprite.pokemon.unown-anime-movie03-form06.n3ds",
           "modifiers": [
             "n3ds"
           ],
@@ -38777,9 +39066,9 @@
           ]
         },
         "shiny": {
-          "name": "Unown-Bonus-Anime-Movie3-Form06-3DS-★",
-          "slug": "unown-anime-movie3-form06",
-          "cssClass": ".pokesprite.pokemon.unown-anime-movie3-form06.shiny.n3ds",
+          "name": "Unown-Bonus-Anime-Movie03-Form06-3DS-★",
+          "slug": "unown-anime-movie03-form06",
+          "cssClass": ".pokesprite.pokemon.unown-anime-movie03-form06.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -38791,17 +39080,17 @@
       },
       {
         "regular": {
-          "name": "Unown-Bonus-Anime-Movie3-Form07",
-          "slug": "unown-anime-movie3-form07",
-          "cssClass": ".pokesprite.pokemon.unown-anime-movie3-form07",
+          "name": "Unown-Bonus-Anime-Movie03-Form07",
+          "slug": "unown-anime-movie03-form07",
+          "cssClass": ".pokesprite.pokemon.unown-anime-movie03-form07",
           "categories": [
             "bonus"
           ]
         },
         "shiny": {
-          "name": "Unown-Bonus-Anime-Movie3-Form07-★",
-          "slug": "unown-anime-movie3-form07",
-          "cssClass": ".pokesprite.pokemon.unown-anime-movie3-form07.shiny",
+          "name": "Unown-Bonus-Anime-Movie03-Form07-★",
+          "slug": "unown-anime-movie03-form07",
+          "cssClass": ".pokesprite.pokemon.unown-anime-movie03-form07.shiny",
           "modifiers": [
             "shiny"
           ],
@@ -38812,9 +39101,9 @@
       },
       {
         "regular": {
-          "name": "Unown-Bonus-Anime-Movie3-Form07-3DS",
-          "slug": "unown-anime-movie3-form07",
-          "cssClass": ".pokesprite.pokemon.unown-anime-movie3-form07.n3ds",
+          "name": "Unown-Bonus-Anime-Movie03-Form07-3DS",
+          "slug": "unown-anime-movie03-form07",
+          "cssClass": ".pokesprite.pokemon.unown-anime-movie03-form07.n3ds",
           "modifiers": [
             "n3ds"
           ],
@@ -38823,9 +39112,9 @@
           ]
         },
         "shiny": {
-          "name": "Unown-Bonus-Anime-Movie3-Form07-3DS-★",
-          "slug": "unown-anime-movie3-form07",
-          "cssClass": ".pokesprite.pokemon.unown-anime-movie3-form07.shiny.n3ds",
+          "name": "Unown-Bonus-Anime-Movie03-Form07-3DS-★",
+          "slug": "unown-anime-movie03-form07",
+          "cssClass": ".pokesprite.pokemon.unown-anime-movie03-form07.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -38837,17 +39126,17 @@
       },
       {
         "regular": {
-          "name": "Unown-Bonus-Anime-Movie3-Form08",
-          "slug": "unown-anime-movie3-form08",
-          "cssClass": ".pokesprite.pokemon.unown-anime-movie3-form08",
+          "name": "Unown-Bonus-Anime-Movie03-Form08",
+          "slug": "unown-anime-movie03-form08",
+          "cssClass": ".pokesprite.pokemon.unown-anime-movie03-form08",
           "categories": [
             "bonus"
           ]
         },
         "shiny": {
-          "name": "Unown-Bonus-Anime-Movie3-Form08-★",
-          "slug": "unown-anime-movie3-form08",
-          "cssClass": ".pokesprite.pokemon.unown-anime-movie3-form08.shiny",
+          "name": "Unown-Bonus-Anime-Movie03-Form08-★",
+          "slug": "unown-anime-movie03-form08",
+          "cssClass": ".pokesprite.pokemon.unown-anime-movie03-form08.shiny",
           "modifiers": [
             "shiny"
           ],
@@ -38858,9 +39147,9 @@
       },
       {
         "regular": {
-          "name": "Unown-Bonus-Anime-Movie3-Form08-3DS",
-          "slug": "unown-anime-movie3-form08",
-          "cssClass": ".pokesprite.pokemon.unown-anime-movie3-form08.n3ds",
+          "name": "Unown-Bonus-Anime-Movie03-Form08-3DS",
+          "slug": "unown-anime-movie03-form08",
+          "cssClass": ".pokesprite.pokemon.unown-anime-movie03-form08.n3ds",
           "modifiers": [
             "n3ds"
           ],
@@ -38869,9 +39158,9 @@
           ]
         },
         "shiny": {
-          "name": "Unown-Bonus-Anime-Movie3-Form08-3DS-★",
-          "slug": "unown-anime-movie3-form08",
-          "cssClass": ".pokesprite.pokemon.unown-anime-movie3-form08.shiny.n3ds",
+          "name": "Unown-Bonus-Anime-Movie03-Form08-3DS-★",
+          "slug": "unown-anime-movie03-form08",
+          "cssClass": ".pokesprite.pokemon.unown-anime-movie03-form08.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -38883,17 +39172,17 @@
       },
       {
         "regular": {
-          "name": "Unown-Bonus-Anime-Movie3-Form09",
-          "slug": "unown-anime-movie3-form09",
-          "cssClass": ".pokesprite.pokemon.unown-anime-movie3-form09",
+          "name": "Unown-Bonus-Anime-Movie03-Form09",
+          "slug": "unown-anime-movie03-form09",
+          "cssClass": ".pokesprite.pokemon.unown-anime-movie03-form09",
           "categories": [
             "bonus"
           ]
         },
         "shiny": {
-          "name": "Unown-Bonus-Anime-Movie3-Form09-★",
-          "slug": "unown-anime-movie3-form09",
-          "cssClass": ".pokesprite.pokemon.unown-anime-movie3-form09.shiny",
+          "name": "Unown-Bonus-Anime-Movie03-Form09-★",
+          "slug": "unown-anime-movie03-form09",
+          "cssClass": ".pokesprite.pokemon.unown-anime-movie03-form09.shiny",
           "modifiers": [
             "shiny"
           ],
@@ -38904,9 +39193,9 @@
       },
       {
         "regular": {
-          "name": "Unown-Bonus-Anime-Movie3-Form09-3DS",
-          "slug": "unown-anime-movie3-form09",
-          "cssClass": ".pokesprite.pokemon.unown-anime-movie3-form09.n3ds",
+          "name": "Unown-Bonus-Anime-Movie03-Form09-3DS",
+          "slug": "unown-anime-movie03-form09",
+          "cssClass": ".pokesprite.pokemon.unown-anime-movie03-form09.n3ds",
           "modifiers": [
             "n3ds"
           ],
@@ -38915,9 +39204,9 @@
           ]
         },
         "shiny": {
-          "name": "Unown-Bonus-Anime-Movie3-Form09-3DS-★",
-          "slug": "unown-anime-movie3-form09",
-          "cssClass": ".pokesprite.pokemon.unown-anime-movie3-form09.shiny.n3ds",
+          "name": "Unown-Bonus-Anime-Movie03-Form09-3DS-★",
+          "slug": "unown-anime-movie03-form09",
+          "cssClass": ".pokesprite.pokemon.unown-anime-movie03-form09.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -38929,17 +39218,17 @@
       },
       {
         "regular": {
-          "name": "Unown-Bonus-Anime-Movie3-Form10",
-          "slug": "unown-anime-movie3-form10",
-          "cssClass": ".pokesprite.pokemon.unown-anime-movie3-form10",
+          "name": "Unown-Bonus-Anime-Movie03-Form10",
+          "slug": "unown-anime-movie03-form10",
+          "cssClass": ".pokesprite.pokemon.unown-anime-movie03-form10",
           "categories": [
             "bonus"
           ]
         },
         "shiny": {
-          "name": "Unown-Bonus-Anime-Movie3-Form10-★",
-          "slug": "unown-anime-movie3-form10",
-          "cssClass": ".pokesprite.pokemon.unown-anime-movie3-form10.shiny",
+          "name": "Unown-Bonus-Anime-Movie03-Form10-★",
+          "slug": "unown-anime-movie03-form10",
+          "cssClass": ".pokesprite.pokemon.unown-anime-movie03-form10.shiny",
           "modifiers": [
             "shiny"
           ],
@@ -38950,9 +39239,9 @@
       },
       {
         "regular": {
-          "name": "Unown-Bonus-Anime-Movie3-Form10-3DS",
-          "slug": "unown-anime-movie3-form10",
-          "cssClass": ".pokesprite.pokemon.unown-anime-movie3-form10.n3ds",
+          "name": "Unown-Bonus-Anime-Movie03-Form10-3DS",
+          "slug": "unown-anime-movie03-form10",
+          "cssClass": ".pokesprite.pokemon.unown-anime-movie03-form10.n3ds",
           "modifiers": [
             "n3ds"
           ],
@@ -38961,9 +39250,9 @@
           ]
         },
         "shiny": {
-          "name": "Unown-Bonus-Anime-Movie3-Form10-3DS-★",
-          "slug": "unown-anime-movie3-form10",
-          "cssClass": ".pokesprite.pokemon.unown-anime-movie3-form10.shiny.n3ds",
+          "name": "Unown-Bonus-Anime-Movie03-Form10-3DS-★",
+          "slug": "unown-anime-movie03-form10",
+          "cssClass": ".pokesprite.pokemon.unown-anime-movie03-form10.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -38975,17 +39264,17 @@
       },
       {
         "regular": {
-          "name": "Unown-Bonus-Anime-Movie3-Form11",
-          "slug": "unown-anime-movie3-form11",
-          "cssClass": ".pokesprite.pokemon.unown-anime-movie3-form11",
+          "name": "Unown-Bonus-Anime-Movie03-Form11",
+          "slug": "unown-anime-movie03-form11",
+          "cssClass": ".pokesprite.pokemon.unown-anime-movie03-form11",
           "categories": [
             "bonus"
           ]
         },
         "shiny": {
-          "name": "Unown-Bonus-Anime-Movie3-Form11-★",
-          "slug": "unown-anime-movie3-form11",
-          "cssClass": ".pokesprite.pokemon.unown-anime-movie3-form11.shiny",
+          "name": "Unown-Bonus-Anime-Movie03-Form11-★",
+          "slug": "unown-anime-movie03-form11",
+          "cssClass": ".pokesprite.pokemon.unown-anime-movie03-form11.shiny",
           "modifiers": [
             "shiny"
           ],
@@ -38996,9 +39285,9 @@
       },
       {
         "regular": {
-          "name": "Unown-Bonus-Anime-Movie3-Form11-3DS",
-          "slug": "unown-anime-movie3-form11",
-          "cssClass": ".pokesprite.pokemon.unown-anime-movie3-form11.n3ds",
+          "name": "Unown-Bonus-Anime-Movie03-Form11-3DS",
+          "slug": "unown-anime-movie03-form11",
+          "cssClass": ".pokesprite.pokemon.unown-anime-movie03-form11.n3ds",
           "modifiers": [
             "n3ds"
           ],
@@ -39007,561 +39296,9 @@
           ]
         },
         "shiny": {
-          "name": "Unown-Bonus-Anime-Movie3-Form11-3DS-★",
-          "slug": "unown-anime-movie3-form11",
-          "cssClass": ".pokesprite.pokemon.unown-anime-movie3-form11.shiny.n3ds",
-          "modifiers": [
-            "shiny",
-            "n3ds"
-          ],
-          "categories": [
-            "bonus"
-          ]
-        }
-      },
-      {
-        "regular": {
-          "name": "Unown-Bonus-Movie3-Form00",
-          "slug": "unown-movie3-form00",
-          "cssClass": ".pokesprite.pokemon.unown-movie3-form00",
-          "categories": [
-            "bonus"
-          ]
-        },
-        "shiny": {
-          "name": "Unown-Bonus-Movie3-Form00-★",
-          "slug": "unown-movie3-form00",
-          "cssClass": ".pokesprite.pokemon.unown-movie3-form00.shiny",
-          "modifiers": [
-            "shiny"
-          ],
-          "categories": [
-            "bonus"
-          ]
-        }
-      },
-      {
-        "regular": {
-          "name": "Unown-Bonus-Movie3-Form00-3DS",
-          "slug": "unown-movie3-form00",
-          "cssClass": ".pokesprite.pokemon.unown-movie3-form00.n3ds",
-          "modifiers": [
-            "n3ds"
-          ],
-          "categories": [
-            "bonus"
-          ]
-        },
-        "shiny": {
-          "name": "Unown-Bonus-Movie3-Form00-3DS-★",
-          "slug": "unown-movie3-form00",
-          "cssClass": ".pokesprite.pokemon.unown-movie3-form00.shiny.n3ds",
-          "modifiers": [
-            "shiny",
-            "n3ds"
-          ],
-          "categories": [
-            "bonus"
-          ]
-        }
-      },
-      {
-        "regular": {
-          "name": "Unown-Bonus-Movie3-Form01",
-          "slug": "unown-movie3-form01",
-          "cssClass": ".pokesprite.pokemon.unown-movie3-form01",
-          "categories": [
-            "bonus"
-          ]
-        },
-        "shiny": {
-          "name": "Unown-Bonus-Movie3-Form01-★",
-          "slug": "unown-movie3-form01",
-          "cssClass": ".pokesprite.pokemon.unown-movie3-form01.shiny",
-          "modifiers": [
-            "shiny"
-          ],
-          "categories": [
-            "bonus"
-          ]
-        }
-      },
-      {
-        "regular": {
-          "name": "Unown-Bonus-Movie3-Form01-3DS",
-          "slug": "unown-movie3-form01",
-          "cssClass": ".pokesprite.pokemon.unown-movie3-form01.n3ds",
-          "modifiers": [
-            "n3ds"
-          ],
-          "categories": [
-            "bonus"
-          ]
-        },
-        "shiny": {
-          "name": "Unown-Bonus-Movie3-Form01-3DS-★",
-          "slug": "unown-movie3-form01",
-          "cssClass": ".pokesprite.pokemon.unown-movie3-form01.shiny.n3ds",
-          "modifiers": [
-            "shiny",
-            "n3ds"
-          ],
-          "categories": [
-            "bonus"
-          ]
-        }
-      },
-      {
-        "regular": {
-          "name": "Unown-Bonus-Movie3-Form02",
-          "slug": "unown-movie3-form02",
-          "cssClass": ".pokesprite.pokemon.unown-movie3-form02",
-          "categories": [
-            "bonus"
-          ]
-        },
-        "shiny": {
-          "name": "Unown-Bonus-Movie3-Form02-★",
-          "slug": "unown-movie3-form02",
-          "cssClass": ".pokesprite.pokemon.unown-movie3-form02.shiny",
-          "modifiers": [
-            "shiny"
-          ],
-          "categories": [
-            "bonus"
-          ]
-        }
-      },
-      {
-        "regular": {
-          "name": "Unown-Bonus-Movie3-Form02-3DS",
-          "slug": "unown-movie3-form02",
-          "cssClass": ".pokesprite.pokemon.unown-movie3-form02.n3ds",
-          "modifiers": [
-            "n3ds"
-          ],
-          "categories": [
-            "bonus"
-          ]
-        },
-        "shiny": {
-          "name": "Unown-Bonus-Movie3-Form02-3DS-★",
-          "slug": "unown-movie3-form02",
-          "cssClass": ".pokesprite.pokemon.unown-movie3-form02.shiny.n3ds",
-          "modifiers": [
-            "shiny",
-            "n3ds"
-          ],
-          "categories": [
-            "bonus"
-          ]
-        }
-      },
-      {
-        "regular": {
-          "name": "Unown-Bonus-Movie3-Form03",
-          "slug": "unown-movie3-form03",
-          "cssClass": ".pokesprite.pokemon.unown-movie3-form03",
-          "categories": [
-            "bonus"
-          ]
-        },
-        "shiny": {
-          "name": "Unown-Bonus-Movie3-Form03-★",
-          "slug": "unown-movie3-form03",
-          "cssClass": ".pokesprite.pokemon.unown-movie3-form03.shiny",
-          "modifiers": [
-            "shiny"
-          ],
-          "categories": [
-            "bonus"
-          ]
-        }
-      },
-      {
-        "regular": {
-          "name": "Unown-Bonus-Movie3-Form03-3DS",
-          "slug": "unown-movie3-form03",
-          "cssClass": ".pokesprite.pokemon.unown-movie3-form03.n3ds",
-          "modifiers": [
-            "n3ds"
-          ],
-          "categories": [
-            "bonus"
-          ]
-        },
-        "shiny": {
-          "name": "Unown-Bonus-Movie3-Form03-3DS-★",
-          "slug": "unown-movie3-form03",
-          "cssClass": ".pokesprite.pokemon.unown-movie3-form03.shiny.n3ds",
-          "modifiers": [
-            "shiny",
-            "n3ds"
-          ],
-          "categories": [
-            "bonus"
-          ]
-        }
-      },
-      {
-        "regular": {
-          "name": "Unown-Bonus-Movie3-Form04",
-          "slug": "unown-movie3-form04",
-          "cssClass": ".pokesprite.pokemon.unown-movie3-form04",
-          "categories": [
-            "bonus"
-          ]
-        },
-        "shiny": {
-          "name": "Unown-Bonus-Movie3-Form04-★",
-          "slug": "unown-movie3-form04",
-          "cssClass": ".pokesprite.pokemon.unown-movie3-form04.shiny",
-          "modifiers": [
-            "shiny"
-          ],
-          "categories": [
-            "bonus"
-          ]
-        }
-      },
-      {
-        "regular": {
-          "name": "Unown-Bonus-Movie3-Form04-3DS",
-          "slug": "unown-movie3-form04",
-          "cssClass": ".pokesprite.pokemon.unown-movie3-form04.n3ds",
-          "modifiers": [
-            "n3ds"
-          ],
-          "categories": [
-            "bonus"
-          ]
-        },
-        "shiny": {
-          "name": "Unown-Bonus-Movie3-Form04-3DS-★",
-          "slug": "unown-movie3-form04",
-          "cssClass": ".pokesprite.pokemon.unown-movie3-form04.shiny.n3ds",
-          "modifiers": [
-            "shiny",
-            "n3ds"
-          ],
-          "categories": [
-            "bonus"
-          ]
-        }
-      },
-      {
-        "regular": {
-          "name": "Unown-Bonus-Movie3-Form05",
-          "slug": "unown-movie3-form05",
-          "cssClass": ".pokesprite.pokemon.unown-movie3-form05",
-          "categories": [
-            "bonus"
-          ]
-        },
-        "shiny": {
-          "name": "Unown-Bonus-Movie3-Form05-★",
-          "slug": "unown-movie3-form05",
-          "cssClass": ".pokesprite.pokemon.unown-movie3-form05.shiny",
-          "modifiers": [
-            "shiny"
-          ],
-          "categories": [
-            "bonus"
-          ]
-        }
-      },
-      {
-        "regular": {
-          "name": "Unown-Bonus-Movie3-Form05-3DS",
-          "slug": "unown-movie3-form05",
-          "cssClass": ".pokesprite.pokemon.unown-movie3-form05.n3ds",
-          "modifiers": [
-            "n3ds"
-          ],
-          "categories": [
-            "bonus"
-          ]
-        },
-        "shiny": {
-          "name": "Unown-Bonus-Movie3-Form05-3DS-★",
-          "slug": "unown-movie3-form05",
-          "cssClass": ".pokesprite.pokemon.unown-movie3-form05.shiny.n3ds",
-          "modifiers": [
-            "shiny",
-            "n3ds"
-          ],
-          "categories": [
-            "bonus"
-          ]
-        }
-      },
-      {
-        "regular": {
-          "name": "Unown-Bonus-Movie3-Form06",
-          "slug": "unown-movie3-form06",
-          "cssClass": ".pokesprite.pokemon.unown-movie3-form06",
-          "categories": [
-            "bonus"
-          ]
-        },
-        "shiny": {
-          "name": "Unown-Bonus-Movie3-Form06-★",
-          "slug": "unown-movie3-form06",
-          "cssClass": ".pokesprite.pokemon.unown-movie3-form06.shiny",
-          "modifiers": [
-            "shiny"
-          ],
-          "categories": [
-            "bonus"
-          ]
-        }
-      },
-      {
-        "regular": {
-          "name": "Unown-Bonus-Movie3-Form06-3DS",
-          "slug": "unown-movie3-form06",
-          "cssClass": ".pokesprite.pokemon.unown-movie3-form06.n3ds",
-          "modifiers": [
-            "n3ds"
-          ],
-          "categories": [
-            "bonus"
-          ]
-        },
-        "shiny": {
-          "name": "Unown-Bonus-Movie3-Form06-3DS-★",
-          "slug": "unown-movie3-form06",
-          "cssClass": ".pokesprite.pokemon.unown-movie3-form06.shiny.n3ds",
-          "modifiers": [
-            "shiny",
-            "n3ds"
-          ],
-          "categories": [
-            "bonus"
-          ]
-        }
-      },
-      {
-        "regular": {
-          "name": "Unown-Bonus-Movie3-Form07",
-          "slug": "unown-movie3-form07",
-          "cssClass": ".pokesprite.pokemon.unown-movie3-form07",
-          "categories": [
-            "bonus"
-          ]
-        },
-        "shiny": {
-          "name": "Unown-Bonus-Movie3-Form07-★",
-          "slug": "unown-movie3-form07",
-          "cssClass": ".pokesprite.pokemon.unown-movie3-form07.shiny",
-          "modifiers": [
-            "shiny"
-          ],
-          "categories": [
-            "bonus"
-          ]
-        }
-      },
-      {
-        "regular": {
-          "name": "Unown-Bonus-Movie3-Form07-3DS",
-          "slug": "unown-movie3-form07",
-          "cssClass": ".pokesprite.pokemon.unown-movie3-form07.n3ds",
-          "modifiers": [
-            "n3ds"
-          ],
-          "categories": [
-            "bonus"
-          ]
-        },
-        "shiny": {
-          "name": "Unown-Bonus-Movie3-Form07-3DS-★",
-          "slug": "unown-movie3-form07",
-          "cssClass": ".pokesprite.pokemon.unown-movie3-form07.shiny.n3ds",
-          "modifiers": [
-            "shiny",
-            "n3ds"
-          ],
-          "categories": [
-            "bonus"
-          ]
-        }
-      },
-      {
-        "regular": {
-          "name": "Unown-Bonus-Movie3-Form08",
-          "slug": "unown-movie3-form08",
-          "cssClass": ".pokesprite.pokemon.unown-movie3-form08",
-          "categories": [
-            "bonus"
-          ]
-        },
-        "shiny": {
-          "name": "Unown-Bonus-Movie3-Form08-★",
-          "slug": "unown-movie3-form08",
-          "cssClass": ".pokesprite.pokemon.unown-movie3-form08.shiny",
-          "modifiers": [
-            "shiny"
-          ],
-          "categories": [
-            "bonus"
-          ]
-        }
-      },
-      {
-        "regular": {
-          "name": "Unown-Bonus-Movie3-Form08-3DS",
-          "slug": "unown-movie3-form08",
-          "cssClass": ".pokesprite.pokemon.unown-movie3-form08.n3ds",
-          "modifiers": [
-            "n3ds"
-          ],
-          "categories": [
-            "bonus"
-          ]
-        },
-        "shiny": {
-          "name": "Unown-Bonus-Movie3-Form08-3DS-★",
-          "slug": "unown-movie3-form08",
-          "cssClass": ".pokesprite.pokemon.unown-movie3-form08.shiny.n3ds",
-          "modifiers": [
-            "shiny",
-            "n3ds"
-          ],
-          "categories": [
-            "bonus"
-          ]
-        }
-      },
-      {
-        "regular": {
-          "name": "Unown-Bonus-Movie3-Form09",
-          "slug": "unown-movie3-form09",
-          "cssClass": ".pokesprite.pokemon.unown-movie3-form09",
-          "categories": [
-            "bonus"
-          ]
-        },
-        "shiny": {
-          "name": "Unown-Bonus-Movie3-Form09-★",
-          "slug": "unown-movie3-form09",
-          "cssClass": ".pokesprite.pokemon.unown-movie3-form09.shiny",
-          "modifiers": [
-            "shiny"
-          ],
-          "categories": [
-            "bonus"
-          ]
-        }
-      },
-      {
-        "regular": {
-          "name": "Unown-Bonus-Movie3-Form09-3DS",
-          "slug": "unown-movie3-form09",
-          "cssClass": ".pokesprite.pokemon.unown-movie3-form09.n3ds",
-          "modifiers": [
-            "n3ds"
-          ],
-          "categories": [
-            "bonus"
-          ]
-        },
-        "shiny": {
-          "name": "Unown-Bonus-Movie3-Form09-3DS-★",
-          "slug": "unown-movie3-form09",
-          "cssClass": ".pokesprite.pokemon.unown-movie3-form09.shiny.n3ds",
-          "modifiers": [
-            "shiny",
-            "n3ds"
-          ],
-          "categories": [
-            "bonus"
-          ]
-        }
-      },
-      {
-        "regular": {
-          "name": "Unown-Bonus-Movie3-Form10",
-          "slug": "unown-movie3-form10",
-          "cssClass": ".pokesprite.pokemon.unown-movie3-form10",
-          "categories": [
-            "bonus"
-          ]
-        },
-        "shiny": {
-          "name": "Unown-Bonus-Movie3-Form10-★",
-          "slug": "unown-movie3-form10",
-          "cssClass": ".pokesprite.pokemon.unown-movie3-form10.shiny",
-          "modifiers": [
-            "shiny"
-          ],
-          "categories": [
-            "bonus"
-          ]
-        }
-      },
-      {
-        "regular": {
-          "name": "Unown-Bonus-Movie3-Form10-3DS",
-          "slug": "unown-movie3-form10",
-          "cssClass": ".pokesprite.pokemon.unown-movie3-form10.n3ds",
-          "modifiers": [
-            "n3ds"
-          ],
-          "categories": [
-            "bonus"
-          ]
-        },
-        "shiny": {
-          "name": "Unown-Bonus-Movie3-Form10-3DS-★",
-          "slug": "unown-movie3-form10",
-          "cssClass": ".pokesprite.pokemon.unown-movie3-form10.shiny.n3ds",
-          "modifiers": [
-            "shiny",
-            "n3ds"
-          ],
-          "categories": [
-            "bonus"
-          ]
-        }
-      },
-      {
-        "regular": {
-          "name": "Unown-Bonus-Movie3-Form11",
-          "slug": "unown-movie3-form11",
-          "cssClass": ".pokesprite.pokemon.unown-movie3-form11",
-          "categories": [
-            "bonus"
-          ]
-        },
-        "shiny": {
-          "name": "Unown-Bonus-Movie3-Form11-★",
-          "slug": "unown-movie3-form11",
-          "cssClass": ".pokesprite.pokemon.unown-movie3-form11.shiny",
-          "modifiers": [
-            "shiny"
-          ],
-          "categories": [
-            "bonus"
-          ]
-        }
-      },
-      {
-        "regular": {
-          "name": "Unown-Bonus-Movie3-Form11-3DS",
-          "slug": "unown-movie3-form11",
-          "cssClass": ".pokesprite.pokemon.unown-movie3-form11.n3ds",
-          "modifiers": [
-            "n3ds"
-          ],
-          "categories": [
-            "bonus"
-          ]
-        },
-        "shiny": {
-          "name": "Unown-Bonus-Movie3-Form11-3DS-★",
-          "slug": "unown-movie3-form11",
-          "cssClass": ".pokesprite.pokemon.unown-movie3-form11.shiny.n3ds",
+          "name": "Unown-Bonus-Anime-Movie03-Form11-3DS-★",
+          "slug": "unown-anime-movie03-form11",
+          "cssClass": ".pokesprite.pokemon.unown-anime-movie03-form11.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -43591,17 +43328,17 @@
       },
       {
         "regular": {
-          "name": "MIltank-Bonus-Anime-SM011",
-          "slug": "m-iltank-anime-sm011",
-          "cssClass": ".pokesprite.pokemon.m-iltank-anime-sm011",
+          "name": "Miltank-Bonus-Anime-SM011",
+          "slug": "miltank-anime-sm011",
+          "cssClass": ".pokesprite.pokemon.miltank-anime-sm011",
           "categories": [
             "bonus"
           ]
         },
         "shiny": {
-          "name": "MIltank-Bonus-Anime-SM011-★",
-          "slug": "m-iltank-anime-sm011",
-          "cssClass": ".pokesprite.pokemon.m-iltank-anime-sm011.shiny",
+          "name": "Miltank-Bonus-Anime-SM011-★",
+          "slug": "miltank-anime-sm011",
+          "cssClass": ".pokesprite.pokemon.miltank-anime-sm011.shiny",
           "modifiers": [
             "shiny"
           ],
@@ -43612,9 +43349,9 @@
       },
       {
         "regular": {
-          "name": "MIltank-Bonus-Anime-SM011-3DS",
-          "slug": "m-iltank-anime-sm011",
-          "cssClass": ".pokesprite.pokemon.m-iltank-anime-sm011.n3ds",
+          "name": "Miltank-Bonus-Anime-SM011-3DS",
+          "slug": "miltank-anime-sm011",
+          "cssClass": ".pokesprite.pokemon.miltank-anime-sm011.n3ds",
           "modifiers": [
             "n3ds"
           ],
@@ -43623,9 +43360,9 @@
           ]
         },
         "shiny": {
-          "name": "MIltank-Bonus-Anime-SM011-3DS-★",
-          "slug": "m-iltank-anime-sm011",
-          "cssClass": ".pokesprite.pokemon.m-iltank-anime-sm011.shiny.n3ds",
+          "name": "Miltank-Bonus-Anime-SM011-3DS-★",
+          "slug": "miltank-anime-sm011",
+          "cssClass": ".pokesprite.pokemon.miltank-anime-sm011.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -45612,6 +45349,52 @@
             "shiny"
           ]
         }
+      },
+      {
+        "regular": {
+          "name": "Linoone-Bonus-Anime-Damos",
+          "slug": "linoone-anime-damos",
+          "cssClass": ".pokesprite.pokemon.linoone-anime-damos",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Linoone-Bonus-Anime-Damos-★",
+          "slug": "linoone-anime-damos",
+          "cssClass": ".pokesprite.pokemon.linoone-anime-damos.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Linoone-Bonus-Anime-Damos-3DS",
+          "slug": "linoone-anime-damos",
+          "cssClass": ".pokesprite.pokemon.linoone-anime-damos.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Linoone-Bonus-Anime-Damos-3DS-★",
+          "slug": "linoone-anime-damos",
+          "cssClass": ".pokesprite.pokemon.linoone-anime-damos.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       }
     ]
   },
@@ -47333,6 +47116,52 @@
             "n3ds"
           ]
         }
+      },
+      {
+        "regular": {
+          "name": "Exploud-Bonus-Anime-Damos",
+          "slug": "exploud-anime-damos",
+          "cssClass": ".pokesprite.pokemon.exploud-anime-damos",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Exploud-Bonus-Anime-Damos-★",
+          "slug": "exploud-anime-damos",
+          "cssClass": ".pokesprite.pokemon.exploud-anime-damos.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Exploud-Bonus-Anime-Damos-3DS",
+          "slug": "exploud-anime-damos",
+          "cssClass": ".pokesprite.pokemon.exploud-anime-damos.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Exploud-Bonus-Anime-Damos-3DS-★",
+          "slug": "exploud-anime-damos",
+          "cssClass": ".pokesprite.pokemon.exploud-anime-damos.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       }
     ]
   },
@@ -47472,6 +47301,52 @@
           "modifiers": [
             "shiny",
             "n3ds"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Nosepass-Bonus-Anime-Damos",
+          "slug": "nosepass-anime-damos",
+          "cssClass": ".pokesprite.pokemon.nosepass-anime-damos",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Nosepass-Bonus-Anime-Damos-★",
+          "slug": "nosepass-anime-damos",
+          "cssClass": ".pokesprite.pokemon.nosepass-anime-damos.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Nosepass-Bonus-Anime-Damos-3DS",
+          "slug": "nosepass-anime-damos",
+          "cssClass": ".pokesprite.pokemon.nosepass-anime-damos.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Nosepass-Bonus-Anime-Damos-3DS-★",
+          "slug": "nosepass-anime-damos",
+          "cssClass": ".pokesprite.pokemon.nosepass-anime-damos.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
           ]
         }
       }
@@ -48165,6 +48040,27 @@
             "shiny"
           ]
         }
+      },
+      {
+        "regular": {
+          "name": "Electrike-Bonus-Anime-Damos",
+          "slug": "electrike-anime-damos",
+          "cssClass": ".pokesprite.pokemon.electrike-anime-damos",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Electrike-Bonus-Anime-Damos-★",
+          "slug": "electrike-anime-damos",
+          "cssClass": ".pokesprite.pokemon.electrike-anime-damos.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       }
     ]
   },
@@ -48237,6 +48133,52 @@
           "modifiers": [
             "shiny",
             "n3ds"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Manectric-Bonus-Anime-Damos",
+          "slug": "manectric-anime-damos",
+          "cssClass": ".pokesprite.pokemon.manectric-anime-damos",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Manectric-Bonus-Anime-Damos-★",
+          "slug": "manectric-anime-damos",
+          "cssClass": ".pokesprite.pokemon.manectric-anime-damos.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Manectric-Bonus-Anime-Damos-3DS",
+          "slug": "manectric-anime-damos",
+          "cssClass": ".pokesprite.pokemon.manectric-anime-damos.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Manectric-Bonus-Anime-Damos-3DS-★",
+          "slug": "manectric-anime-damos",
+          "cssClass": ".pokesprite.pokemon.manectric-anime-damos.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
           ]
         }
       }
@@ -49989,6 +49931,52 @@
             "n3ds"
           ]
         }
+      },
+      {
+        "regular": {
+          "name": "Baltoy-Bonus-Anime-Damos",
+          "slug": "baltoy-anime-damos",
+          "cssClass": ".pokesprite.pokemon.baltoy-anime-damos",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Baltoy-Bonus-Anime-Damos-★",
+          "slug": "baltoy-anime-damos",
+          "cssClass": ".pokesprite.pokemon.baltoy-anime-damos.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Baltoy-Bonus-Anime-Damos-3DS",
+          "slug": "baltoy-anime-damos",
+          "cssClass": ".pokesprite.pokemon.baltoy-anime-damos.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Baltoy-Bonus-Anime-Damos-3DS-★",
+          "slug": "baltoy-anime-damos",
+          "cssClass": ".pokesprite.pokemon.baltoy-anime-damos.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       }
     ]
   },
@@ -50027,6 +50015,52 @@
           "modifiers": [
             "shiny",
             "n3ds"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Claydol-Bonus-Anime-Damos",
+          "slug": "claydol-anime-damos",
+          "cssClass": ".pokesprite.pokemon.claydol-anime-damos",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Claydol-Bonus-Anime-Damos-★",
+          "slug": "claydol-anime-damos",
+          "cssClass": ".pokesprite.pokemon.claydol-anime-damos.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Claydol-Bonus-Anime-Damos-3DS",
+          "slug": "claydol-anime-damos",
+          "cssClass": ".pokesprite.pokemon.claydol-anime-damos.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Claydol-Bonus-Anime-Damos-3DS-★",
+          "slug": "claydol-anime-damos",
+          "cssClass": ".pokesprite.pokemon.claydol-anime-damos.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
           ]
         }
       }
@@ -51066,6 +51100,52 @@
           ],
           "categories": [
             "go"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Absol-Bonus-Anime-Damos",
+          "slug": "absol-anime-damos",
+          "cssClass": ".pokesprite.pokemon.absol-anime-damos",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Absol-Bonus-Anime-Damos-★",
+          "slug": "absol-anime-damos",
+          "cssClass": ".pokesprite.pokemon.absol-anime-damos.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Absol-Bonus-Anime-Damos-3DS",
+          "slug": "absol-anime-damos",
+          "cssClass": ".pokesprite.pokemon.absol-anime-damos.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Absol-Bonus-Anime-Damos-3DS-★",
+          "slug": "absol-anime-damos",
+          "cssClass": ".pokesprite.pokemon.absol-anime-damos.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
           ]
         }
       }
@@ -54203,6 +54283,148 @@
           "modifiers": [
             "switch",
             "shiny"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Luxray-Bonus-Anime-Damos",
+          "slug": "luxray-anime-damos",
+          "cssClass": ".pokesprite.pokemon.luxray-anime-damos",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Luxray-Bonus-Anime-Damos-★",
+          "slug": "luxray-anime-damos",
+          "cssClass": ".pokesprite.pokemon.luxray-anime-damos.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Luxray-Bonus-Anime-Damos-3DS",
+          "slug": "luxray-anime-damos",
+          "cssClass": ".pokesprite.pokemon.luxray-anime-damos.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Luxray-Bonus-Anime-Damos-3DS-★",
+          "slug": "luxray-anime-damos",
+          "cssClass": ".pokesprite.pokemon.luxray-anime-damos.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Luxray-Bonus-Anime-Damos-F",
+          "slug": "luxray-anime-damos-f",
+          "cssClass": ".pokesprite.pokemon.luxray-anime-damos-f",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Luxray-Bonus-Anime-Damos-F-★",
+          "slug": "luxray-anime-damos-f",
+          "cssClass": ".pokesprite.pokemon.luxray-anime-damos-f.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Luxray-Bonus-Anime-Damos-F-3DS",
+          "slug": "luxray-anime-damos-f",
+          "cssClass": ".pokesprite.pokemon.luxray-anime-damos-f.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Luxray-Bonus-Anime-Damos-F-3DS-★",
+          "slug": "luxray-anime-damos-f",
+          "cssClass": ".pokesprite.pokemon.luxray-anime-damos-f.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Luxray-Bonus-Anime-Damos-Switch-SwSh",
+          "slug": "luxray-anime-damos-sw-sh",
+          "cssClass": ".pokesprite.pokemon.luxray-anime-damos-sw-sh.switch",
+          "modifiers": [
+            "switch"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Luxray-Bonus-Anime-Damos-Switch-SwSh-★",
+          "slug": "luxray-anime-damos-sw-sh",
+          "cssClass": ".pokesprite.pokemon.luxray-anime-damos-sw-sh.switch.shiny",
+          "modifiers": [
+            "switch",
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Luxray-Bonus-Anime-Damos-Switch-SwSh-F",
+          "slug": "luxray-anime-damos-sw-sh-f",
+          "cssClass": ".pokesprite.pokemon.luxray-anime-damos-sw-sh-f.switch",
+          "modifiers": [
+            "switch"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Luxray-Bonus-Anime-Damos-Switch-SwSh-F-★",
+          "slug": "luxray-anime-damos-sw-sh-f",
+          "cssClass": ".pokesprite.pokemon.luxray-anime-damos-sw-sh-f.switch.shiny",
+          "modifiers": [
+            "switch",
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
           ]
         }
       }
@@ -59600,6 +59822,52 @@
           "modifiers": [
             "shiny",
             "n3ds"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Probopass-Bonus-Anime-Damos",
+          "slug": "probopass-anime-damos",
+          "cssClass": ".pokesprite.pokemon.probopass-anime-damos",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Probopass-Bonus-Anime-Damos-★",
+          "slug": "probopass-anime-damos",
+          "cssClass": ".pokesprite.pokemon.probopass-anime-damos.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Probopass-Bonus-Anime-Damos-3DS",
+          "slug": "probopass-anime-damos",
+          "cssClass": ".pokesprite.pokemon.probopass-anime-damos.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Probopass-Bonus-Anime-Damos-3DS-★",
+          "slug": "probopass-anime-damos",
+          "cssClass": ".pokesprite.pokemon.probopass-anime-damos.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
           ]
         }
       }
