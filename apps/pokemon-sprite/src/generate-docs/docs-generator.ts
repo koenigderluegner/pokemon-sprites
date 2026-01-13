@@ -162,14 +162,17 @@ This is a list of present and past contributors which provided custom icons. Tha
 <div class="credits">
 <a href="https://github.com/5310" rel="nofollow noopener" target="_blank">5310</a>
 <a href="https://www.deviantart.com/acpeters" rel="nofollow noopener" target="_blank">acpeters</a>
+<span>axel_codeinfinity</span>
 <a href="https://bsky.app/profile/bananannertoast.bsky.social" rel="nofollow noopener" target="_blank">bananannertoast</a>
 <a href="https://www.deviantart.com/boludart" rel="nofollow noopener" target="_blank">boludart</a>
 <a href="https://www.deviantart.com/carmanekko" rel="nofollow noopener" target="_blank">carmanekko</a>
+<span>Cesare_CBass</span>
 <a href="https://www.deviantart.com/ezerart" rel="nofollow noopener" target="_blank">ezerart</a>
 <a href="https://www.deviantart.com/flashythepegasus" rel="nofollow noopener" target="_blank">flashythepegasus</a>
 <a href="https://www.deviantart.com/floriandx" rel="nofollow noopener" target="_blank">floriandx</a>
 <span>Frander04</span>
 <a href="https://www.deviantart.com/futuresushi" rel="nofollow noopener" target="_blank">futuresushi</a>
+<span>gab_thebest</span>
 <a href="https://www.deviantart.com/grand-emperor-z" rel="nofollow noopener" target="_blank">grand-emperor-z</a>
 <a href="https://www.deviantart.com/hexechroma" rel="nofollow noopener" target="_blank">hexechroma</a>
 <a href="https://www.deviantart.com/larryturbo" rel="nofollow noopener" target="_blank">larryturbo</a>
@@ -180,6 +183,7 @@ This is a list of present and past contributors which provided custom icons. Tha
 <a href="https://www.deviantart.com/robertovile" rel="nofollow noopener" target="_blank">robertovile</a>
 <span>TraviS</span>
 <a href="https://www.deviantart.com/ushcale" rel="nofollow noopener" target="_blank">ushcale</a>
+<span>Vent</span>
 <a href="https://www.deviantart.com/wolfang62" rel="nofollow noopener" target="_blank">wolfang62</a>
 <a href="https://www.deviantart.com/zerudez" rel="nofollow noopener" target="_blank">zerudez</a>
 <span>Vent</span>
