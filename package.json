@@ -3,7 +3,11 @@
   "version": "0.0.0",
   "license": "MIT",
   "scripts": {
-    "update-all": "nx run pokemon-sprite:unzip-assets:generate && git add apps/pokemon-sprite/sprites/\\* &&  nx run pokemon-sprite:convert-assets:convert && nx run pokemon-sprite:generate-spritesheet:generate && nx run pokemon-sprite:generate-docs:generate"
+    "update-all": "nx run pokemon-sprite:unzip-assets:generate && git add apps/pokemon-sprite/sprites/\\* &&  nx run pokemon-sprite:convert-assets:convert && nx run pokemon-sprite:generate-spritesheet:generate && nx run pokemon-sprite:generate-docs:generate",
+    "lint": "oxlint .",
+    "lint:fix": "oxlint --fix .",
+    "format": "oxfmt --check",
+    "format:fix": "oxfmt ."
   },
   "private": true,
   "dependencies": {
@@ -29,6 +33,8 @@
     "eslint": "^9.8.0",
     "eslint-config-prettier": "10.0.0",
     "nx": "21.5.1",
+    "oxfmt": "^0.24.0",
+    "oxlint": "^1.39.0",
     "sharp": "^0.34.3",
     "spritesmith": "^3.5.1",
     "ts-node": "^10.9.2",

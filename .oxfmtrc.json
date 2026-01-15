@@ -1,0 +1,4 @@
+{
+  "$schema": "./node_modules/oxfmt/configuration_schema.json",
+  "ignorePatterns": ["docs", "apps/pokemon-sprite/prebuilds", "apps/pokemon-sprite/sprites"]
+}
