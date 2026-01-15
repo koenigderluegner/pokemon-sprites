@@ -1,14 +1,1 @@
-export type PokemonIconPair = {
-  regular: IconMeta,
-  shiny: IconMeta | null
-}
-
-export type IconMeta = {
-  name: string;
-  slug: string;
-  cssClass: string;
-  categories?: string[];
-  modifiers?: string[]
-}
-
-export type PokemonEntry = { id: number; species: string; icons: PokemonIconPair[] }
+export * from '../shared/types';

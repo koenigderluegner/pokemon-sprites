@@ -1,33 +1,48 @@
-import fs from 'fs';
+import fs from 'fs/promises';
 import * as unzipper from 'unzipper';
 import path from 'path';
+import { SPRITES_DIR } from '../shared/constants';
 
-const targetPath = path.join(__dirname, '../../sprites');
-const zipPaths: string[] = fs.readdirSync(__dirname).filter(s => s.toLocaleLowerCase().endsWith('.zip')).map(s => path.join(__dirname, s));
-if (zipPaths.length !== 1) throw new Error(`Found ${zipPaths.length} zip files, expected exactly 1. \nFound files: ${zipPaths.join(', ')}`);
+async function getZipPath(): Promise<string> {
+  const files = await fs.readdir(__dirname);
+  const zipFiles = files
+    .filter((file) => file.toLocaleLowerCase().endsWith('.zip'))
+    .map((file) => path.join(__dirname, file));
 
-const zipPath = zipPaths[0];
-
-console.log(`Unpacking ${zipPath} to ${targetPath}`);
-
-async function unpack() {
-  fs.rmSync(targetPath, {recursive: true, force: true});
-  fs.mkdirSync(targetPath, {recursive: true});
-  const directory = await unzipper.Open.file(zipPath);
-
-
-  for (const entry of directory.files) {
-    const isFileInNormalDirectory = entry.path.startsWith('Normal/') && entry.type === 'File';
-    if (isFileInNormalDirectory) {
-      const fileName = entry.path.replace('Normal/', '');
-      const fullPath = path.join(targetPath, fileName);
-
-      const content = await entry.buffer();
-      fs.writeFileSync(fullPath, content);
-    }
+  if (zipFiles.length !== 1) {
+    throw new Error(
+      `Found ${zipFiles.length} zip files, expected exactly 1.\nFound files: ${zipFiles.join(', ')}`
+    );
   }
+  return zipFiles[0];
+}
 
-  console.log('Unpacked successfully!');
+async function unpack(): Promise<void> {
+  try {
+    const zipPath = await getZipPath();
+    console.log(`Unpacking ${zipPath} to ${SPRITES_DIR}`);
+
+    await fs.rm(SPRITES_DIR, { recursive: true, force: true });
+    await fs.mkdir(SPRITES_DIR, { recursive: true });
+
+    const directory = await unzipper.Open.file(zipPath);
+
+    const extractionPromises = directory.files
+      .filter((entry) => entry.path.startsWith('Normal/') && entry.type === 'File')
+      .map(async (entry) => {
+        const fileName = entry.path.replace('Normal/', '');
+        const fullPath = path.join(SPRITES_DIR, fileName);
+        const content = await entry.buffer();
+        await fs.writeFile(fullPath, content);
+      });
+
+    await Promise.all(extractionPromises);
+
+    console.log('Unpacked successfully!');
+  } catch (error) {
+    console.error('Failed to unpack:', error instanceof Error ? error.message : error);
+    process.exit(1);
+  }
 }
 
 unpack();

@@ -1,98 +1,131 @@
-/// <reference path="./layout.d.ts" />
-import fs from 'fs';
+import fs from 'fs/promises';
 import path from 'path';
-import { IconMeta, PokemonEntry } from '../generate-docs/pokemon-entry';
+import { IconMeta, PokemonEntry } from '../shared/types';
+import type * as Spritesmith from 'spritesmith';
 import spritesmith from 'spritesmith';
 import sharp from 'sharp';
 import * as layout from 'layout';
+import { DATA_JSON_PATH, DOCS_DIR, PREBUILTS_DIR, SPRITES_DIR } from '../shared/constants';
 
+const MAX_WIDTH = 2176;
+const USE_CSS_NESTING = true;
 
-const sort = (items: any) => items;
-const useCSSNesting = true;
+interface SpriteItem {
+  width: number;
+  height: number;
+  x?: number;
+  y?: number;
+}
 
-const docsOutputDest = path.join(__dirname, '../../../../docs');
-const prebuiltsOutputDest = path.join(__dirname, '../../prebuilts/default');
-const iconInputLocation = path.join(__dirname, '../../sprites/');
-
-const convertedPokemonEntries = fs.readFileSync(path.join(__dirname, '../../data.json'),
-  {encoding: 'utf8', flag: 'r'});
-
-const pokemonEntries: PokemonEntry[] = JSON.parse(convertedPokemonEntries);
-const icons = pokemonEntries.map(entry => {
-  return entry.icons.map(icon => [icon.regular, icon.shiny]);
-}).flat(2).filter((s): s is IconMeta => !!s);
 // taken from https://github.com/msikma/pokesprite-gen/blob/27b51fd5ef340b4ceb82d8102a5d81ac3f994566/packages/lib/spritesmith/layout.js
-const placeItemsWithMaxWidth = (maxWidth: number) => (items: any[]) => {
-  let x = 0;
-  let y = 0;
-  let maxHeight = 0;
+function placeItemsWithMaxWidth(maxWidth: number) {
+  return (items: SpriteItem[]): SpriteItem[] => {
+    let x = 0;
+    let y = 0;
+    let maxHeight = 0;
 
-  items.forEach(item => {
-    if (x + item.width > maxWidth) {
-      x = 0;
-      y += maxHeight;
-      maxHeight = 0;
-    }
-    item.x = x;
-    item.y = y;
+    items.forEach((item) => {
+      if (x + item.width > maxWidth) {
+        x = 0;
+        y += maxHeight;
+        maxHeight = 0;
+      }
+      item.x = x;
+      item.y = y;
 
-    x += item.width;
-    maxHeight = Math.max(maxHeight, item.height);
-  });
+      x += item.width;
+      maxHeight = Math.max(maxHeight, item.height);
+    });
 
-  return items;
-};
+    return items;
+  };
+}
 
-const sprites = icons.map(s => iconInputLocation + s.name + '.png');
-sprites.unshift(iconInputLocation + 'Placeholder.png');
-layout.addAlgorithm('pokesprite-left-right', {sort, placeItems: placeItemsWithMaxWidth(2176)});
-// @ts-ignore
-spritesmith.run({src: sprites, algorithm: 'pokesprite-left-right'}, function handleResult(err, result) {
-  if (err) {
-    console.error(err);
-    return;
+async function main() {
+  try {
+    const convertedPokemonEntries = await fs.readFile(DATA_JSON_PATH, {
+      encoding: 'utf8',
+    });
+
+    const pokemonEntries: PokemonEntry[] = JSON.parse(convertedPokemonEntries);
+    const icons: IconMeta[] = pokemonEntries
+      .flatMap((entry) => entry.icons.flatMap((icon) => [icon.regular, icon.shiny]))
+      .filter((s): s is IconMeta => !!s);
+
+    const sprites = icons.map((s) => path.join(SPRITES_DIR, s.name + '.png'));
+    sprites.unshift(path.join(SPRITES_DIR, 'Placeholder.png'));
+
+    layout.addAlgorithm('pokesprite-left-right', {
+      sort: (items: any) => items,
+      placeItems: placeItemsWithMaxWidth(MAX_WIDTH),
+    });
+
+    spritesmith.run(
+      {src: sprites, algorithm: 'pokesprite-left-right' as Spritesmith.SpritesmithProcessImagesOptions['algorithm']},
+      async (err, result) => {
+        if (err) {
+          console.error('Spritesmith error:', err);
+          return;
+        }
+
+        const cssContent = generateCss(icons, result.coordinates);
+        await saveFiles(result.image, cssContent);
+        console.log('Spritesheet generation successful!');
+      }
+    );
+  } catch (error) {
+    console.error('Failed to generate spritesheet:', error instanceof Error ? error.message : error);
+    process.exit(1);
   }
+}
 
-  generateCssFile(icons, result.coordinates);
-  const png = sharp(result.image).png();
-  png.toFile(path.join(docsOutputDest, 'spritesheet.png'));
-  if (!fs.existsSync(prebuiltsOutputDest)) fs.mkdirSync(prebuiltsOutputDest, {recursive: true});
-  png.toFile(path.join(prebuiltsOutputDest, 'spritesheet.png'));
-
-});
-
-
-function generateCssFile(iconMeta: IconMeta[], coordinates: Record<string, {
-  x: number,
-  y: number,
-  width: number,
-  height: number
-}>) {
+function generateCss(
+  iconMeta: IconMeta[],
+  coordinates: Record<string, { x: number; y: number; width: number; height: number }>
+): string {
   let basicStyles = `.pokesprite{display:inline-block}.pokesprite.pokemon{width:68px;height:68px;background-image:url(./spritesheet.png);image-rendering:pixelated;image-rendering:-moz-crisp-edges;`;
 
-  if (!useCSSNesting) {
+  if (!USE_CSS_NESTING) {
     basicStyles += `}`;
   }
 
-  const iconCss = (Object.entries(coordinates).map(([iconName, {x, y}]) => {
-    const iconMetaEntry = iconMeta.find(i => i.name === path.basename(iconName, '.png'));
-    if (iconMetaEntry) {
+  const iconCss = Object.entries(coordinates)
+    .map(([iconPath, {x, y}]) => {
+      const iconName = path.basename(iconPath, '.png');
+      const iconMetaEntry = iconMeta.find((i) => i.name === iconName);
+      if (iconMetaEntry) {
+        const selector = USE_CSS_NESTING
+          ? iconMetaEntry.cssClass.replace('.pokesprite.pokemon', '&')
+          : iconMetaEntry.cssClass;
+        return `${selector}{background-position:${x === 0 ? x : -x + 'px'} ${y === 0 ? y : -y + 'px'}}`;
+      }
+      return null;
+    })
+    .filter((s): s is string => !!s)
+    .join('');
 
-      const selector = useCSSNesting ? iconMetaEntry.cssClass.replace('.pokesprite.pokemon', '&') : iconMetaEntry.cssClass;
-      return `${selector}{background-position:${x === 0 ? x : -x + 'px'} ${y === 0 ? y : -y + 'px'}}`;
-    }
-    return null;
-
-  }).filter(Boolean) as string[]).join('');
-
-  if (useCSSNesting) {
-    basicStyles += iconCss + `}`;
+  if (USE_CSS_NESTING) {
+    return basicStyles + iconCss + `}`;
   } else {
-    basicStyles += iconCss;
+    return basicStyles + iconCss;
+  }
+}
+
+async function saveFiles(imageBuffer: Buffer, cssContent: string) {
+  const png = sharp(imageBuffer).png();
+
+  try {
+    await fs.access(PREBUILTS_DIR);
+  } catch {
+    await fs.mkdir(PREBUILTS_DIR, {recursive: true});
   }
 
-  fs.writeFileSync(path.join(docsOutputDest, 'spritesheet.css'), basicStyles,
-    {encoding: 'utf8', flag: 'w'});
-  fs.writeFileSync(path.join(prebuiltsOutputDest, 'spritesheet.css'), basicStyles,
-    {encoding: 'utf8', flag: 'w'});
+  await Promise.all([
+    png.toFile(path.join(DOCS_DIR, 'spritesheet.png')),
+    png.toFile(path.join(PREBUILTS_DIR, 'spritesheet.png')),
+    fs.writeFile(path.join(DOCS_DIR, 'spritesheet.css'), cssContent, 'utf8'),
+    fs.writeFile(path.join(PREBUILTS_DIR, 'spritesheet.css'), cssContent, 'utf8'),
+  ]);
 }
+
+main();

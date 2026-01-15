@@ -1,36 +1,43 @@
-import fs from 'fs';
+import fs from 'fs/promises';
+import { createWriteStream, WriteStream } from 'fs';
 import path from 'path';
-import { PokemonEntry, PokemonIconPair } from './pokemon-entry';
+import { PokemonEntry, PokemonIconPair } from '../shared/types';
+import { DATA_JSON_PATH, DOCS_DIR } from '../shared/constants';
 
-const docsOutputDest = path.join(__dirname, '../../../../docs');
+async function main() {
+  try {
+    const dataContent = await fs.readFile(DATA_JSON_PATH, 'utf8');
+    const pokemonEntries: PokemonEntry[] = JSON.parse(dataContent);
 
-const convertedPokemonEntries = fs.readFileSync(path.join(__dirname, '../../data.json'),
-  {encoding: 'utf8', flag: 'r'});
+    const indexPath = path.join(DOCS_DIR, 'index.html');
+    const writeStream = createWriteStream(indexPath, { encoding: 'utf-8' });
 
-const pokemonEntries: PokemonEntry[] = JSON.parse(convertedPokemonEntries);
+    writeStream.on('finish', () => {
+      console.log('Successfully wrote index.html');
+    });
 
-const writeStream = fs.createWriteStream(path.join(docsOutputDest, 'index.html'));
+    writeDocumentHeader(writeStream);
+    writeTableOfContents(writeStream);
+    writeTableHeader(writeStream);
 
-writeStream.on('finish', () => {
-  console.log('wrote all data to file');
-});
+    for (const entry of pokemonEntries) {
+      writeTableSpriteRow(writeStream, entry);
+    }
 
-writeDocumentHeader(writeStream);
-writeTableOfContents(writeStream);
-writeTableHeader(writeStream);
+    writeTableFooter(writeStream);
+    writeCredits(writeStream);
+    writeDocumentFooter(writeStream);
 
-pokemonEntries.forEach(entry => writeTableSpriteRow(writeStream, entry));
+    writeStream.end();
+  } catch (error) {
+    console.error('Failed to generate docs:', error instanceof Error ? error.message : error);
+    process.exit(1);
+  }
+}
 
-writeTableFooter(writeStream);
-writeCredits(writeStream);
-writeDocumentFooter(writeStream);
-
-writeStream.end();
-
-
-function writeTableHeader(stream: fs.WriteStream) {
-
-  stream.write(`<div class="table-wrapper"><table>
+function writeTableHeader(stream: WriteStream) {
+  stream.write(
+    `<div class="table-wrapper"><table>
 <thead>
 <tr>
 <th class="dex-col">#</th>
@@ -40,68 +47,83 @@ function writeTableHeader(stream: fs.WriteStream) {
 <th class="min-width">Shiny</th>
 </tr>
 </thead>
-<tbody>`, 'utf-8');
-
-
+<tbody>`
+  );
 }
 
-function writeTableFooter(stream: fs.WriteStream) {
-
-  stream.write(`</tbody>
-</table></div>`, 'utf-8');
-
-
+function writeTableFooter(stream: WriteStream) {
+  stream.write(
+    `</tbody>
+</table></div>`
+  );
 }
 
-function writeTableSpriteRow(stream: fs.WriteStream, entry: PokemonEntry) {
-
-  stream.write(`<tr>
+function writeTableSpriteRow(stream: WriteStream, entry: PokemonEntry) {
+  stream.write(
+    `<tr>
 <td class="dex-col" id="${entry.id}" rowspan="${entry.icons.length}"><a href="#${entry.id}">${entry.id}</a></td>
 <td class="name-col" id="${entry.species}" rowspan="${entry.icons.length}"><a href="#${entry.species}">${entry.species}</a></td>
 ${getIconFields(entry.icons[0], entry.species)}
-</tr>`, 'utf-8');
+</tr>`,
+    'utf-8'
+  );
+
   if (entry.icons.length > 1) {
     for (let i = 1; i < entry.icons.length; i++) {
       const speciesNameFromIcon = entry.icons[0].regular.name.split('-')[0];
-      stream.write(`<tr>
+      stream.write(
+        `<tr>
 ${getIconFields(entry.icons[i], speciesNameFromIcon)}
-</tr>`, 'utf-8');
+</tr>`,
+        'utf-8'
+      );
     }
-
   }
-
-
 }
 
 function getIconFields(iconPair: PokemonIconPair, speciesName: string): string {
-  const regularClasses = iconPair.regular.cssClass.split('.').filter(s => !!s).join(' ');
-  const shinyClasses = iconPair.shiny?.cssClass.split('.').filter(s => !!s).join(' ') ?? '';
-  const formName = iconPair.regular.name.length > speciesName.length ? iconPair.regular.name.substring(speciesName.length + 1) : '-';
+  const regularClasses = iconPair.regular.cssClass
+    .split('.')
+    .filter((s) => !!s)
+    .join(' ');
+  const shinyClasses = iconPair.shiny?.cssClass.split('.').filter((s) => !!s).join(' ') ?? '';
+  const formName =
+    iconPair.regular.name.length > speciesName.length
+      ? iconPair.regular.name.substring(speciesName.length + 1)
+      : '-';
+
   return `
 <td>${formName}</td>
   <td>
   <div class="sprite-with-text">
   <div class="${regularClasses}"></div>
-  <button onclick="clipboard('${regularClasses}')">
+  <button title="Copy CSS class" onclick="clipboard('${regularClasses}')">
   <img width="24" height="24" src="./clipboard.svg">
   </button>
-   <button onclick="downloadImage('${iconPair.regular.name}')">
+   <button title="Download PNG" onclick="downloadImage('${iconPair.regular.name}')">
   <img width="24" height="24" src="./download.svg">
   </button>
   </div>
   </td>
 <td>
-<div class="sprite-with-text">${iconPair.shiny ? `<div class="${shinyClasses}"></div>` : ''}${!iconPair.shiny?.name ? '-' : ''} ${iconPair.shiny ? `<button title="Copy CSS class" onclick="clipboard('${shinyClasses}')"><img width="24" height="24" src="./clipboard.svg"></button>   <button onclick="downloadImage('${iconPair.shiny.name}')">
+<div class="sprite-with-text">${iconPair.shiny ? `<div class="${shinyClasses}"></div>` : ''}${
+    !iconPair.shiny?.name ? '-' : ''
+  } ${
+    iconPair.shiny
+      ? `<button title="Copy CSS class" onclick="clipboard('${shinyClasses}')"><img width="24" height="24" src="./clipboard.svg"></button>   <button title="Download PNG" onclick="downloadImage('${iconPair.shiny.name}')">
   <img width="24" height="24" src="./download.svg">
-  </button>` : ''}</div></td>`;
+  </button>`
+      : ''
+  }</div></td>`;
 }
 
-
-function writeDocumentHeader(stream: fs.WriteStream) {
-  stream.write(`<!doctype html>
+function writeDocumentHeader(stream: WriteStream) {
+  stream.write(
+    `<!doctype html>
 <html lang="en">
   <head>
     <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Pokémon Sprite - Index</title>
     <link href="./docs.css" rel="stylesheet"/>
     <link href="./spritesheet.css" rel="stylesheet"/>
@@ -110,36 +132,33 @@ function writeDocumentHeader(stream: fs.WriteStream) {
       navigator.clipboard.writeText(text);
     }
 
-  async  function downloadImage(iconName) {
+    async function downloadImage(iconName) {
       const url = 'https://raw.githubusercontent.com/koenigderluegner/pokemon-sprites/refs/heads/main/apps/pokemon-sprite/sprites/' + iconName + '.png';
-
-
-        try {
-    const response = await fetch(url);
-    const blob = await response.blob();
-
-    const link = document.createElement('a');
-    link.href = URL.createObjectURL(blob);
-    link.download =  iconName + '.png';
-    document.body.appendChild(link);
-    link.click();
-    document.body.removeChild(link);
-
-    // Clean up the object URL
-    URL.revokeObjectURL(link.href);
-  } catch (error) {
-    console.error('Download failed:', error);
-  }
-
-}
-</script>
+      try {
+        const response = await fetch(url);
+        const blob = await response.blob();
+        const link = document.createElement('a');
+        link.href = URL.createObjectURL(blob);
+        link.download =  iconName + '.png';
+        document.body.appendChild(link);
+        link.click();
+        document.body.removeChild(link);
+        URL.revokeObjectURL(link.href);
+      } catch (error) {
+        console.error('Download failed:', error);
+      }
+    }
+    </script>
   </head>
   <body class="container">
-<h1>Pokémon sprites</h1>`, 'utf-8');
+<h1>Pokémon sprites</h1>`,
+    'utf-8'
+  );
 }
 
-function writeTableOfContents(stream: fs.WriteStream) {
-  stream.write(`<ul>
+function writeTableOfContents(stream: WriteStream) {
+  stream.write(
+    `<ul>
 <li><a href="#Bulbasaur">#0001 Bulbasaur</a></li>
 <li><a href="#Chikorita">#0152 Chikorita</a></li>
 <li><a href="#Treecko">#0252 Treecko</a></li>
@@ -151,14 +170,17 @@ function writeTableOfContents(stream: fs.WriteStream) {
 <li><a href="#Sprigatito">#0906 Sprigatito</a></li>
 <li><a href="#Egg">Eggs</a></li>
 <li><a href="#credits">Credits</a></li>
-</ul>`, 'utf-8');
+</ul>`,
+    'utf-8'
+  );
 }
 
-function writeCredits(stream: fs.WriteStream) {
-  stream.write(`
+function writeCredits(stream: WriteStream) {
+  stream.write(
+    `
 <a id="credits"></a><h2>Credits</h2>
-The sprite images are © Nintendo/Creatures Inc./GAME FREAK Inc.
-This is a list of present and past contributors which provided custom icons. Thank you!
+<p>The sprite images are © Nintendo/Creatures Inc./GAME FREAK Inc.</p>
+<p>This is a list of present and past contributors which provided custom icons. Thank you!</p>
 <div class="credits">
 <a href="https://github.com/5310" rel="nofollow noopener" target="_blank">5310</a>
 <a href="https://www.deviantart.com/acpeters" rel="nofollow noopener" target="_blank">acpeters</a>
@@ -186,13 +208,19 @@ This is a list of present and past contributors which provided custom icons. Tha
 <span>Vent</span>
 <a href="https://www.deviantart.com/wolfang62" rel="nofollow noopener" target="_blank">wolfang62</a>
 <a href="https://www.deviantart.com/zerudez" rel="nofollow noopener" target="_blank">zerudez</a>
-<span>Vent</span>
 </div>
 <p>Missing your name? <a href="https://discord.com/users/161955738690912257">Contact me via Discord</a>. Links to external sites are not managed by me and have uncontrolled content.</p>
-`, 'utf-8');
+`,
+    'utf-8'
+  );
 }
 
-function writeDocumentFooter(stream: fs.WriteStream) {
-  stream.write(`</body>
-</html>`, 'utf-8');
+function writeDocumentFooter(stream: WriteStream) {
+  stream.write(
+    `</body>
+</html>`,
+    'utf-8'
+  );
 }
+
+main();

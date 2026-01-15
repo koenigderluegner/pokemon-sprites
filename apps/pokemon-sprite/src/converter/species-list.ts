@@ -1,7 +1,6 @@
-export type SpeciesList = {
-  species: string,
-  id: number
-}[]
+import { Species } from '../shared/types';
+
+export type SpeciesList = Species[];
 
 export const speciesList: SpeciesList = [
   {
