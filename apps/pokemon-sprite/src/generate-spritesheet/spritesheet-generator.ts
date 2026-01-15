@@ -68,18 +68,8 @@ function generateCssFile(iconMeta: IconMeta[], coordinates: Record<string, {
   width: number,
   height: number
 }>) {
-  let basicStyles = `
-  .pokesprite {
-    display: inline-block;
-}
-.pokesprite.pokemon {
-    width: 68px;
-    height: 68px;
-    background-image: url(./spritesheet.png);
-    image-rendering: pixelated;
-    image-rendering: -moz-crisp-edges;
+  let basicStyles = `.pokesprite{display:inline-block}.pokesprite.pokemon{width:68px;height:68px;background-image:url(./spritesheet.png);image-rendering:pixelated;image-rendering:-moz-crisp-edges;`;
 
-  `;
   if (!useCSSNesting) {
     basicStyles += `}`;
   }
@@ -89,11 +79,11 @@ function generateCssFile(iconMeta: IconMeta[], coordinates: Record<string, {
     if (iconMetaEntry) {
 
       const selector = useCSSNesting ? iconMetaEntry.cssClass.replace('.pokesprite.pokemon', '&') : iconMetaEntry.cssClass;
-      return `${selector} { background-position:  ${x === 0 ? x : -x + 'px'} ${y === 0 ? y : -y + 'px'}; }`;
+      return `${selector}{background-position:${x === 0 ? x : -x + 'px'} ${y === 0 ? y : -y + 'px'}}`;
     }
     return null;
 
-  }).filter(Boolean) as string[]).join('\n');
+  }).filter(Boolean) as string[]).join('');
 
   if (useCSSNesting) {
     basicStyles += iconCss + `}`;
@@ -105,6 +95,4 @@ function generateCssFile(iconMeta: IconMeta[], coordinates: Record<string, {
     {encoding: 'utf8', flag: 'w'});
   fs.writeFileSync(path.join(prebuiltsOutputDest, 'spritesheet.css'), basicStyles,
     {encoding: 'utf8', flag: 'w'});
-
-
 }
