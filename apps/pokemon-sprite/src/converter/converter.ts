@@ -83,7 +83,7 @@ Object.values(pairs).forEach((value) => {
 
 });
 
-fs.writeFileSync(path.join(__dirname, '../assets/converter/converted-pokemon-entries.json'), JSON.stringify(pairs, null, 2));
+fs.writeFileSync(path.join(__dirname, '../../data.json'), JSON.stringify(pairs, null, 2));
 
 function getIconMeta(iconName: string): IconMeta {
 

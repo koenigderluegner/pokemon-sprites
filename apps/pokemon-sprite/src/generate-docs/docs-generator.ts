@@ -4,7 +4,7 @@ import { PokemonEntry, PokemonIconPair } from './pokemon-entry';
 
 const docsOutputDest = path.join(__dirname, '../../../../docs');
 
-const convertedPokemonEntries = fs.readFileSync(path.join(__dirname, '../assets/converter/converted-pokemon-entries.json'),
+const convertedPokemonEntries = fs.readFileSync(path.join(__dirname, '../../data.json'),
   {encoding: 'utf8', flag: 'r'});
 
 const pokemonEntries: PokemonEntry[] = JSON.parse(convertedPokemonEntries);

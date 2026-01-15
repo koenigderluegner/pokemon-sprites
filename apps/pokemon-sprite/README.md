@@ -39,6 +39,12 @@ The `prebuilts/default/` directory contains a generated spritesheet and its corr
 
 **Path:** `node_modules/pokemon-sprites/prebuilts/default/`
 
+### Data
+
+The `data.json` file contains metadata for all included sprites, including their names, slugs, CSS classes, and available modifiers (like shiny).
+
+**Path:** `node_modules/pokemon-sprites/data.json`
+
 ## Usage
 
 ### Using individual sprites

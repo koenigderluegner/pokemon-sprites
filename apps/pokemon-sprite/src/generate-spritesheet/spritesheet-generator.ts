@@ -14,7 +14,7 @@ const docsOutputDest = path.join(__dirname, '../../../../docs');
 const prebuiltsOutputDest = path.join(__dirname, '../../prebuilts/default');
 const iconInputLocation = path.join(__dirname, '../../sprites/');
 
-const convertedPokemonEntries = fs.readFileSync(path.join(__dirname, '../assets/converter/converted-pokemon-entries.json'),
+const convertedPokemonEntries = fs.readFileSync(path.join(__dirname, '../../data.json'),
   {encoding: 'utf8', flag: 'r'});
 
 const pokemonEntries: PokemonEntry[] = JSON.parse(convertedPokemonEntries);
