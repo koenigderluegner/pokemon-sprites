@@ -111,7 +111,7 @@ function writeDocumentHeader(stream: fs.WriteStream) {
     }
 
   async  function downloadImage(iconName) {
-      const url = 'https://raw.githubusercontent.com/koenigderluegner/pokemon-sprites/refs/heads/main/apps/pokemon-sprite/src/assets/icons/menu-sprites/' + iconName + '.png';
+      const url = 'https://raw.githubusercontent.com/koenigderluegner/pokemon-sprites/refs/heads/main/apps/pokemon-sprite/sprites/' + iconName + '.png';
 
 
         try {

@@ -2,7 +2,7 @@ import fs from 'fs';
 import * as unzipper from 'unzipper';
 import path from 'path';
 
-const targetPath = path.join(__dirname, '../assets/icons/menu-sprites');
+const targetPath = path.join(__dirname, '../../sprites');
 const zipPaths: string[] = fs.readdirSync(__dirname).filter(s => s.toLocaleLowerCase().endsWith('.zip')).map(s => path.join(__dirname, s));
 if (zipPaths.length !== 1) throw new Error(`Found ${zipPaths.length} zip files, expected exactly 1. \nFound files: ${zipPaths.join(', ')}`);
 

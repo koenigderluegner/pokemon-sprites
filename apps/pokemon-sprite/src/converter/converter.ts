@@ -5,7 +5,7 @@ import { IconMeta, PokemonEntry, PokemonIconPair } from '../generate-docs/pokemo
 
 const assetFileEnding = '.png';
 
-const spritePath = path.join(__dirname, '../assets/icons/menu-sprites/');
+const spritePath = path.join(__dirname, '../../sprites/');
 const entries: string[] = fs.globSync(spritePath.replace(/\\/g, '/') + '*.png');
 let iconBaseNames = entries.map(s => path.basename(s, assetFileEnding));
 

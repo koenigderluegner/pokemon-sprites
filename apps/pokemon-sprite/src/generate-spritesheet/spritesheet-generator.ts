@@ -7,12 +7,12 @@ import sharp from 'sharp';
 import * as layout from 'layout';
 
 
-
-const sort = (items: any) => items
+const sort = (items: any) => items;
 const useCSSNesting = true;
 
 const docsOutputDest = path.join(__dirname, '../../../../docs');
-const iconInputLocation = path.join(__dirname, '../assets/icons/menu-sprites/');
+const prebuiltsOutputDest = path.join(__dirname, '../../prebuilts/default');
+const iconInputLocation = path.join(__dirname, '../../sprites/');
 
 const convertedPokemonEntries = fs.readFileSync(path.join(__dirname, '../assets/converter/converted-pokemon-entries.json'),
   {encoding: 'utf8', flag: 'r'});
@@ -23,29 +23,29 @@ const icons = pokemonEntries.map(entry => {
 }).flat(2).filter((s): s is IconMeta => !!s);
 // taken from https://github.com/msikma/pokesprite-gen/blob/27b51fd5ef340b4ceb82d8102a5d81ac3f994566/packages/lib/spritesmith/layout.js
 const placeItemsWithMaxWidth = (maxWidth: number) => (items: any[]) => {
-  let x = 0
-  let y = 0
-  let maxHeight = 0
+  let x = 0;
+  let y = 0;
+  let maxHeight = 0;
 
   items.forEach(item => {
     if (x + item.width > maxWidth) {
-      x = 0
-      y += maxHeight
-      maxHeight = 0
+      x = 0;
+      y += maxHeight;
+      maxHeight = 0;
     }
-    item.x = x
-    item.y = y
+    item.x = x;
+    item.y = y;
 
-    x += item.width
-    maxHeight = Math.max(maxHeight, item.height)
-  })
+    x += item.width;
+    maxHeight = Math.max(maxHeight, item.height);
+  });
 
-  return items
-}
+  return items;
+};
 
 const sprites = icons.map(s => iconInputLocation + s.name + '.png');
-sprites.unshift(iconInputLocation + 'Placeholder.png')
-layout.addAlgorithm('pokesprite-left-right', { sort, placeItems: placeItemsWithMaxWidth(2176) })
+sprites.unshift(iconInputLocation + 'Placeholder.png');
+layout.addAlgorithm('pokesprite-left-right', {sort, placeItems: placeItemsWithMaxWidth(2176)});
 // @ts-ignore
 spritesmith.run({src: sprites, algorithm: 'pokesprite-left-right'}, function handleResult(err, result) {
   if (err) {
@@ -54,8 +54,10 @@ spritesmith.run({src: sprites, algorithm: 'pokesprite-left-right'}, function han
   }
 
   generateCssFile(icons, result.coordinates);
-  sharp(result.image).png().toFile(path.join(docsOutputDest, 'spritesheet.png'));
-
+  const png = sharp(result.image).png();
+  png.toFile(path.join(docsOutputDest, 'spritesheet.png'));
+  if (!fs.existsSync(prebuiltsOutputDest)) fs.mkdirSync(prebuiltsOutputDest, {recursive: true});
+  png.toFile(path.join(prebuiltsOutputDest, 'spritesheet.png'));
 
 });
 
@@ -100,6 +102,8 @@ function generateCssFile(iconMeta: IconMeta[], coordinates: Record<string, {
   }
 
   fs.writeFileSync(path.join(docsOutputDest, 'spritesheet.css'), basicStyles,
+    {encoding: 'utf8', flag: 'w'});
+  fs.writeFileSync(path.join(prebuiltsOutputDest, 'spritesheet.css'), basicStyles,
     {encoding: 'utf8', flag: 'w'});
 
 
