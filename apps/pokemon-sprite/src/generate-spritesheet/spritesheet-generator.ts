@@ -1,10 +1,14 @@
+/// <reference path="./layout.d.ts" />
 import fs from 'fs';
 import path from 'path';
 import { IconMeta, PokemonEntry } from '../generate-docs/pokemon-entry';
 import spritesmith from 'spritesmith';
 import sharp from 'sharp';
+import * as layout from 'layout';
 
 
+
+const sort = (items: any) => items
 const useCSSNesting = true;
 
 const docsOutputDest = path.join(__dirname, '../../../../docs');
@@ -15,13 +19,35 @@ const convertedPokemonEntries = fs.readFileSync(path.join(__dirname, '../assets/
 
 const pokemonEntries: PokemonEntry[] = JSON.parse(convertedPokemonEntries);
 const icons = pokemonEntries.map(entry => {
-  return [entry.icons.map(icon => icon.regular), entry.icons.map(icon => icon.shiny)];
+  return entry.icons.map(icon => [icon.regular, icon.shiny]);
 }).flat(2).filter((s): s is IconMeta => !!s);
+// taken from https://github.com/msikma/pokesprite-gen/blob/27b51fd5ef340b4ceb82d8102a5d81ac3f994566/packages/lib/spritesmith/layout.js
+const placeItemsWithMaxWidth = (maxWidth: number) => (items: any[]) => {
+  let x = 0
+  let y = 0
+  let maxHeight = 0
 
+  items.forEach(item => {
+    if (x + item.width > maxWidth) {
+      x = 0
+      y += maxHeight
+      maxHeight = 0
+    }
+    item.x = x
+    item.y = y
+
+    x += item.width
+    maxHeight = Math.max(maxHeight, item.height)
+  })
+
+  return items
+}
 
 const sprites = icons.map(s => iconInputLocation + s.name + '.png');
-
-spritesmith.run({src: sprites}, function handleResult(err, result) {
+sprites.unshift(iconInputLocation + 'Placeholder.png')
+layout.addAlgorithm('pokesprite-left-right', { sort, placeItems: placeItemsWithMaxWidth(2176) })
+// @ts-ignore
+spritesmith.run({src: sprites, algorithm: 'pokesprite-left-right'}, function handleResult(err, result) {
   if (err) {
     console.error(err);
     return;

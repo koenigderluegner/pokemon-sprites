@@ -8,6 +8,7 @@
   "private": true,
   "dependencies": {
     "@types/spritesmith": "^3.4.5",
+    "layout": "^2.2.0",
     "unzipper": "^0.12.3"
   },
   "devDependencies": {
