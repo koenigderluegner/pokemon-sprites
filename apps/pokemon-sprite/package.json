@@ -47,7 +47,7 @@
         "configurations": {
           "fetch": {
             "commands": [
-              "ts-node apps/pokemon-sprite/src/spreadsheet/fetch-spreadsheet.ts"
+              "bun apps/pokemon-sprite/src/spreadsheet/fetch-spreadsheet.ts"
             ]
           }
         },
@@ -58,7 +58,7 @@
         "configurations": {
           "generate": {
             "commands": [
-              "ts-node apps/pokemon-sprite/src/generate-spritesheet/spritesheet-generator.ts"
+              "bun apps/pokemon-sprite/src/generate-spritesheet/spritesheet-generator.ts"
             ]
           }
         },
@@ -69,7 +69,7 @@
         "configurations": {
           "generate": {
             "commands": [
-              "ts-node apps/pokemon-sprite/src/unzip/unzip.ts"
+              "bun apps/pokemon-sprite/src/unzip/unzip.ts"
             ]
           }
         },
@@ -80,7 +80,7 @@
         "configurations": {
           "convert": {
             "commands": [
-              "ts-node apps/pokemon-sprite/src/converter/converter.ts"
+              "bun apps/pokemon-sprite/src/converter/converter.ts"
             ]
           }
         },
@@ -91,28 +91,27 @@
         "configurations": {
           "generate": {
             "commands": [
-              "ts-node apps/pokemon-sprite/src/generate-docs/docs-generator.ts"
+              "bun apps/pokemon-sprite/src/generate-docs/docs-generator.ts"
             ]
           }
         },
         "defaultConfiguration": "generate"
       },
       "serve": {
-        "executor": "@nx/js:node",
+        "executor": "nx:run-commands",
         "defaultConfiguration": "development",
         "dependsOn": [
           "build"
         ],
         "options": {
-          "buildTarget": "pokemon-sprite:build",
-          "runBuildTargetDependencies": false
+          "command": "bun apps/pokemon-sprite/dist/main.js"
         },
         "configurations": {
           "development": {
-            "buildTarget": "pokemon-sprite:build:development"
+            "command": "bun apps/pokemon-sprite/dist/main.js"
           },
           "production": {
-            "buildTarget": "pokemon-sprite:build:production"
+            "command": "bun apps/pokemon-sprite/dist/main.js"
           }
         }
       }
