@@ -1,7 +1,11 @@
 {
   "name": "@pokemon-sprite/source",
   "version": "0.0.0",
+  "private": true,
   "license": "MIT",
+  "workspaces": [
+    "apps/*"
+  ],
   "scripts": {
     "update-all": "nx run pokemon-sprite:unzip-assets:generate && git add apps/pokemon-sprite/sprites/\\* &&  nx run pokemon-sprite:convert-assets:convert && nx run pokemon-sprite:generate-spritesheet:generate && nx run pokemon-sprite:generate-docs:generate",
     "lint": "oxlint .",
@@ -9,7 +13,6 @@
     "format": "oxfmt --check",
     "format:fix": "oxfmt ."
   },
-  "private": true,
   "dependencies": {
     "@types/spritesmith": "^3.4.5",
     "layout": "^2.2.0",
@@ -43,10 +46,7 @@
     "typescript-eslint": "8.40.0"
   },
   "overrides": {
-    "tough-cookie": "~4.1.3",
-    "form-data": "~2.5.4"
-  },
-  "workspaces": [
-    "apps/*"
-  ]
+    "form-data": "~2.5.4",
+    "tough-cookie": "~4.1.3"
+  }
 }

@@ -5,1647 +5,1647 @@ export type SpeciesList = Species[];
 export const speciesList: SpeciesList = [
   {
     species: 'Bulbasaur',
-    id: 1
+    id: 1,
   },
   {
     species: 'Ivysaur',
-    id: 2
+    id: 2,
   },
   {
     species: 'Venusaur',
-    id: 3
+    id: 3,
   },
   {
     species: 'Charmander',
-    id: 4
+    id: 4,
   },
   {
     species: 'Charmeleon',
-    id: 5
+    id: 5,
   },
   {
     species: 'Charizard',
-    id: 6
+    id: 6,
   },
   {
     species: 'Squirtle',
-    id: 7
+    id: 7,
   },
   {
     species: 'Wartortle',
-    id: 8
+    id: 8,
   },
   {
     species: 'Blastoise',
-    id: 9
+    id: 9,
   },
   {
     species: 'Caterpie',
-    id: 10
+    id: 10,
   },
   {
     species: 'Metapod',
-    id: 11
+    id: 11,
   },
   {
     species: 'Butterfree',
-    id: 12
+    id: 12,
   },
   {
     species: 'Weedle',
-    id: 13
+    id: 13,
   },
   {
     species: 'Kakuna',
-    id: 14
+    id: 14,
   },
   {
     species: 'Beedrill',
-    id: 15
+    id: 15,
   },
   {
     species: 'Pidgey',
-    id: 16
+    id: 16,
   },
   {
     species: 'Pidgeotto',
-    id: 17
+    id: 17,
   },
   {
     species: 'Pidgeot',
-    id: 18
+    id: 18,
   },
   {
     species: 'Rattata',
-    id: 19
+    id: 19,
   },
   {
     species: 'Raticate',
-    id: 20
+    id: 20,
   },
   {
     species: 'Spearow',
-    id: 21
+    id: 21,
   },
   {
     species: 'Fearow',
-    id: 22
+    id: 22,
   },
   {
     species: 'Ekans',
-    id: 23
+    id: 23,
   },
   {
     species: 'Arbok',
-    id: 24
+    id: 24,
   },
   {
     species: 'Pikachu',
-    id: 25
+    id: 25,
   },
   {
     species: 'Raichu',
-    id: 26
+    id: 26,
   },
   {
     species: 'Sandshrew',
-    id: 27
+    id: 27,
   },
   {
     species: 'Sandslash',
-    id: 28
+    id: 28,
   },
   {
     species: 'Nidoran♀',
-    id: 29
+    id: 29,
   },
   {
     species: 'Nidorina',
-    id: 30
+    id: 30,
   },
   {
     species: 'Nidoqueen',
-    id: 31
+    id: 31,
   },
   {
     species: 'Nidoran♂',
-    id: 32
+    id: 32,
   },
   {
     species: 'Nidorino',
-    id: 33
+    id: 33,
   },
   {
     species: 'Nidoking',
-    id: 34
+    id: 34,
   },
   {
     species: 'Clefairy',
-    id: 35
+    id: 35,
   },
   {
     species: 'Clefable',
-    id: 36
+    id: 36,
   },
   {
     species: 'Vulpix',
-    id: 37
+    id: 37,
   },
   {
     species: 'Ninetales',
-    id: 38
+    id: 38,
   },
   {
     species: 'Jigglypuff',
-    id: 39
+    id: 39,
   },
   {
     species: 'Wigglytuff',
-    id: 40
+    id: 40,
   },
   {
     species: 'Zubat',
-    id: 41
+    id: 41,
   },
   {
     species: 'Golbat',
-    id: 42
+    id: 42,
   },
   {
     species: 'Oddish',
-    id: 43
+    id: 43,
   },
   {
     species: 'Gloom',
-    id: 44
+    id: 44,
   },
   {
     species: 'Vileplume',
-    id: 45
+    id: 45,
   },
   {
     species: 'Paras',
-    id: 46
+    id: 46,
   },
   {
     species: 'Parasect',
-    id: 47
+    id: 47,
   },
   {
     species: 'Venonat',
-    id: 48
+    id: 48,
   },
   {
     species: 'Venomoth',
-    id: 49
+    id: 49,
   },
   {
     species: 'Diglett',
-    id: 50
+    id: 50,
   },
   {
     species: 'Dugtrio',
-    id: 51
+    id: 51,
   },
   {
     species: 'Meowth',
-    id: 52
+    id: 52,
   },
   {
     species: 'Persian',
-    id: 53
+    id: 53,
   },
   {
     species: 'Psyduck',
-    id: 54
+    id: 54,
   },
   {
     species: 'Golduck',
-    id: 55
+    id: 55,
   },
   {
     species: 'Mankey',
-    id: 56
+    id: 56,
   },
   {
     species: 'Primeape',
-    id: 57
+    id: 57,
   },
   {
     species: 'Growlithe',
-    id: 58
+    id: 58,
   },
   {
     species: 'Arcanine',
-    id: 59
+    id: 59,
   },
   {
     species: 'Poliwag',
-    id: 60
+    id: 60,
   },
   {
     species: 'Poliwhirl',
-    id: 61
+    id: 61,
   },
   {
     species: 'Poliwrath',
-    id: 62
+    id: 62,
   },
   {
     species: 'Abra',
-    id: 63
+    id: 63,
   },
   {
     species: 'Kadabra',
-    id: 64
+    id: 64,
   },
   {
     species: 'Alakazam',
-    id: 65
+    id: 65,
   },
   {
     species: 'Machop',
-    id: 66
+    id: 66,
   },
   {
     species: 'Machoke',
-    id: 67
+    id: 67,
   },
   {
     species: 'Machamp',
-    id: 68
+    id: 68,
   },
   {
     species: 'Bellsprout',
-    id: 69
+    id: 69,
   },
   {
     species: 'Weepinbell',
-    id: 70
+    id: 70,
   },
   {
     species: 'Victreebel',
-    id: 71
+    id: 71,
   },
   {
     species: 'Tentacool',
-    id: 72
+    id: 72,
   },
   {
     species: 'Tentacruel',
-    id: 73
+    id: 73,
   },
   {
     species: 'Geodude',
-    id: 74
+    id: 74,
   },
   {
     species: 'Graveler',
-    id: 75
+    id: 75,
   },
   {
     species: 'Golem',
-    id: 76
+    id: 76,
   },
   {
     species: 'Ponyta',
-    id: 77
+    id: 77,
   },
   {
     species: 'Rapidash',
-    id: 78
+    id: 78,
   },
   {
     species: 'Slowpoke',
-    id: 79
+    id: 79,
   },
   {
     species: 'Slowbro',
-    id: 80
+    id: 80,
   },
   {
     species: 'Magnemite',
-    id: 81
+    id: 81,
   },
   {
     species: 'Magneton',
-    id: 82
+    id: 82,
   },
   {
-    species: 'Farfetch\'d',
-    id: 83
+    species: "Farfetch'd",
+    id: 83,
   },
   {
     species: 'Doduo',
-    id: 84
+    id: 84,
   },
   {
     species: 'Dodrio',
-    id: 85
+    id: 85,
   },
   {
     species: 'Seel',
-    id: 86
+    id: 86,
   },
   {
     species: 'Dewgong',
-    id: 87
+    id: 87,
   },
   {
     species: 'Grimer',
-    id: 88
+    id: 88,
   },
   {
     species: 'Muk',
-    id: 89
+    id: 89,
   },
   {
     species: 'Shellder',
-    id: 90
+    id: 90,
   },
   {
     species: 'Cloyster',
-    id: 91
+    id: 91,
   },
   {
     species: 'Gastly',
-    id: 92
+    id: 92,
   },
   {
     species: 'Haunter',
-    id: 93
+    id: 93,
   },
   {
     species: 'Gengar',
-    id: 94
+    id: 94,
   },
   {
     species: 'Onix',
-    id: 95
+    id: 95,
   },
   {
     species: 'Drowzee',
-    id: 96
+    id: 96,
   },
   {
     species: 'Hypno',
-    id: 97
+    id: 97,
   },
   {
     species: 'Krabby',
-    id: 98
+    id: 98,
   },
   {
     species: 'Kingler',
-    id: 99
+    id: 99,
   },
   {
     species: 'Voltorb',
-    id: 100
+    id: 100,
   },
   {
     species: 'Electrode',
-    id: 101
+    id: 101,
   },
   {
     species: 'Exeggcute',
-    id: 102
+    id: 102,
   },
   {
     species: 'Exeggutor',
-    id: 103
+    id: 103,
   },
   {
     species: 'Cubone',
-    id: 104
+    id: 104,
   },
   {
     species: 'Marowak',
-    id: 105
+    id: 105,
   },
   {
     species: 'Hitmonlee',
-    id: 106
+    id: 106,
   },
   {
     species: 'Hitmonchan',
-    id: 107
+    id: 107,
   },
   {
     species: 'Lickitung',
-    id: 108
+    id: 108,
   },
   {
     species: 'Koffing',
-    id: 109
+    id: 109,
   },
   {
     species: 'Weezing',
-    id: 110
+    id: 110,
   },
   {
     species: 'Rhyhorn',
-    id: 111
+    id: 111,
   },
   {
     species: 'Rhydon',
-    id: 112
+    id: 112,
   },
   {
     species: 'Chansey',
-    id: 113
+    id: 113,
   },
   {
     species: 'Tangela',
-    id: 114
+    id: 114,
   },
   {
     species: 'Kangaskhan',
-    id: 115
+    id: 115,
   },
   {
     species: 'Horsea',
-    id: 116
+    id: 116,
   },
   {
     species: 'Seadra',
-    id: 117
+    id: 117,
   },
   {
     species: 'Goldeen',
-    id: 118
+    id: 118,
   },
   {
     species: 'Seaking',
-    id: 119
+    id: 119,
   },
   {
     species: 'Staryu',
-    id: 120
+    id: 120,
   },
   {
     species: 'Starmie',
-    id: 121
+    id: 121,
   },
   {
     species: 'Mr. Mime',
-    id: 122
+    id: 122,
   },
   {
     species: 'Scyther',
-    id: 123
+    id: 123,
   },
   {
     species: 'Jynx',
-    id: 124
+    id: 124,
   },
   {
     species: 'Electabuzz',
-    id: 125
+    id: 125,
   },
   {
     species: 'Magmar',
-    id: 126
+    id: 126,
   },
   {
     species: 'Pinsir',
-    id: 127
+    id: 127,
   },
   {
     species: 'Tauros',
-    id: 128
+    id: 128,
   },
   {
     species: 'Magikarp',
-    id: 129
+    id: 129,
   },
   {
     species: 'Gyarados',
-    id: 130
+    id: 130,
   },
   {
     species: 'Lapras',
-    id: 131
+    id: 131,
   },
   {
     species: 'Ditto',
-    id: 132
+    id: 132,
   },
   {
     species: 'Eevee',
-    id: 133
+    id: 133,
   },
   {
     species: 'Vaporeon',
-    id: 134
+    id: 134,
   },
   {
     species: 'Jolteon',
-    id: 135
+    id: 135,
   },
   {
     species: 'Flareon',
-    id: 136
+    id: 136,
   },
   {
     species: 'Porygon',
-    id: 137
+    id: 137,
   },
   {
     species: 'Omanyte',
-    id: 138
+    id: 138,
   },
   {
     species: 'Omastar',
-    id: 139
+    id: 139,
   },
   {
     species: 'Kabuto',
-    id: 140
+    id: 140,
   },
   {
     species: 'Kabutops',
-    id: 141
+    id: 141,
   },
   {
     species: 'Aerodactyl',
-    id: 142
+    id: 142,
   },
   {
     species: 'Snorlax',
-    id: 143
+    id: 143,
   },
   {
     species: 'Articuno',
-    id: 144
+    id: 144,
   },
   {
     species: 'Zapdos',
-    id: 145
+    id: 145,
   },
   {
     species: 'Moltres',
-    id: 146
+    id: 146,
   },
   {
     species: 'Dratini',
-    id: 147
+    id: 147,
   },
   {
     species: 'Dragonair',
-    id: 148
+    id: 148,
   },
   {
     species: 'Dragonite',
-    id: 149
+    id: 149,
   },
   {
     species: 'Mewtwo',
-    id: 150
+    id: 150,
   },
   {
     species: 'Mew',
-    id: 151
+    id: 151,
   },
   {
     species: 'Chikorita',
-    id: 152
+    id: 152,
   },
   {
     species: 'Bayleef',
-    id: 153
+    id: 153,
   },
   {
     species: 'Meganium',
-    id: 154
+    id: 154,
   },
   {
     species: 'Cyndaquil',
-    id: 155
+    id: 155,
   },
   {
     species: 'Quilava',
-    id: 156
+    id: 156,
   },
   {
     species: 'Typhlosion',
-    id: 157
+    id: 157,
   },
   {
     species: 'Totodile',
-    id: 158
+    id: 158,
   },
   {
     species: 'Croconaw',
-    id: 159
+    id: 159,
   },
   {
     species: 'Feraligatr',
-    id: 160
+    id: 160,
   },
   {
     species: 'Sentret',
-    id: 161
+    id: 161,
   },
   {
     species: 'Furret',
-    id: 162
+    id: 162,
   },
   {
     species: 'Hoothoot',
-    id: 163
+    id: 163,
   },
   {
     species: 'Noctowl',
-    id: 164
+    id: 164,
   },
   {
     species: 'Ledyba',
-    id: 165
+    id: 165,
   },
   {
     species: 'Ledian',
-    id: 166
+    id: 166,
   },
   {
     species: 'Spinarak',
-    id: 167
+    id: 167,
   },
   {
     species: 'Ariados',
-    id: 168
+    id: 168,
   },
   {
     species: 'Crobat',
-    id: 169
+    id: 169,
   },
   {
     species: 'Chinchou',
-    id: 170
+    id: 170,
   },
   {
     species: 'Lanturn',
-    id: 171
+    id: 171,
   },
   {
     species: 'Pichu',
-    id: 172
+    id: 172,
   },
   {
     species: 'Cleffa',
-    id: 173
+    id: 173,
   },
   {
     species: 'Igglybuff',
-    id: 174
+    id: 174,
   },
   {
     species: 'Togepi',
-    id: 175
+    id: 175,
   },
   {
     species: 'Togetic',
-    id: 176
+    id: 176,
   },
   {
     species: 'Natu',
-    id: 177
+    id: 177,
   },
   {
     species: 'Xatu',
-    id: 178
+    id: 178,
   },
   {
     species: 'Mareep',
-    id: 179
+    id: 179,
   },
   {
     species: 'Flaaffy',
-    id: 180
+    id: 180,
   },
   {
     species: 'Ampharos',
-    id: 181
+    id: 181,
   },
   {
     species: 'Bellossom',
-    id: 182
+    id: 182,
   },
   {
     species: 'Marill',
-    id: 183
+    id: 183,
   },
   {
     species: 'Azumarill',
-    id: 184
+    id: 184,
   },
   {
     species: 'Sudowoodo',
-    id: 185
+    id: 185,
   },
   {
     species: 'Politoed',
-    id: 186
+    id: 186,
   },
   {
     species: 'Hoppip',
-    id: 187
+    id: 187,
   },
   {
     species: 'Skiploom',
-    id: 188
+    id: 188,
   },
   {
     species: 'Jumpluff',
-    id: 189
+    id: 189,
   },
   {
     species: 'Aipom',
-    id: 190
+    id: 190,
   },
   {
     species: 'Sunkern',
-    id: 191
+    id: 191,
   },
   {
     species: 'Sunflora',
-    id: 192
+    id: 192,
   },
   {
     species: 'Yanma',
-    id: 193
+    id: 193,
   },
   {
     species: 'Wooper',
-    id: 194
+    id: 194,
   },
   {
     species: 'Quagsire',
-    id: 195
+    id: 195,
   },
   {
     species: 'Espeon',
-    id: 196
+    id: 196,
   },
   {
     species: 'Umbreon',
-    id: 197
+    id: 197,
   },
   {
     species: 'Murkrow',
-    id: 198
+    id: 198,
   },
   {
     species: 'Slowking',
-    id: 199
+    id: 199,
   },
   {
     species: 'Misdreavus',
-    id: 200
+    id: 200,
   },
   {
     species: 'Unown',
-    id: 201
+    id: 201,
   },
   {
     species: 'Wobbuffet',
-    id: 202
+    id: 202,
   },
   {
     species: 'Girafarig',
-    id: 203
+    id: 203,
   },
   {
     species: 'Pineco',
-    id: 204
+    id: 204,
   },
   {
     species: 'Forretress',
-    id: 205
+    id: 205,
   },
   {
     species: 'Dunsparce',
-    id: 206
+    id: 206,
   },
   {
     species: 'Gligar',
-    id: 207
+    id: 207,
   },
   {
     species: 'Steelix',
-    id: 208
+    id: 208,
   },
   {
     species: 'Snubbull',
-    id: 209
+    id: 209,
   },
   {
     species: 'Granbull',
-    id: 210
+    id: 210,
   },
   {
     species: 'Qwilfish',
-    id: 211
+    id: 211,
   },
   {
     species: 'Scizor',
-    id: 212
+    id: 212,
   },
   {
     species: 'Shuckle',
-    id: 213
+    id: 213,
   },
   {
     species: 'Heracross',
-    id: 214
+    id: 214,
   },
   {
     species: 'Sneasel',
-    id: 215
+    id: 215,
   },
   {
     species: 'Teddiursa',
-    id: 216
+    id: 216,
   },
   {
     species: 'Ursaring',
-    id: 217
+    id: 217,
   },
   {
     species: 'Slugma',
-    id: 218
+    id: 218,
   },
   {
     species: 'Magcargo',
-    id: 219
+    id: 219,
   },
   {
     species: 'Swinub',
-    id: 220
+    id: 220,
   },
   {
     species: 'Piloswine',
-    id: 221
+    id: 221,
   },
   {
     species: 'Corsola',
-    id: 222
+    id: 222,
   },
   {
     species: 'Remoraid',
-    id: 223
+    id: 223,
   },
   {
     species: 'Octillery',
-    id: 224
+    id: 224,
   },
   {
     species: 'Delibird',
-    id: 225
+    id: 225,
   },
   {
     species: 'Mantine',
-    id: 226
+    id: 226,
   },
   {
     species: 'Skarmory',
-    id: 227
+    id: 227,
   },
   {
     species: 'Houndour',
-    id: 228
+    id: 228,
   },
   {
     species: 'Houndoom',
-    id: 229
+    id: 229,
   },
   {
     species: 'Kingdra',
-    id: 230
+    id: 230,
   },
   {
     species: 'Phanpy',
-    id: 231
+    id: 231,
   },
   {
     species: 'Donphan',
-    id: 232
+    id: 232,
   },
   {
     species: 'Porygon2',
-    id: 233
+    id: 233,
   },
   {
     species: 'Stantler',
-    id: 234
+    id: 234,
   },
   {
     species: 'Smeargle',
-    id: 235
+    id: 235,
   },
   {
     species: 'Tyrogue',
-    id: 236
+    id: 236,
   },
   {
     species: 'Hitmontop',
-    id: 237
+    id: 237,
   },
   {
     species: 'Smoochum',
-    id: 238
+    id: 238,
   },
   {
     species: 'Elekid',
-    id: 239
+    id: 239,
   },
   {
     species: 'Magby',
-    id: 240
+    id: 240,
   },
   {
     species: 'Miltank',
-    id: 241
+    id: 241,
   },
   {
     species: 'Blissey',
-    id: 242
+    id: 242,
   },
   {
     species: 'Raikou',
-    id: 243
+    id: 243,
   },
   {
     species: 'Entei',
-    id: 244
+    id: 244,
   },
   {
     species: 'Suicune',
-    id: 245
+    id: 245,
   },
   {
     species: 'Larvitar',
-    id: 246
+    id: 246,
   },
   {
     species: 'Pupitar',
-    id: 247
+    id: 247,
   },
   {
     species: 'Tyranitar',
-    id: 248
+    id: 248,
   },
   {
     species: 'Lugia',
-    id: 249
+    id: 249,
   },
   {
     species: 'Ho-oh',
-    id: 250
+    id: 250,
   },
   {
     species: 'Celebi',
-    id: 251
+    id: 251,
   },
   {
     species: 'Treecko',
-    id: 252
+    id: 252,
   },
   {
     species: 'Grovyle',
-    id: 253
+    id: 253,
   },
   {
     species: 'Sceptile',
-    id: 254
+    id: 254,
   },
   {
     species: 'Torchic',
-    id: 255
+    id: 255,
   },
   {
     species: 'Combusken',
-    id: 256
+    id: 256,
   },
   {
     species: 'Blaziken',
-    id: 257
+    id: 257,
   },
   {
     species: 'Mudkip',
-    id: 258
+    id: 258,
   },
   {
     species: 'Marshtomp',
-    id: 259
+    id: 259,
   },
   {
     species: 'Swampert',
-    id: 260
+    id: 260,
   },
   {
     species: 'Poochyena',
-    id: 261
+    id: 261,
   },
   {
     species: 'Mightyena',
-    id: 262
+    id: 262,
   },
   {
     species: 'Zigzagoon',
-    id: 263
+    id: 263,
   },
   {
     species: 'Linoone',
-    id: 264
+    id: 264,
   },
   {
     species: 'Wurmple',
-    id: 265
+    id: 265,
   },
   {
     species: 'Silcoon',
-    id: 266
+    id: 266,
   },
   {
     species: 'Beautifly',
-    id: 267
+    id: 267,
   },
   {
     species: 'Cascoon',
-    id: 268
+    id: 268,
   },
   {
     species: 'Dustox',
-    id: 269
+    id: 269,
   },
   {
     species: 'Lotad',
-    id: 270
+    id: 270,
   },
   {
     species: 'Lombre',
-    id: 271
+    id: 271,
   },
   {
     species: 'Ludicolo',
-    id: 272
+    id: 272,
   },
   {
     species: 'Seedot',
-    id: 273
+    id: 273,
   },
   {
     species: 'Nuzleaf',
-    id: 274
+    id: 274,
   },
   {
     species: 'Shiftry',
-    id: 275
+    id: 275,
   },
   {
     species: 'Taillow',
-    id: 276
+    id: 276,
   },
   {
     species: 'Swellow',
-    id: 277
+    id: 277,
   },
   {
     species: 'Wingull',
-    id: 278
+    id: 278,
   },
   {
     species: 'Pelipper',
-    id: 279
+    id: 279,
   },
   {
     species: 'Ralts',
-    id: 280
+    id: 280,
   },
   {
     species: 'Kirlia',
-    id: 281
+    id: 281,
   },
   {
     species: 'Gardevoir',
-    id: 282
+    id: 282,
   },
   {
     species: 'Surskit',
-    id: 283
+    id: 283,
   },
   {
     species: 'Masquerain',
-    id: 284
+    id: 284,
   },
   {
     species: 'Shroomish',
-    id: 285
+    id: 285,
   },
   {
     species: 'Breloom',
-    id: 286
+    id: 286,
   },
   {
     species: 'Slakoth',
-    id: 287
+    id: 287,
   },
   {
     species: 'Vigoroth',
-    id: 288
+    id: 288,
   },
   {
     species: 'Slaking',
-    id: 289
+    id: 289,
   },
   {
     species: 'Nincada',
-    id: 290
+    id: 290,
   },
   {
     species: 'Ninjask',
-    id: 291
+    id: 291,
   },
   {
     species: 'Shedinja',
-    id: 292
+    id: 292,
   },
   {
     species: 'Whismur',
-    id: 293
+    id: 293,
   },
   {
     species: 'Loudred',
-    id: 294
+    id: 294,
   },
   {
     species: 'Exploud',
-    id: 295
+    id: 295,
   },
   {
     species: 'Makuhita',
-    id: 296
+    id: 296,
   },
   {
     species: 'Hariyama',
-    id: 297
+    id: 297,
   },
   {
     species: 'Azurill',
-    id: 298
+    id: 298,
   },
   {
     species: 'Nosepass',
-    id: 299
+    id: 299,
   },
   {
     species: 'Skitty',
-    id: 300
+    id: 300,
   },
   {
     species: 'Delcatty',
-    id: 301
+    id: 301,
   },
   {
     species: 'Sableye',
-    id: 302
+    id: 302,
   },
   {
     species: 'Mawile',
-    id: 303
+    id: 303,
   },
   {
     species: 'Aron',
-    id: 304
+    id: 304,
   },
   {
     species: 'Lairon',
-    id: 305
+    id: 305,
   },
   {
     species: 'Aggron',
-    id: 306
+    id: 306,
   },
   {
     species: 'Meditite',
-    id: 307
+    id: 307,
   },
   {
     species: 'Medicham',
-    id: 308
+    id: 308,
   },
   {
     species: 'Electrike',
-    id: 309
+    id: 309,
   },
   {
     species: 'Manectric',
-    id: 310
+    id: 310,
   },
   {
     species: 'Plusle',
-    id: 311
+    id: 311,
   },
   {
     species: 'Minun',
-    id: 312
+    id: 312,
   },
   {
     species: 'Volbeat',
-    id: 313
+    id: 313,
   },
   {
     species: 'Illumise',
-    id: 314
+    id: 314,
   },
   {
     species: 'Roselia',
-    id: 315
+    id: 315,
   },
   {
     species: 'Gulpin',
-    id: 316
+    id: 316,
   },
   {
     species: 'Swalot',
-    id: 317
+    id: 317,
   },
   {
     species: 'Carvanha',
-    id: 318
+    id: 318,
   },
   {
     species: 'Sharpedo',
-    id: 319
+    id: 319,
   },
   {
     species: 'Wailmer',
-    id: 320
+    id: 320,
   },
   {
     species: 'Wailord',
-    id: 321
+    id: 321,
   },
   {
     species: 'Numel',
-    id: 322
+    id: 322,
   },
   {
     species: 'Camerupt',
-    id: 323
+    id: 323,
   },
   {
     species: 'Torkoal',
-    id: 324
+    id: 324,
   },
   {
     species: 'Spoink',
-    id: 325
+    id: 325,
   },
   {
     species: 'Grumpig',
-    id: 326
+    id: 326,
   },
   {
     species: 'Spinda',
-    id: 327
+    id: 327,
   },
   {
     species: 'Trapinch',
-    id: 328
+    id: 328,
   },
   {
     species: 'Vibrava',
-    id: 329
+    id: 329,
   },
   {
     species: 'Flygon',
-    id: 330
+    id: 330,
   },
   {
     species: 'Cacnea',
-    id: 331
+    id: 331,
   },
   {
     species: 'Cacturne',
-    id: 332
+    id: 332,
   },
   {
     species: 'Swablu',
-    id: 333
+    id: 333,
   },
   {
     species: 'Altaria',
-    id: 334
+    id: 334,
   },
   {
     species: 'Zangoose',
-    id: 335
+    id: 335,
   },
   {
     species: 'Seviper',
-    id: 336
+    id: 336,
   },
   {
     species: 'Lunatone',
-    id: 337
+    id: 337,
   },
   {
     species: 'Solrock',
-    id: 338
+    id: 338,
   },
   {
     species: 'Barboach',
-    id: 339
+    id: 339,
   },
   {
     species: 'Whiscash',
-    id: 340
+    id: 340,
   },
   {
     species: 'Corphish',
-    id: 341
+    id: 341,
   },
   {
     species: 'Crawdaunt',
-    id: 342
+    id: 342,
   },
   {
     species: 'Baltoy',
-    id: 343
+    id: 343,
   },
   {
     species: 'Claydol',
-    id: 344
+    id: 344,
   },
   {
     species: 'Lileep',
-    id: 345
+    id: 345,
   },
   {
     species: 'Cradily',
-    id: 346
+    id: 346,
   },
   {
     species: 'Anorith',
-    id: 347
+    id: 347,
   },
   {
     species: 'Armaldo',
-    id: 348
+    id: 348,
   },
   {
     species: 'Feebas',
-    id: 349
+    id: 349,
   },
   {
     species: 'Milotic',
-    id: 350
+    id: 350,
   },
   {
     species: 'Castform',
-    id: 351
+    id: 351,
   },
   {
     species: 'Kecleon',
-    id: 352
+    id: 352,
   },
   {
     species: 'Shuppet',
-    id: 353
+    id: 353,
   },
   {
     species: 'Banette',
-    id: 354
+    id: 354,
   },
   {
     species: 'Duskull',
-    id: 355
+    id: 355,
   },
   {
     species: 'Dusclops',
-    id: 356
+    id: 356,
   },
   {
     species: 'Tropius',
-    id: 357
+    id: 357,
   },
   {
     species: 'Chimecho',
-    id: 358
+    id: 358,
   },
   {
     species: 'Absol',
-    id: 359
+    id: 359,
   },
   {
     species: 'Wynaut',
-    id: 360
+    id: 360,
   },
   {
     species: 'Snorunt',
-    id: 361
+    id: 361,
   },
   {
     species: 'Glalie',
-    id: 362
+    id: 362,
   },
   {
     species: 'Spheal',
-    id: 363
+    id: 363,
   },
   {
     species: 'Sealeo',
-    id: 364
+    id: 364,
   },
   {
     species: 'Walrein',
-    id: 365
+    id: 365,
   },
   {
     species: 'Clamperl',
-    id: 366
+    id: 366,
   },
   {
     species: 'Huntail',
-    id: 367
+    id: 367,
   },
   {
     species: 'Gorebyss',
-    id: 368
+    id: 368,
   },
   {
     species: 'Relicanth',
-    id: 369
+    id: 369,
   },
   {
     species: 'Luvdisc',
-    id: 370
+    id: 370,
   },
   {
     species: 'Bagon',
-    id: 371
+    id: 371,
   },
   {
     species: 'Shelgon',
-    id: 372
+    id: 372,
   },
   {
     species: 'Salamence',
-    id: 373
+    id: 373,
   },
   {
     species: 'Beldum',
-    id: 374
+    id: 374,
   },
   {
     species: 'Metang',
-    id: 375
+    id: 375,
   },
   {
     species: 'Metagross',
-    id: 376
+    id: 376,
   },
   {
     species: 'Regirock',
-    id: 377
+    id: 377,
   },
   {
     species: 'Regice',
-    id: 378
+    id: 378,
   },
   {
     species: 'Registeel',
-    id: 379
+    id: 379,
   },
   {
     species: 'Latias',
-    id: 380
+    id: 380,
   },
   {
     species: 'Latios',
-    id: 381
+    id: 381,
   },
   {
     species: 'Kyogre',
-    id: 382
+    id: 382,
   },
   {
     species: 'Groudon',
-    id: 383
+    id: 383,
   },
   {
     species: 'Rayquaza',
-    id: 384
+    id: 384,
   },
   {
     species: 'Jirachi',
-    id: 385
+    id: 385,
   },
   {
     species: 'Deoxys',
-    id: 386
+    id: 386,
   },
   {
     species: 'Turtwig',
-    id: 387
+    id: 387,
   },
   {
     species: 'Grotle',
-    id: 388
+    id: 388,
   },
   {
     species: 'Torterra',
-    id: 389
+    id: 389,
   },
   {
     species: 'Chimchar',
-    id: 390
+    id: 390,
   },
   {
     species: 'Monferno',
-    id: 391
+    id: 391,
   },
   {
     species: 'Infernape',
-    id: 392
+    id: 392,
   },
   {
     species: 'Piplup',
-    id: 393
+    id: 393,
   },
   {
     species: 'Prinplup',
-    id: 394
+    id: 394,
   },
   {
     species: 'Empoleon',
-    id: 395
+    id: 395,
   },
   {
     species: 'Starly',
-    id: 396
+    id: 396,
   },
   {
     species: 'Staravia',
-    id: 397
+    id: 397,
   },
   {
     species: 'Staraptor',
-    id: 398
+    id: 398,
   },
   {
     species: 'Bidoof',
-    id: 399
+    id: 399,
   },
   {
     species: 'Bibarel',
-    id: 400
+    id: 400,
   },
   {
     species: 'Kricketot',
-    id: 401
+    id: 401,
   },
   {
     species: 'Kricketune',
-    id: 402
+    id: 402,
   },
   {
     species: 'Shinx',
-    id: 403
+    id: 403,
   },
   {
     species: 'Luxio',
-    id: 404
+    id: 404,
   },
   {
     species: 'Luxray',
-    id: 405
+    id: 405,
   },
   {
     species: 'Budew',
-    id: 406
+    id: 406,
   },
   {
     species: 'Roserade',
-    id: 407
+    id: 407,
   },
   {
     species: 'Cranidos',
-    id: 408
+    id: 408,
   },
   {
     species: 'Rampardos',
-    id: 409
+    id: 409,
   },
   {
     species: 'Shieldon',
-    id: 410
+    id: 410,
   },
   {
     species: 'Bastiodon',
-    id: 411
+    id: 411,
   },
   {
     species: 'Burmy',
@@ -1657,1023 +1657,1023 @@ export const speciesList: SpeciesList = [
   },
   {
     species: 'Mothim',
-    id: 414
+    id: 414,
   },
   {
     species: 'Combee',
-    id: 415
+    id: 415,
   },
   {
     species: 'Vespiquen',
-    id: 416
+    id: 416,
   },
   {
     species: 'Pachirisu',
-    id: 417
+    id: 417,
   },
   {
     species: 'Buizel',
-    id: 418
+    id: 418,
   },
   {
     species: 'Floatzel',
-    id: 419
+    id: 419,
   },
   {
     species: 'Cherubi',
-    id: 420
+    id: 420,
   },
   {
     species: 'Cherrim',
-    id: 421
+    id: 421,
   },
   {
     species: 'Shellos',
-    id: 422
+    id: 422,
   },
   {
     species: 'Gastrodon',
-    id: 423
+    id: 423,
   },
   {
     species: 'Ambipom',
-    id: 424
+    id: 424,
   },
   {
     species: 'Drifloon',
-    id: 425
+    id: 425,
   },
   {
     species: 'Drifblim',
-    id: 426
+    id: 426,
   },
   {
     species: 'Buneary',
-    id: 427
+    id: 427,
   },
   {
     species: 'Lopunny',
-    id: 428
+    id: 428,
   },
   {
     species: 'Mismagius',
-    id: 429
+    id: 429,
   },
   {
     species: 'Honchkrow',
-    id: 430
+    id: 430,
   },
   {
     species: 'Glameow',
-    id: 431
+    id: 431,
   },
   {
     species: 'Purugly',
-    id: 432
+    id: 432,
   },
   {
     species: 'Chingling',
-    id: 433
+    id: 433,
   },
   {
     species: 'Stunky',
-    id: 434
+    id: 434,
   },
   {
     species: 'Skuntank',
-    id: 435
+    id: 435,
   },
   {
     species: 'Bronzor',
-    id: 436
+    id: 436,
   },
   {
     species: 'Bronzong',
-    id: 437
+    id: 437,
   },
   {
     species: 'Bonsly',
-    id: 438
+    id: 438,
   },
   {
     species: 'Mime Jr.',
-    id: 439
+    id: 439,
   },
   {
     species: 'Happiny',
-    id: 440
+    id: 440,
   },
   {
     species: 'Chatot',
-    id: 441
+    id: 441,
   },
   {
     species: 'Spiritomb',
-    id: 442
+    id: 442,
   },
   {
     species: 'Gible',
-    id: 443
+    id: 443,
   },
   {
     species: 'Gabite',
-    id: 444
+    id: 444,
   },
   {
     species: 'Garchomp',
-    id: 445
+    id: 445,
   },
   {
     species: 'Munchlax',
-    id: 446
+    id: 446,
   },
   {
     species: 'Riolu',
-    id: 447
+    id: 447,
   },
   {
     species: 'Lucario',
-    id: 448
+    id: 448,
   },
   {
     species: 'Hippopotas',
-    id: 449
+    id: 449,
   },
   {
     species: 'Hippowdon',
-    id: 450
+    id: 450,
   },
   {
     species: 'Skorupi',
-    id: 451
+    id: 451,
   },
   {
     species: 'Drapion',
-    id: 452
+    id: 452,
   },
   {
     species: 'Croagunk',
-    id: 453
+    id: 453,
   },
   {
     species: 'Toxicroak',
-    id: 454
+    id: 454,
   },
   {
     species: 'Carnivine',
-    id: 455
+    id: 455,
   },
   {
     species: 'Finneon',
-    id: 456
+    id: 456,
   },
   {
     species: 'Lumineon',
-    id: 457
+    id: 457,
   },
   {
     species: 'Mantyke',
-    id: 458
+    id: 458,
   },
   {
     species: 'Snover',
-    id: 459
+    id: 459,
   },
   {
     species: 'Abomasnow',
-    id: 460
+    id: 460,
   },
   {
     species: 'Weavile',
-    id: 461
+    id: 461,
   },
   {
     species: 'Magnezone',
-    id: 462
+    id: 462,
   },
   {
     species: 'Lickilicky',
-    id: 463
+    id: 463,
   },
   {
     species: 'Rhyperior',
-    id: 464
+    id: 464,
   },
   {
     species: 'Tangrowth',
-    id: 465
+    id: 465,
   },
   {
     species: 'Electivire',
-    id: 466
+    id: 466,
   },
   {
     species: 'Magmortar',
-    id: 467
+    id: 467,
   },
   {
     species: 'Togekiss',
-    id: 468
+    id: 468,
   },
   {
     species: 'Yanmega',
-    id: 469
+    id: 469,
   },
   {
     species: 'Leafeon',
-    id: 470
+    id: 470,
   },
   {
     species: 'Glaceon',
-    id: 471
+    id: 471,
   },
   {
     species: 'Gliscor',
-    id: 472
+    id: 472,
   },
   {
     species: 'Mamoswine',
-    id: 473
+    id: 473,
   },
   {
     species: 'Porygon-Z',
-    id: 474
+    id: 474,
   },
   {
     species: 'Gallade',
-    id: 475
+    id: 475,
   },
   {
     species: 'Probopass',
-    id: 476
+    id: 476,
   },
   {
     species: 'Dusknoir',
-    id: 477
+    id: 477,
   },
   {
     species: 'Froslass',
-    id: 478
+    id: 478,
   },
   {
     species: 'Rotom',
-    id: 479
+    id: 479,
   },
   {
     species: 'Uxie',
-    id: 480
+    id: 480,
   },
   {
     species: 'Mesprit',
-    id: 481
+    id: 481,
   },
   {
     species: 'Azelf',
-    id: 482
+    id: 482,
   },
   {
     species: 'Dialga',
-    id: 483
+    id: 483,
   },
   {
     species: 'Palkia',
-    id: 484
+    id: 484,
   },
   {
     species: 'Heatran',
-    id: 485
+    id: 485,
   },
   {
     species: 'Regigigas',
-    id: 486
+    id: 486,
   },
   {
     species: 'Giratina',
-    id: 487
+    id: 487,
   },
   {
     species: 'Cresselia',
-    id: 488
+    id: 488,
   },
   {
     species: 'Phione',
-    id: 489
+    id: 489,
   },
   {
     species: 'Manaphy',
-    id: 490
+    id: 490,
   },
   {
     species: 'Darkrai',
-    id: 491
+    id: 491,
   },
   {
     species: 'Shaymin',
-    id: 492
+    id: 492,
   },
   {
     species: 'Arceus',
-    id: 493
+    id: 493,
   },
   {
     species: 'Victini',
-    id: 494
+    id: 494,
   },
   {
     species: 'Snivy',
-    id: 495
+    id: 495,
   },
   {
     species: 'Servine',
-    id: 496
+    id: 496,
   },
   {
     species: 'Serperior',
-    id: 497
+    id: 497,
   },
   {
     species: 'Tepig',
-    id: 498
+    id: 498,
   },
   {
     species: 'Pignite',
-    id: 499
+    id: 499,
   },
   {
     species: 'Emboar',
-    id: 500
+    id: 500,
   },
   {
     species: 'Oshawott',
-    id: 501
+    id: 501,
   },
   {
     species: 'Dewott',
-    id: 502
+    id: 502,
   },
   {
     species: 'Samurott',
-    id: 503
+    id: 503,
   },
   {
     species: 'Patrat',
-    id: 504
+    id: 504,
   },
   {
     species: 'Watchog',
-    id: 505
+    id: 505,
   },
   {
     species: 'Lillipup',
-    id: 506
+    id: 506,
   },
   {
     species: 'Herdier',
-    id: 507
+    id: 507,
   },
   {
     species: 'Stoutland',
-    id: 508
+    id: 508,
   },
   {
     species: 'Purrloin',
-    id: 509
+    id: 509,
   },
   {
     species: 'Liepard',
-    id: 510
+    id: 510,
   },
   {
     species: 'Pansage',
-    id: 511
+    id: 511,
   },
   {
     species: 'Simisage',
-    id: 512
+    id: 512,
   },
   {
     species: 'Pansear',
-    id: 513
+    id: 513,
   },
   {
     species: 'Simisear',
-    id: 514
+    id: 514,
   },
   {
     species: 'Panpour',
-    id: 515
+    id: 515,
   },
   {
     species: 'Simipour',
-    id: 516
+    id: 516,
   },
   {
     species: 'Munna',
-    id: 517
+    id: 517,
   },
   {
     species: 'Musharna',
-    id: 518
+    id: 518,
   },
   {
     species: 'Pidove',
-    id: 519
+    id: 519,
   },
   {
     species: 'Tranquill',
-    id: 520
+    id: 520,
   },
   {
     species: 'Unfezant',
-    id: 521
+    id: 521,
   },
   {
     species: 'Blitzle',
-    id: 522
+    id: 522,
   },
   {
     species: 'Zebstrika',
-    id: 523
+    id: 523,
   },
   {
     species: 'Roggenrola',
-    id: 524
+    id: 524,
   },
   {
     species: 'Boldore',
-    id: 525
+    id: 525,
   },
   {
     species: 'Gigalith',
-    id: 526
+    id: 526,
   },
   {
     species: 'Woobat',
-    id: 527
+    id: 527,
   },
   {
     species: 'Swoobat',
-    id: 528
+    id: 528,
   },
   {
     species: 'Drilbur',
-    id: 529
+    id: 529,
   },
   {
     species: 'Excadrill',
-    id: 530
+    id: 530,
   },
   {
     species: 'Audino',
-    id: 531
+    id: 531,
   },
   {
     species: 'Timburr',
-    id: 532
+    id: 532,
   },
   {
     species: 'Gurdurr',
-    id: 533
+    id: 533,
   },
   {
     species: 'Conkeldurr',
-    id: 534
+    id: 534,
   },
   {
     species: 'Tympole',
-    id: 535
+    id: 535,
   },
   {
     species: 'Palpitoad',
-    id: 536
+    id: 536,
   },
   {
     species: 'Seismitoad',
-    id: 537
+    id: 537,
   },
   {
     species: 'Throh',
-    id: 538
+    id: 538,
   },
   {
     species: 'Sawk',
-    id: 539
+    id: 539,
   },
   {
     species: 'Sewaddle',
-    id: 540
+    id: 540,
   },
   {
     species: 'Swadloon',
-    id: 541
+    id: 541,
   },
   {
     species: 'Leavanny',
-    id: 542
+    id: 542,
   },
   {
     species: 'Venipede',
-    id: 543
+    id: 543,
   },
   {
     species: 'Whirlipede',
-    id: 544
+    id: 544,
   },
   {
     species: 'Scolipede',
-    id: 545
+    id: 545,
   },
   {
     species: 'Cottonee',
-    id: 546
+    id: 546,
   },
   {
     species: 'Whimsicott',
-    id: 547
+    id: 547,
   },
   {
     species: 'Petilil',
-    id: 548
+    id: 548,
   },
   {
     species: 'Lilligant',
-    id: 549
+    id: 549,
   },
   {
     species: 'Basculin',
-    id: 550
+    id: 550,
   },
   {
     species: 'Sandile',
-    id: 551
+    id: 551,
   },
   {
     species: 'Krokorok',
-    id: 552
+    id: 552,
   },
   {
     species: 'Krookodile',
-    id: 553
+    id: 553,
   },
   {
     species: 'Darumaka',
-    id: 554
+    id: 554,
   },
   {
     species: 'Darmanitan',
-    id: 555
+    id: 555,
   },
   {
     species: 'Maractus',
-    id: 556
+    id: 556,
   },
   {
     species: 'Dwebble',
-    id: 557
+    id: 557,
   },
   {
     species: 'Crustle',
-    id: 558
+    id: 558,
   },
   {
     species: 'Scraggy',
-    id: 559
+    id: 559,
   },
   {
     species: 'Scrafty',
-    id: 560
+    id: 560,
   },
   {
     species: 'Sigilyph',
-    id: 561
+    id: 561,
   },
   {
     species: 'Yamask',
-    id: 562
+    id: 562,
   },
   {
     species: 'Cofagrigus',
-    id: 563
+    id: 563,
   },
   {
     species: 'Tirtouga',
-    id: 564
+    id: 564,
   },
   {
     species: 'Carracosta',
-    id: 565
+    id: 565,
   },
   {
     species: 'Archen',
-    id: 566
+    id: 566,
   },
   {
     species: 'Archeops',
-    id: 567
+    id: 567,
   },
   {
     species: 'Trubbish',
-    id: 568
+    id: 568,
   },
   {
     species: 'Garbodor',
-    id: 569
+    id: 569,
   },
   {
     species: 'Zorua',
-    id: 570
+    id: 570,
   },
   {
     species: 'Zoroark',
-    id: 571
+    id: 571,
   },
   {
     species: 'Minccino',
-    id: 572
+    id: 572,
   },
   {
     species: 'Cinccino',
-    id: 573
+    id: 573,
   },
   {
     species: 'Gothita',
-    id: 574
+    id: 574,
   },
   {
     species: 'Gothorita',
-    id: 575
+    id: 575,
   },
   {
     species: 'Gothitelle',
-    id: 576
+    id: 576,
   },
   {
     species: 'Solosis',
-    id: 577
+    id: 577,
   },
   {
     species: 'Duosion',
-    id: 578
+    id: 578,
   },
   {
     species: 'Reuniclus',
-    id: 579
+    id: 579,
   },
   {
     species: 'Ducklett',
-    id: 580
+    id: 580,
   },
   {
     species: 'Swanna',
-    id: 581
+    id: 581,
   },
   {
     species: 'Vanillite',
-    id: 582
+    id: 582,
   },
   {
     species: 'Vanillish',
-    id: 583
+    id: 583,
   },
   {
     species: 'Vanilluxe',
-    id: 584
+    id: 584,
   },
   {
     species: 'Deerling',
-    id: 585
+    id: 585,
   },
   {
     species: 'Sawsbuck',
-    id: 586
+    id: 586,
   },
   {
     species: 'Emolga',
-    id: 587
+    id: 587,
   },
   {
     species: 'Karrablast',
-    id: 588
+    id: 588,
   },
   {
     species: 'Escavalier',
-    id: 589
+    id: 589,
   },
   {
     species: 'Foongus',
-    id: 590
+    id: 590,
   },
   {
     species: 'Amoonguss',
-    id: 591
+    id: 591,
   },
   {
     species: 'Frillish',
-    id: 592
+    id: 592,
   },
   {
     species: 'Jellicent',
-    id: 593
+    id: 593,
   },
   {
     species: 'Alomomola',
-    id: 594
+    id: 594,
   },
   {
     species: 'Joltik',
-    id: 595
+    id: 595,
   },
   {
     species: 'Galvantula',
-    id: 596
+    id: 596,
   },
   {
     species: 'Ferroseed',
-    id: 597
+    id: 597,
   },
   {
     species: 'Ferrothorn',
-    id: 598
+    id: 598,
   },
   {
     species: 'Klink',
-    id: 599
+    id: 599,
   },
   {
     species: 'Klang',
-    id: 600
+    id: 600,
   },
   {
     species: 'Klinklang',
-    id: 601
+    id: 601,
   },
   {
     species: 'Tynamo',
-    id: 602
+    id: 602,
   },
   {
     species: 'Eelektrik',
-    id: 603
+    id: 603,
   },
   {
     species: 'Eelektross',
-    id: 604
+    id: 604,
   },
   {
     species: 'Elgyem',
-    id: 605
+    id: 605,
   },
   {
     species: 'Beheeyem',
-    id: 606
+    id: 606,
   },
   {
     species: 'Litwick',
-    id: 607
+    id: 607,
   },
   {
     species: 'Lampent',
-    id: 608
+    id: 608,
   },
   {
     species: 'Chandelure',
-    id: 609
+    id: 609,
   },
   {
     species: 'Axew',
-    id: 610
+    id: 610,
   },
   {
     species: 'Fraxure',
-    id: 611
+    id: 611,
   },
   {
     species: 'Haxorus',
-    id: 612
+    id: 612,
   },
   {
     species: 'Cubchoo',
-    id: 613
+    id: 613,
   },
   {
     species: 'Beartic',
-    id: 614
+    id: 614,
   },
   {
     species: 'Cryogonal',
-    id: 615
+    id: 615,
   },
   {
     species: 'Shelmet',
-    id: 616
+    id: 616,
   },
   {
     species: 'Accelgor',
-    id: 617
+    id: 617,
   },
   {
     species: 'Stunfisk',
-    id: 618
+    id: 618,
   },
   {
     species: 'Mienfoo',
-    id: 619
+    id: 619,
   },
   {
     species: 'Mienshao',
-    id: 620
+    id: 620,
   },
   {
     species: 'Druddigon',
-    id: 621
+    id: 621,
   },
   {
     species: 'Golett',
-    id: 622
+    id: 622,
   },
   {
     species: 'Golurk',
-    id: 623
+    id: 623,
   },
   {
     species: 'Pawniard',
-    id: 624
+    id: 624,
   },
   {
     species: 'Bisharp',
-    id: 625
+    id: 625,
   },
   {
     species: 'Bouffalant',
-    id: 626
+    id: 626,
   },
   {
     species: 'Rufflet',
-    id: 627
+    id: 627,
   },
   {
     species: 'Braviary',
-    id: 628
+    id: 628,
   },
   {
     species: 'Vullaby',
-    id: 629
+    id: 629,
   },
   {
     species: 'Mandibuzz',
-    id: 630
+    id: 630,
   },
   {
     species: 'Heatmor',
-    id: 631
+    id: 631,
   },
   {
     species: 'Durant',
-    id: 632
+    id: 632,
   },
   {
     species: 'Deino',
-    id: 633
+    id: 633,
   },
   {
     species: 'Zweilous',
-    id: 634
+    id: 634,
   },
   {
     species: 'Hydreigon',
-    id: 635
+    id: 635,
   },
   {
     species: 'Larvesta',
-    id: 636
+    id: 636,
   },
   {
     species: 'Volcarona',
-    id: 637
+    id: 637,
   },
   {
     species: 'Cobalion',
-    id: 638
+    id: 638,
   },
   {
     species: 'Terrakion',
-    id: 639
+    id: 639,
   },
   {
     species: 'Virizion',
-    id: 640
+    id: 640,
   },
   {
     species: 'Tornadus',
-    id: 641
+    id: 641,
   },
   {
     species: 'Thundurus',
-    id: 642
+    id: 642,
   },
   {
     species: 'Reshiram',
-    id: 643
+    id: 643,
   },
   {
     species: 'Zekrom',
-    id: 644
+    id: 644,
   },
   {
     species: 'Landorus',
-    id: 645
+    id: 645,
   },
   {
     species: 'Kyurem',
-    id: 646
+    id: 646,
   },
   {
     species: 'Keldeo',
-    id: 647
+    id: 647,
   },
   {
     species: 'Meloetta',
-    id: 648
+    id: 648,
   },
   {
     species: 'Genesect',
-    id: 649
+    id: 649,
   },
   {
     species: 'Chespin',
-    id: 650
+    id: 650,
   },
   {
     species: 'Quilladin',
-    id: 651
+    id: 651,
   },
   {
     species: 'Chesnaught',
-    id: 652
+    id: 652,
   },
   {
     species: 'Fennekin',
-    id: 653
+    id: 653,
   },
   {
     species: 'Braixen',
-    id: 654
+    id: 654,
   },
   {
     species: 'Delphox',
-    id: 655
+    id: 655,
   },
   {
     species: 'Froakie',
-    id: 656
+    id: 656,
   },
   {
     species: 'Frogadier',
-    id: 657
+    id: 657,
   },
   {
     species: 'Greninja',
-    id: 658
+    id: 658,
   },
   {
     species: 'Bunnelby',
-    id: 659
+    id: 659,
   },
   {
     species: 'Diggersby',
-    id: 660
+    id: 660,
   },
   {
     species: 'Fletchling',
-    id: 661
+    id: 661,
   },
   {
     species: 'Fletchinder',
-    id: 662
+    id: 662,
   },
   {
     species: 'Talonflame',
-    id: 663
+    id: 663,
   },
   {
     species: 'Scatterbug',
-    id: 664
+    id: 664,
   },
   {
     species: 'Spewpa',
-    id: 665
+    id: 665,
   },
   {
     species: 'Vivillon',
-    id: 666
+    id: 666,
   },
   {
     species: 'Litleo',
-    id: 667
+    id: 667,
   },
   {
     species: 'Pyroar',
-    id: 668
+    id: 668,
   },
   {
     species: 'Flabebe',
@@ -2689,187 +2689,187 @@ export const speciesList: SpeciesList = [
   },
   {
     species: 'Skiddo',
-    id: 672
+    id: 672,
   },
   {
     species: 'Gogoat',
-    id: 673
+    id: 673,
   },
   {
     species: 'Pancham',
-    id: 674
+    id: 674,
   },
   {
     species: 'Pangoro',
-    id: 675
+    id: 675,
   },
   {
     species: 'Furfrou',
-    id: 676
+    id: 676,
   },
   {
     species: 'Espurr',
-    id: 677
+    id: 677,
   },
   {
     species: 'Meowstic',
-    id: 678
+    id: 678,
   },
   {
     species: 'Honedge',
-    id: 679
+    id: 679,
   },
   {
     species: 'Doublade',
-    id: 680
+    id: 680,
   },
   {
     species: 'Aegislash',
-    id: 681
+    id: 681,
   },
   {
     species: 'Spritzee',
-    id: 682
+    id: 682,
   },
   {
     species: 'Aromatisse',
-    id: 683
+    id: 683,
   },
   {
     species: 'Swirlix',
-    id: 684
+    id: 684,
   },
   {
     species: 'Slurpuff',
-    id: 685
+    id: 685,
   },
   {
     species: 'Inkay',
-    id: 686
+    id: 686,
   },
   {
     species: 'Malamar',
-    id: 687
+    id: 687,
   },
   {
     species: 'Binacle',
-    id: 688
+    id: 688,
   },
   {
     species: 'Barbaracle',
-    id: 689
+    id: 689,
   },
   {
     species: 'Skrelp',
-    id: 690
+    id: 690,
   },
   {
     species: 'Dragalge',
-    id: 691
+    id: 691,
   },
   {
     species: 'Clauncher',
-    id: 692
+    id: 692,
   },
   {
     species: 'Clawitzer',
-    id: 693
+    id: 693,
   },
   {
     species: 'Helioptile',
-    id: 694
+    id: 694,
   },
   {
     species: 'Heliolisk',
-    id: 695
+    id: 695,
   },
   {
     species: 'Tyrunt',
-    id: 696
+    id: 696,
   },
   {
     species: 'Tyrantrum',
-    id: 697
+    id: 697,
   },
   {
     species: 'Amaura',
-    id: 698
+    id: 698,
   },
   {
     species: 'Aurorus',
-    id: 699
+    id: 699,
   },
   {
     species: 'Sylveon',
-    id: 700
+    id: 700,
   },
   {
     species: 'Hawlucha',
-    id: 701
+    id: 701,
   },
   {
     species: 'Dedenne',
-    id: 702
+    id: 702,
   },
   {
     species: 'Carbink',
-    id: 703
+    id: 703,
   },
   {
     species: 'Goomy',
-    id: 704
+    id: 704,
   },
   {
     species: 'Sliggoo',
-    id: 705
+    id: 705,
   },
   {
     species: 'Goodra',
-    id: 706
+    id: 706,
   },
   {
     species: 'Klefki',
-    id: 707
+    id: 707,
   },
   {
     species: 'Phantump',
-    id: 708
+    id: 708,
   },
   {
     species: 'Trevenant',
-    id: 709
+    id: 709,
   },
   {
     species: 'Pumpkaboo',
-    id: 710
+    id: 710,
   },
   {
     species: 'Gourgeist',
-    id: 711
+    id: 711,
   },
   {
     species: 'Bergmite',
-    id: 712
+    id: 712,
   },
   {
     species: 'Avalugg',
-    id: 713
+    id: 713,
   },
   {
     species: 'Noibat',
-    id: 714
+    id: 714,
   },
   {
     species: 'Noivern',
-    id: 715
+    id: 715,
   },
   {
     species: 'Xerneas',
-    id: 716
+    id: 716,
   },
   {
     species: 'Yveltal',
-    id: 717
+    id: 717,
   },
   {
     species: 'Zygarde',
@@ -2877,107 +2877,107 @@ export const speciesList: SpeciesList = [
   },
   {
     species: 'Diancie',
-    id: 719
+    id: 719,
   },
   {
     species: 'Hoopa',
-    id: 720
+    id: 720,
   },
   {
     species: 'Volcanion',
-    id: 721
+    id: 721,
   },
   {
     species: 'Rowlet',
-    id: 722
+    id: 722,
   },
   {
     species: 'Dartrix',
-    id: 723
+    id: 723,
   },
   {
     species: 'Decidueye',
-    id: 724
+    id: 724,
   },
   {
     species: 'Litten',
-    id: 725
+    id: 725,
   },
   {
     species: 'Torracat',
-    id: 726
+    id: 726,
   },
   {
     species: 'Incineroar',
-    id: 727
+    id: 727,
   },
   {
     species: 'Popplio',
-    id: 728
+    id: 728,
   },
   {
     species: 'Brionne',
-    id: 729
+    id: 729,
   },
   {
     species: 'Primarina',
-    id: 730
+    id: 730,
   },
   {
     species: 'Pikipek',
-    id: 731
+    id: 731,
   },
   {
     species: 'Trumbeak',
-    id: 732
+    id: 732,
   },
   {
     species: 'Toucannon',
-    id: 733
+    id: 733,
   },
   {
     species: 'Yungoos',
-    id: 734
+    id: 734,
   },
   {
     species: 'Gumshoos',
-    id: 735
+    id: 735,
   },
   {
     species: 'Grubbin',
-    id: 736
+    id: 736,
   },
   {
     species: 'Charjabug',
-    id: 737
+    id: 737,
   },
   {
     species: 'Vikavolt',
-    id: 738
+    id: 738,
   },
   {
     species: 'Crabrawler',
-    id: 739
+    id: 739,
   },
   {
     species: 'Crabominable',
-    id: 740
+    id: 740,
   },
   {
     species: 'Oricorio',
-    id: 741
+    id: 741,
   },
   {
     species: 'Cutiefly',
-    id: 742
+    id: 742,
   },
   {
     species: 'Ribombee',
-    id: 743
+    id: 743,
   },
   {
     species: 'Rockruff',
-    id: 744
+    id: 744,
   },
   {
     species: 'Lycanroc',
@@ -2985,611 +2985,611 @@ export const speciesList: SpeciesList = [
   },
   {
     species: 'Wishiwashi',
-    id: 746
+    id: 746,
   },
   {
     species: 'Mareanie',
-    id: 747
+    id: 747,
   },
   {
     species: 'Toxapex',
-    id: 748
+    id: 748,
   },
   {
     species: 'Mudbray',
-    id: 749
+    id: 749,
   },
   {
     species: 'Mudsdale',
-    id: 750
+    id: 750,
   },
   {
     species: 'Dewpider',
-    id: 751
+    id: 751,
   },
   {
     species: 'Araquanid',
-    id: 752
+    id: 752,
   },
   {
     species: 'Fomantis',
-    id: 753
+    id: 753,
   },
   {
     species: 'Lurantis',
-    id: 754
+    id: 754,
   },
   {
     species: 'Morelull',
-    id: 755
+    id: 755,
   },
   {
     species: 'Shiinotic',
-    id: 756
+    id: 756,
   },
   {
     species: 'Salandit',
-    id: 757
+    id: 757,
   },
   {
     species: 'Salazzle',
-    id: 758
+    id: 758,
   },
   {
     species: 'Stufful',
-    id: 759
+    id: 759,
   },
   {
     species: 'Bewear',
-    id: 760
+    id: 760,
   },
   {
     species: 'Bounsweet',
-    id: 761
+    id: 761,
   },
   {
     species: 'Steenee',
-    id: 762
+    id: 762,
   },
   {
     species: 'Tsareena',
-    id: 763
+    id: 763,
   },
   {
     species: 'Comfey',
-    id: 764
+    id: 764,
   },
   {
     species: 'Oranguru',
-    id: 765
+    id: 765,
   },
   {
     species: 'Passimian',
-    id: 766
+    id: 766,
   },
   {
     species: 'Wimpod',
-    id: 767
+    id: 767,
   },
   {
     species: 'Golisopod',
-    id: 768
+    id: 768,
   },
   {
     species: 'Sandygast',
-    id: 769
+    id: 769,
   },
   {
     species: 'Palossand',
-    id: 770
+    id: 770,
   },
   {
     species: 'Pyukumuku',
-    id: 771
+    id: 771,
   },
   {
     species: 'Type: Null',
-    id: 772
+    id: 772,
   },
   {
     species: 'Silvally',
-    id: 773
+    id: 773,
   },
   {
     species: 'Minior',
-    id: 774
+    id: 774,
   },
   {
     species: 'Komala',
-    id: 775
+    id: 775,
   },
   {
     species: 'Turtonator',
-    id: 776
+    id: 776,
   },
   {
     species: 'Togedemaru',
-    id: 777
+    id: 777,
   },
   {
     species: 'Mimikyu',
-    id: 778
+    id: 778,
   },
   {
     species: 'Bruxish',
-    id: 779
+    id: 779,
   },
   {
     species: 'Drampa',
-    id: 780
+    id: 780,
   },
   {
     species: 'Dhelmise',
-    id: 781
+    id: 781,
   },
   {
     species: 'Jangmo-o',
-    id: 782
+    id: 782,
   },
   {
     species: 'Hakamo-o',
-    id: 783
+    id: 783,
   },
   {
     species: 'Kommo-o',
-    id: 784
+    id: 784,
   },
   {
     species: 'Tapu Koko',
-    id: 785
+    id: 785,
   },
   {
     species: 'Tapu Lele',
-    id: 786
+    id: 786,
   },
   {
     species: 'Tapu Bulu',
-    id: 787
+    id: 787,
   },
   {
     species: 'Tapu Fini',
-    id: 788
+    id: 788,
   },
   {
     species: 'Cosmog',
-    id: 789
+    id: 789,
   },
   {
     species: 'Cosmoem',
-    id: 790
+    id: 790,
   },
   {
     species: 'Solgaleo',
-    id: 791
+    id: 791,
   },
   {
     species: 'Lunala',
-    id: 792
+    id: 792,
   },
   {
     species: 'Nihilego',
-    id: 793
+    id: 793,
   },
   {
     species: 'Buzzwole',
-    id: 794
+    id: 794,
   },
   {
     species: 'Pheromosa',
-    id: 795
+    id: 795,
   },
   {
     species: 'Xurkitree',
-    id: 796
+    id: 796,
   },
   {
     species: 'Celesteela',
-    id: 797
+    id: 797,
   },
   {
     species: 'Kartana',
-    id: 798
+    id: 798,
   },
   {
     species: 'Guzzlord',
-    id: 799
+    id: 799,
   },
   {
     species: 'Necrozma',
-    id: 800
+    id: 800,
   },
   {
     species: 'Magearna',
-    id: 801
+    id: 801,
   },
   {
     species: 'Marshadow',
-    id: 802
+    id: 802,
   },
   {
     species: 'Poipole',
-    id: 803
+    id: 803,
   },
   {
     species: 'Naganadel',
-    id: 804
+    id: 804,
   },
   {
     species: 'Stakataka',
-    id: 805
+    id: 805,
   },
   {
     species: 'Blacephalon',
-    id: 806
+    id: 806,
   },
   {
     species: 'Zeraora',
-    id: 807
+    id: 807,
   },
   {
     species: 'Meltan',
-    id: 808
+    id: 808,
   },
   {
     species: 'Melmetal',
-    id: 809
+    id: 809,
   },
   {
     species: 'Grookey',
-    id: 810
+    id: 810,
   },
   {
     species: 'Thwackey',
-    id: 811
+    id: 811,
   },
   {
     species: 'Rillaboom',
-    id: 812
+    id: 812,
   },
   {
     species: 'Scorbunny',
-    id: 813
+    id: 813,
   },
   {
     species: 'Raboot',
-    id: 814
+    id: 814,
   },
   {
     species: 'Cinderace',
-    id: 815
+    id: 815,
   },
   {
     species: 'Sobble',
-    id: 816
+    id: 816,
   },
   {
     species: 'Drizzile',
-    id: 817
+    id: 817,
   },
   {
     species: 'Inteleon',
-    id: 818
+    id: 818,
   },
   {
     species: 'Skwovet',
-    id: 819
+    id: 819,
   },
   {
     species: 'Greedent',
-    id: 820
+    id: 820,
   },
   {
     species: 'Rookidee',
-    id: 821
+    id: 821,
   },
   {
     species: 'Corvisquire',
-    id: 822
+    id: 822,
   },
   {
     species: 'Corviknight',
-    id: 823
+    id: 823,
   },
   {
     species: 'Blipbug',
-    id: 824
+    id: 824,
   },
   {
     species: 'Dottler',
-    id: 825
+    id: 825,
   },
   {
     species: 'Orbeetle',
-    id: 826
+    id: 826,
   },
   {
     species: 'Nickit',
-    id: 827
+    id: 827,
   },
   {
     species: 'Thievul',
-    id: 828
+    id: 828,
   },
   {
     species: 'Gossifleur',
-    id: 829
+    id: 829,
   },
   {
     species: 'Eldegoss',
-    id: 830
+    id: 830,
   },
   {
     species: 'Wooloo',
-    id: 831
+    id: 831,
   },
   {
     species: 'Dubwool',
-    id: 832
+    id: 832,
   },
   {
     species: 'Chewtle',
-    id: 833
+    id: 833,
   },
   {
     species: 'Drednaw',
-    id: 834
+    id: 834,
   },
   {
     species: 'Yamper',
-    id: 835
+    id: 835,
   },
   {
     species: 'Boltund',
-    id: 836
+    id: 836,
   },
   {
     species: 'Rolycoly',
-    id: 837
+    id: 837,
   },
   {
     species: 'Carkol',
-    id: 838
+    id: 838,
   },
   {
     species: 'Coalossal',
-    id: 839
+    id: 839,
   },
   {
     species: 'Applin',
-    id: 840
+    id: 840,
   },
   {
     species: 'Flapple',
-    id: 841
+    id: 841,
   },
   {
     species: 'Appletun',
-    id: 842
+    id: 842,
   },
   {
     species: 'Silicobra',
-    id: 843
+    id: 843,
   },
   {
     species: 'Sandaconda',
-    id: 844
+    id: 844,
   },
   {
     species: 'Cramorant',
-    id: 845
+    id: 845,
   },
   {
     species: 'Arrokuda',
-    id: 846
+    id: 846,
   },
   {
     species: 'Barraskewda',
-    id: 847
+    id: 847,
   },
   {
     species: 'Toxel',
-    id: 848
+    id: 848,
   },
   {
     species: 'Toxtricity',
-    id: 849
+    id: 849,
   },
   {
     species: 'Sizzlipede',
-    id: 850
+    id: 850,
   },
   {
     species: 'Centiskorch',
-    id: 851
+    id: 851,
   },
   {
     species: 'Clobbopus',
-    id: 852
+    id: 852,
   },
   {
     species: 'Grapploct',
-    id: 853
+    id: 853,
   },
   {
     species: 'Sinistea',
-    id: 854
+    id: 854,
   },
   {
     species: 'Polteageist',
-    id: 855
+    id: 855,
   },
   {
     species: 'Hatenna',
-    id: 856
+    id: 856,
   },
   {
     species: 'Hattrem',
-    id: 857
+    id: 857,
   },
   {
     species: 'Hatterene',
-    id: 858
+    id: 858,
   },
   {
     species: 'Impidimp',
-    id: 859
+    id: 859,
   },
   {
     species: 'Morgrem',
-    id: 860
+    id: 860,
   },
   {
     species: 'Grimmsnarl',
-    id: 861
+    id: 861,
   },
   {
     species: 'Obstagoon',
-    id: 862
+    id: 862,
   },
   {
     species: 'Perrserker',
-    id: 863
+    id: 863,
   },
   {
     species: 'Cursola',
-    id: 864
+    id: 864,
   },
   {
-    species: 'Sirfetch\'d',
-    id: 865
+    species: "Sirfetch'd",
+    id: 865,
   },
   {
     species: 'Mr. Rime',
-    id: 866
+    id: 866,
   },
   {
     species: 'Runerigus',
-    id: 867
+    id: 867,
   },
   {
     species: 'Milcery',
-    id: 868
+    id: 868,
   },
   {
     species: 'Alcremie',
-    id: 869
+    id: 869,
   },
   {
     species: 'Falinks',
-    id: 870
+    id: 870,
   },
   {
     species: 'Pincurchin',
-    id: 871
+    id: 871,
   },
   {
     species: 'Snom',
-    id: 872
+    id: 872,
   },
   {
     species: 'Frosmoth',
-    id: 873
+    id: 873,
   },
   {
     species: 'Stonjourner',
-    id: 874
+    id: 874,
   },
   {
     species: 'Eiscue',
-    id: 875
+    id: 875,
   },
   {
     species: 'Indeedee',
-    id: 876
+    id: 876,
   },
   {
     species: 'Morpeko',
-    id: 877
+    id: 877,
   },
   {
     species: 'Cufant',
-    id: 878
+    id: 878,
   },
   {
     species: 'Copperajah',
-    id: 879
+    id: 879,
   },
   {
     species: 'Dracozolt',
-    id: 880
+    id: 880,
   },
   {
     species: 'Arctozolt',
-    id: 881
+    id: 881,
   },
   {
     species: 'Dracovish',
-    id: 882
+    id: 882,
   },
   {
     species: 'Arctovish',
-    id: 883
+    id: 883,
   },
   {
     species: 'Duraludon',
-    id: 884
+    id: 884,
   },
   {
     species: 'Dreepy',
-    id: 885
+    id: 885,
   },
   {
     species: 'Drakloak',
-    id: 886
+    id: 886,
   },
   {
     species: 'Dragapult',
-    id: 887
+    id: 887,
   },
   {
     species: 'Zacian',
-    id: 888
+    id: 888,
   },
   {
     species: 'Zamazenta',
-    id: 889
+    id: 889,
   },
   {
     species: 'Eternatus',
-    id: 890
+    id: 890,
   },
   {
     species: 'Kubfu',
-    id: 891
+    id: 891,
   },
   {
     species: 'Urshifu',
-    id: 892
+    id: 892,
   },
   {
     species: 'Zarude',
-    id: 893
+    id: 893,
   },
   {
     species: 'Regieleki',
-    id: 894
+    id: 894,
   },
   {
     species: 'Regidrago',
-    id: 895
+    id: 895,
   },
   {
     species: 'Glastrier',
-    id: 896
+    id: 896,
   },
   {
     species: 'Spectrier',
-    id: 897
+    id: 897,
   },
   {
     species: 'Calyrex',
@@ -3597,514 +3597,514 @@ export const speciesList: SpeciesList = [
   },
   {
     species: 'Wyrdeer',
-    id: 899
+    id: 899,
   },
   {
     species: 'Kleavor',
-    id: 900
+    id: 900,
   },
   {
     species: 'Ursaluna',
-    id: 901
+    id: 901,
   },
   {
     species: 'Basculegion',
-    id: 902
+    id: 902,
   },
   {
     species: 'Sneasler',
-    id: 903
+    id: 903,
   },
   {
     species: 'Overqwil',
-    id: 904
+    id: 904,
   },
   {
     species: 'Enamorus',
-    id: 905
+    id: 905,
   },
   {
     species: 'Sprigatito',
-    id: 906
+    id: 906,
   },
   {
     species: 'Floragato',
-    id: 907
+    id: 907,
   },
   {
     species: 'Meowscarada',
-    id: 908
+    id: 908,
   },
   {
     species: 'Fuecoco',
-    id: 909
+    id: 909,
   },
   {
     species: 'Crocalor',
-    id: 910
+    id: 910,
   },
   {
     species: 'Skeledirge',
-    id: 911
+    id: 911,
   },
   {
     species: 'Quaxly',
-    id: 912
+    id: 912,
   },
   {
     species: 'Quaxwell',
-    id: 913
+    id: 913,
   },
   {
     species: 'Quaquaval',
-    id: 914
+    id: 914,
   },
   {
     species: 'Lechonk',
-    id: 915
+    id: 915,
   },
   {
     species: 'Oinkologne',
-    id: 916
+    id: 916,
   },
   {
     species: 'Tarountula',
-    id: 917
+    id: 917,
   },
   {
     species: 'Spidops',
-    id: 918
+    id: 918,
   },
   {
     species: 'Nymble',
-    id: 919
+    id: 919,
   },
   {
     species: 'Lokix',
-    id: 920
+    id: 920,
   },
   {
     species: 'Pawmi',
-    id: 921
+    id: 921,
   },
   {
     species: 'Pawmo',
-    id: 922
+    id: 922,
   },
   {
     species: 'Pawmot',
-    id: 923
+    id: 923,
   },
   {
     species: 'Tandemaus',
-    id: 924
+    id: 924,
   },
   {
     species: 'Maushold',
-    id: 925
+    id: 925,
   },
   {
     species: 'Fidough',
-    id: 926
+    id: 926,
   },
   {
     species: 'Dachsbun',
-    id: 927
+    id: 927,
   },
   {
     species: 'Smoliv',
-    id: 928
+    id: 928,
   },
   {
     species: 'Dolliv',
-    id: 929
+    id: 929,
   },
   {
     species: 'Arboliva',
-    id: 930
+    id: 930,
   },
   {
     species: 'Squawkabilly',
-    id: 931
+    id: 931,
   },
   {
     species: 'Nacli',
-    id: 932
+    id: 932,
   },
   {
     species: 'Naclstack',
-    id: 933
+    id: 933,
   },
   {
     species: 'Garganacl',
-    id: 934
+    id: 934,
   },
   {
     species: 'Charcadet',
-    id: 935
+    id: 935,
   },
   {
     species: 'Armarouge',
-    id: 936
+    id: 936,
   },
   {
     species: 'Ceruledge',
-    id: 937
+    id: 937,
   },
   {
     species: 'Tadbulb',
-    id: 938
+    id: 938,
   },
   {
     species: 'Bellibolt',
-    id: 939
+    id: 939,
   },
   {
     species: 'Wattrel',
-    id: 940
+    id: 940,
   },
   {
     species: 'Kilowattrel',
-    id: 941
+    id: 941,
   },
   {
     species: 'Maschiff',
-    id: 942
+    id: 942,
   },
   {
     species: 'Mabosstiff',
-    id: 943
+    id: 943,
   },
   {
     species: 'Shroodle',
-    id: 944
+    id: 944,
   },
   {
     species: 'Grafaiai',
-    id: 945
+    id: 945,
   },
   {
     species: 'Bramblin',
-    id: 946
+    id: 946,
   },
   {
     species: 'Brambleghast',
-    id: 947
+    id: 947,
   },
   {
     species: 'Toedscool',
-    id: 948
+    id: 948,
   },
   {
     species: 'Toedscruel',
-    id: 949
+    id: 949,
   },
   {
     species: 'Klawf',
-    id: 950
+    id: 950,
   },
   {
     species: 'Capsakid',
-    id: 951
+    id: 951,
   },
   {
     species: 'Scovillain',
-    id: 952
+    id: 952,
   },
   {
     species: 'Rellor',
-    id: 953
+    id: 953,
   },
   {
     species: 'Rabsca',
-    id: 954
+    id: 954,
   },
   {
     species: 'Flittle',
-    id: 955
+    id: 955,
   },
   {
     species: 'Espathra',
-    id: 956
+    id: 956,
   },
   {
     species: 'Tinkatink',
-    id: 957
+    id: 957,
   },
   {
     species: 'Tinkatuff',
-    id: 958
+    id: 958,
   },
   {
     species: 'Tinkaton',
-    id: 959
+    id: 959,
   },
   {
     species: 'Wiglett',
-    id: 960
+    id: 960,
   },
   {
     species: 'Wugtrio',
-    id: 961
+    id: 961,
   },
   {
     species: 'Bombirdier',
-    id: 962
+    id: 962,
   },
   {
     species: 'Finizen',
-    id: 963
+    id: 963,
   },
   {
     species: 'Palafin',
-    id: 964
+    id: 964,
   },
   {
     species: 'Varoom',
-    id: 965
+    id: 965,
   },
   {
     species: 'Revavroom',
-    id: 966
+    id: 966,
   },
   {
     species: 'Cyclizar',
-    id: 967
+    id: 967,
   },
   {
     species: 'Orthworm',
-    id: 968
+    id: 968,
   },
   {
     species: 'Glimmet',
-    id: 969
+    id: 969,
   },
   {
     species: 'Glimmora',
-    id: 970
+    id: 970,
   },
   {
     species: 'Greavard',
-    id: 971
+    id: 971,
   },
   {
     species: 'Houndstone',
-    id: 972
+    id: 972,
   },
   {
     species: 'Flamigo',
-    id: 973
+    id: 973,
   },
   {
     species: 'Cetoddle',
-    id: 974
+    id: 974,
   },
   {
     species: 'Cetitan',
-    id: 975
+    id: 975,
   },
   {
     species: 'Veluza',
-    id: 976
+    id: 976,
   },
   {
     species: 'Dondozo',
-    id: 977
+    id: 977,
   },
   {
     species: 'Tatsugiri',
-    id: 978
+    id: 978,
   },
   {
     species: 'Annihilape',
-    id: 979
+    id: 979,
   },
   {
     species: 'Clodsire',
-    id: 980
+    id: 980,
   },
   {
     species: 'Farigiraf',
-    id: 981
+    id: 981,
   },
   {
     species: 'Dudunsparce',
-    id: 982
+    id: 982,
   },
   {
     species: 'Kingambit',
-    id: 983
+    id: 983,
   },
   {
     species: 'Great Tusk',
-    id: 984
+    id: 984,
   },
   {
     species: 'Scream Tail',
-    id: 985
+    id: 985,
   },
   {
     species: 'Brute Bonnet',
-    id: 986
+    id: 986,
   },
   {
     species: 'Flutter Mane',
-    id: 987
+    id: 987,
   },
   {
     species: 'Slither Wing',
-    id: 988
+    id: 988,
   },
   {
     species: 'Sandy Shocks',
-    id: 989
+    id: 989,
   },
   {
     species: 'Iron Treads',
-    id: 990
+    id: 990,
   },
   {
     species: 'Iron Bundle',
-    id: 991
+    id: 991,
   },
   {
     species: 'Iron Hands',
-    id: 992
+    id: 992,
   },
   {
     species: 'Iron Jugulis',
-    id: 993
+    id: 993,
   },
   {
     species: 'Iron Moth',
-    id: 994
+    id: 994,
   },
   {
     species: 'Iron Thorns',
-    id: 995
+    id: 995,
   },
   {
     species: 'Frigibax',
-    id: 996
+    id: 996,
   },
   {
     species: 'Arctibax',
-    id: 997
+    id: 997,
   },
   {
     species: 'Baxcalibur',
-    id: 998
+    id: 998,
   },
   {
     species: 'Gimmighoul',
-    id: 999
+    id: 999,
   },
   {
     species: 'Gholdengo',
-    id: 1000
+    id: 1000,
   },
   {
     species: 'Wo-Chien',
-    id: 1001
+    id: 1001,
   },
   {
     species: 'Chien-Pao',
-    id: 1002
+    id: 1002,
   },
   {
     species: 'Ting-Lu',
-    id: 1003
+    id: 1003,
   },
   {
     species: 'Chi-Yu',
-    id: 1004
+    id: 1004,
   },
   {
     species: 'Roaring Moon',
-    id: 1005
+    id: 1005,
   },
   {
     species: 'Iron Valiant',
-    id: 1006
+    id: 1006,
   },
   {
     species: 'Koraidon',
-    id: 1007
+    id: 1007,
   },
   {
     species: 'Miraidon',
-    id: 1008
+    id: 1008,
   },
   {
     species: 'Walking Wake',
-    id: 1009
+    id: 1009,
   },
   {
     species: 'Iron Leaves',
-    id: 1010
+    id: 1010,
   },
   {
     species: 'Dipplin',
-    id: 1011
+    id: 1011,
   },
   {
     species: 'Poltchageist',
-    id: 1012
+    id: 1012,
   },
   {
     species: 'Sinistcha',
-    id: 1013
+    id: 1013,
   },
   {
     species: 'Okidogi',
-    id: 1014
+    id: 1014,
   },
   {
     species: 'Munkidori',
-    id: 1015
+    id: 1015,
   },
   {
     species: 'Fezandipiti',
-    id: 1016
+    id: 1016,
   },
   {
     species: 'Ogerpon',
-    id: 1017
+    id: 1017,
   },
   {
     species: 'Archaludon',
-    id: 1018
+    id: 1018,
   },
   {
     species: 'Hydrapple',
-    id: 1019
+    id: 1019,
   },
   {
     species: 'Gouging Fire',
-    id: 1020
+    id: 1020,
   },
   {
     species: 'Raging Bolt',
-    id: 1021
+    id: 1021,
   },
   {
     species: 'Iron Boulder',
-    id: 1022
+    id: 1022,
   },
   {
     species: 'Iron Crown',
-    id: 1023
+    id: 1023,
   },
   {
     species: 'Terapagos',
-    id: 1024
+    id: 1024,
   },
   {
     species: 'Pecharunt',
-    id: 1025
+    id: 1025,
   },
   {
     species: 'Egg',
-    id: 9999
-  }
+    id: 9999,
+  },
 ];

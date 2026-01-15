@@ -61,7 +61,11 @@ async function main() {
     });
 
     spritesmith.run(
-      {src: sprites, algorithm: 'pokesprite-left-right' as Spritesmith.SpritesmithProcessImagesOptions['algorithm']},
+      {
+        src: sprites,
+        algorithm:
+          'pokesprite-left-right' as Spritesmith.SpritesmithProcessImagesOptions['algorithm'],
+      },
       async (err, result) => {
         if (err) {
           console.error('Spritesmith error:', err);
@@ -71,17 +75,20 @@ async function main() {
         const cssContent = generateCss(icons, result.coordinates);
         await saveFiles(result.image, cssContent);
         console.log('Spritesheet generation successful!');
-      }
+      },
     );
   } catch (error) {
-    console.error('Failed to generate spritesheet:', error instanceof Error ? error.message : error);
+    console.error(
+      'Failed to generate spritesheet:',
+      error instanceof Error ? error.message : error,
+    );
     process.exit(1);
   }
 }
 
 function generateCss(
   iconMeta: IconMeta[],
-  coordinates: Record<string, { x: number; y: number; width: number; height: number }>
+  coordinates: Record<string, { x: number; y: number; width: number; height: number }>,
 ): string {
   let basicStyles = `.pokesprite{display:inline-block}.pokesprite.pokemon{width:68px;height:68px;background-image:url(./spritesheet.png);image-rendering:pixelated;image-rendering:-moz-crisp-edges;`;
 
@@ -90,7 +97,7 @@ function generateCss(
   }
 
   const iconCss = Object.entries(coordinates)
-    .map(([iconPath, {x, y}]) => {
+    .map(([iconPath, { x, y }]) => {
       const iconName = path.basename(iconPath, '.png');
       const iconMetaEntry = iconMeta.find((i) => i.name === iconName);
       if (iconMetaEntry) {
@@ -117,7 +124,7 @@ async function saveFiles(imageBuffer: Buffer, cssContent: string) {
   try {
     await fs.access(PREBUILTS_DIR);
   } catch {
-    await fs.mkdir(PREBUILTS_DIR, {recursive: true});
+    await fs.mkdir(PREBUILTS_DIR, { recursive: true });
   }
 
   await Promise.all([

@@ -1,4 +1,4 @@
-import { GridProperties } from "./grid-properties";
+import { GridProperties } from './grid-properties';
 
 export interface SpreadsheetOverviewResponse {
   spreadsheetId: string;
@@ -6,5 +6,4 @@ export interface SpreadsheetOverviewResponse {
     title: string;
   };
   sheets: { properties: { sheetId: string; title: string; gridProperties: GridProperties } }[];
-
 }

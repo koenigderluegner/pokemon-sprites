@@ -11,7 +11,7 @@ async function getZipPath(): Promise<string> {
 
   if (zipFiles.length !== 1) {
     throw new Error(
-      `Found ${zipFiles.length} zip files, expected exactly 1.\nFound files: ${zipFiles.join(', ')}`
+      `Found ${zipFiles.length} zip files, expected exactly 1.\nFound files: ${zipFiles.join(', ')}`,
     );
   }
   return zipFiles[0];

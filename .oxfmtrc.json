@@ -1,4 +1,12 @@
 {
   "$schema": "./node_modules/oxfmt/configuration_schema.json",
-  "ignorePatterns": ["docs", "apps/pokemon-sprite/prebuilds", "apps/pokemon-sprite/sprites"]
+  "ignorePatterns": [
+    ".vscode",
+    "docs",
+    "apps/pokemon-sprite/data.json",
+    "apps/pokemon-sprite/prebuilts",
+    "apps/pokemon-sprite/sprites",
+    "apps/pokemon-sprite/src/assets/spreadsheet"
+  ],
+  "singleQuote": true
 }

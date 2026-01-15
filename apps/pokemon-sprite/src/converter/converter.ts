@@ -40,7 +40,7 @@ async function main() {
 
       const iconPairs: PokemonIconPair[] = sortByKeywords(regularIcons).map((regularIcon) => {
         const shinyIconIndex = shinyIcons.findIndex(
-          (x) => x.toLowerCase() === regularIcon.toLowerCase() + '-★'
+          (x) => x.toLowerCase() === regularIcon.toLowerCase() + '-★',
         );
 
         const shinyIcon = shinyIconIndex !== -1 ? shinyIcons[shinyIconIndex] : null;
@@ -119,7 +119,7 @@ function getIconMeta(iconName: string): IconMeta {
       : s
           .replace(/([a-zéáűőúöüó0-9])([A-Z])/g, '$1-$2')
           .toLowerCase()
-          .replace(/é/g, 'e')
+          .replace(/é/g, 'e'),
   );
 
   let parts = new Set(processedParts);
@@ -157,12 +157,12 @@ function getSpeciesIcons(poke: Species, iconBaseNames: string[]) {
   const iconName = poke.species
     .replace(/Nidoran F/g, 'Nidoran♀')
     .replace(/Nidoran M/g, 'Nidoran♂')
-    .replace(/[ \-\.:]/g, '')
+    .replace(/[ \-.:]/g, '')
     .replace(/Flabebe/g, 'Flabébé');
 
   return iconBaseNames.filter((x) =>
     // Matches pattern followed by space, non-letter, or end of string
-    new RegExp(`^${iconName}(?=\\s|[^a-zA-Z]|$)`, 'i').test(x)
+    new RegExp(`^${iconName}(?=\\s|[^a-zA-Z]|$)`, 'i').test(x),
   );
 }
 

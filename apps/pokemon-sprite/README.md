@@ -52,8 +52,8 @@ The `data.json` file contains metadata for all included sprites, including their
 You can reference individual sprites directly if your build system supports it:
 
 ```html
-<img src="node_modules/pokemon-sprites/sprites/Bulbasaur.png" alt="Bulbasaur">
-<img src="node_modules/pokemon-sprites/sprites/Bulbasaur-★.png" alt="Shiny Bulbasaur">
+<img src="node_modules/pokemon-sprites/sprites/Bulbasaur.png" alt="Bulbasaur" />
+<img src="node_modules/pokemon-sprites/sprites/Bulbasaur-★.png" alt="Shiny Bulbasaur" />
 ```
 
 ### Using the spritesheet
@@ -61,7 +61,7 @@ You can reference individual sprites directly if your build system supports it:
 1. Include the CSS file in your project:
 
 ```html
-<link rel="stylesheet" href="node_modules/pokemon-sprites/prebuilts/default/spritesheet.css">
+<link rel="stylesheet" href="node_modules/pokemon-sprites/prebuilts/default/spritesheet.css" />
 ```
 
 2. Use the corresponding CSS classes:
@@ -79,5 +79,3 @@ For a detailed list, see the [prebuilt spritesheet documentation](https://koenig
 The sprite images are © Nintendo/Creatures Inc./GAME FREAK Inc.
 Various artists made custom icons and colorings, see the [credits](https://koenig.gg/pokemon-sprites/#credits) for more information.
 The code and packaging are licensed under the [MIT License](https://opensource.org/license/MIT).
-
-

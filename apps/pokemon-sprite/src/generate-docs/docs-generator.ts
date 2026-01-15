@@ -47,14 +47,14 @@ function writeTableHeader(stream: WriteStream) {
 <th class="min-width">Shiny</th>
 </tr>
 </thead>
-<tbody>`
+<tbody>`,
   );
 }
 
 function writeTableFooter(stream: WriteStream) {
   stream.write(
     `</tbody>
-</table></div>`
+</table></div>`,
   );
 }
 
@@ -65,7 +65,7 @@ function writeTableSpriteRow(stream: WriteStream, entry: PokemonEntry) {
 <td class="name-col" id="${entry.species}" rowspan="${entry.icons.length}"><a href="#${entry.species}">${entry.species}</a></td>
 ${getIconFields(entry.icons[0], entry.species)}
 </tr>`,
-    'utf-8'
+    'utf-8',
   );
 
   if (entry.icons.length > 1) {
@@ -75,7 +75,7 @@ ${getIconFields(entry.icons[0], entry.species)}
         `<tr>
 ${getIconFields(entry.icons[i], speciesNameFromIcon)}
 </tr>`,
-        'utf-8'
+        'utf-8',
       );
     }
   }
@@ -86,7 +86,11 @@ function getIconFields(iconPair: PokemonIconPair, speciesName: string): string {
     .split('.')
     .filter((s) => !!s)
     .join(' ');
-  const shinyClasses = iconPair.shiny?.cssClass.split('.').filter((s) => !!s).join(' ') ?? '';
+  const shinyClasses =
+    iconPair.shiny?.cssClass
+      .split('.')
+      .filter((s) => !!s)
+      .join(' ') ?? '';
   const formName =
     iconPair.regular.name.length > speciesName.length
       ? iconPair.regular.name.substring(speciesName.length + 1)
@@ -152,7 +156,7 @@ function writeDocumentHeader(stream: WriteStream) {
   </head>
   <body class="container">
 <h1>Pokémon sprites</h1>`,
-    'utf-8'
+    'utf-8',
   );
 }
 
@@ -171,7 +175,7 @@ function writeTableOfContents(stream: WriteStream) {
 <li><a href="#Egg">Eggs</a></li>
 <li><a href="#credits">Credits</a></li>
 </ul>`,
-    'utf-8'
+    'utf-8',
   );
 }
 
@@ -211,7 +215,7 @@ function writeCredits(stream: WriteStream) {
 </div>
 <p>Missing your name? <a href="https://discord.com/users/161955738690912257">Contact me via Discord</a>. Links to external sites are not managed by me and have uncontrolled content.</p>
 `,
-    'utf-8'
+    'utf-8',
   );
 }
 
@@ -219,7 +223,7 @@ function writeDocumentFooter(stream: WriteStream) {
   stream.write(
     `</body>
 </html>`,
-    'utf-8'
+    'utf-8',
   );
 }
 
