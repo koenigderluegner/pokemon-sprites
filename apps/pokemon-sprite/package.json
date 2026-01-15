@@ -1,7 +1,14 @@
 {
-  "name": "@pokemon-sprite/pokemon-sprite",
+  "name": "pokemon-sprites",
   "version": "0.0.1",
-  "private": true,
+  "publishConfig": {
+    "access": "public"
+  },
+  "files": [
+    "sprites",
+    "prebuilts",
+    "README.md"
+  ],
   "nx": {
     "name": "pokemon-sprite",
     "targets": {
