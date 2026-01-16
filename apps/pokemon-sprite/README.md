@@ -5,6 +5,12 @@ A collection of Pokémon menu sprites and a prebuilt spritesheet.
 ## Installation
 
 ```bash
+bun add pokemon-sprites
+```
+
+or with npm:
+
+```bash
 npm install pokemon-sprites
 ```
 
@@ -12,12 +18,6 @@ or with yarn:
 
 ```bash
 yarn add pokemon-sprites
-```
-
-or with bun:
-
-```bash
-bun add pokemon-sprites
 ```
 
 ## Contents
