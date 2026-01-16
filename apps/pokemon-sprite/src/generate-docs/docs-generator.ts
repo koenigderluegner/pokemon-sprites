@@ -9,6 +9,9 @@ async function main() {
     const dataContent = await fs.readFile(DATA_JSON_PATH, 'utf8');
     const pokemonEntries: PokemonEntry[] = JSON.parse(dataContent);
 
+    const previewPath = path.join(DOCS_DIR, 'preview.png');
+    fs.copyFile(path.join(__dirname, 'preview.png'), previewPath);
+
     const indexPath = path.join(DOCS_DIR, 'index.html');
     const writeStream = createWriteStream(indexPath, { encoding: 'utf-8' });
 
@@ -122,13 +125,33 @@ function getIconFields(iconPair: PokemonIconPair, speciesName: string): string {
 }
 
 function writeDocumentHeader(stream: WriteStream) {
+  const title = 'Pokémon Sprite';
+  const description =
+    'A collection of Pokémon menu sprites with a prebuilt spritesheet, metadata, and CSS classes for easy integration.';
+  const url = 'https://koenig.gg/pokemon-sprites/';
+  const image = 'https://koenig.gg/pokemon-sprites/preview.png';
+
   stream.write(
     `<!doctype html>
 <html lang="en">
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Pokémon Sprite - Index</title>
+    <title>${title}</title>
+    <meta name="description" content="${description}">
+
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="${url}">
+    <meta property="og:title" content="${title}">
+    <meta property="og:description" content="${description}">
+    <meta property="og:image" content="${image}">
+
+    <meta property="twitter:card" content="summary_large_image">
+    <meta property="twitter:url" content="${url}">
+    <meta property="twitter:title" content="${title}">
+    <meta property="twitter:description" content="${description}">
+    <meta property="twitter:image" content="${image}">
+
     <link href="./docs.css" rel="stylesheet"/>
     <link href="./spritesheet.css" rel="stylesheet"/>
     <script type="text/javascript">
