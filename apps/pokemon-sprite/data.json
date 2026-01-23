@@ -97217,20 +97217,6 @@
       },
       {
         "regular": {
-          "name": "Cyclizar-Bonus-OutsideBattle-Ride-Trainer-Cyclizar-3DS",
-          "slug": "cyclizar-outside-battle-ride-trainer",
-          "cssClass": ".pokesprite.pokemon.cyclizar-outside-battle-ride-trainer.n3ds",
-          "modifiers": [
-            "n3ds"
-          ],
-          "categories": [
-            "bonus"
-          ]
-        },
-        "shiny": null
-      },
-      {
-        "regular": {
           "name": "Cyclizar-Bonus-OutsideBattle-Ride-Trainer-Green",
           "slug": "cyclizar-outside-battle-ride-trainer-green",
           "cssClass": ".pokesprite.pokemon.cyclizar-outside-battle-ride-trainer-green",
@@ -97244,6 +97230,31 @@
           "cssClass": ".pokesprite.pokemon.cyclizar-outside-battle-ride-trainer-green.shiny",
           "modifiers": [
             "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Cyclizar-Bonus-OutsideBattle-Ride-Trainer-Green-3DS",
+          "slug": "cyclizar-outside-battle-ride-trainer-green",
+          "cssClass": ".pokesprite.pokemon.cyclizar-outside-battle-ride-trainer-green.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Cyclizar-Bonus-OutsideBattle-Ride-Trainer-Green-3DS-★",
+          "slug": "cyclizar-outside-battle-ride-trainer-green",
+          "cssClass": ".pokesprite.pokemon.cyclizar-outside-battle-ride-trainer-green.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
           ],
           "categories": [
             "bonus"
