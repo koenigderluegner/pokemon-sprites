@@ -3487,17 +3487,21 @@
             "bonus"
           ]
         },
-        "shiny": {
-          "name": "Blastoise-Bonus-Pokken-★",
+        "shiny": null
+      },
+      {
+        "regular": {
+          "name": "Blastoise-Bonus-Pokken-3DS",
           "slug": "blastoise-pokken",
-          "cssClass": ".pokesprite.pokemon.blastoise-pokken.shiny",
+          "cssClass": ".pokesprite.pokemon.blastoise-pokken.n3ds",
           "modifiers": [
-            "shiny"
+            "n3ds"
           ],
           "categories": [
             "bonus"
           ]
-        }
+        },
+        "shiny": null
       },
       {
         "regular": {
