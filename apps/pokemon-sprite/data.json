@@ -2569,7 +2569,18 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Squirtle-Bonus-Anime-Squad-3DS-★",
+          "slug": "squirtle-anime-squad",
+          "cssClass": ".pokesprite.pokemon.squirtle-anime-squad.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -2604,7 +2615,18 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Squirtle-Bonus-Anime-Squad-EP147-3DS-★",
+          "slug": "squirtle-anime-squad-ep147",
+          "cssClass": ".pokesprite.pokemon.squirtle-anime-squad-ep147.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -9790,6 +9812,282 @@
       },
       {
         "regular": {
+          "name": "Pikachu-GO-GOTour2026Ethan",
+          "slug": "pikachu-gotour2026-ethan",
+          "cssClass": ".pokesprite.pokemon.pikachu-gotour2026-ethan",
+          "categories": [
+            "go"
+          ]
+        },
+        "shiny": {
+          "name": "Pikachu-GO-GOTour2026Ethan-★",
+          "slug": "pikachu-gotour2026-ethan",
+          "cssClass": ".pokesprite.pokemon.pikachu-gotour2026-ethan.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "go"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Pikachu-GO-GOTour2026Ethan-3DS",
+          "slug": "pikachu-gotour2026-ethan",
+          "cssClass": ".pokesprite.pokemon.pikachu-gotour2026-ethan.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "go"
+          ]
+        },
+        "shiny": {
+          "name": "Pikachu-GO-GOTour2026Ethan-3DS-★",
+          "slug": "pikachu-gotour2026-ethan",
+          "cssClass": ".pokesprite.pokemon.pikachu-gotour2026-ethan.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "go"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Pikachu-GO-GOTour2026Ethan-F",
+          "slug": "pikachu-gotour2026-ethan-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-gotour2026-ethan-f",
+          "categories": [
+            "go"
+          ]
+        },
+        "shiny": {
+          "name": "Pikachu-GO-GOTour2026Ethan-F-★",
+          "slug": "pikachu-gotour2026-ethan-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-gotour2026-ethan-f.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "go"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Pikachu-GO-GOTour2026Ethan-F-3DS",
+          "slug": "pikachu-gotour2026-ethan-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-gotour2026-ethan-f.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "go"
+          ]
+        },
+        "shiny": {
+          "name": "Pikachu-GO-GOTour2026Ethan-F-3DS-★",
+          "slug": "pikachu-gotour2026-ethan-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-gotour2026-ethan-f.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "go"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Pikachu-GO-GOTour2026Lyra",
+          "slug": "pikachu-gotour2026-lyra",
+          "cssClass": ".pokesprite.pokemon.pikachu-gotour2026-lyra",
+          "categories": [
+            "go"
+          ]
+        },
+        "shiny": {
+          "name": "Pikachu-GO-GOTour2026Lyra-★",
+          "slug": "pikachu-gotour2026-lyra",
+          "cssClass": ".pokesprite.pokemon.pikachu-gotour2026-lyra.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "go"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Pikachu-GO-GOTour2026Lyra-3DS",
+          "slug": "pikachu-gotour2026-lyra",
+          "cssClass": ".pokesprite.pokemon.pikachu-gotour2026-lyra.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "go"
+          ]
+        },
+        "shiny": {
+          "name": "Pikachu-GO-GOTour2026Lyra-3DS-★",
+          "slug": "pikachu-gotour2026-lyra",
+          "cssClass": ".pokesprite.pokemon.pikachu-gotour2026-lyra.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "go"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Pikachu-GO-GOTour2026Lyra-F",
+          "slug": "pikachu-gotour2026-lyra-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-gotour2026-lyra-f",
+          "categories": [
+            "go"
+          ]
+        },
+        "shiny": {
+          "name": "Pikachu-GO-GOTour2026Lyra-F-★",
+          "slug": "pikachu-gotour2026-lyra-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-gotour2026-lyra-f.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "go"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Pikachu-GO-GOTour2026Lyra-F-3DS",
+          "slug": "pikachu-gotour2026-lyra-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-gotour2026-lyra-f.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "go"
+          ]
+        },
+        "shiny": {
+          "name": "Pikachu-GO-GOTour2026Lyra-F-3DS-★",
+          "slug": "pikachu-gotour2026-lyra-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-gotour2026-lyra-f.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "go"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Pikachu-GO-GoTour2026Red",
+          "slug": "pikachu-go-tour2026-red",
+          "cssClass": ".pokesprite.pokemon.pikachu-go-tour2026-red",
+          "categories": [
+            "go"
+          ]
+        },
+        "shiny": {
+          "name": "Pikachu-GO-GoTour2026Red-★",
+          "slug": "pikachu-go-tour2026-red",
+          "cssClass": ".pokesprite.pokemon.pikachu-go-tour2026-red.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "go"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Pikachu-GO-GoTour2026Red-3DS",
+          "slug": "pikachu-go-tour2026-red",
+          "cssClass": ".pokesprite.pokemon.pikachu-go-tour2026-red.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "go"
+          ]
+        },
+        "shiny": {
+          "name": "Pikachu-GO-GoTour2026Red-3DS-★",
+          "slug": "pikachu-go-tour2026-red",
+          "cssClass": ".pokesprite.pokemon.pikachu-go-tour2026-red.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "go"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Pikachu-GO-GoTour2026Red-F",
+          "slug": "pikachu-go-tour2026-red-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-go-tour2026-red-f",
+          "categories": [
+            "go"
+          ]
+        },
+        "shiny": {
+          "name": "Pikachu-GO-GoTour2026Red-F-★",
+          "slug": "pikachu-go-tour2026-red-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-go-tour2026-red-f.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "go"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Pikachu-GO-GoTour2026Red-F-3DS",
+          "slug": "pikachu-go-tour2026-red-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-go-tour2026-red-f.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "go"
+          ]
+        },
+        "shiny": {
+          "name": "Pikachu-GO-GoTour2026Red-F-3DS-★",
+          "slug": "pikachu-go-tour2026-red-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-go-tour2026-red-f.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "go"
+          ]
+        }
+      },
+      {
+        "regular": {
           "name": "Pikachu-GO-GOTour2026Serena",
           "slug": "pikachu-gotour2026-serena",
           "cssClass": ".pokesprite.pokemon.pikachu-gotour2026-serena",
@@ -9871,6 +10169,98 @@
           "name": "Pikachu-GO-GOTour2026Serena-F-3DS-★",
           "slug": "pikachu-gotour2026-serena-f",
           "cssClass": ".pokesprite.pokemon.pikachu-gotour2026-serena-f.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "go"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Pikachu-GO-GoTourLeaf",
+          "slug": "pikachu-go-tour-leaf",
+          "cssClass": ".pokesprite.pokemon.pikachu-go-tour-leaf",
+          "categories": [
+            "go"
+          ]
+        },
+        "shiny": {
+          "name": "Pikachu-GO-GoTourLeaf-★",
+          "slug": "pikachu-go-tour-leaf",
+          "cssClass": ".pokesprite.pokemon.pikachu-go-tour-leaf.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "go"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Pikachu-GO-GoTourLeaf-3DS",
+          "slug": "pikachu-go-tour-leaf",
+          "cssClass": ".pokesprite.pokemon.pikachu-go-tour-leaf.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "go"
+          ]
+        },
+        "shiny": {
+          "name": "Pikachu-GO-GoTourLeaf-3DS-★",
+          "slug": "pikachu-go-tour-leaf",
+          "cssClass": ".pokesprite.pokemon.pikachu-go-tour-leaf.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "go"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Pikachu-GO-GoTourLeaf-F",
+          "slug": "pikachu-go-tour-leaf-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-go-tour-leaf-f",
+          "categories": [
+            "go"
+          ]
+        },
+        "shiny": {
+          "name": "Pikachu-GO-GoTourLeaf-F-★",
+          "slug": "pikachu-go-tour-leaf-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-go-tour-leaf-f.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "go"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Pikachu-GO-GoTourLeaf-F-3DS",
+          "slug": "pikachu-go-tour-leaf-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-go-tour-leaf-f.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "go"
+          ]
+        },
+        "shiny": {
+          "name": "Pikachu-GO-GoTourLeaf-F-3DS-★",
+          "slug": "pikachu-go-tour-leaf-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-go-tour-leaf-f.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -46756,17 +47146,17 @@
       },
       {
         "regular": {
-          "name": "Pelipper-Bonus-Anime- PageRider",
-          "slug": "pelipper-anime- page-rider",
-          "cssClass": ".pokesprite.pokemon.pelipper-anime- page-rider",
+          "name": "Pelipper-Bonus-Anime-PageRider",
+          "slug": "pelipper-anime-page-rider",
+          "cssClass": ".pokesprite.pokemon.pelipper-anime-page-rider",
           "categories": [
             "bonus"
           ]
         },
         "shiny": {
-          "name": "Pelipper-Bonus-Anime- PageRider-★",
-          "slug": "pelipper-anime- page-rider",
-          "cssClass": ".pokesprite.pokemon.pelipper-anime- page-rider.shiny",
+          "name": "Pelipper-Bonus-Anime-PageRider-★",
+          "slug": "pelipper-anime-page-rider",
+          "cssClass": ".pokesprite.pokemon.pelipper-anime-page-rider.shiny",
           "modifiers": [
             "shiny"
           ],
@@ -46777,9 +47167,9 @@
       },
       {
         "regular": {
-          "name": "Pelipper-Bonus-Anime- PageRider-3DS",
-          "slug": "pelipper-anime- page-rider",
-          "cssClass": ".pokesprite.pokemon.pelipper-anime- page-rider.n3ds",
+          "name": "Pelipper-Bonus-Anime-PageRider-3DS",
+          "slug": "pelipper-anime-page-rider",
+          "cssClass": ".pokesprite.pokemon.pelipper-anime-page-rider.n3ds",
           "modifiers": [
             "n3ds"
           ],
@@ -46788,9 +47178,9 @@
           ]
         },
         "shiny": {
-          "name": "Pelipper-Bonus-Anime- PageRider-3DS-★",
-          "slug": "pelipper-anime- page-rider",
-          "cssClass": ".pokesprite.pokemon.pelipper-anime- page-rider.shiny.n3ds",
+          "name": "Pelipper-Bonus-Anime-PageRider-3DS-★",
+          "slug": "pelipper-anime-page-rider",
+          "cssClass": ".pokesprite.pokemon.pelipper-anime-page-rider.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -96720,6 +97110,409 @@
           "name": "Cyclizar-Bonus-OutsideBattle-Ride-3DS-★",
           "slug": "cyclizar-outside-battle-ride",
           "cssClass": ".pokesprite.pokemon.cyclizar-outside-battle-ride.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Cyclizar-Bonus-OutsideBattle-Ride-Trainer",
+          "slug": "cyclizar-outside-battle-ride-trainer",
+          "cssClass": ".pokesprite.pokemon.cyclizar-outside-battle-ride-trainer",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Cyclizar-Bonus-OutsideBattle-Ride-Trainer-★",
+          "slug": "cyclizar-outside-battle-ride-trainer",
+          "cssClass": ".pokesprite.pokemon.cyclizar-outside-battle-ride-trainer.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Cyclizar-Bonus-OutsideBattle-Ride-Trainer-3DS",
+          "slug": "cyclizar-outside-battle-ride-trainer",
+          "cssClass": ".pokesprite.pokemon.cyclizar-outside-battle-ride-trainer.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Cyclizar-Bonus-OutsideBattle-Ride-Trainer-3DS-★",
+          "slug": "cyclizar-outside-battle-ride-trainer",
+          "cssClass": ".pokesprite.pokemon.cyclizar-outside-battle-ride-trainer.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Cyclizar-Bonus-OutsideBattle-Ride-Trainer-Blue",
+          "slug": "cyclizar-outside-battle-ride-trainer-blue",
+          "cssClass": ".pokesprite.pokemon.cyclizar-outside-battle-ride-trainer-blue",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Cyclizar-Bonus-OutsideBattle-Ride-Trainer-Blue-★",
+          "slug": "cyclizar-outside-battle-ride-trainer-blue",
+          "cssClass": ".pokesprite.pokemon.cyclizar-outside-battle-ride-trainer-blue.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Cyclizar-Bonus-OutsideBattle-Ride-Trainer-Blue-3DS",
+          "slug": "cyclizar-outside-battle-ride-trainer-blue",
+          "cssClass": ".pokesprite.pokemon.cyclizar-outside-battle-ride-trainer-blue.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Cyclizar-Bonus-OutsideBattle-Ride-Trainer-Blue-3DS-★",
+          "slug": "cyclizar-outside-battle-ride-trainer-blue",
+          "cssClass": ".pokesprite.pokemon.cyclizar-outside-battle-ride-trainer-blue.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Cyclizar-Bonus-OutsideBattle-Ride-Trainer-Cyclizar-3DS",
+          "slug": "cyclizar-outside-battle-ride-trainer",
+          "cssClass": ".pokesprite.pokemon.cyclizar-outside-battle-ride-trainer.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": null
+      },
+      {
+        "regular": {
+          "name": "Cyclizar-Bonus-OutsideBattle-Ride-Trainer-Green",
+          "slug": "cyclizar-outside-battle-ride-trainer-green",
+          "cssClass": ".pokesprite.pokemon.cyclizar-outside-battle-ride-trainer-green",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Cyclizar-Bonus-OutsideBattle-Ride-Trainer-Green-★",
+          "slug": "cyclizar-outside-battle-ride-trainer-green",
+          "cssClass": ".pokesprite.pokemon.cyclizar-outside-battle-ride-trainer-green.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Cyclizar-Bonus-OutsideBattle-Ride-Trainer-TeamStar-Caph",
+          "slug": "cyclizar-outside-battle-ride-trainer-team-star-caph",
+          "cssClass": ".pokesprite.pokemon.cyclizar-outside-battle-ride-trainer-team-star-caph",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Cyclizar-Bonus-OutsideBattle-Ride-Trainer-TeamStar-Caph-★",
+          "slug": "cyclizar-outside-battle-ride-trainer-team-star-caph",
+          "cssClass": ".pokesprite.pokemon.cyclizar-outside-battle-ride-trainer-team-star-caph.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Cyclizar-Bonus-OutsideBattle-Ride-Trainer-TeamStar-Caph-3DS",
+          "slug": "cyclizar-outside-battle-ride-trainer-team-star-caph",
+          "cssClass": ".pokesprite.pokemon.cyclizar-outside-battle-ride-trainer-team-star-caph.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Cyclizar-Bonus-OutsideBattle-Ride-Trainer-TeamStar-Caph-3DS-★",
+          "slug": "cyclizar-outside-battle-ride-trainer-team-star-caph",
+          "cssClass": ".pokesprite.pokemon.cyclizar-outside-battle-ride-trainer-team-star-caph.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Cyclizar-Bonus-OutsideBattle-Ride-Trainer-TeamStar-Navi",
+          "slug": "cyclizar-outside-battle-ride-trainer-team-star-navi",
+          "cssClass": ".pokesprite.pokemon.cyclizar-outside-battle-ride-trainer-team-star-navi",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Cyclizar-Bonus-OutsideBattle-Ride-Trainer-TeamStar-Navi-★",
+          "slug": "cyclizar-outside-battle-ride-trainer-team-star-navi",
+          "cssClass": ".pokesprite.pokemon.cyclizar-outside-battle-ride-trainer-team-star-navi.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Cyclizar-Bonus-OutsideBattle-Ride-Trainer-TeamStar-Navi-3DS",
+          "slug": "cyclizar-outside-battle-ride-trainer-team-star-navi",
+          "cssClass": ".pokesprite.pokemon.cyclizar-outside-battle-ride-trainer-team-star-navi.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Cyclizar-Bonus-OutsideBattle-Ride-Trainer-TeamStar-Navi-3DS-★",
+          "slug": "cyclizar-outside-battle-ride-trainer-team-star-navi",
+          "cssClass": ".pokesprite.pokemon.cyclizar-outside-battle-ride-trainer-team-star-navi.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Cyclizar-Bonus-OutsideBattle-Ride-Trainer-TeamStar-Ruchbah",
+          "slug": "cyclizar-outside-battle-ride-trainer-team-star-ruchbah",
+          "cssClass": ".pokesprite.pokemon.cyclizar-outside-battle-ride-trainer-team-star-ruchbah",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Cyclizar-Bonus-OutsideBattle-Ride-Trainer-TeamStar-Ruchbah-★",
+          "slug": "cyclizar-outside-battle-ride-trainer-team-star-ruchbah",
+          "cssClass": ".pokesprite.pokemon.cyclizar-outside-battle-ride-trainer-team-star-ruchbah.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Cyclizar-Bonus-OutsideBattle-Ride-Trainer-TeamStar-Ruchbah-3DS",
+          "slug": "cyclizar-outside-battle-ride-trainer-team-star-ruchbah",
+          "cssClass": ".pokesprite.pokemon.cyclizar-outside-battle-ride-trainer-team-star-ruchbah.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Cyclizar-Bonus-OutsideBattle-Ride-Trainer-TeamStar-Ruchbah-3DS-★",
+          "slug": "cyclizar-outside-battle-ride-trainer-team-star-ruchbah",
+          "cssClass": ".pokesprite.pokemon.cyclizar-outside-battle-ride-trainer-team-star-ruchbah.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Cyclizar-Bonus-OutsideBattle-Ride-Trainer-TeamStar-Schedar",
+          "slug": "cyclizar-outside-battle-ride-trainer-team-star-schedar",
+          "cssClass": ".pokesprite.pokemon.cyclizar-outside-battle-ride-trainer-team-star-schedar",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Cyclizar-Bonus-OutsideBattle-Ride-Trainer-TeamStar-Schedar-★",
+          "slug": "cyclizar-outside-battle-ride-trainer-team-star-schedar",
+          "cssClass": ".pokesprite.pokemon.cyclizar-outside-battle-ride-trainer-team-star-schedar.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Cyclizar-Bonus-OutsideBattle-Ride-Trainer-TeamStar-Schedar-3DS",
+          "slug": "cyclizar-outside-battle-ride-trainer-team-star-schedar",
+          "cssClass": ".pokesprite.pokemon.cyclizar-outside-battle-ride-trainer-team-star-schedar.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Cyclizar-Bonus-OutsideBattle-Ride-Trainer-TeamStar-Schedar-3DS-★",
+          "slug": "cyclizar-outside-battle-ride-trainer-team-star-schedar",
+          "cssClass": ".pokesprite.pokemon.cyclizar-outside-battle-ride-trainer-team-star-schedar.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Cyclizar-Bonus-OutsideBattle-Ride-Trainer-TeamStar-Segin",
+          "slug": "cyclizar-outside-battle-ride-trainer-team-star-segin",
+          "cssClass": ".pokesprite.pokemon.cyclizar-outside-battle-ride-trainer-team-star-segin",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Cyclizar-Bonus-OutsideBattle-Ride-Trainer-TeamStar-Segin-★",
+          "slug": "cyclizar-outside-battle-ride-trainer-team-star-segin",
+          "cssClass": ".pokesprite.pokemon.cyclizar-outside-battle-ride-trainer-team-star-segin.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Cyclizar-Bonus-OutsideBattle-Ride-Trainer-TeamStar-Segin-3DS",
+          "slug": "cyclizar-outside-battle-ride-trainer-team-star-segin",
+          "cssClass": ".pokesprite.pokemon.cyclizar-outside-battle-ride-trainer-team-star-segin.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Cyclizar-Bonus-OutsideBattle-Ride-Trainer-TeamStar-Segin-3DS-★",
+          "slug": "cyclizar-outside-battle-ride-trainer-team-star-segin",
+          "cssClass": ".pokesprite.pokemon.cyclizar-outside-battle-ride-trainer-team-star-segin.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Cyclizar-Bonus-OutsideBattle-Ride-Trainer-Yellow",
+          "slug": "cyclizar-outside-battle-ride-trainer-yellow",
+          "cssClass": ".pokesprite.pokemon.cyclizar-outside-battle-ride-trainer-yellow",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Cyclizar-Bonus-OutsideBattle-Ride-Trainer-Yellow-★",
+          "slug": "cyclizar-outside-battle-ride-trainer-yellow",
+          "cssClass": ".pokesprite.pokemon.cyclizar-outside-battle-ride-trainer-yellow.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Cyclizar-Bonus-OutsideBattle-Ride-Trainer-Yellow-3DS",
+          "slug": "cyclizar-outside-battle-ride-trainer-yellow",
+          "cssClass": ".pokesprite.pokemon.cyclizar-outside-battle-ride-trainer-yellow.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Cyclizar-Bonus-OutsideBattle-Ride-Trainer-Yellow-3DS-★",
+          "slug": "cyclizar-outside-battle-ride-trainer-yellow",
+          "cssClass": ".pokesprite.pokemon.cyclizar-outside-battle-ride-trainer-yellow.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
