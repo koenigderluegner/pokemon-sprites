@@ -62117,6 +62117,31 @@
       },
       {
         "regular": {
+          "name": "Rotom-Bonus-Pokédex-Anime-UltraGuardians",
+          "slug": "rotom-pokedex-anime-ultra-guardians",
+          "cssClass": ".pokesprite.pokemon.rotom-pokedex-anime-ultra-guardians",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": null
+      },
+      {
+        "regular": {
+          "name": "Rotom-Bonus-Pokédex-Anime-UltraGuardians-3DS",
+          "slug": "rotom-pokedex-anime-ultra-guardians",
+          "cssClass": ".pokesprite.pokemon.rotom-pokedex-anime-ultra-guardians.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": null
+      },
+      {
+        "regular": {
           "name": "Rotom-Bonus-Rotomi",
           "slug": "rotom-rotomi",
           "cssClass": ".pokesprite.pokemon.rotom-rotomi",
@@ -81396,21 +81421,6 @@
       },
       {
         "regular": {
-          "name": "Rowlet-RumbleRush-FestiveHat",
-          "slug": "rowlet-rumble-rush-festive-hat",
-          "cssClass": ".pokesprite.pokemon.rowlet-rumble-rush-festive-hat"
-        },
-        "shiny": {
-          "name": "Rowlet-RumbleRush-FestiveHat-★",
-          "slug": "rowlet-rumble-rush-festive-hat",
-          "cssClass": ".pokesprite.pokemon.rowlet-rumble-rush-festive-hat.shiny",
-          "modifiers": [
-            "shiny"
-          ]
-        }
-      },
-      {
-        "regular": {
           "name": "Rowlet-GO-Halloween",
           "slug": "rowlet-halloween",
           "cssClass": ".pokesprite.pokemon.rowlet-halloween",
@@ -81443,6 +81453,48 @@
           "name": "Rowlet-Bonus-Anime-Ash-SM132-★",
           "slug": "rowlet-anime-ash-sm132",
           "cssClass": ".pokesprite.pokemon.rowlet-anime-ash-sm132.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Rowlet-Bonus-Anime-Ash-UltraGuardians",
+          "slug": "rowlet-anime-ash-ultra-guardians",
+          "cssClass": ".pokesprite.pokemon.rowlet-anime-ash-ultra-guardians",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Rowlet-Bonus-Anime-Ash-UltraGuardians-★",
+          "slug": "rowlet-anime-ash-ultra-guardians",
+          "cssClass": ".pokesprite.pokemon.rowlet-anime-ash-ultra-guardians.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Rowlet-Bonus-RumbleRush-FestiveHat",
+          "slug": "rowlet-rumble-rush-festive-hat",
+          "cssClass": ".pokesprite.pokemon.rowlet-rumble-rush-festive-hat",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Rowlet-Bonus-RumbleRush-FestiveHat-★",
+          "slug": "rowlet-rumble-rush-festive-hat",
+          "cssClass": ".pokesprite.pokemon.rowlet-rumble-rush-festive-hat.shiny",
           "modifiers": [
             "shiny"
           ],
@@ -81724,21 +81776,6 @@
       },
       {
         "regular": {
-          "name": "Litten-RumbleRush-FestiveHat",
-          "slug": "litten-rumble-rush-festive-hat",
-          "cssClass": ".pokesprite.pokemon.litten-rumble-rush-festive-hat"
-        },
-        "shiny": {
-          "name": "Litten-RumbleRush-FestiveHat-★",
-          "slug": "litten-rumble-rush-festive-hat",
-          "cssClass": ".pokesprite.pokemon.litten-rumble-rush-festive-hat.shiny",
-          "modifiers": [
-            "shiny"
-          ]
-        }
-      },
-      {
-        "regular": {
           "name": "Litten-RumbleRush-FestiveHat-3DS",
           "slug": "litten-rumble-rush-festive-hat",
           "cssClass": ".pokesprite.pokemon.litten-rumble-rush-festive-hat.n3ds",
@@ -81753,6 +81790,73 @@
           "modifiers": [
             "shiny",
             "n3ds"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Litten-Bonus-Anime-Ash-UltraGuardians",
+          "slug": "litten-anime-ash-ultra-guardians",
+          "cssClass": ".pokesprite.pokemon.litten-anime-ash-ultra-guardians",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Litten-Bonus-Anime-Ash-UltraGuardians-★",
+          "slug": "litten-anime-ash-ultra-guardians",
+          "cssClass": ".pokesprite.pokemon.litten-anime-ash-ultra-guardians.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Litten-Bonus-Anime-Ash-UltraGuardians-3DS",
+          "slug": "litten-anime-ash-ultra-guardians",
+          "cssClass": ".pokesprite.pokemon.litten-anime-ash-ultra-guardians.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Litten-Bonus-Anime-Ash-UltraGuardians-3DS-★",
+          "slug": "litten-anime-ash-ultra-guardians",
+          "cssClass": ".pokesprite.pokemon.litten-anime-ash-ultra-guardians.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Litten-Bonus-RumbleRush-FestiveHat",
+          "slug": "litten-rumble-rush-festive-hat",
+          "cssClass": ".pokesprite.pokemon.litten-rumble-rush-festive-hat",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Litten-Bonus-RumbleRush-FestiveHat-★",
+          "slug": "litten-rumble-rush-festive-hat",
+          "cssClass": ".pokesprite.pokemon.litten-rumble-rush-festive-hat.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
           ]
         }
       }
@@ -81793,6 +81897,52 @@
           "modifiers": [
             "n3ds",
             "shiny"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Torracat-Bonus-Anime-Ash-UltraGuardians",
+          "slug": "torracat-anime-ash-ultra-guardians",
+          "cssClass": ".pokesprite.pokemon.torracat-anime-ash-ultra-guardians",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Torracat-Bonus-Anime-Ash-UltraGuardians-★",
+          "slug": "torracat-anime-ash-ultra-guardians",
+          "cssClass": ".pokesprite.pokemon.torracat-anime-ash-ultra-guardians.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Torracat-Bonus-Anime-Ash-UltraGuardians-3DS",
+          "slug": "torracat-anime-ash-ultra-guardians",
+          "cssClass": ".pokesprite.pokemon.torracat-anime-ash-ultra-guardians.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Torracat-Bonus-Anime-Ash-UltraGuardians-3DS-★",
+          "slug": "torracat-anime-ash-ultra-guardians",
+          "cssClass": ".pokesprite.pokemon.torracat-anime-ash-ultra-guardians.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
           ]
         }
       }
@@ -82009,16 +82159,33 @@
       },
       {
         "regular": {
-          "name": "Popplio-RumbleRush-FestiveHat",
+          "name": "Popplio-Bonus-Anime-Lana-UltraGuardians",
+          "slug": "popplio-anime-lana-ultra-guardians",
+          "cssClass": ".pokesprite.pokemon.popplio-anime-lana-ultra-guardians",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": null
+      },
+      {
+        "regular": {
+          "name": "Popplio-Bonus-RumbleRush-FestiveHat",
           "slug": "popplio-rumble-rush-festive-hat",
-          "cssClass": ".pokesprite.pokemon.popplio-rumble-rush-festive-hat"
+          "cssClass": ".pokesprite.pokemon.popplio-rumble-rush-festive-hat",
+          "categories": [
+            "bonus"
+          ]
         },
         "shiny": {
-          "name": "Popplio-RumbleRush-FestiveHat-★",
+          "name": "Popplio-Bonus-RumbleRush-FestiveHat-★",
           "slug": "popplio-rumble-rush-festive-hat",
           "cssClass": ".pokesprite.pokemon.popplio-rumble-rush-festive-hat.shiny",
           "modifiers": [
             "shiny"
+          ],
+          "categories": [
+            "bonus"
           ]
         }
       }
@@ -82061,6 +82228,52 @@
             "shiny"
           ]
         }
+      },
+      {
+        "regular": {
+          "name": "Brionne-Bonus-Anime-Lana-UltraGuardians",
+          "slug": "brionne-anime-lana-ultra-guardians",
+          "cssClass": ".pokesprite.pokemon.brionne-anime-lana-ultra-guardians",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Brionne-Bonus-Anime-Lana-UltraGuardians-★",
+          "slug": "brionne-anime-lana-ultra-guardians",
+          "cssClass": ".pokesprite.pokemon.brionne-anime-lana-ultra-guardians.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Brionne-Bonus-Anime-Lana-UltraGuardians-3DS",
+          "slug": "brionne-anime-lana-ultra-guardians",
+          "cssClass": ".pokesprite.pokemon.brionne-anime-lana-ultra-guardians.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Brionne-Bonus-Anime-Lana-UltraGuardians-3DS-★",
+          "slug": "brionne-anime-lana-ultra-guardians",
+          "cssClass": ".pokesprite.pokemon.brionne-anime-lana-ultra-guardians.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       }
     ]
   },
@@ -82099,6 +82312,52 @@
           "modifiers": [
             "n3ds",
             "shiny"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Primarina-Bonus-Anime-Lana-UltraGuardians",
+          "slug": "primarina-anime-lana-ultra-guardians",
+          "cssClass": ".pokesprite.pokemon.primarina-anime-lana-ultra-guardians",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Primarina-Bonus-Anime-Lana-UltraGuardians-★",
+          "slug": "primarina-anime-lana-ultra-guardians",
+          "cssClass": ".pokesprite.pokemon.primarina-anime-lana-ultra-guardians.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Primarina-Bonus-Anime-Lana-UltraGuardians-3DS",
+          "slug": "primarina-anime-lana-ultra-guardians",
+          "cssClass": ".pokesprite.pokemon.primarina-anime-lana-ultra-guardians.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Primarina-Bonus-Anime-Lana-UltraGuardians-3DS-★",
+          "slug": "primarina-anime-lana-ultra-guardians",
+          "cssClass": ".pokesprite.pokemon.primarina-anime-lana-ultra-guardians.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
           ]
         }
       }
