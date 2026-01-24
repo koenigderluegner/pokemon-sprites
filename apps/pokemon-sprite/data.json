@@ -13634,6 +13634,98 @@
       },
       {
         "regular": {
+          "name": "Pikachu-Bonus-Anime-Pikala-Bolt",
+          "slug": "pikachu-anime-pikala-bolt",
+          "cssClass": ".pokesprite.pokemon.pikachu-anime-pikala-bolt",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Pikachu-Bonus-Anime-Pikala-Bolt-★",
+          "slug": "pikachu-anime-pikala-bolt",
+          "cssClass": ".pokesprite.pokemon.pikachu-anime-pikala-bolt.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Pikachu-Bonus-Anime-Pikala-Bolt-3DS",
+          "slug": "pikachu-anime-pikala-bolt",
+          "cssClass": ".pokesprite.pokemon.pikachu-anime-pikala-bolt.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Pikachu-Bonus-Anime-Pikala-Bolt-3DS-★",
+          "slug": "pikachu-anime-pikala-bolt",
+          "cssClass": ".pokesprite.pokemon.pikachu-anime-pikala-bolt.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Pikachu-Bonus-Anime-Pikala-Bolt-F",
+          "slug": "pikachu-anime-pikala-bolt-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-anime-pikala-bolt-f",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Pikachu-Bonus-Anime-Pikala-Bolt-F-★",
+          "slug": "pikachu-anime-pikala-bolt-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-anime-pikala-bolt-f.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Pikachu-Bonus-Anime-Pikala-Bolt-F-3DS",
+          "slug": "pikachu-anime-pikala-bolt-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-anime-pikala-bolt-f.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Pikachu-Bonus-Anime-Pikala-Bolt-F-3DS-★",
+          "slug": "pikachu-anime-pikala-bolt-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-anime-pikala-bolt-f.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
           "name": "Pikachu-Bonus-Anime-Sparky",
           "slug": "pikachu-anime-sparky",
           "cssClass": ".pokesprite.pokemon.pikachu-anime-sparky",
@@ -17755,6 +17847,52 @@
       },
       {
         "regular": {
+          "name": "Jigglypuff-Bonus-Anime-EP045",
+          "slug": "jigglypuff-anime-ep045",
+          "cssClass": ".pokesprite.pokemon.jigglypuff-anime-ep045",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Jigglypuff-Bonus-Anime-EP045-★",
+          "slug": "jigglypuff-anime-ep045",
+          "cssClass": ".pokesprite.pokemon.jigglypuff-anime-ep045.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Jigglypuff-Bonus-Anime-EP045-3DS",
+          "slug": "jigglypuff-anime-ep045",
+          "cssClass": ".pokesprite.pokemon.jigglypuff-anime-ep045.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Jigglypuff-Bonus-Anime-EP045-3DS-★",
+          "slug": "jigglypuff-anime-ep045",
+          "cssClass": ".pokesprite.pokemon.jigglypuff-anime-ep045.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
           "name": "Jigglypuff-Bonus-Anime-Giant",
           "slug": "jigglypuff-anime-giant",
           "cssClass": ".pokesprite.pokemon.jigglypuff-anime-giant",
@@ -17814,6 +17952,52 @@
           "cssClass": ".pokesprite.pokemon.jigglypuff-anime-giant-optional.shiny",
           "modifiers": [
             "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Jigglypuff-Bonus-Anime-Marina",
+          "slug": "jigglypuff-anime-marina",
+          "cssClass": ".pokesprite.pokemon.jigglypuff-anime-marina",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Jigglypuff-Bonus-Anime-Marina-★",
+          "slug": "jigglypuff-anime-marina",
+          "cssClass": ".pokesprite.pokemon.jigglypuff-anime-marina.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Jigglypuff-Bonus-Anime-Marina-3DS",
+          "slug": "jigglypuff-anime-marina",
+          "cssClass": ".pokesprite.pokemon.jigglypuff-anime-marina.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Jigglypuff-Bonus-Anime-Marina-3DS-★",
+          "slug": "jigglypuff-anime-marina",
+          "cssClass": ".pokesprite.pokemon.jigglypuff-anime-marina.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
           ],
           "categories": [
             "bonus"
