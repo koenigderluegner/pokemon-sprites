@@ -49054,6 +49054,52 @@
             "shiny"
           ]
         }
+      },
+      {
+        "regular": {
+          "name": "Hariyama-Bonus-Anime-MalieCity",
+          "slug": "hariyama-anime-malie-city",
+          "cssClass": ".pokesprite.pokemon.hariyama-anime-malie-city",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Hariyama-Bonus-Anime-MalieCity-★",
+          "slug": "hariyama-anime-malie-city",
+          "cssClass": ".pokesprite.pokemon.hariyama-anime-malie-city.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Hariyama-Bonus-Anime-MalieCity-3DS",
+          "slug": "hariyama-anime-malie-city",
+          "cssClass": ".pokesprite.pokemon.hariyama-anime-malie-city.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Hariyama-Bonus-Anime-MalieCity-3DS-★",
+          "slug": "hariyama-anime-malie-city",
+          "cssClass": ".pokesprite.pokemon.hariyama-anime-malie-city.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       }
     ]
   },
@@ -62325,6 +62371,52 @@
           "modifiers": [
             "shiny",
             "n3ds"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Froslass-Bonus-Anime-MalieCity",
+          "slug": "froslass-anime-malie-city",
+          "cssClass": ".pokesprite.pokemon.froslass-anime-malie-city",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Froslass-Bonus-Anime-MalieCity-★",
+          "slug": "froslass-anime-malie-city",
+          "cssClass": ".pokesprite.pokemon.froslass-anime-malie-city.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Froslass-Bonus-Anime-MalieCity-3DS",
+          "slug": "froslass-anime-malie-city",
+          "cssClass": ".pokesprite.pokemon.froslass-anime-malie-city.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Froslass-Bonus-Anime-MalieCity-3DS-★",
+          "slug": "froslass-anime-malie-city",
+          "cssClass": ".pokesprite.pokemon.froslass-anime-malie-city.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
           ]
         }
       }
@@ -85188,6 +85280,52 @@
           "name": "Passimian-Bonus-Anime-BlueOceans-3DS-★",
           "slug": "passimian-anime-blue-oceans",
           "cssClass": ".pokesprite.pokemon.passimian-anime-blue-oceans.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Passimian-Bonus-Anime-MalieCity",
+          "slug": "passimian-anime-malie-city",
+          "cssClass": ".pokesprite.pokemon.passimian-anime-malie-city",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Passimian-Bonus-Anime-MalieCity-★",
+          "slug": "passimian-anime-malie-city",
+          "cssClass": ".pokesprite.pokemon.passimian-anime-malie-city.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Passimian-Bonus-Anime-MalieCity-3DS",
+          "slug": "passimian-anime-malie-city",
+          "cssClass": ".pokesprite.pokemon.passimian-anime-malie-city.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Passimian-Bonus-Anime-MalieCity-3DS-★",
+          "slug": "passimian-anime-malie-city",
+          "cssClass": ".pokesprite.pokemon.passimian-anime-malie-city.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
