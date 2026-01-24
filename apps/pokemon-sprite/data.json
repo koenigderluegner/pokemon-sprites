@@ -17712,17 +17712,17 @@
       },
       {
         "regular": {
-          "name": "Vulpix-Alola-Bonus-Anime-Lillie-UltraGaurdians",
-          "slug": "vulpix-alola-anime-lillie-ultra-gaurdians",
-          "cssClass": ".pokesprite.pokemon.vulpix-alola-anime-lillie-ultra-gaurdians",
+          "name": "Vulpix-Alola-Bonus-Anime-Snowy-UltraGaurdians",
+          "slug": "vulpix-alola-anime-snowy-ultra-gaurdians",
+          "cssClass": ".pokesprite.pokemon.vulpix-alola-anime-snowy-ultra-gaurdians",
           "categories": [
             "bonus"
           ]
         },
         "shiny": {
-          "name": "Vulpix-Alola-Bonus-Anime-Lillie-UltraGaurdians-★",
-          "slug": "vulpix-alola-anime-lillie-ultra-gaurdians",
-          "cssClass": ".pokesprite.pokemon.vulpix-alola-anime-lillie-ultra-gaurdians.shiny",
+          "name": "Vulpix-Alola-Bonus-Anime-Snowy-UltraGaurdians-★",
+          "slug": "vulpix-alola-anime-snowy-ultra-gaurdians",
+          "cssClass": ".pokesprite.pokemon.vulpix-alola-anime-snowy-ultra-gaurdians.shiny",
           "modifiers": [
             "shiny"
           ],
@@ -19914,6 +19914,27 @@
           "modifiers": [
             "shiny",
             "n3ds"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Meowth-Bonus-Anime-TeamRocket-EP087",
+          "slug": "meowth-anime-team-rocket-ep087",
+          "cssClass": ".pokesprite.pokemon.meowth-anime-team-rocket-ep087",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Meowth-Bonus-Anime-TeamRocket-EP087-★",
+          "slug": "meowth-anime-team-rocket-ep087",
+          "cssClass": ".pokesprite.pokemon.meowth-anime-team-rocket-ep087.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
           ]
         }
       },
@@ -34222,6 +34243,52 @@
       },
       {
         "regular": {
+          "name": "Mewtwo-Bonus-Anime-Movie01-Armor",
+          "slug": "mewtwo-anime-movie01-armor",
+          "cssClass": ".pokesprite.pokemon.mewtwo-anime-movie01-armor",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Mewtwo-Bonus-Anime-Movie01-Armor-★",
+          "slug": "mewtwo-anime-movie01-armor",
+          "cssClass": ".pokesprite.pokemon.mewtwo-anime-movie01-armor.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Mewtwo-Bonus-Anime-Movie01-Armor-3DS",
+          "slug": "mewtwo-anime-movie01-armor",
+          "cssClass": ".pokesprite.pokemon.mewtwo-anime-movie01-armor.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Mewtwo-Bonus-Anime-Movie01-Armor-3DS-★",
+          "slug": "mewtwo-anime-movie01-armor",
+          "cssClass": ".pokesprite.pokemon.mewtwo-anime-movie01-armor.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
           "name": "Mewtwo-Bonus-Pokken",
           "slug": "mewtwo-pokken",
           "cssClass": ".pokesprite.pokemon.mewtwo-pokken",
@@ -45294,6 +45361,77 @@
           "name": "Tyranitar-Bonus-Anime-Movie08-GreenArmy-Switch-SwSh-★",
           "slug": "tyranitar-anime-movie08-green-army-sw-sh",
           "cssClass": ".pokesprite.pokemon.tyranitar-anime-movie08-green-army-sw-sh.shiny.switch",
+          "modifiers": [
+            "shiny",
+            "switch"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Tyranitar-Bonus-Manga-Black",
+          "slug": "tyranitar-manga-black",
+          "cssClass": ".pokesprite.pokemon.tyranitar-manga-black",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Tyranitar-Bonus-Manga-Black-★",
+          "slug": "tyranitar-manga-black",
+          "cssClass": ".pokesprite.pokemon.tyranitar-manga-black.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Tyranitar-Bonus-Manga-Black-3DS",
+          "slug": "tyranitar-manga-black",
+          "cssClass": ".pokesprite.pokemon.tyranitar-manga-black.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Tyranitar-Bonus-Manga-Black-3DS-★",
+          "slug": "tyranitar-manga-black",
+          "cssClass": ".pokesprite.pokemon.tyranitar-manga-black.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Tyranitar-Bonus-Manga-Black-Switch-SwSh",
+          "slug": "tyranitar-manga-black-sw-sh",
+          "cssClass": ".pokesprite.pokemon.tyranitar-manga-black-sw-sh.switch",
+          "modifiers": [
+            "switch"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Tyranitar-Bonus-Manga-Black-Switch-SwSh-★",
+          "slug": "tyranitar-manga-black-sw-sh",
+          "cssClass": ".pokesprite.pokemon.tyranitar-manga-black-sw-sh.shiny.switch",
           "modifiers": [
             "shiny",
             "switch"
@@ -82629,6 +82767,52 @@
             "go"
           ]
         }
+      },
+      {
+        "regular": {
+          "name": "Charjabug-Bonus-Anime-Sophocles-UltraGuardians",
+          "slug": "charjabug-anime-sophocles-ultra-guardians",
+          "cssClass": ".pokesprite.pokemon.charjabug-anime-sophocles-ultra-guardians",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Charjabug-Bonus-Anime-Sophocles-UltraGuardians-★",
+          "slug": "charjabug-anime-sophocles-ultra-guardians",
+          "cssClass": ".pokesprite.pokemon.charjabug-anime-sophocles-ultra-guardians.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Charjabug-Bonus-Anime-Sophocles-UltraGuardians-3DS",
+          "slug": "charjabug-anime-sophocles-ultra-guardians",
+          "cssClass": ".pokesprite.pokemon.charjabug-anime-sophocles-ultra-guardians.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Charjabug-Bonus-Anime-Sophocles-UltraGuardians-3DS-★",
+          "slug": "charjabug-anime-sophocles-ultra-guardians",
+          "cssClass": ".pokesprite.pokemon.charjabug-anime-sophocles-ultra-guardians.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       }
     ]
   },
@@ -82713,6 +82897,52 @@
           ],
           "categories": [
             "go"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Vikavolt-Bonus-Anime-Sophocles-UltraGuardians",
+          "slug": "vikavolt-anime-sophocles-ultra-guardians",
+          "cssClass": ".pokesprite.pokemon.vikavolt-anime-sophocles-ultra-guardians",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Vikavolt-Bonus-Anime-Sophocles-UltraGuardians-★",
+          "slug": "vikavolt-anime-sophocles-ultra-guardians",
+          "cssClass": ".pokesprite.pokemon.vikavolt-anime-sophocles-ultra-guardians.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Vikavolt-Bonus-Anime-Sophocles-UltraGuardians-3DS",
+          "slug": "vikavolt-anime-sophocles-ultra-guardians",
+          "cssClass": ".pokesprite.pokemon.vikavolt-anime-sophocles-ultra-guardians.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Vikavolt-Bonus-Anime-Sophocles-UltraGuardians-3DS-★",
+          "slug": "vikavolt-anime-sophocles-ultra-guardians",
+          "cssClass": ".pokesprite.pokemon.vikavolt-anime-sophocles-ultra-guardians.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
           ]
         }
       }
