@@ -50113,6 +50113,52 @@
             "shiny"
           ]
         }
+      },
+      {
+        "regular": {
+          "name": "Volbeat-Bonus-Anime-Romeo",
+          "slug": "volbeat-anime-romeo",
+          "cssClass": ".pokesprite.pokemon.volbeat-anime-romeo",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Volbeat-Bonus-Anime-Romeo-★",
+          "slug": "volbeat-anime-romeo",
+          "cssClass": ".pokesprite.pokemon.volbeat-anime-romeo.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Volbeat-Bonus-Anime-Romeo-3DS",
+          "slug": "volbeat-anime-romeo",
+          "cssClass": ".pokesprite.pokemon.volbeat-anime-romeo.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Volbeat-Bonus-Anime-Romeo-3DS-★",
+          "slug": "volbeat-anime-romeo",
+          "cssClass": ".pokesprite.pokemon.volbeat-anime-romeo.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       }
     ]
   },
@@ -50151,6 +50197,52 @@
           "modifiers": [
             "n3ds",
             "shiny"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Illumise-Bonus-Anime-Juliet",
+          "slug": "illumise-anime-juliet",
+          "cssClass": ".pokesprite.pokemon.illumise-anime-juliet",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Illumise-Bonus-Anime-Juliet-★",
+          "slug": "illumise-anime-juliet",
+          "cssClass": ".pokesprite.pokemon.illumise-anime-juliet.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Illumise-Bonus-Anime-Juliet-3DS",
+          "slug": "illumise-anime-juliet",
+          "cssClass": ".pokesprite.pokemon.illumise-anime-juliet.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Illumise-Bonus-Anime-Juliet-3DS-★",
+          "slug": "illumise-anime-juliet",
+          "cssClass": ".pokesprite.pokemon.illumise-anime-juliet.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
           ]
         }
       }
@@ -73153,6 +73245,52 @@
             "shiny"
           ]
         }
+      },
+      {
+        "regular": {
+          "name": "Golett-Bonus-Anime-Luke",
+          "slug": "golett-anime-luke",
+          "cssClass": ".pokesprite.pokemon.golett-anime-luke",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Golett-Bonus-Anime-Luke-★",
+          "slug": "golett-anime-luke",
+          "cssClass": ".pokesprite.pokemon.golett-anime-luke.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Golett-Bonus-Anime-Luke-3DS",
+          "slug": "golett-anime-luke",
+          "cssClass": ".pokesprite.pokemon.golett-anime-luke.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Golett-Bonus-Anime-Luke-3DS-★",
+          "slug": "golett-anime-luke",
+          "cssClass": ".pokesprite.pokemon.golett-anime-luke.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       }
     ]
   },
@@ -82639,7 +82777,17 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Popplio-Bonus-Anime-Lana-UltraGuardians-★",
+          "slug": "popplio-anime-lana-ultra-guardians",
+          "cssClass": ".pokesprite.pokemon.popplio-anime-lana-ultra-guardians.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
