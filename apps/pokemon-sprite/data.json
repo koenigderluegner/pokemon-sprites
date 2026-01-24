@@ -45618,6 +45618,40 @@
             "shiny"
           ]
         }
+      },
+      {
+        "regular": {
+          "name": "Celebi-Anime-Movie04-Dark",
+          "slug": "celebi-anime-movie04-dark",
+          "cssClass": ".pokesprite.pokemon.celebi-anime-movie04-dark"
+        },
+        "shiny": {
+          "name": "Celebi-Anime-Movie04-Dark-★",
+          "slug": "celebi-anime-movie04-dark",
+          "cssClass": ".pokesprite.pokemon.celebi-anime-movie04-dark.shiny",
+          "modifiers": [
+            "shiny"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Celebi-Anime-Movie04-Dark-3DS",
+          "slug": "celebi-anime-movie04-dark",
+          "cssClass": ".pokesprite.pokemon.celebi-anime-movie04-dark.n3ds",
+          "modifiers": [
+            "n3ds"
+          ]
+        },
+        "shiny": {
+          "name": "Celebi-Anime-Movie04-Dark-3DS-★",
+          "slug": "celebi-anime-movie04-dark",
+          "cssClass": ".pokesprite.pokemon.celebi-anime-movie04-dark.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ]
+        }
       }
     ]
   },
@@ -83459,6 +83493,98 @@
             "n3ds"
           ]
         }
+      },
+      {
+        "regular": {
+          "name": "Lycanroc-Dusk-Bonus-Anime-Ash-UltraGaurdians",
+          "slug": "lycanroc-dusk-anime-ash-ultra-gaurdians",
+          "cssClass": ".pokesprite.pokemon.lycanroc-dusk-anime-ash-ultra-gaurdians",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Lycanroc-Dusk-Bonus-Anime-Ash-UltraGaurdians-★",
+          "slug": "lycanroc-dusk-anime-ash-ultra-gaurdians",
+          "cssClass": ".pokesprite.pokemon.lycanroc-dusk-anime-ash-ultra-gaurdians.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Lycanroc-Dusk-Bonus-Anime-Ash-UltraGaurdians-3DS",
+          "slug": "lycanroc-dusk-anime-ash-ultra-gaurdians",
+          "cssClass": ".pokesprite.pokemon.lycanroc-dusk-anime-ash-ultra-gaurdians.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Lycanroc-Dusk-Bonus-Anime-Ash-UltraGaurdians-3DS-★",
+          "slug": "lycanroc-dusk-anime-ash-ultra-gaurdians",
+          "cssClass": ".pokesprite.pokemon.lycanroc-dusk-anime-ash-ultra-gaurdians.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Lycanroc-Midnight-Bonus-Anime-Gladion-UltraGaurdians",
+          "slug": "lycanroc-midnight-anime-gladion-ultra-gaurdians",
+          "cssClass": ".pokesprite.pokemon.lycanroc-midnight-anime-gladion-ultra-gaurdians",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Lycanroc-Midnight-Bonus-Anime-Gladion-UltraGaurdians-★",
+          "slug": "lycanroc-midnight-anime-gladion-ultra-gaurdians",
+          "cssClass": ".pokesprite.pokemon.lycanroc-midnight-anime-gladion-ultra-gaurdians.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Lycanroc-Midnight-Bonus-Anime-Gladion-UltraGaurdians-3DS",
+          "slug": "lycanroc-midnight-anime-gladion-ultra-gaurdians",
+          "cssClass": ".pokesprite.pokemon.lycanroc-midnight-anime-gladion-ultra-gaurdians.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Lycanroc-Midnight-Bonus-Anime-Gladion-UltraGaurdians-3DS-★",
+          "slug": "lycanroc-midnight-anime-gladion-ultra-gaurdians",
+          "cssClass": ".pokesprite.pokemon.lycanroc-midnight-anime-gladion-ultra-gaurdians.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       }
     ]
   },
@@ -84277,6 +84403,52 @@
             "shiny"
           ]
         }
+      },
+      {
+        "regular": {
+          "name": "Steenee-Bonus-Anime-Mallow-UltraGaurdians",
+          "slug": "steenee-anime-mallow-ultra-gaurdians",
+          "cssClass": ".pokesprite.pokemon.steenee-anime-mallow-ultra-gaurdians",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Steenee-Bonus-Anime-Mallow-UltraGaurdians-★",
+          "slug": "steenee-anime-mallow-ultra-gaurdians",
+          "cssClass": ".pokesprite.pokemon.steenee-anime-mallow-ultra-gaurdians.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Steenee-Bonus-Anime-Mallow-UltraGaurdians-3DS",
+          "slug": "steenee-anime-mallow-ultra-gaurdians",
+          "cssClass": ".pokesprite.pokemon.steenee-anime-mallow-ultra-gaurdians.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Steenee-Bonus-Anime-Mallow-UltraGaurdians-3DS-★",
+          "slug": "steenee-anime-mallow-ultra-gaurdians",
+          "cssClass": ".pokesprite.pokemon.steenee-anime-mallow-ultra-gaurdians.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       }
     ]
   },
@@ -84315,6 +84487,52 @@
           "modifiers": [
             "n3ds",
             "shiny"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Tsareena-Bonus-Anime-Mallow-UltraGaurdians",
+          "slug": "tsareena-anime-mallow-ultra-gaurdians",
+          "cssClass": ".pokesprite.pokemon.tsareena-anime-mallow-ultra-gaurdians",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Tsareena-Bonus-Anime-Mallow-UltraGaurdians-★",
+          "slug": "tsareena-anime-mallow-ultra-gaurdians",
+          "cssClass": ".pokesprite.pokemon.tsareena-anime-mallow-ultra-gaurdians.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Tsareena-Bonus-Anime-Mallow-UltraGaurdians-3DS",
+          "slug": "tsareena-anime-mallow-ultra-gaurdians",
+          "cssClass": ".pokesprite.pokemon.tsareena-anime-mallow-ultra-gaurdians.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Tsareena-Bonus-Anime-Mallow-UltraGaurdians-3DS-★",
+          "slug": "tsareena-anime-mallow-ultra-gaurdians",
+          "cssClass": ".pokesprite.pokemon.tsareena-anime-mallow-ultra-gaurdians.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
           ]
         }
       }
@@ -85997,6 +86215,77 @@
             "n3ds"
           ]
         }
+      },
+      {
+        "regular": {
+          "name": "Turtonator-Bonus-Anime-Kiawe-UltraGuardians",
+          "slug": "turtonator-anime-kiawe-ultra-guardians",
+          "cssClass": ".pokesprite.pokemon.turtonator-anime-kiawe-ultra-guardians",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Turtonator-Bonus-Anime-Kiawe-UltraGuardians-★",
+          "slug": "turtonator-anime-kiawe-ultra-guardians",
+          "cssClass": ".pokesprite.pokemon.turtonator-anime-kiawe-ultra-guardians.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Turtonator-Bonus-Anime-Kiawe-UltraGuardians-3DS-Optional",
+          "slug": "turtonator-anime-kiawe-ultra-guardians-optional",
+          "cssClass": ".pokesprite.pokemon.turtonator-anime-kiawe-ultra-guardians-optional.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Turtonator-Bonus-Anime-Kiawe-UltraGuardians-3DS-Optional-★",
+          "slug": "turtonator-anime-kiawe-ultra-guardians-optional",
+          "cssClass": ".pokesprite.pokemon.turtonator-anime-kiawe-ultra-guardians-optional.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Turtonator-Bonus-Anime-Kiawe-UltraGuardians-3DS-SM",
+          "slug": "turtonator-anime-kiawe-ultra-guardians-sm",
+          "cssClass": ".pokesprite.pokemon.turtonator-anime-kiawe-ultra-guardians-sm.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Turtonator-Bonus-Anime-Kiawe-UltraGuardians-3DS-SM-★",
+          "slug": "turtonator-anime-kiawe-ultra-guardians-sm",
+          "cssClass": ".pokesprite.pokemon.turtonator-anime-kiawe-ultra-guardians-sm.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       }
     ]
   },
@@ -86035,6 +86324,52 @@
           "modifiers": [
             "n3ds",
             "shiny"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Togedemaru-Bonus-Anime-Sophocles-UltraGuardians",
+          "slug": "togedemaru-anime-sophocles-ultra-guardians",
+          "cssClass": ".pokesprite.pokemon.togedemaru-anime-sophocles-ultra-guardians",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Togedemaru-Bonus-Anime-Sophocles-UltraGuardians-★",
+          "slug": "togedemaru-anime-sophocles-ultra-guardians",
+          "cssClass": ".pokesprite.pokemon.togedemaru-anime-sophocles-ultra-guardians.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Togedemaru-Bonus-Anime-Sophocles-UltraGuardians-3DS",
+          "slug": "togedemaru-anime-sophocles-ultra-guardians",
+          "cssClass": ".pokesprite.pokemon.togedemaru-anime-sophocles-ultra-guardians.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Togedemaru-Bonus-Anime-Sophocles-UltraGuardians-3DS-★",
+          "slug": "togedemaru-anime-sophocles-ultra-guardians",
+          "cssClass": ".pokesprite.pokemon.togedemaru-anime-sophocles-ultra-guardians.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
           ]
         }
       }
@@ -88515,6 +88850,52 @@
           "modifiers": [
             "shiny",
             "switch"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Scorbunny-Bonus-Anime-Goh-JN004",
+          "slug": "scorbunny-anime-goh-jn004",
+          "cssClass": ".pokesprite.pokemon.scorbunny-anime-goh-jn004",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Scorbunny-Bonus-Anime-Goh-JN004-★",
+          "slug": "scorbunny-anime-goh-jn004",
+          "cssClass": ".pokesprite.pokemon.scorbunny-anime-goh-jn004.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Scorbunny-Bonus-Anime-Goh-JN004-Switch-SwSh",
+          "slug": "scorbunny-anime-goh-jn004-sw-sh",
+          "cssClass": ".pokesprite.pokemon.scorbunny-anime-goh-jn004-sw-sh.switch",
+          "modifiers": [
+            "switch"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Scorbunny-Bonus-Anime-Goh-JN004-Switch-SwSh-★",
+          "slug": "scorbunny-anime-goh-jn004-sw-sh",
+          "cssClass": ".pokesprite.pokemon.scorbunny-anime-goh-jn004-sw-sh.shiny.switch",
+          "modifiers": [
+            "shiny",
+            "switch"
+          ],
+          "categories": [
+            "bonus"
           ]
         }
       }
