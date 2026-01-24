@@ -80321,6 +80321,52 @@
             "go"
           ]
         }
+      },
+      {
+        "regular": {
+          "name": "Noivern-Bonus-Anime-RidePager",
+          "slug": "noivern-anime-ride-pager",
+          "cssClass": ".pokesprite.pokemon.noivern-anime-ride-pager",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Noivern-Bonus-Anime-RidePager-★",
+          "slug": "noivern-anime-ride-pager",
+          "cssClass": ".pokesprite.pokemon.noivern-anime-ride-pager.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Noivern-Bonus-Anime-RidePager-3DS",
+          "slug": "noivern-anime-ride-pager",
+          "cssClass": ".pokesprite.pokemon.noivern-anime-ride-pager.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Noivern-Bonus-Anime-RidePager-3DS-★",
+          "slug": "noivern-anime-ride-pager",
+          "cssClass": ".pokesprite.pokemon.noivern-anime-ride-pager.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       }
     ]
   },
