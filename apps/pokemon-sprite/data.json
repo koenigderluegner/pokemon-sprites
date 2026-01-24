@@ -61456,6 +61456,206 @@
       },
       {
         "regular": {
+          "name": "Rotom-Bonus-Smartphone-Anime-Bea",
+          "slug": "rotom-smartphone-anime-bea",
+          "cssClass": ".pokesprite.pokemon.rotom-smartphone-anime-bea",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": null
+      },
+      {
+        "regular": {
+          "name": "Rotom-Bonus-Smartphone-Anime-Bea-3DS",
+          "slug": "rotom-smartphone-anime-bea",
+          "cssClass": ".pokesprite.pokemon.rotom-smartphone-anime-bea.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": null
+      },
+      {
+        "regular": {
+          "name": "Rotom-Bonus-Smartphone-Anime-Chloe",
+          "slug": "rotom-smartphone-anime-chloe",
+          "cssClass": ".pokesprite.pokemon.rotom-smartphone-anime-chloe",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": null
+      },
+      {
+        "regular": {
+          "name": "Rotom-Bonus-Smartphone-Anime-Chloe-3DS",
+          "slug": "rotom-smartphone-anime-chloe",
+          "cssClass": ".pokesprite.pokemon.rotom-smartphone-anime-chloe.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": null
+      },
+      {
+        "regular": {
+          "name": "Rotom-Bonus-Smartphone-Anime-ProfessorMagnolia",
+          "slug": "rotom-smartphone-anime-professor-magnolia",
+          "cssClass": ".pokesprite.pokemon.rotom-smartphone-anime-professor-magnolia",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": null
+      },
+      {
+        "regular": {
+          "name": "Rotom-Bonus-Smartphone-Anime-ProfessorMagnolia-3DS",
+          "slug": "rotom-smartphone-anime-professor-magnolia",
+          "cssClass": ".pokesprite.pokemon.rotom-smartphone-anime-professor-magnolia.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": null
+      },
+      {
+        "regular": {
+          "name": "Rotom-Bonus-Smartphone-Anime-Quillion",
+          "slug": "rotom-smartphone-anime-quillion",
+          "cssClass": ".pokesprite.pokemon.rotom-smartphone-anime-quillion",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": null
+      },
+      {
+        "regular": {
+          "name": "Rotom-Bonus-Smartphone-Anime-Quillion-3DS",
+          "slug": "rotom-smartphone-anime-quillion",
+          "cssClass": ".pokesprite.pokemon.rotom-smartphone-anime-quillion.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": null
+      },
+      {
+        "regular": {
+          "name": "Rotom-Bonus-Smartphone-Anime-Rinto",
+          "slug": "rotom-smartphone-anime-rinto",
+          "cssClass": ".pokesprite.pokemon.rotom-smartphone-anime-rinto",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": null
+      },
+      {
+        "regular": {
+          "name": "Rotom-Bonus-Smartphone-Anime-Rinto-3DS",
+          "slug": "rotom-smartphone-anime-rinto",
+          "cssClass": ".pokesprite.pokemon.rotom-smartphone-anime-rinto.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": null
+      },
+      {
+        "regular": {
+          "name": "Rotom-Bonus-Smartphone-Anime-ShaneSeeker",
+          "slug": "rotom-smartphone-anime-shane-seeker",
+          "cssClass": ".pokesprite.pokemon.rotom-smartphone-anime-shane-seeker",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": null
+      },
+      {
+        "regular": {
+          "name": "Rotom-Bonus-Smartphone-Anime-ShaneSeeker-3DS",
+          "slug": "rotom-smartphone-anime-shane-seeker",
+          "cssClass": ".pokesprite.pokemon.rotom-smartphone-anime-shane-seeker.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": null
+      },
+      {
+        "regular": {
+          "name": "Rotom-Bonus-Smartphone-Anime-TeamRocket",
+          "slug": "rotom-smartphone-anime-team-rocket",
+          "cssClass": ".pokesprite.pokemon.rotom-smartphone-anime-team-rocket",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": null
+      },
+      {
+        "regular": {
+          "name": "Rotom-Bonus-Smartphone-Anime-TeamRocket-3DS",
+          "slug": "rotom-smartphone-anime-team-rocket",
+          "cssClass": ".pokesprite.pokemon.rotom-smartphone-anime-team-rocket.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": null
+      },
+      {
+        "regular": {
+          "name": "Rotom-Bonus-Smartphone-Anime-Visquez",
+          "slug": "rotom-smartphone-anime-visquez",
+          "cssClass": ".pokesprite.pokemon.rotom-smartphone-anime-visquez",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": null
+      },
+      {
+        "regular": {
+          "name": "Rotom-Bonus-Smartphone-Anime-Visquez-3DS",
+          "slug": "rotom-smartphone-anime-visquez",
+          "cssClass": ".pokesprite.pokemon.rotom-smartphone-anime-visquez.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": null
+      },
+      {
+        "regular": {
           "name": "Rotom-Bonus-Smartphone-LZA",
           "slug": "rotom-smartphone-lza",
           "cssClass": ".pokesprite.pokemon.rotom-smartphone-lza",
@@ -61495,6 +61695,31 @@
           "name": "Rotom-Bonus-Smartphone-SV-3DS",
           "slug": "rotom-smartphone-sv",
           "cssClass": ".pokesprite.pokemon.rotom-smartphone-sv.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": null
+      },
+      {
+        "regular": {
+          "name": "Rotom-Bonus-Smartphone-SV-Anime-Tablet",
+          "slug": "rotom-smartphone-sv-anime-tablet",
+          "cssClass": ".pokesprite.pokemon.rotom-smartphone-sv-anime-tablet",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": null
+      },
+      {
+        "regular": {
+          "name": "Rotom-Bonus-Smartphone-SV-Anime-Tablet-3DS",
+          "slug": "rotom-smartphone-sv-anime-tablet",
+          "cssClass": ".pokesprite.pokemon.rotom-smartphone-sv-anime-tablet.n3ds",
           "modifiers": [
             "n3ds"
           ],
@@ -64246,6 +64471,40 @@
       },
       {
         "regular": {
+          "name": "Shaymin-Land",
+          "slug": "shaymin-land",
+          "cssClass": ".pokesprite.pokemon.shaymin-land"
+        },
+        "shiny": {
+          "name": "Shaymin-Land-★",
+          "slug": "shaymin-land",
+          "cssClass": ".pokesprite.pokemon.shaymin-land.shiny",
+          "modifiers": [
+            "shiny"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Shaymin-Land-3DS",
+          "slug": "shaymin-land",
+          "cssClass": ".pokesprite.pokemon.shaymin-land.n3ds",
+          "modifiers": [
+            "n3ds"
+          ]
+        },
+        "shiny": {
+          "name": "Shaymin-Land-3DS-★",
+          "slug": "shaymin-land",
+          "cssClass": ".pokesprite.pokemon.shaymin-land.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ]
+        }
+      },
+      {
+        "regular": {
           "name": "Shaymin-Sky",
           "slug": "shaymin-sky",
           "cssClass": ".pokesprite.pokemon.shaymin-sky"
@@ -64275,6 +64534,98 @@
           "modifiers": [
             "shiny",
             "n3ds"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Shaymin-Land-Bonus-Anime-Movie11-Purifying",
+          "slug": "shaymin-land-anime-movie11-purifying",
+          "cssClass": ".pokesprite.pokemon.shaymin-land-anime-movie11-purifying",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Shaymin-Land-Bonus-Anime-Movie11-Purifying-★",
+          "slug": "shaymin-land-anime-movie11-purifying",
+          "cssClass": ".pokesprite.pokemon.shaymin-land-anime-movie11-purifying.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Shaymin-Land-Bonus-Anime-Movie11-Purifying-3DS",
+          "slug": "shaymin-land-anime-movie11-purifying",
+          "cssClass": ".pokesprite.pokemon.shaymin-land-anime-movie11-purifying.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Shaymin-Land-Bonus-Anime-Movie11-Purifying-3DS-★",
+          "slug": "shaymin-land-anime-movie11-purifying",
+          "cssClass": ".pokesprite.pokemon.shaymin-land-anime-movie11-purifying.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Shaymin-Sky-Bonus-Anime-Movie11-Purifying",
+          "slug": "shaymin-sky-anime-movie11-purifying",
+          "cssClass": ".pokesprite.pokemon.shaymin-sky-anime-movie11-purifying",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Shaymin-Sky-Bonus-Anime-Movie11-Purifying-★",
+          "slug": "shaymin-sky-anime-movie11-purifying",
+          "cssClass": ".pokesprite.pokemon.shaymin-sky-anime-movie11-purifying.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Shaymin-Sky-Bonus-Anime-Movie11-Purifying-3DS",
+          "slug": "shaymin-sky-anime-movie11-purifying",
+          "cssClass": ".pokesprite.pokemon.shaymin-sky-anime-movie11-purifying.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Shaymin-Sky-Bonus-Anime-Movie11-Purifying-3DS-★",
+          "slug": "shaymin-sky-anime-movie11-purifying",
+          "cssClass": ".pokesprite.pokemon.shaymin-sky-anime-movie11-purifying.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
           ]
         }
       }
