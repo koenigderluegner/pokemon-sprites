@@ -1538,52 +1538,6 @@
       },
       {
         "regular": {
-          "name": "Charizard-Bonus-PageRider",
-          "slug": "charizard-page-rider",
-          "cssClass": ".pokesprite.pokemon.charizard-page-rider",
-          "categories": [
-            "bonus"
-          ]
-        },
-        "shiny": {
-          "name": "Charizard-Bonus-PageRider-★",
-          "slug": "charizard-page-rider",
-          "cssClass": ".pokesprite.pokemon.charizard-page-rider.shiny",
-          "modifiers": [
-            "shiny"
-          ],
-          "categories": [
-            "bonus"
-          ]
-        }
-      },
-      {
-        "regular": {
-          "name": "Charizard-Bonus-PageRider-3DS",
-          "slug": "charizard-page-rider",
-          "cssClass": ".pokesprite.pokemon.charizard-page-rider.n3ds",
-          "modifiers": [
-            "n3ds"
-          ],
-          "categories": [
-            "bonus"
-          ]
-        },
-        "shiny": {
-          "name": "Charizard-Bonus-PageRider-3DS-★",
-          "slug": "charizard-page-rider",
-          "cssClass": ".pokesprite.pokemon.charizard-page-rider.shiny.n3ds",
-          "modifiers": [
-            "shiny",
-            "n3ds"
-          ],
-          "categories": [
-            "bonus"
-          ]
-        }
-      },
-      {
-        "regular": {
           "name": "Charizard-Bonus-Poketoon-Charly",
           "slug": "charizard-poketoon-charly",
           "cssClass": ".pokesprite.pokemon.charizard-poketoon-charly",
@@ -1652,6 +1606,52 @@
           ]
         },
         "shiny": null
+      },
+      {
+        "regular": {
+          "name": "Charizard-Bonus-RidePager",
+          "slug": "charizard-ride-pager",
+          "cssClass": ".pokesprite.pokemon.charizard-ride-pager",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Charizard-Bonus-RidePager-★",
+          "slug": "charizard-ride-pager",
+          "cssClass": ".pokesprite.pokemon.charizard-ride-pager.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Charizard-Bonus-RidePager-3DS",
+          "slug": "charizard-ride-pager",
+          "cssClass": ".pokesprite.pokemon.charizard-ride-pager.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Charizard-Bonus-RidePager-3DS-★",
+          "slug": "charizard-ride-pager",
+          "cssClass": ".pokesprite.pokemon.charizard-ride-pager.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -21439,52 +21439,6 @@
       },
       {
         "regular": {
-          "name": "Machamp-Bonus-PageRider",
-          "slug": "machamp-page-rider",
-          "cssClass": ".pokesprite.pokemon.machamp-page-rider",
-          "categories": [
-            "bonus"
-          ]
-        },
-        "shiny": {
-          "name": "Machamp-Bonus-PageRider-★",
-          "slug": "machamp-page-rider",
-          "cssClass": ".pokesprite.pokemon.machamp-page-rider.shiny",
-          "modifiers": [
-            "shiny"
-          ],
-          "categories": [
-            "bonus"
-          ]
-        }
-      },
-      {
-        "regular": {
-          "name": "Machamp-Bonus-PageRider-3DS",
-          "slug": "machamp-page-rider",
-          "cssClass": ".pokesprite.pokemon.machamp-page-rider.n3ds",
-          "modifiers": [
-            "n3ds"
-          ],
-          "categories": [
-            "bonus"
-          ]
-        },
-        "shiny": {
-          "name": "Machamp-Bonus-PageRider-3DS-★",
-          "slug": "machamp-page-rider",
-          "cssClass": ".pokesprite.pokemon.machamp-page-rider.shiny.n3ds",
-          "modifiers": [
-            "shiny",
-            "n3ds"
-          ],
-          "categories": [
-            "bonus"
-          ]
-        }
-      },
-      {
-        "regular": {
           "name": "Machamp-Bonus-Pokken",
           "slug": "machamp-pokken",
           "cssClass": ".pokesprite.pokemon.machamp-pokken",
@@ -21507,6 +21461,52 @@
           ]
         },
         "shiny": null
+      },
+      {
+        "regular": {
+          "name": "Machamp-Bonus-RidePager",
+          "slug": "machamp-ride-pager",
+          "cssClass": ".pokesprite.pokemon.machamp-ride-pager",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Machamp-Bonus-RidePager-★",
+          "slug": "machamp-ride-pager",
+          "cssClass": ".pokesprite.pokemon.machamp-ride-pager.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Machamp-Bonus-RidePager-3DS",
+          "slug": "machamp-ride-pager",
+          "cssClass": ".pokesprite.pokemon.machamp-ride-pager.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Machamp-Bonus-RidePager-3DS-★",
+          "slug": "machamp-ride-pager",
+          "cssClass": ".pokesprite.pokemon.machamp-ride-pager.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       }
     ]
   },
@@ -28875,17 +28875,17 @@
       },
       {
         "regular": {
-          "name": "Tauros-Bonus-PageRider",
-          "slug": "tauros-page-rider",
-          "cssClass": ".pokesprite.pokemon.tauros-page-rider",
+          "name": "Tauros-Bonus-RidePager",
+          "slug": "tauros-ride-pager",
+          "cssClass": ".pokesprite.pokemon.tauros-ride-pager",
           "categories": [
             "bonus"
           ]
         },
         "shiny": {
-          "name": "Tauros-Bonus-PageRider-★",
-          "slug": "tauros-page-rider",
-          "cssClass": ".pokesprite.pokemon.tauros-page-rider.shiny",
+          "name": "Tauros-Bonus-RidePager-★",
+          "slug": "tauros-ride-pager",
+          "cssClass": ".pokesprite.pokemon.tauros-ride-pager.shiny",
           "modifiers": [
             "shiny"
           ],
@@ -28896,9 +28896,9 @@
       },
       {
         "regular": {
-          "name": "Tauros-Bonus-PageRider-3DS",
-          "slug": "tauros-page-rider",
-          "cssClass": ".pokesprite.pokemon.tauros-page-rider.n3ds",
+          "name": "Tauros-Bonus-RidePager-3DS",
+          "slug": "tauros-ride-pager",
+          "cssClass": ".pokesprite.pokemon.tauros-ride-pager.n3ds",
           "modifiers": [
             "n3ds"
           ],
@@ -28907,9 +28907,9 @@
           ]
         },
         "shiny": {
-          "name": "Tauros-Bonus-PageRider-3DS-★",
-          "slug": "tauros-page-rider",
-          "cssClass": ".pokesprite.pokemon.tauros-page-rider.shiny.n3ds",
+          "name": "Tauros-Bonus-RidePager-3DS-★",
+          "slug": "tauros-ride-pager",
+          "cssClass": ".pokesprite.pokemon.tauros-ride-pager.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -28921,9 +28921,9 @@
       },
       {
         "regular": {
-          "name": "Tauros-Bonus-PageRider-Switch-LGPE",
-          "slug": "tauros-page-rider-lgpe",
-          "cssClass": ".pokesprite.pokemon.tauros-page-rider-lgpe.switch",
+          "name": "Tauros-Bonus-RidePager-Switch-LGPE",
+          "slug": "tauros-ride-pager-lgpe",
+          "cssClass": ".pokesprite.pokemon.tauros-ride-pager-lgpe.switch",
           "modifiers": [
             "switch"
           ],
@@ -28932,9 +28932,9 @@
           ]
         },
         "shiny": {
-          "name": "Tauros-Bonus-PageRider-Switch-LGPE-★",
-          "slug": "tauros-page-rider-lgpe",
-          "cssClass": ".pokesprite.pokemon.tauros-page-rider-lgpe.shiny.switch",
+          "name": "Tauros-Bonus-RidePager-Switch-LGPE-★",
+          "slug": "tauros-ride-pager-lgpe",
+          "cssClass": ".pokesprite.pokemon.tauros-ride-pager-lgpe.shiny.switch",
           "modifiers": [
             "shiny",
             "switch"
@@ -30209,52 +30209,6 @@
       },
       {
         "regular": {
-          "name": "Lapras-Bonus-PageRider",
-          "slug": "lapras-page-rider",
-          "cssClass": ".pokesprite.pokemon.lapras-page-rider",
-          "categories": [
-            "bonus"
-          ]
-        },
-        "shiny": {
-          "name": "Lapras-Bonus-PageRider-★",
-          "slug": "lapras-page-rider",
-          "cssClass": ".pokesprite.pokemon.lapras-page-rider.shiny",
-          "modifiers": [
-            "shiny"
-          ],
-          "categories": [
-            "bonus"
-          ]
-        }
-      },
-      {
-        "regular": {
-          "name": "Lapras-Bonus-PageRider-3DS",
-          "slug": "lapras-page-rider",
-          "cssClass": ".pokesprite.pokemon.lapras-page-rider.n3ds",
-          "modifiers": [
-            "n3ds"
-          ],
-          "categories": [
-            "bonus"
-          ]
-        },
-        "shiny": {
-          "name": "Lapras-Bonus-PageRider-3DS-★",
-          "slug": "lapras-page-rider",
-          "cssClass": ".pokesprite.pokemon.lapras-page-rider.shiny.n3ds",
-          "modifiers": [
-            "shiny",
-            "n3ds"
-          ],
-          "categories": [
-            "bonus"
-          ]
-        }
-      },
-      {
-        "regular": {
           "name": "Lapras-Bonus-PodLeader",
           "slug": "lapras-pod-leader",
           "cssClass": ".pokesprite.pokemon.lapras-pod-leader",
@@ -30290,6 +30244,52 @@
           "name": "Lapras-Bonus-PodLeader-3DS-★",
           "slug": "lapras-pod-leader",
           "cssClass": ".pokesprite.pokemon.lapras-pod-leader.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Lapras-Bonus-RidePager",
+          "slug": "lapras-ride-pager",
+          "cssClass": ".pokesprite.pokemon.lapras-ride-pager",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Lapras-Bonus-RidePager-★",
+          "slug": "lapras-ride-pager",
+          "cssClass": ".pokesprite.pokemon.lapras-ride-pager.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Lapras-Bonus-RidePager-3DS",
+          "slug": "lapras-ride-pager",
+          "cssClass": ".pokesprite.pokemon.lapras-ride-pager.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Lapras-Bonus-RidePager-3DS-★",
+          "slug": "lapras-ride-pager",
+          "cssClass": ".pokesprite.pokemon.lapras-ride-pager.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -33600,6 +33600,52 @@
           "modifiers": [
             "n3ds",
             "shiny"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Dragonair-Bonus-Anime-RidePager",
+          "slug": "dragonair-anime-ride-pager",
+          "cssClass": ".pokesprite.pokemon.dragonair-anime-ride-pager",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Dragonair-Bonus-Anime-RidePager-★",
+          "slug": "dragonair-anime-ride-pager",
+          "cssClass": ".pokesprite.pokemon.dragonair-anime-ride-pager.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Dragonair-Bonus-Anime-RidePager-3DS",
+          "slug": "dragonair-anime-ride-pager",
+          "cssClass": ".pokesprite.pokemon.dragonair-anime-ride-pager.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Dragonair-Bonus-Anime-RidePager-3DS-★",
+          "slug": "dragonair-anime-ride-pager",
+          "cssClass": ".pokesprite.pokemon.dragonair-anime-ride-pager.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
           ]
         }
       }
@@ -43180,17 +43226,17 @@
       },
       {
         "regular": {
-          "name": "Mantine-Bonus-PageRider",
-          "slug": "mantine-page-rider",
-          "cssClass": ".pokesprite.pokemon.mantine-page-rider",
+          "name": "Mantine-Bonus-RidePager",
+          "slug": "mantine-ride-pager",
+          "cssClass": ".pokesprite.pokemon.mantine-ride-pager",
           "categories": [
             "bonus"
           ]
         },
         "shiny": {
-          "name": "Mantine-Bonus-PageRider-★",
-          "slug": "mantine-page-rider",
-          "cssClass": ".pokesprite.pokemon.mantine-page-rider.shiny",
+          "name": "Mantine-Bonus-RidePager-★",
+          "slug": "mantine-ride-pager",
+          "cssClass": ".pokesprite.pokemon.mantine-ride-pager.shiny",
           "modifiers": [
             "shiny"
           ],
@@ -43201,9 +43247,9 @@
       },
       {
         "regular": {
-          "name": "Mantine-Bonus-PageRider-3DS",
-          "slug": "mantine-page-rider",
-          "cssClass": ".pokesprite.pokemon.mantine-page-rider.n3ds",
+          "name": "Mantine-Bonus-RidePager-3DS",
+          "slug": "mantine-ride-pager",
+          "cssClass": ".pokesprite.pokemon.mantine-ride-pager.n3ds",
           "modifiers": [
             "n3ds"
           ],
@@ -43212,9 +43258,9 @@
           ]
         },
         "shiny": {
-          "name": "Mantine-Bonus-PageRider-3DS-★",
-          "slug": "mantine-page-rider",
-          "cssClass": ".pokesprite.pokemon.mantine-page-rider.shiny.n3ds",
+          "name": "Mantine-Bonus-RidePager-3DS-★",
+          "slug": "mantine-ride-pager",
+          "cssClass": ".pokesprite.pokemon.mantine-ride-pager.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -47334,17 +47380,17 @@
       },
       {
         "regular": {
-          "name": "Pelipper-Bonus-Anime-PageRider",
-          "slug": "pelipper-anime-page-rider",
-          "cssClass": ".pokesprite.pokemon.pelipper-anime-page-rider",
+          "name": "Pelipper-Bonus-Anime-RidePager",
+          "slug": "pelipper-anime-ride-pager",
+          "cssClass": ".pokesprite.pokemon.pelipper-anime-ride-pager",
           "categories": [
             "bonus"
           ]
         },
         "shiny": {
-          "name": "Pelipper-Bonus-Anime-PageRider-★",
-          "slug": "pelipper-anime-page-rider",
-          "cssClass": ".pokesprite.pokemon.pelipper-anime-page-rider.shiny",
+          "name": "Pelipper-Bonus-Anime-RidePager-★",
+          "slug": "pelipper-anime-ride-pager",
+          "cssClass": ".pokesprite.pokemon.pelipper-anime-ride-pager.shiny",
           "modifiers": [
             "shiny"
           ],
@@ -47355,9 +47401,9 @@
       },
       {
         "regular": {
-          "name": "Pelipper-Bonus-Anime-PageRider-3DS",
-          "slug": "pelipper-anime-page-rider",
-          "cssClass": ".pokesprite.pokemon.pelipper-anime-page-rider.n3ds",
+          "name": "Pelipper-Bonus-Anime-RidePager-3DS",
+          "slug": "pelipper-anime-ride-pager",
+          "cssClass": ".pokesprite.pokemon.pelipper-anime-ride-pager.n3ds",
           "modifiers": [
             "n3ds"
           ],
@@ -47366,9 +47412,9 @@
           ]
         },
         "shiny": {
-          "name": "Pelipper-Bonus-Anime-PageRider-3DS-★",
-          "slug": "pelipper-anime-page-rider",
-          "cssClass": ".pokesprite.pokemon.pelipper-anime-page-rider.shiny.n3ds",
+          "name": "Pelipper-Bonus-Anime-RidePager-3DS-★",
+          "slug": "pelipper-anime-ride-pager",
+          "cssClass": ".pokesprite.pokemon.pelipper-anime-ride-pager.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -49757,17 +49803,17 @@
       },
       {
         "regular": {
-          "name": "Sharpedo-Bonus-PageRider",
-          "slug": "sharpedo-page-rider",
-          "cssClass": ".pokesprite.pokemon.sharpedo-page-rider",
+          "name": "Sharpedo-Bonus-RidePager",
+          "slug": "sharpedo-ride-pager",
+          "cssClass": ".pokesprite.pokemon.sharpedo-ride-pager",
           "categories": [
             "bonus"
           ]
         },
         "shiny": {
-          "name": "Sharpedo-Bonus-PageRider-★",
-          "slug": "sharpedo-page-rider",
-          "cssClass": ".pokesprite.pokemon.sharpedo-page-rider.shiny",
+          "name": "Sharpedo-Bonus-RidePager-★",
+          "slug": "sharpedo-ride-pager",
+          "cssClass": ".pokesprite.pokemon.sharpedo-ride-pager.shiny",
           "modifiers": [
             "shiny"
           ],
@@ -49778,9 +49824,9 @@
       },
       {
         "regular": {
-          "name": "Sharpedo-Bonus-PageRider-3DS",
-          "slug": "sharpedo-page-rider",
-          "cssClass": ".pokesprite.pokemon.sharpedo-page-rider.n3ds",
+          "name": "Sharpedo-Bonus-RidePager-3DS",
+          "slug": "sharpedo-ride-pager",
+          "cssClass": ".pokesprite.pokemon.sharpedo-ride-pager.n3ds",
           "modifiers": [
             "n3ds"
           ],
@@ -49789,9 +49835,9 @@
           ]
         },
         "shiny": {
-          "name": "Sharpedo-Bonus-PageRider-3DS-★",
-          "slug": "sharpedo-page-rider",
-          "cssClass": ".pokesprite.pokemon.sharpedo-page-rider.shiny.n3ds",
+          "name": "Sharpedo-Bonus-RidePager-3DS-★",
+          "slug": "sharpedo-ride-pager",
+          "cssClass": ".pokesprite.pokemon.sharpedo-ride-pager.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -49862,17 +49908,17 @@
       },
       {
         "regular": {
-          "name": "Wailmer-Bonus-Anime-PageRider",
-          "slug": "wailmer-anime-page-rider",
-          "cssClass": ".pokesprite.pokemon.wailmer-anime-page-rider",
+          "name": "Wailmer-Bonus-Anime-RidePager",
+          "slug": "wailmer-anime-ride-pager",
+          "cssClass": ".pokesprite.pokemon.wailmer-anime-ride-pager",
           "categories": [
             "bonus"
           ]
         },
         "shiny": {
-          "name": "Wailmer-Bonus-Anime-PageRider-★",
-          "slug": "wailmer-anime-page-rider",
-          "cssClass": ".pokesprite.pokemon.wailmer-anime-page-rider.shiny",
+          "name": "Wailmer-Bonus-Anime-RidePager-★",
+          "slug": "wailmer-anime-ride-pager",
+          "cssClass": ".pokesprite.pokemon.wailmer-anime-ride-pager.shiny",
           "modifiers": [
             "shiny"
           ],
@@ -49883,9 +49929,9 @@
       },
       {
         "regular": {
-          "name": "Wailmer-Bonus-Anime-PageRider-3DS",
-          "slug": "wailmer-anime-page-rider",
-          "cssClass": ".pokesprite.pokemon.wailmer-anime-page-rider.n3ds",
+          "name": "Wailmer-Bonus-Anime-RidePager-3DS",
+          "slug": "wailmer-anime-ride-pager",
+          "cssClass": ".pokesprite.pokemon.wailmer-anime-ride-pager.n3ds",
           "modifiers": [
             "n3ds"
           ],
@@ -49894,9 +49940,9 @@
           ]
         },
         "shiny": {
-          "name": "Wailmer-Bonus-Anime-PageRider-3DS-★",
-          "slug": "wailmer-anime-page-rider",
-          "cssClass": ".pokesprite.pokemon.wailmer-anime-page-rider.shiny.n3ds",
+          "name": "Wailmer-Bonus-Anime-RidePager-3DS-★",
+          "slug": "wailmer-anime-ride-pager",
+          "cssClass": ".pokesprite.pokemon.wailmer-anime-ride-pager.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -49908,9 +49954,9 @@
       },
       {
         "regular": {
-          "name": "Wailmer-Bonus-Anime-PageRider-3DS-Optional",
-          "slug": "wailmer-anime-page-rider-optional",
-          "cssClass": ".pokesprite.pokemon.wailmer-anime-page-rider-optional.n3ds",
+          "name": "Wailmer-Bonus-Anime-RidePager-3DS-Optional",
+          "slug": "wailmer-anime-ride-pager-optional",
+          "cssClass": ".pokesprite.pokemon.wailmer-anime-ride-pager-optional.n3ds",
           "modifiers": [
             "n3ds"
           ],
@@ -49919,9 +49965,9 @@
           ]
         },
         "shiny": {
-          "name": "Wailmer-Bonus-Anime-PageRider-3DS-Optional-★",
-          "slug": "wailmer-anime-page-rider-optional",
-          "cssClass": ".pokesprite.pokemon.wailmer-anime-page-rider-optional.shiny.n3ds",
+          "name": "Wailmer-Bonus-Anime-RidePager-3DS-Optional-★",
+          "slug": "wailmer-anime-ride-pager-optional",
+          "cssClass": ".pokesprite.pokemon.wailmer-anime-ride-pager-optional.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -50578,6 +50624,52 @@
             "go"
           ]
         }
+      },
+      {
+        "regular": {
+          "name": "Flygon-Bonus-Anime-RidePager",
+          "slug": "flygon-anime-ride-pager",
+          "cssClass": ".pokesprite.pokemon.flygon-anime-ride-pager",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Flygon-Bonus-Anime-RidePager-★",
+          "slug": "flygon-anime-ride-pager",
+          "cssClass": ".pokesprite.pokemon.flygon-anime-ride-pager.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Flygon-Bonus-Anime-RidePager-3DS",
+          "slug": "flygon-anime-ride-pager",
+          "cssClass": ".pokesprite.pokemon.flygon-anime-ride-pager.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Flygon-Bonus-Anime-RidePager-3DS-★",
+          "slug": "flygon-anime-ride-pager",
+          "cssClass": ".pokesprite.pokemon.flygon-anime-ride-pager.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       }
     ]
   },
@@ -50806,6 +50898,52 @@
           "name": "Altaria-Bonus-Anime-Lisia-3DS-★",
           "slug": "altaria-anime-lisia",
           "cssClass": ".pokesprite.pokemon.altaria-anime-lisia.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Altaria-Bonus-Anime-RidePager",
+          "slug": "altaria-anime-ride-pager",
+          "cssClass": ".pokesprite.pokemon.altaria-anime-ride-pager",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Altaria-Bonus-Anime-RidePager-★",
+          "slug": "altaria-anime-ride-pager",
+          "cssClass": ".pokesprite.pokemon.altaria-anime-ride-pager.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Altaria-Bonus-Anime-RidePager-3DS",
+          "slug": "altaria-anime-ride-pager",
+          "cssClass": ".pokesprite.pokemon.altaria-anime-ride-pager.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Altaria-Bonus-Anime-RidePager-3DS-★",
+          "slug": "altaria-anime-ride-pager",
+          "cssClass": ".pokesprite.pokemon.altaria-anime-ride-pager.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -53128,6 +53266,52 @@
           "modifiers": [
             "n3ds",
             "shiny"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Metang-Bonus-Anime-RidePager",
+          "slug": "metang-anime-ride-pager",
+          "cssClass": ".pokesprite.pokemon.metang-anime-ride-pager",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Metang-Bonus-Anime-RidePager-★",
+          "slug": "metang-anime-ride-pager",
+          "cssClass": ".pokesprite.pokemon.metang-anime-ride-pager.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Metang-Bonus-Anime-RidePager-3DS",
+          "slug": "metang-anime-ride-pager",
+          "cssClass": ".pokesprite.pokemon.metang-anime-ride-pager.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Metang-Bonus-Anime-RidePager-3DS-★",
+          "slug": "metang-anime-ride-pager",
+          "cssClass": ".pokesprite.pokemon.metang-anime-ride-pager.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
           ]
         }
       }
@@ -57898,6 +58082,98 @@
           "modifiers": [
             "shiny",
             "n3ds"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Garchomp-Bonus-Anime-RidePager",
+          "slug": "garchomp-anime-ride-pager",
+          "cssClass": ".pokesprite.pokemon.garchomp-anime-ride-pager",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Garchomp-Bonus-Anime-RidePager-★",
+          "slug": "garchomp-anime-ride-pager",
+          "cssClass": ".pokesprite.pokemon.garchomp-anime-ride-pager.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Garchomp-Bonus-Anime-RidePager-3DS",
+          "slug": "garchomp-anime-ride-pager",
+          "cssClass": ".pokesprite.pokemon.garchomp-anime-ride-pager.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Garchomp-Bonus-Anime-RidePager-3DS-★",
+          "slug": "garchomp-anime-ride-pager",
+          "cssClass": ".pokesprite.pokemon.garchomp-anime-ride-pager.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Garchomp-Bonus-Anime-RidePager-F",
+          "slug": "garchomp-anime-ride-pager-f",
+          "cssClass": ".pokesprite.pokemon.garchomp-anime-ride-pager-f",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Garchomp-Bonus-Anime-RidePager-F-★",
+          "slug": "garchomp-anime-ride-pager-f",
+          "cssClass": ".pokesprite.pokemon.garchomp-anime-ride-pager-f.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Garchomp-Bonus-Anime-RidePager-F-3DS",
+          "slug": "garchomp-anime-ride-pager-f",
+          "cssClass": ".pokesprite.pokemon.garchomp-anime-ride-pager-f.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Garchomp-Bonus-Anime-RidePager-F-3DS-★",
+          "slug": "garchomp-anime-ride-pager-f",
+          "cssClass": ".pokesprite.pokemon.garchomp-anime-ride-pager-f.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
           ]
         }
       },
@@ -66262,17 +66538,17 @@
       },
       {
         "regular": {
-          "name": "Stoutland-Bonus-PageRider",
-          "slug": "stoutland-page-rider",
-          "cssClass": ".pokesprite.pokemon.stoutland-page-rider",
+          "name": "Stoutland-Bonus-RidePager",
+          "slug": "stoutland-ride-pager",
+          "cssClass": ".pokesprite.pokemon.stoutland-ride-pager",
           "categories": [
             "bonus"
           ]
         },
         "shiny": {
-          "name": "Stoutland-Bonus-PageRider-★",
-          "slug": "stoutland-page-rider",
-          "cssClass": ".pokesprite.pokemon.stoutland-page-rider.shiny",
+          "name": "Stoutland-Bonus-RidePager-★",
+          "slug": "stoutland-ride-pager",
+          "cssClass": ".pokesprite.pokemon.stoutland-ride-pager.shiny",
           "modifiers": [
             "shiny"
           ],
@@ -66283,9 +66559,9 @@
       },
       {
         "regular": {
-          "name": "Stoutland-Bonus-PageRider-3DS",
-          "slug": "stoutland-page-rider",
-          "cssClass": ".pokesprite.pokemon.stoutland-page-rider.n3ds",
+          "name": "Stoutland-Bonus-RidePager-3DS",
+          "slug": "stoutland-ride-pager",
+          "cssClass": ".pokesprite.pokemon.stoutland-ride-pager.n3ds",
           "modifiers": [
             "n3ds"
           ],
@@ -66294,9 +66570,147 @@
           ]
         },
         "shiny": {
-          "name": "Stoutland-Bonus-PageRider-3DS-★",
-          "slug": "stoutland-page-rider",
-          "cssClass": ".pokesprite.pokemon.stoutland-page-rider.shiny.n3ds",
+          "name": "Stoutland-Bonus-RidePager-3DS-★",
+          "slug": "stoutland-ride-pager",
+          "cssClass": ".pokesprite.pokemon.stoutland-ride-pager.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Stoutland-Bonus-RidePager-Anime-Blue",
+          "slug": "stoutland-ride-pager-anime-blue",
+          "cssClass": ".pokesprite.pokemon.stoutland-ride-pager-anime-blue",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Stoutland-Bonus-RidePager-Anime-Blue-★",
+          "slug": "stoutland-ride-pager-anime-blue",
+          "cssClass": ".pokesprite.pokemon.stoutland-ride-pager-anime-blue.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Stoutland-Bonus-RidePager-Anime-Blue-3DS",
+          "slug": "stoutland-ride-pager-anime-blue",
+          "cssClass": ".pokesprite.pokemon.stoutland-ride-pager-anime-blue.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Stoutland-Bonus-RidePager-Anime-Blue-3DS-★",
+          "slug": "stoutland-ride-pager-anime-blue",
+          "cssClass": ".pokesprite.pokemon.stoutland-ride-pager-anime-blue.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Stoutland-Bonus-RidePager-Anime-Green",
+          "slug": "stoutland-ride-pager-anime-green",
+          "cssClass": ".pokesprite.pokemon.stoutland-ride-pager-anime-green",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Stoutland-Bonus-RidePager-Anime-Green-★",
+          "slug": "stoutland-ride-pager-anime-green",
+          "cssClass": ".pokesprite.pokemon.stoutland-ride-pager-anime-green.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Stoutland-Bonus-RidePager-Anime-Green-3DS",
+          "slug": "stoutland-ride-pager-anime-green",
+          "cssClass": ".pokesprite.pokemon.stoutland-ride-pager-anime-green.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Stoutland-Bonus-RidePager-Anime-Green-3DS-★",
+          "slug": "stoutland-ride-pager-anime-green",
+          "cssClass": ".pokesprite.pokemon.stoutland-ride-pager-anime-green.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Stoutland-Bonus-RidePager-Anime-Indigo",
+          "slug": "stoutland-ride-pager-anime-indigo",
+          "cssClass": ".pokesprite.pokemon.stoutland-ride-pager-anime-indigo",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Stoutland-Bonus-RidePager-Anime-Indigo-★",
+          "slug": "stoutland-ride-pager-anime-indigo",
+          "cssClass": ".pokesprite.pokemon.stoutland-ride-pager-anime-indigo.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Stoutland-Bonus-RidePager-Anime-Indigo-3DS",
+          "slug": "stoutland-ride-pager-anime-indigo",
+          "cssClass": ".pokesprite.pokemon.stoutland-ride-pager-anime-indigo.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Stoutland-Bonus-RidePager-Anime-Indigo-3DS-★",
+          "slug": "stoutland-ride-pager-anime-indigo",
+          "cssClass": ".pokesprite.pokemon.stoutland-ride-pager-anime-indigo.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -69799,6 +70213,27 @@
           "cssClass": ".pokesprite.pokemon.ducklett.shiny",
           "modifiers": [
             "shiny"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Ducklett-Bonus-Anime-BW020",
+          "slug": "ducklett-anime-bw020",
+          "cssClass": ".pokesprite.pokemon.ducklett-anime-bw020",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Ducklett-Bonus-Anime-BW020-★",
+          "slug": "ducklett-anime-bw020",
+          "cssClass": ".pokesprite.pokemon.ducklett-anime-bw020.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
           ]
         }
       }
@@ -82530,17 +82965,17 @@
       },
       {
         "regular": {
-          "name": "Mudsdale-Bonus-PageRider",
-          "slug": "mudsdale-page-rider",
-          "cssClass": ".pokesprite.pokemon.mudsdale-page-rider",
+          "name": "Mudsdale-Bonus-RidePager",
+          "slug": "mudsdale-ride-pager",
+          "cssClass": ".pokesprite.pokemon.mudsdale-ride-pager",
           "categories": [
             "bonus"
           ]
         },
         "shiny": {
-          "name": "Mudsdale-Bonus-PageRider-★",
-          "slug": "mudsdale-page-rider",
-          "cssClass": ".pokesprite.pokemon.mudsdale-page-rider.shiny",
+          "name": "Mudsdale-Bonus-RidePager-★",
+          "slug": "mudsdale-ride-pager",
+          "cssClass": ".pokesprite.pokemon.mudsdale-ride-pager.shiny",
           "modifiers": [
             "shiny"
           ],
@@ -82551,9 +82986,9 @@
       },
       {
         "regular": {
-          "name": "Mudsdale-Bonus-PageRider-3DS-Optional",
-          "slug": "mudsdale-page-rider-optional",
-          "cssClass": ".pokesprite.pokemon.mudsdale-page-rider-optional.n3ds",
+          "name": "Mudsdale-Bonus-RidePager-3DS-Optional",
+          "slug": "mudsdale-ride-pager-optional",
+          "cssClass": ".pokesprite.pokemon.mudsdale-ride-pager-optional.n3ds",
           "modifiers": [
             "n3ds"
           ],
@@ -82562,9 +82997,9 @@
           ]
         },
         "shiny": {
-          "name": "Mudsdale-Bonus-PageRider-3DS-Optional-★",
-          "slug": "mudsdale-page-rider-optional",
-          "cssClass": ".pokesprite.pokemon.mudsdale-page-rider-optional.shiny.n3ds",
+          "name": "Mudsdale-Bonus-RidePager-3DS-Optional-★",
+          "slug": "mudsdale-ride-pager-optional",
+          "cssClass": ".pokesprite.pokemon.mudsdale-ride-pager-optional.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -82576,9 +83011,9 @@
       },
       {
         "regular": {
-          "name": "Mudsdale-Bonus-PageRider-3DS-SM",
-          "slug": "mudsdale-page-rider-sm",
-          "cssClass": ".pokesprite.pokemon.mudsdale-page-rider-sm.n3ds",
+          "name": "Mudsdale-Bonus-RidePager-3DS-SM",
+          "slug": "mudsdale-ride-pager-sm",
+          "cssClass": ".pokesprite.pokemon.mudsdale-ride-pager-sm.n3ds",
           "modifiers": [
             "n3ds"
           ],
@@ -82587,9 +83022,9 @@
           ]
         },
         "shiny": {
-          "name": "Mudsdale-Bonus-PageRider-3DS-SM-★",
-          "slug": "mudsdale-page-rider-sm",
-          "cssClass": ".pokesprite.pokemon.mudsdale-page-rider-sm.shiny.n3ds",
+          "name": "Mudsdale-Bonus-RidePager-3DS-SM-★",
+          "slug": "mudsdale-ride-pager-sm",
+          "cssClass": ".pokesprite.pokemon.mudsdale-ride-pager-sm.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -86679,6 +87114,27 @@
             "shiny"
           ]
         }
+      },
+      {
+        "regular": {
+          "name": "Poipole-Bonus-Anime-Ash",
+          "slug": "poipole-anime-ash",
+          "cssClass": ".pokesprite.pokemon.poipole-anime-ash",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Poipole-Bonus-Anime-Ash-★",
+          "slug": "poipole-anime-ash",
+          "cssClass": ".pokesprite.pokemon.poipole-anime-ash.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       }
     ]
   },
@@ -86717,6 +87173,52 @@
           "modifiers": [
             "n3ds",
             "shiny"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Naganadel-Bonus-Anime-Ash",
+          "slug": "naganadel-anime-ash",
+          "cssClass": ".pokesprite.pokemon.naganadel-anime-ash",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Naganadel-Bonus-Anime-Ash-★",
+          "slug": "naganadel-anime-ash",
+          "cssClass": ".pokesprite.pokemon.naganadel-anime-ash.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Naganadel-Bonus-Anime-Ash-3DS",
+          "slug": "naganadel-anime-ash",
+          "cssClass": ".pokesprite.pokemon.naganadel-anime-ash.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Naganadel-Bonus-Anime-Ash-3DS-★",
+          "slug": "naganadel-anime-ash",
+          "cssClass": ".pokesprite.pokemon.naganadel-anime-ash.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
           ]
         }
       }
