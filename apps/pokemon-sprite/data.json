@@ -1123,6 +1123,52 @@
             "bonus"
           ]
         }
+      },
+      {
+        "regular": {
+          "name": "Charmander-Bonus-Anime-MysteryDungeon",
+          "slug": "charmander-anime-mystery-dungeon",
+          "cssClass": ".pokesprite.pokemon.charmander-anime-mystery-dungeon",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Charmander-Bonus-Anime-MysteryDungeon-★",
+          "slug": "charmander-anime-mystery-dungeon",
+          "cssClass": ".pokesprite.pokemon.charmander-anime-mystery-dungeon.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Charmander-Bonus-Anime-MysteryDungeon-3DS",
+          "slug": "charmander-anime-mystery-dungeon",
+          "cssClass": ".pokesprite.pokemon.charmander-anime-mystery-dungeon.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Charmander-Bonus-Anime-MysteryDungeon-3DS-★",
+          "slug": "charmander-anime-mystery-dungeon",
+          "cssClass": ".pokesprite.pokemon.charmander-anime-mystery-dungeon.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       }
     ]
   },
@@ -2527,6 +2573,52 @@
           "name": "Squirtle-Bonus-Anime-Clone-3DS-★",
           "slug": "squirtle-anime-clone",
           "cssClass": ".pokesprite.pokemon.squirtle-anime-clone.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Squirtle-Bonus-Anime-MysteryDungeon",
+          "slug": "squirtle-anime-mystery-dungeon",
+          "cssClass": ".pokesprite.pokemon.squirtle-anime-mystery-dungeon",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Squirtle-Bonus-Anime-MysteryDungeon-★",
+          "slug": "squirtle-anime-mystery-dungeon",
+          "cssClass": ".pokesprite.pokemon.squirtle-anime-mystery-dungeon.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Squirtle-Bonus-Anime-MysteryDungeon-3DS",
+          "slug": "squirtle-anime-mystery-dungeon",
+          "cssClass": ".pokesprite.pokemon.squirtle-anime-mystery-dungeon.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Squirtle-Bonus-Anime-MysteryDungeon-3DS-★",
+          "slug": "squirtle-anime-mystery-dungeon",
+          "cssClass": ".pokesprite.pokemon.squirtle-anime-mystery-dungeon.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -35148,6 +35240,27 @@
             "bonus"
           ]
         }
+      },
+      {
+        "regular": {
+          "name": "Chikorita-Bonus-Anime-MysteryDungeon",
+          "slug": "chikorita-anime-mystery-dungeon",
+          "cssClass": ".pokesprite.pokemon.chikorita-anime-mystery-dungeon",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Chikorita-Bonus-Anime-MysteryDungeon-★",
+          "slug": "chikorita-anime-mystery-dungeon",
+          "cssClass": ".pokesprite.pokemon.chikorita-anime-mystery-dungeon.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       }
     ]
   },
@@ -44092,6 +44205,98 @@
       },
       {
         "regular": {
+          "name": "Houndoom-Bonus-Anime-Doomy",
+          "slug": "houndoom-anime-doomy",
+          "cssClass": ".pokesprite.pokemon.houndoom-anime-doomy",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Houndoom-Bonus-Anime-Doomy-★",
+          "slug": "houndoom-anime-doomy",
+          "cssClass": ".pokesprite.pokemon.houndoom-anime-doomy.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Houndoom-Bonus-Anime-Doomy-3DS",
+          "slug": "houndoom-anime-doomy",
+          "cssClass": ".pokesprite.pokemon.houndoom-anime-doomy.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Houndoom-Bonus-Anime-Doomy-3DS-★",
+          "slug": "houndoom-anime-doomy",
+          "cssClass": ".pokesprite.pokemon.houndoom-anime-doomy.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Houndoom-Bonus-Anime-Doomy-F",
+          "slug": "houndoom-anime-doomy-f",
+          "cssClass": ".pokesprite.pokemon.houndoom-anime-doomy-f",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Houndoom-Bonus-Anime-Doomy-F-★",
+          "slug": "houndoom-anime-doomy-f",
+          "cssClass": ".pokesprite.pokemon.houndoom-anime-doomy-f.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Houndoom-Bonus-Anime-Doomy-F-3DS",
+          "slug": "houndoom-anime-doomy-f",
+          "cssClass": ".pokesprite.pokemon.houndoom-anime-doomy-f.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Houndoom-Bonus-Anime-Doomy-F-3DS-★",
+          "slug": "houndoom-anime-doomy-f",
+          "cssClass": ".pokesprite.pokemon.houndoom-anime-doomy-f.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
           "name": "Houndoom-Bonus-Anime-Movie08-RedArmy",
           "slug": "houndoom-anime-movie08-red-army",
           "cssClass": ".pokesprite.pokemon.houndoom-anime-movie08-red-army",
@@ -50912,6 +51117,48 @@
             "shiny"
           ]
         }
+      },
+      {
+        "regular": {
+          "name": "Numel-Bonus-Anime-HZ037",
+          "slug": "numel-anime-hz037",
+          "cssClass": ".pokesprite.pokemon.numel-anime-hz037",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Numel-Bonus-Anime-HZ037-★",
+          "slug": "numel-anime-hz037",
+          "cssClass": ".pokesprite.pokemon.numel-anime-hz037.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Numel-Bonus-Anime-HZ037-F",
+          "slug": "numel-anime-hz037-f",
+          "cssClass": ".pokesprite.pokemon.numel-anime-hz037-f",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Numel-Bonus-Anime-HZ037-F-★",
+          "slug": "numel-anime-hz037-f",
+          "cssClass": ".pokesprite.pokemon.numel-anime-hz037-f.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       }
     ]
   },
@@ -55519,6 +55766,27 @@
             "go"
           ]
         }
+      },
+      {
+        "regular": {
+          "name": "Chimchar-Bonus-Anime-MysteryDungeon",
+          "slug": "chimchar-anime-mystery-dungeon",
+          "cssClass": ".pokesprite.pokemon.chimchar-anime-mystery-dungeon",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Chimchar-Bonus-Anime-MysteryDungeon-★",
+          "slug": "chimchar-anime-mystery-dungeon",
+          "cssClass": ".pokesprite.pokemon.chimchar-anime-mystery-dungeon.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       }
     ]
   },
@@ -55681,6 +55949,27 @@
           ],
           "categories": [
             "go"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Piplup-Bonus-Anime-MysteryDungeon",
+          "slug": "piplup-anime-mystery-dungeon",
+          "cssClass": ".pokesprite.pokemon.piplup-anime-mystery-dungeon",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Piplup-Bonus-Anime-MysteryDungeon-★",
+          "slug": "piplup-anime-mystery-dungeon",
+          "cssClass": ".pokesprite.pokemon.piplup-anime-mystery-dungeon.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
           ]
         }
       }
@@ -79969,6 +80258,52 @@
           "modifiers": [
             "shiny",
             "n3ds"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Hawlucha-Bonus-Anime-Ash-XY035",
+          "slug": "hawlucha-anime-ash-xy035",
+          "cssClass": ".pokesprite.pokemon.hawlucha-anime-ash-xy035",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Hawlucha-Bonus-Anime-Ash-XY035-★",
+          "slug": "hawlucha-anime-ash-xy035",
+          "cssClass": ".pokesprite.pokemon.hawlucha-anime-ash-xy035.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Hawlucha-Bonus-Anime-Ash-XY035-3DS",
+          "slug": "hawlucha-anime-ash-xy035",
+          "cssClass": ".pokesprite.pokemon.hawlucha-anime-ash-xy035.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Hawlucha-Bonus-Anime-Ash-XY035-3DS-★",
+          "slug": "hawlucha-anime-ash-xy035",
+          "cssClass": ".pokesprite.pokemon.hawlucha-anime-ash-xy035.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
           ]
         }
       }
