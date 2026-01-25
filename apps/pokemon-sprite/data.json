@@ -18006,6 +18006,27 @@
             "bonus"
           ]
         }
+      },
+      {
+        "regular": {
+          "name": "Vulpix-Bonus-MysteryDungeon-ExplorersOfSky-BlueScarf",
+          "slug": "vulpix-mystery-dungeon-explorers-of-sky-blue-scarf",
+          "cssClass": ".pokesprite.pokemon.vulpix-mystery-dungeon-explorers-of-sky-blue-scarf",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Vulpix-Bonus-MysteryDungeon-ExplorersOfSky-BlueScarf-★",
+          "slug": "vulpix-mystery-dungeon-explorers-of-sky-blue-scarf",
+          "cssClass": ".pokesprite.pokemon.vulpix-mystery-dungeon-explorers-of-sky-blue-scarf.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       }
     ]
   },
@@ -44466,6 +44487,52 @@
             "shiny"
           ]
         }
+      },
+      {
+        "regular": {
+          "name": "Phanpy-Bonus-MysteryDungeon-ExplorersOfSky-PurpleScarf",
+          "slug": "phanpy-mystery-dungeon-explorers-of-sky-purple-scarf",
+          "cssClass": ".pokesprite.pokemon.phanpy-mystery-dungeon-explorers-of-sky-purple-scarf",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Phanpy-Bonus-MysteryDungeon-ExplorersOfSky-PurpleScarf-★",
+          "slug": "phanpy-mystery-dungeon-explorers-of-sky-purple-scarf",
+          "cssClass": ".pokesprite.pokemon.phanpy-mystery-dungeon-explorers-of-sky-purple-scarf.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Phanpy-Bonus-MysteryDungeon-ExplorersOfSky-PurpleScarf-3DS",
+          "slug": "phanpy-mystery-dungeon-explorers-of-sky-purple-scarf",
+          "cssClass": ".pokesprite.pokemon.phanpy-mystery-dungeon-explorers-of-sky-purple-scarf.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Phanpy-Bonus-MysteryDungeon-ExplorersOfSky-PurpleScarf-3DS-★",
+          "slug": "phanpy-mystery-dungeon-explorers-of-sky-purple-scarf",
+          "cssClass": ".pokesprite.pokemon.phanpy-mystery-dungeon-explorers-of-sky-purple-scarf.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       }
     ]
   },
@@ -55954,6 +56021,27 @@
       },
       {
         "regular": {
+          "name": "Piplup-Bonus-Anime-Dawn-Cheerleader",
+          "slug": "piplup-anime-dawn-cheerleader",
+          "cssClass": ".pokesprite.pokemon.piplup-anime-dawn-cheerleader",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Piplup-Bonus-Anime-Dawn-Cheerleader-★",
+          "slug": "piplup-anime-dawn-cheerleader",
+          "cssClass": ".pokesprite.pokemon.piplup-anime-dawn-cheerleader.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
           "name": "Piplup-Bonus-Anime-MysteryDungeon",
           "slug": "piplup-anime-mystery-dungeon",
           "cssClass": ".pokesprite.pokemon.piplup-anime-mystery-dungeon",
@@ -58262,6 +58350,27 @@
           ],
           "categories": [
             "go"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Buneary-Bonus-Anime-Dawn-Cheerleader",
+          "slug": "buneary-anime-dawn-cheerleader",
+          "cssClass": ".pokesprite.pokemon.buneary-anime-dawn-cheerleader",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Buneary-Bonus-Anime-Dawn-Cheerleader-★",
+          "slug": "buneary-anime-dawn-cheerleader",
+          "cssClass": ".pokesprite.pokemon.buneary-anime-dawn-cheerleader.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
           ]
         }
       }
