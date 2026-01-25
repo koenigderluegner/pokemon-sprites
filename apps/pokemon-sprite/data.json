@@ -1126,6 +1126,98 @@
       },
       {
         "regular": {
+          "name": "Charmander-Bonus--MysteryDungeon-ResuceTeamDX",
+          "slug": "charmander--mystery-dungeon-resuce-team-dx",
+          "cssClass": ".pokesprite.pokemon.charmander--mystery-dungeon-resuce-team-dx",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Charmander-Bonus--MysteryDungeon-ResuceTeamDX-★",
+          "slug": "charmander--mystery-dungeon-resuce-team-dx",
+          "cssClass": ".pokesprite.pokemon.charmander--mystery-dungeon-resuce-team-dx.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Charmander-Bonus--MysteryDungeon-ResuceTeamDX-3DS",
+          "slug": "charmander--mystery-dungeon-resuce-team-dx",
+          "cssClass": ".pokesprite.pokemon.charmander--mystery-dungeon-resuce-team-dx.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Charmander-Bonus--MysteryDungeon-ResuceTeamDX-3DS-★",
+          "slug": "charmander--mystery-dungeon-resuce-team-dx",
+          "cssClass": ".pokesprite.pokemon.charmander--mystery-dungeon-resuce-team-dx.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Charmander-Bonus--MysteryDungeon-Super",
+          "slug": "charmander--mystery-dungeon-super",
+          "cssClass": ".pokesprite.pokemon.charmander--mystery-dungeon-super",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Charmander-Bonus--MysteryDungeon-Super-★",
+          "slug": "charmander--mystery-dungeon-super",
+          "cssClass": ".pokesprite.pokemon.charmander--mystery-dungeon-super.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Charmander-Bonus--MysteryDungeon-Super-3DS",
+          "slug": "charmander--mystery-dungeon-super",
+          "cssClass": ".pokesprite.pokemon.charmander--mystery-dungeon-super.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Charmander-Bonus--MysteryDungeon-Super-3DS-★",
+          "slug": "charmander--mystery-dungeon-super",
+          "cssClass": ".pokesprite.pokemon.charmander--mystery-dungeon-super.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
           "name": "Charmander-Bonus-Anime-AG015",
           "slug": "charmander-anime-ag015",
           "cssClass": ".pokesprite.pokemon.charmander-anime-ag015",
