@@ -266,6 +266,98 @@
             "bonus"
           ]
         }
+      },
+      {
+        "regular": {
+          "name": "Bulbasaur-Bonus-MysteryDungeon-RescueTeamDX",
+          "slug": "bulbasaur-mystery-dungeon-rescue-team-dx",
+          "cssClass": ".pokesprite.pokemon.bulbasaur-mystery-dungeon-rescue-team-dx",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Bulbasaur-Bonus-MysteryDungeon-RescueTeamDX-★",
+          "slug": "bulbasaur-mystery-dungeon-rescue-team-dx",
+          "cssClass": ".pokesprite.pokemon.bulbasaur-mystery-dungeon-rescue-team-dx.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Bulbasaur-Bonus-MysteryDungeon-RescueTeamDX-3DS",
+          "slug": "bulbasaur-mystery-dungeon-rescue-team-dx",
+          "cssClass": ".pokesprite.pokemon.bulbasaur-mystery-dungeon-rescue-team-dx.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Bulbasaur-Bonus-MysteryDungeon-RescueTeamDX-3DS-★",
+          "slug": "bulbasaur-mystery-dungeon-rescue-team-dx",
+          "cssClass": ".pokesprite.pokemon.bulbasaur-mystery-dungeon-rescue-team-dx.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Bulbasaur-Bonus-MysteryDungeon-Super",
+          "slug": "bulbasaur-mystery-dungeon-super",
+          "cssClass": ".pokesprite.pokemon.bulbasaur-mystery-dungeon-super",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Bulbasaur-Bonus-MysteryDungeon-Super-★",
+          "slug": "bulbasaur-mystery-dungeon-super",
+          "cssClass": ".pokesprite.pokemon.bulbasaur-mystery-dungeon-super.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Bulbasaur-Bonus-MysteryDungeon-Super-3DS",
+          "slug": "bulbasaur-mystery-dungeon-super",
+          "cssClass": ".pokesprite.pokemon.bulbasaur-mystery-dungeon-super.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Bulbasaur-Bonus-MysteryDungeon-Super-3DS-★",
+          "slug": "bulbasaur-mystery-dungeon-super",
+          "cssClass": ".pokesprite.pokemon.bulbasaur-mystery-dungeon-super.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       }
     ]
   },
