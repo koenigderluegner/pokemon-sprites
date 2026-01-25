@@ -57731,6 +57731,98 @@
             "n3ds"
           ]
         }
+      },
+      {
+        "regular": {
+          "name": "Pachirisu-Bonus-Anime-Dawn-Cheerleader",
+          "slug": "pachirisu-anime-dawn-cheerleader",
+          "cssClass": ".pokesprite.pokemon.pachirisu-anime-dawn-cheerleader",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Pachirisu-Bonus-Anime-Dawn-Cheerleader-★",
+          "slug": "pachirisu-anime-dawn-cheerleader",
+          "cssClass": ".pokesprite.pokemon.pachirisu-anime-dawn-cheerleader.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Pachirisu-Bonus-Anime-Dawn-Cheerleader-3DS",
+          "slug": "pachirisu-anime-dawn-cheerleader",
+          "cssClass": ".pokesprite.pokemon.pachirisu-anime-dawn-cheerleader.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Pachirisu-Bonus-Anime-Dawn-Cheerleader-3DS-★",
+          "slug": "pachirisu-anime-dawn-cheerleader",
+          "cssClass": ".pokesprite.pokemon.pachirisu-anime-dawn-cheerleader.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Pachirisu-Bonus-Anime-Dawn-Cheerleader-F",
+          "slug": "pachirisu-anime-dawn-cheerleader-f",
+          "cssClass": ".pokesprite.pokemon.pachirisu-anime-dawn-cheerleader-f",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Pachirisu-Bonus-Anime-Dawn-Cheerleader-F-★",
+          "slug": "pachirisu-anime-dawn-cheerleader-f",
+          "cssClass": ".pokesprite.pokemon.pachirisu-anime-dawn-cheerleader-f.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Pachirisu-Bonus-Anime-Dawn-Cheerleader-F-3DS",
+          "slug": "pachirisu-anime-dawn-cheerleader-f",
+          "cssClass": ".pokesprite.pokemon.pachirisu-anime-dawn-cheerleader-f.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Pachirisu-Bonus-Anime-Dawn-Cheerleader-F-3DS-★",
+          "slug": "pachirisu-anime-dawn-cheerleader-f",
+          "cssClass": ".pokesprite.pokemon.pachirisu-anime-dawn-cheerleader-f.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       }
     ]
   },
@@ -58201,6 +58293,98 @@
           "modifiers": [
             "shiny",
             "n3ds"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Ambipom-Bonus-Anime-Dawn-Cheerleader",
+          "slug": "ambipom-anime-dawn-cheerleader",
+          "cssClass": ".pokesprite.pokemon.ambipom-anime-dawn-cheerleader",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Ambipom-Bonus-Anime-Dawn-Cheerleader-★",
+          "slug": "ambipom-anime-dawn-cheerleader",
+          "cssClass": ".pokesprite.pokemon.ambipom-anime-dawn-cheerleader.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Ambipom-Bonus-Anime-Dawn-Cheerleader-3DS",
+          "slug": "ambipom-anime-dawn-cheerleader",
+          "cssClass": ".pokesprite.pokemon.ambipom-anime-dawn-cheerleader.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Ambipom-Bonus-Anime-Dawn-Cheerleader-3DS-★",
+          "slug": "ambipom-anime-dawn-cheerleader",
+          "cssClass": ".pokesprite.pokemon.ambipom-anime-dawn-cheerleader.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Ambipom-Bonus-Anime-Dawn-Cheerleader-F",
+          "slug": "ambipom-anime-dawn-cheerleader-f",
+          "cssClass": ".pokesprite.pokemon.ambipom-anime-dawn-cheerleader-f",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Ambipom-Bonus-Anime-Dawn-Cheerleader-F-★",
+          "slug": "ambipom-anime-dawn-cheerleader-f",
+          "cssClass": ".pokesprite.pokemon.ambipom-anime-dawn-cheerleader-f.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Ambipom-Bonus-Anime-Dawn-Cheerleader-F-3DS",
+          "slug": "ambipom-anime-dawn-cheerleader-f",
+          "cssClass": ".pokesprite.pokemon.ambipom-anime-dawn-cheerleader-f.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Ambipom-Bonus-Anime-Dawn-Cheerleader-F-3DS-★",
+          "slug": "ambipom-anime-dawn-cheerleader-f",
+          "cssClass": ".pokesprite.pokemon.ambipom-anime-dawn-cheerleader-f.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
           ]
         }
       }
