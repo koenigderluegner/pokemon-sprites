@@ -47007,7 +47007,17 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Lugia-Bonus-XD001-★",
+          "slug": "lugia-xd001",
+          "cssClass": ".pokesprite.pokemon.lugia-xd001.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -47021,7 +47031,18 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Lugia-Bonus-XD001-3DS-★",
+          "slug": "lugia-xd001",
+          "cssClass": ".pokesprite.pokemon.lugia-xd001.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -47035,7 +47056,18 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Lugia-Bonus-XD001-Switch-Optional-★",
+          "slug": "lugia-xd001-optional",
+          "cssClass": ".pokesprite.pokemon.lugia-xd001-optional.shiny.switch",
+          "modifiers": [
+            "shiny",
+            "switch"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       }
     ]
   },
@@ -47274,6 +47306,98 @@
           "name": "Treecko-Bonus-Anime-Elder-3DS-XY-★",
           "slug": "treecko-anime-elder-xy",
           "cssClass": ".pokesprite.pokemon.treecko-anime-elder-xy.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Treecko-Bonus-MysteryDungeon-RescueTeamDX",
+          "slug": "treecko-mystery-dungeon-rescue-team-dx",
+          "cssClass": ".pokesprite.pokemon.treecko-mystery-dungeon-rescue-team-dx",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Treecko-Bonus-MysteryDungeon-RescueTeamDX-★",
+          "slug": "treecko-mystery-dungeon-rescue-team-dx",
+          "cssClass": ".pokesprite.pokemon.treecko-mystery-dungeon-rescue-team-dx.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Treecko-Bonus-MysteryDungeon-RescueTeamDX-3DS-XY",
+          "slug": "treecko-mystery-dungeon-rescue-team-dx-xy",
+          "cssClass": ".pokesprite.pokemon.treecko-mystery-dungeon-rescue-team-dx-xy.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Treecko-Bonus-MysteryDungeon-RescueTeamDX-3DS-XY-★",
+          "slug": "treecko-mystery-dungeon-rescue-team-dx-xy",
+          "cssClass": ".pokesprite.pokemon.treecko-mystery-dungeon-rescue-team-dx-xy.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Treecko-Bonus-MysteryDungeon-Super",
+          "slug": "treecko-mystery-dungeon-super",
+          "cssClass": ".pokesprite.pokemon.treecko-mystery-dungeon-super",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Treecko-Bonus-MysteryDungeon-Super-★",
+          "slug": "treecko-mystery-dungeon-super",
+          "cssClass": ".pokesprite.pokemon.treecko-mystery-dungeon-super.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Treecko-Bonus-MysteryDungeon-Super-3DS-XY",
+          "slug": "treecko-mystery-dungeon-super-xy",
+          "cssClass": ".pokesprite.pokemon.treecko-mystery-dungeon-super-xy.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Treecko-Bonus-MysteryDungeon-Super-3DS-XY-★",
+          "slug": "treecko-mystery-dungeon-super-xy",
+          "cssClass": ".pokesprite.pokemon.treecko-mystery-dungeon-super-xy.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -47695,6 +47819,90 @@
             "bonus"
           ]
         }
+      },
+      {
+        "regular": {
+          "name": "Torchic-Bonus-MysteryDungeon-RescueTeamDX",
+          "slug": "torchic-mystery-dungeon-rescue-team-dx",
+          "cssClass": ".pokesprite.pokemon.torchic-mystery-dungeon-rescue-team-dx",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Torchic-Bonus-MysteryDungeon-RescueTeamDX-★",
+          "slug": "torchic-mystery-dungeon-rescue-team-dx",
+          "cssClass": ".pokesprite.pokemon.torchic-mystery-dungeon-rescue-team-dx.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Torchic-Bonus-MysteryDungeon-RescueTeamDX-F",
+          "slug": "torchic-mystery-dungeon-rescue-team-dx-f",
+          "cssClass": ".pokesprite.pokemon.torchic-mystery-dungeon-rescue-team-dx-f",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Torchic-Bonus-MysteryDungeon-RescueTeamDX-F-★",
+          "slug": "torchic-mystery-dungeon-rescue-team-dx-f",
+          "cssClass": ".pokesprite.pokemon.torchic-mystery-dungeon-rescue-team-dx-f.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Torchic-Bonus-MysteryDungeon-Super",
+          "slug": "torchic-mystery-dungeon-super",
+          "cssClass": ".pokesprite.pokemon.torchic-mystery-dungeon-super",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Torchic-Bonus-MysteryDungeon-Super-★",
+          "slug": "torchic-mystery-dungeon-super",
+          "cssClass": ".pokesprite.pokemon.torchic-mystery-dungeon-super.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Torchic-Bonus-MysteryDungeon-Super-F",
+          "slug": "torchic-mystery-dungeon-super-f",
+          "cssClass": ".pokesprite.pokemon.torchic-mystery-dungeon-super-f",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Torchic-Bonus-MysteryDungeon-Super-F-★",
+          "slug": "torchic-mystery-dungeon-super-f",
+          "cssClass": ".pokesprite.pokemon.torchic-mystery-dungeon-super-f.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       }
     ]
   },
@@ -48091,6 +48299,48 @@
           "name": "Mudkip-Bonus-Anime-AG015-★",
           "slug": "mudkip-anime-ag015",
           "cssClass": ".pokesprite.pokemon.mudkip-anime-ag015.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Mudkip-Bonus-MysteryDungeon-RescueTeamDX",
+          "slug": "mudkip-mystery-dungeon-rescue-team-dx",
+          "cssClass": ".pokesprite.pokemon.mudkip-mystery-dungeon-rescue-team-dx",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Mudkip-Bonus-MysteryDungeon-RescueTeamDX-★",
+          "slug": "mudkip-mystery-dungeon-rescue-team-dx",
+          "cssClass": ".pokesprite.pokemon.mudkip-mystery-dungeon-rescue-team-dx.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Mudkip-Bonus-MysteryDungeon-Super",
+          "slug": "mudkip-mystery-dungeon-super",
+          "cssClass": ".pokesprite.pokemon.mudkip-mystery-dungeon-super",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Mudkip-Bonus-MysteryDungeon-Super-★",
+          "slug": "mudkip-mystery-dungeon-super",
+          "cssClass": ".pokesprite.pokemon.mudkip-mystery-dungeon-super.shiny",
           "modifiers": [
             "shiny"
           ],
@@ -50793,6 +51043,52 @@
           "modifiers": [
             "shiny",
             "n3ds"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Mawile-Bonus-MysteryDungeon-Super-ExpiditionSociety",
+          "slug": "mawile-mystery-dungeon-super-expidition-society",
+          "cssClass": ".pokesprite.pokemon.mawile-mystery-dungeon-super-expidition-society",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Mawile-Bonus-MysteryDungeon-Super-ExpiditionSociety-★",
+          "slug": "mawile-mystery-dungeon-super-expidition-society",
+          "cssClass": ".pokesprite.pokemon.mawile-mystery-dungeon-super-expidition-society.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Mawile-Bonus-MysteryDungeon-Super-ExpiditionSociety-3DS",
+          "slug": "mawile-mystery-dungeon-super-expidition-society",
+          "cssClass": ".pokesprite.pokemon.mawile-mystery-dungeon-super-expidition-society.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Mawile-Bonus-MysteryDungeon-Super-ExpiditionSociety-3DS-★",
+          "slug": "mawile-mystery-dungeon-super-expidition-society",
+          "cssClass": ".pokesprite.pokemon.mawile-mystery-dungeon-super-expidition-society.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
           ]
         }
       }
@@ -56220,6 +56516,52 @@
           "modifiers": [
             "n3ds",
             "shiny"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Jirachi-Bonus-MysteryDungeon-Super-ExpiditionSociety",
+          "slug": "jirachi-mystery-dungeon-super-expidition-society",
+          "cssClass": ".pokesprite.pokemon.jirachi-mystery-dungeon-super-expidition-society",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Jirachi-Bonus-MysteryDungeon-Super-ExpiditionSociety-★",
+          "slug": "jirachi-mystery-dungeon-super-expidition-society",
+          "cssClass": ".pokesprite.pokemon.jirachi-mystery-dungeon-super-expidition-society.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Jirachi-Bonus-MysteryDungeon-Super-ExpiditionSociety-3DS",
+          "slug": "jirachi-mystery-dungeon-super-expidition-society",
+          "cssClass": ".pokesprite.pokemon.jirachi-mystery-dungeon-super-expidition-society.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Jirachi-Bonus-MysteryDungeon-Super-ExpiditionSociety-3DS-★",
+          "slug": "jirachi-mystery-dungeon-super-expidition-society",
+          "cssClass": ".pokesprite.pokemon.jirachi-mystery-dungeon-super-expidition-society.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
           ]
         }
       }
@@ -66966,7 +67308,17 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Dialga-Bonus-Dark-★",
+          "slug": "dialga-dark",
+          "cssClass": ".pokesprite.pokemon.dialga-dark.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -66980,7 +67332,18 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Dialga-Bonus-Dark-3DS-★",
+          "slug": "dialga-dark",
+          "cssClass": ".pokesprite.pokemon.dialga-dark.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -66991,7 +67354,17 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Dialga-Origin-Bonus-Dark-★",
+          "slug": "dialga-origin-dark",
+          "cssClass": ".pokesprite.pokemon.dialga-origin-dark.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -67005,7 +67378,18 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Dialga-Origin-Bonus-Dark-3DS-★",
+          "slug": "dialga-origin-dark",
+          "cssClass": ".pokesprite.pokemon.dialga-origin-dark.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       }
     ]
   },
