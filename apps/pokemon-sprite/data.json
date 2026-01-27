@@ -57158,6 +57158,27 @@
             "go"
           ]
         }
+      },
+      {
+        "regular": {
+          "name": "Turtwig-Bonus-MysteryDungeon-Super",
+          "slug": "turtwig-mystery-dungeon-super",
+          "cssClass": ".pokesprite.pokemon.turtwig-mystery-dungeon-super",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Turtwig-Bonus-MysteryDungeon-Super-★",
+          "slug": "turtwig-mystery-dungeon-super",
+          "cssClass": ".pokesprite.pokemon.turtwig-mystery-dungeon-super.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       }
     ]
   },
@@ -57315,6 +57336,27 @@
           "name": "Chimchar-Bonus-Anime-MysteryDungeon-★",
           "slug": "chimchar-anime-mystery-dungeon",
           "cssClass": ".pokesprite.pokemon.chimchar-anime-mystery-dungeon.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Chimchar-Bonus-MysteryDungeon-Super",
+          "slug": "chimchar-mystery-dungeon-super",
+          "cssClass": ".pokesprite.pokemon.chimchar-mystery-dungeon-super",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Chimchar-Bonus-MysteryDungeon-Super-★",
+          "slug": "chimchar-mystery-dungeon-super",
+          "cssClass": ".pokesprite.pokemon.chimchar-mystery-dungeon-super.shiny",
           "modifiers": [
             "shiny"
           ],
@@ -57521,6 +57563,27 @@
           "name": "Piplup-Bonus-Anime-MysteryDungeon-★",
           "slug": "piplup-anime-mystery-dungeon",
           "cssClass": ".pokesprite.pokemon.piplup-anime-mystery-dungeon.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Piplup-Bonus-MysteryDungeon-Super",
+          "slug": "piplup-mystery-dungeon-super",
+          "cssClass": ".pokesprite.pokemon.piplup-mystery-dungeon-super",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Piplup-Bonus-MysteryDungeon-Super-★",
+          "slug": "piplup-mystery-dungeon-super",
+          "cssClass": ".pokesprite.pokemon.piplup-mystery-dungeon-super.shiny",
           "modifiers": [
             "shiny"
           ],
@@ -59367,6 +59430,48 @@
           "cssClass": ".pokesprite.pokemon.buizel-f.shiny",
           "modifiers": [
             "shiny"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Buizel-Bonus-MysteryDungeon-Super-ExpiditionSociety",
+          "slug": "buizel-mystery-dungeon-super-expidition-society",
+          "cssClass": ".pokesprite.pokemon.buizel-mystery-dungeon-super-expidition-society",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Buizel-Bonus-MysteryDungeon-Super-ExpiditionSociety-★",
+          "slug": "buizel-mystery-dungeon-super-expidition-society",
+          "cssClass": ".pokesprite.pokemon.buizel-mystery-dungeon-super-expidition-society.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Buizel-Bonus-MysteryDungeon-Super-ExpiditionSociety-F",
+          "slug": "buizel-mystery-dungeon-super-expidition-society-f",
+          "cssClass": ".pokesprite.pokemon.buizel-mystery-dungeon-super-expidition-society-f",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Buizel-Bonus-MysteryDungeon-Super-ExpiditionSociety-F-★",
+          "slug": "buizel-mystery-dungeon-super-expidition-society-f",
+          "cssClass": ".pokesprite.pokemon.buizel-mystery-dungeon-super-expidition-society-f.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
           ]
         }
       }
@@ -67813,7 +67918,17 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Giratina-Bonus-Platinum-★",
+          "slug": "giratina-platinum",
+          "cssClass": ".pokesprite.pokemon.giratina-platinum.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -67827,7 +67942,18 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Giratina-Bonus-Platinum-3DS-★",
+          "slug": "giratina-platinum",
+          "cssClass": ".pokesprite.pokemon.giratina-platinum.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -67838,7 +67964,17 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Giratina-Origin-Bonus-BDSP-★",
+          "slug": "giratina-origin-bdsp",
+          "cssClass": ".pokesprite.pokemon.giratina-origin-bdsp.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -67852,7 +67988,18 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Giratina-Origin-Bonus-BDSP-3DS-★",
+          "slug": "giratina-origin-bdsp",
+          "cssClass": ".pokesprite.pokemon.giratina-origin-bdsp.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       }
     ]
   },
@@ -69031,6 +69178,48 @@
             "shiny"
           ]
         }
+      },
+      {
+        "regular": {
+          "name": "Snivy-Bonus-MysteryDungeon-GatesToInfinity",
+          "slug": "snivy-mystery-dungeon-gates-to-infinity",
+          "cssClass": ".pokesprite.pokemon.snivy-mystery-dungeon-gates-to-infinity",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Snivy-Bonus-MysteryDungeon-GatesToInfinity-★",
+          "slug": "snivy-mystery-dungeon-gates-to-infinity",
+          "cssClass": ".pokesprite.pokemon.snivy-mystery-dungeon-gates-to-infinity.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Snivy-Bonus-MysteryDungeon-Super",
+          "slug": "snivy-mystery-dungeon-super",
+          "cssClass": ".pokesprite.pokemon.snivy-mystery-dungeon-super",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Snivy-Bonus-MysteryDungeon-Super-★",
+          "slug": "snivy-mystery-dungeon-super",
+          "cssClass": ".pokesprite.pokemon.snivy-mystery-dungeon-super.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       }
     ]
   },
@@ -69130,6 +69319,48 @@
           "cssClass": ".pokesprite.pokemon.tepig.shiny",
           "modifiers": [
             "shiny"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Tepig-Bonus-MysteryDungeon-GatesToInfinity",
+          "slug": "tepig-mystery-dungeon-gates-to-infinity",
+          "cssClass": ".pokesprite.pokemon.tepig-mystery-dungeon-gates-to-infinity",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Tepig-Bonus-MysteryDungeon-GatesToInfinity-★",
+          "slug": "tepig-mystery-dungeon-gates-to-infinity",
+          "cssClass": ".pokesprite.pokemon.tepig-mystery-dungeon-gates-to-infinity.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Tepig-Bonus-MysteryDungeon-Super",
+          "slug": "tepig-mystery-dungeon-super",
+          "cssClass": ".pokesprite.pokemon.tepig-mystery-dungeon-super",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Tepig-Bonus-MysteryDungeon-Super-★",
+          "slug": "tepig-mystery-dungeon-super",
+          "cssClass": ".pokesprite.pokemon.tepig-mystery-dungeon-super.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
           ]
         }
       }
@@ -69349,6 +69580,48 @@
           "cssClass": ".pokesprite.pokemon.oshawott.shiny",
           "modifiers": [
             "shiny"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Oshawott-Bonus-MysteryDungeon-GatesToInfinity",
+          "slug": "oshawott-mystery-dungeon-gates-to-infinity",
+          "cssClass": ".pokesprite.pokemon.oshawott-mystery-dungeon-gates-to-infinity",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Oshawott-Bonus-MysteryDungeon-GatesToInfinity-★",
+          "slug": "oshawott-mystery-dungeon-gates-to-infinity",
+          "cssClass": ".pokesprite.pokemon.oshawott-mystery-dungeon-gates-to-infinity.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Oshawott-Bonus-MysteryDungeon-Super",
+          "slug": "oshawott-mystery-dungeon-super",
+          "cssClass": ".pokesprite.pokemon.oshawott-mystery-dungeon-super",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Oshawott-Bonus-MysteryDungeon-Super-★",
+          "slug": "oshawott-mystery-dungeon-super",
+          "cssClass": ".pokesprite.pokemon.oshawott-mystery-dungeon-super.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
           ]
         }
       }
@@ -72939,6 +73212,27 @@
           "cssClass": ".pokesprite.pokemon.archen.shiny",
           "modifiers": [
             "shiny"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Archen-Bonus-MysteryDungeon-Super-ExpiditionSociety",
+          "slug": "archen-mystery-dungeon-super-expidition-society",
+          "cssClass": ".pokesprite.pokemon.archen-mystery-dungeon-super-expidition-society",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Archen-Bonus-MysteryDungeon-Super-ExpiditionSociety-★",
+          "slug": "archen-mystery-dungeon-super-expidition-society",
+          "cssClass": ".pokesprite.pokemon.archen-mystery-dungeon-super-expidition-society.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
           ]
         }
       }
@@ -77599,6 +77893,27 @@
             "shiny"
           ]
         }
+      },
+      {
+        "regular": {
+          "name": "Chespin-Bonus-MysteryDungeon-Super",
+          "slug": "chespin-mystery-dungeon-super",
+          "cssClass": ".pokesprite.pokemon.chespin-mystery-dungeon-super",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Chespin-Bonus-MysteryDungeon-Super-★",
+          "slug": "chespin-mystery-dungeon-super",
+          "cssClass": ".pokesprite.pokemon.chespin-mystery-dungeon-super.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       }
     ]
   },
@@ -77732,6 +78047,27 @@
           "cssClass": ".pokesprite.pokemon.fennekin.shiny",
           "modifiers": [
             "shiny"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Fennekin-Bonus-MysteryDungeon-Super",
+          "slug": "fennekin-mystery-dungeon-super",
+          "cssClass": ".pokesprite.pokemon.fennekin-mystery-dungeon-super",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Fennekin-Bonus-MysteryDungeon-Super-★",
+          "slug": "fennekin-mystery-dungeon-super",
+          "cssClass": ".pokesprite.pokemon.fennekin-mystery-dungeon-super.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
           ]
         }
       }
@@ -77959,6 +78295,27 @@
           ],
           "categories": [
             "go"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Froakie-Bonus-MysteryDungeon-Super",
+          "slug": "froakie-mystery-dungeon-super",
+          "cssClass": ".pokesprite.pokemon.froakie-mystery-dungeon-super",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Froakie-Bonus-MysteryDungeon-Super-★",
+          "slug": "froakie-mystery-dungeon-super",
+          "cssClass": ".pokesprite.pokemon.froakie-mystery-dungeon-super.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
           ]
         }
       }
@@ -78589,6 +78946,27 @@
           "cssClass": ".pokesprite.pokemon.bunnelby.shiny",
           "modifiers": [
             "shiny"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Bunnelby-Bonus-MysteryDungeon-Super-ExpiditionSociety",
+          "slug": "bunnelby-mystery-dungeon-super-expidition-society",
+          "cssClass": ".pokesprite.pokemon.bunnelby-mystery-dungeon-super-expidition-society",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Bunnelby-Bonus-MysteryDungeon-Super-ExpiditionSociety-★",
+          "slug": "bunnelby-mystery-dungeon-super-expidition-society",
+          "cssClass": ".pokesprite.pokemon.bunnelby-mystery-dungeon-super-expidition-society.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
           ]
         }
       }
@@ -81430,6 +81808,27 @@
             "shiny"
           ]
         }
+      },
+      {
+        "regular": {
+          "name": "Swirlix-Bonus-MysteryDungeon-Super-ExpiditionSociety",
+          "slug": "swirlix-mystery-dungeon-super-expidition-society",
+          "cssClass": ".pokesprite.pokemon.swirlix-mystery-dungeon-super-expidition-society",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Swirlix-Bonus-MysteryDungeon-Super-ExpiditionSociety-★",
+          "slug": "swirlix-mystery-dungeon-super-expidition-society",
+          "cssClass": ".pokesprite.pokemon.swirlix-mystery-dungeon-super-expidition-society.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       }
     ]
   },
@@ -82465,6 +82864,52 @@
           ],
           "categories": [
             "go"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Dedenne-Bonus-MysteryDungeon-Super-ExpiditionSociety",
+          "slug": "dedenne-mystery-dungeon-super-expidition-society",
+          "cssClass": ".pokesprite.pokemon.dedenne-mystery-dungeon-super-expidition-society",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Dedenne-Bonus-MysteryDungeon-Super-ExpiditionSociety-★",
+          "slug": "dedenne-mystery-dungeon-super-expidition-society",
+          "cssClass": ".pokesprite.pokemon.dedenne-mystery-dungeon-super-expidition-society.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Dedenne-Bonus-MysteryDungeon-Super-ExpiditionSociety-3DS",
+          "slug": "dedenne-mystery-dungeon-super-expidition-society",
+          "cssClass": ".pokesprite.pokemon.dedenne-mystery-dungeon-super-expidition-society.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Dedenne-Bonus-MysteryDungeon-Super-ExpiditionSociety-3DS-★",
+          "slug": "dedenne-mystery-dungeon-super-expidition-society",
+          "cssClass": ".pokesprite.pokemon.dedenne-mystery-dungeon-super-expidition-society.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
           ]
         }
       }
