@@ -2584,98 +2584,6 @@
       },
       {
         "regular": {
-          "name": "Squirtle-Bonus--MysteryDungeon-ResuceTeamDX",
-          "slug": "squirtle--mystery-dungeon-resuce-team-dx",
-          "cssClass": ".pokesprite.pokemon.squirtle--mystery-dungeon-resuce-team-dx",
-          "categories": [
-            "bonus"
-          ]
-        },
-        "shiny": {
-          "name": "Squirtle-Bonus--MysteryDungeon-ResuceTeamDX-★",
-          "slug": "squirtle--mystery-dungeon-resuce-team-dx",
-          "cssClass": ".pokesprite.pokemon.squirtle--mystery-dungeon-resuce-team-dx.shiny",
-          "modifiers": [
-            "shiny"
-          ],
-          "categories": [
-            "bonus"
-          ]
-        }
-      },
-      {
-        "regular": {
-          "name": "Squirtle-Bonus--MysteryDungeon-ResuceTeamDX-3DS",
-          "slug": "squirtle--mystery-dungeon-resuce-team-dx",
-          "cssClass": ".pokesprite.pokemon.squirtle--mystery-dungeon-resuce-team-dx.n3ds",
-          "modifiers": [
-            "n3ds"
-          ],
-          "categories": [
-            "bonus"
-          ]
-        },
-        "shiny": {
-          "name": "Squirtle-Bonus--MysteryDungeon-ResuceTeamDX-3DS-★",
-          "slug": "squirtle--mystery-dungeon-resuce-team-dx",
-          "cssClass": ".pokesprite.pokemon.squirtle--mystery-dungeon-resuce-team-dx.shiny.n3ds",
-          "modifiers": [
-            "shiny",
-            "n3ds"
-          ],
-          "categories": [
-            "bonus"
-          ]
-        }
-      },
-      {
-        "regular": {
-          "name": "Squirtle-Bonus--MysteryDungeon-Super",
-          "slug": "squirtle--mystery-dungeon-super",
-          "cssClass": ".pokesprite.pokemon.squirtle--mystery-dungeon-super",
-          "categories": [
-            "bonus"
-          ]
-        },
-        "shiny": {
-          "name": "Squirtle-Bonus--MysteryDungeon-Super-★",
-          "slug": "squirtle--mystery-dungeon-super",
-          "cssClass": ".pokesprite.pokemon.squirtle--mystery-dungeon-super.shiny",
-          "modifiers": [
-            "shiny"
-          ],
-          "categories": [
-            "bonus"
-          ]
-        }
-      },
-      {
-        "regular": {
-          "name": "Squirtle-Bonus--MysteryDungeon-Super-3DS",
-          "slug": "squirtle--mystery-dungeon-super",
-          "cssClass": ".pokesprite.pokemon.squirtle--mystery-dungeon-super.n3ds",
-          "modifiers": [
-            "n3ds"
-          ],
-          "categories": [
-            "bonus"
-          ]
-        },
-        "shiny": {
-          "name": "Squirtle-Bonus--MysteryDungeon-Super-3DS-★",
-          "slug": "squirtle--mystery-dungeon-super",
-          "cssClass": ".pokesprite.pokemon.squirtle--mystery-dungeon-super.shiny.n3ds",
-          "modifiers": [
-            "shiny",
-            "n3ds"
-          ],
-          "categories": [
-            "bonus"
-          ]
-        }
-      },
-      {
-        "regular": {
           "name": "Squirtle-Bonus-Anime-Ash",
           "slug": "squirtle-anime-ash",
           "cssClass": ".pokesprite.pokemon.squirtle-anime-ash",
@@ -3171,6 +3079,144 @@
           "name": "Squirtle-Bonus-Anime-Squad-JN141-Yellow-3DS-★",
           "slug": "squirtle-anime-squad-jn141-yellow",
           "cssClass": ".pokesprite.pokemon.squirtle-anime-squad-jn141-yellow.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Squirtle-Bonus-MysteryDungeon-ExplorersofTimeDarkness",
+          "slug": "squirtle-mystery-dungeon-explorersof-time-darkness",
+          "cssClass": ".pokesprite.pokemon.squirtle-mystery-dungeon-explorersof-time-darkness",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Squirtle-Bonus-MysteryDungeon-ExplorersofTimeDarkness-★",
+          "slug": "squirtle-mystery-dungeon-explorersof-time-darkness",
+          "cssClass": ".pokesprite.pokemon.squirtle-mystery-dungeon-explorersof-time-darkness.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Squirtle-Bonus-MysteryDungeon-ExplorersofTimeDarkness-3DS",
+          "slug": "squirtle-mystery-dungeon-explorersof-time-darkness",
+          "cssClass": ".pokesprite.pokemon.squirtle-mystery-dungeon-explorersof-time-darkness.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Squirtle-Bonus-MysteryDungeon-ExplorersofTimeDarkness-3DS-★",
+          "slug": "squirtle-mystery-dungeon-explorersof-time-darkness",
+          "cssClass": ".pokesprite.pokemon.squirtle-mystery-dungeon-explorersof-time-darkness.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Squirtle-Bonus-MysteryDungeon-ResuceTeamDX",
+          "slug": "squirtle-mystery-dungeon-resuce-team-dx",
+          "cssClass": ".pokesprite.pokemon.squirtle-mystery-dungeon-resuce-team-dx",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Squirtle-Bonus-MysteryDungeon-ResuceTeamDX-★",
+          "slug": "squirtle-mystery-dungeon-resuce-team-dx",
+          "cssClass": ".pokesprite.pokemon.squirtle-mystery-dungeon-resuce-team-dx.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Squirtle-Bonus-MysteryDungeon-ResuceTeamDX-3DS",
+          "slug": "squirtle-mystery-dungeon-resuce-team-dx",
+          "cssClass": ".pokesprite.pokemon.squirtle-mystery-dungeon-resuce-team-dx.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Squirtle-Bonus-MysteryDungeon-ResuceTeamDX-3DS-★",
+          "slug": "squirtle-mystery-dungeon-resuce-team-dx",
+          "cssClass": ".pokesprite.pokemon.squirtle-mystery-dungeon-resuce-team-dx.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Squirtle-Bonus-MysteryDungeon-Super",
+          "slug": "squirtle-mystery-dungeon-super",
+          "cssClass": ".pokesprite.pokemon.squirtle-mystery-dungeon-super",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Squirtle-Bonus-MysteryDungeon-Super-★",
+          "slug": "squirtle-mystery-dungeon-super",
+          "cssClass": ".pokesprite.pokemon.squirtle-mystery-dungeon-super.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Squirtle-Bonus-MysteryDungeon-Super-3DS",
+          "slug": "squirtle-mystery-dungeon-super",
+          "cssClass": ".pokesprite.pokemon.squirtle-mystery-dungeon-super.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Squirtle-Bonus-MysteryDungeon-Super-3DS-★",
+          "slug": "squirtle-mystery-dungeon-super",
+          "cssClass": ".pokesprite.pokemon.squirtle-mystery-dungeon-super.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -13935,98 +13981,6 @@
       },
       {
         "regular": {
-          "name": "Pikachu-Bonus--MysteryDungeon-ResuceTeamDX",
-          "slug": "pikachu--mystery-dungeon-resuce-team-dx",
-          "cssClass": ".pokesprite.pokemon.pikachu--mystery-dungeon-resuce-team-dx",
-          "categories": [
-            "bonus"
-          ]
-        },
-        "shiny": {
-          "name": "Pikachu-Bonus--MysteryDungeon-ResuceTeamDX-★",
-          "slug": "pikachu--mystery-dungeon-resuce-team-dx",
-          "cssClass": ".pokesprite.pokemon.pikachu--mystery-dungeon-resuce-team-dx.shiny",
-          "modifiers": [
-            "shiny"
-          ],
-          "categories": [
-            "bonus"
-          ]
-        }
-      },
-      {
-        "regular": {
-          "name": "Pikachu-Bonus--MysteryDungeon-ResuceTeamDX-3DS",
-          "slug": "pikachu--mystery-dungeon-resuce-team-dx",
-          "cssClass": ".pokesprite.pokemon.pikachu--mystery-dungeon-resuce-team-dx.n3ds",
-          "modifiers": [
-            "n3ds"
-          ],
-          "categories": [
-            "bonus"
-          ]
-        },
-        "shiny": {
-          "name": "Pikachu-Bonus--MysteryDungeon-ResuceTeamDX-3DS-★",
-          "slug": "pikachu--mystery-dungeon-resuce-team-dx",
-          "cssClass": ".pokesprite.pokemon.pikachu--mystery-dungeon-resuce-team-dx.shiny.n3ds",
-          "modifiers": [
-            "shiny",
-            "n3ds"
-          ],
-          "categories": [
-            "bonus"
-          ]
-        }
-      },
-      {
-        "regular": {
-          "name": "Pikachu-Bonus--MysteryDungeon-ResuceTeamDX-F",
-          "slug": "pikachu--mystery-dungeon-resuce-team-dx-f",
-          "cssClass": ".pokesprite.pokemon.pikachu--mystery-dungeon-resuce-team-dx-f",
-          "categories": [
-            "bonus"
-          ]
-        },
-        "shiny": {
-          "name": "Pikachu-Bonus--MysteryDungeon-ResuceTeamDX-F-★",
-          "slug": "pikachu--mystery-dungeon-resuce-team-dx-f",
-          "cssClass": ".pokesprite.pokemon.pikachu--mystery-dungeon-resuce-team-dx-f.shiny",
-          "modifiers": [
-            "shiny"
-          ],
-          "categories": [
-            "bonus"
-          ]
-        }
-      },
-      {
-        "regular": {
-          "name": "Pikachu-Bonus--MysteryDungeon-ResuceTeamDX-F-3DS",
-          "slug": "pikachu--mystery-dungeon-resuce-team-dx-f",
-          "cssClass": ".pokesprite.pokemon.pikachu--mystery-dungeon-resuce-team-dx-f.n3ds",
-          "modifiers": [
-            "n3ds"
-          ],
-          "categories": [
-            "bonus"
-          ]
-        },
-        "shiny": {
-          "name": "Pikachu-Bonus--MysteryDungeon-ResuceTeamDX-F-3DS-★",
-          "slug": "pikachu--mystery-dungeon-resuce-team-dx-f",
-          "cssClass": ".pokesprite.pokemon.pikachu--mystery-dungeon-resuce-team-dx-f.shiny.n3ds",
-          "modifiers": [
-            "shiny",
-            "n3ds"
-          ],
-          "categories": [
-            "bonus"
-          ]
-        }
-      },
-      {
-        "regular": {
           "name": "Pikachu-Bonus--MysteryDungeon-Super",
           "slug": "pikachu--mystery-dungeon-super",
           "cssClass": ".pokesprite.pokemon.pikachu--mystery-dungeon-super",
@@ -14777,6 +14731,87 @@
           "name": "Pikachu-Bonus-Mechachu-3DS",
           "slug": "pikachu-mechachu",
           "cssClass": ".pokesprite.pokemon.pikachu-mechachu.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": null
+      },
+      {
+        "regular": {
+          "name": "Pikachu-Bonus-MysteryDungeon-ResuceTeamDX",
+          "slug": "pikachu-mystery-dungeon-resuce-team-dx",
+          "cssClass": ".pokesprite.pokemon.pikachu-mystery-dungeon-resuce-team-dx",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Pikachu-Bonus-MysteryDungeon-ResuceTeamDX-★",
+          "slug": "pikachu-mystery-dungeon-resuce-team-dx",
+          "cssClass": ".pokesprite.pokemon.pikachu-mystery-dungeon-resuce-team-dx.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Pikachu-Bonus-MysteryDungeon-ResuceTeamDX-3DS",
+          "slug": "pikachu-mystery-dungeon-resuce-team-dx",
+          "cssClass": ".pokesprite.pokemon.pikachu-mystery-dungeon-resuce-team-dx.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Pikachu-Bonus-MysteryDungeon-ResuceTeamDX-3DS-★",
+          "slug": "pikachu-mystery-dungeon-resuce-team-dx",
+          "cssClass": ".pokesprite.pokemon.pikachu-mystery-dungeon-resuce-team-dx.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Pikachu-Bonus-MysteryDungeon-ResuceTeamDX-F",
+          "slug": "pikachu-mystery-dungeon-resuce-team-dx-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-mystery-dungeon-resuce-team-dx-f",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Pikachu-Bonus-MysteryDungeon-ResuceTeamDX-F-★",
+          "slug": "pikachu-mystery-dungeon-resuce-team-dx-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-mystery-dungeon-resuce-team-dx-f.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Pikachu-Bonus-MysteryDungeon-ResuceTeamDX-F-3DS",
+          "slug": "pikachu-mystery-dungeon-resuce-team-dx-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-mystery-dungeon-resuce-team-dx-f.n3ds",
           "modifiers": [
             "n3ds"
           ],
@@ -20779,6 +20814,27 @@
           "name": "Meowth-Bonus-Anime-Tyson-★",
           "slug": "meowth-anime-tyson",
           "cssClass": ".pokesprite.pokemon.meowth-anime-tyson.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Meowth-Bonus-MysteryDungeon-ExplorersofTimeDarkness",
+          "slug": "meowth-mystery-dungeon-explorersof-time-darkness",
+          "cssClass": ".pokesprite.pokemon.meowth-mystery-dungeon-explorersof-time-darkness",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Meowth-Bonus-MysteryDungeon-ExplorersofTimeDarkness-★",
+          "slug": "meowth-mystery-dungeon-explorersof-time-darkness",
+          "cssClass": ".pokesprite.pokemon.meowth-mystery-dungeon-explorersof-time-darkness.shiny",
           "modifiers": [
             "shiny"
           ],
@@ -36130,6 +36186,27 @@
       },
       {
         "regular": {
+          "name": "Chikorita-Bonus-MysteryDungeon-ExplorersofTimeDarkness",
+          "slug": "chikorita-mystery-dungeon-explorersof-time-darkness",
+          "cssClass": ".pokesprite.pokemon.chikorita-mystery-dungeon-explorersof-time-darkness",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Chikorita-Bonus-MysteryDungeon-ExplorersofTimeDarkness-★",
+          "slug": "chikorita-mystery-dungeon-explorersof-time-darkness",
+          "cssClass": ".pokesprite.pokemon.chikorita-mystery-dungeon-explorersof-time-darkness.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
           "name": "Chikorita-Bonus-MysteryDungeon-RescueTeamDX",
           "slug": "chikorita-mystery-dungeon-rescue-team-dx",
           "cssClass": ".pokesprite.pokemon.chikorita-mystery-dungeon-rescue-team-dx",
@@ -36362,6 +36439,27 @@
       },
       {
         "regular": {
+          "name": "Cyndaquil-Bonus-MysteryDungeon-ExplorersofTimeDarkness",
+          "slug": "cyndaquil-mystery-dungeon-explorersof-time-darkness",
+          "cssClass": ".pokesprite.pokemon.cyndaquil-mystery-dungeon-explorersof-time-darkness",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Cyndaquil-Bonus-MysteryDungeon-ExplorersofTimeDarkness-★",
+          "slug": "cyndaquil-mystery-dungeon-explorersof-time-darkness",
+          "cssClass": ".pokesprite.pokemon.cyndaquil-mystery-dungeon-explorersof-time-darkness.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
           "name": "Cyndaquil-Bonus-MysteryDungeon-RescueTeamDX",
           "slug": "cyndaquil-mystery-dungeon-rescue-team-dx",
           "cssClass": ".pokesprite.pokemon.cyndaquil-mystery-dungeon-rescue-team-dx",
@@ -36580,6 +36678,27 @@
           "cssClass": ".pokesprite.pokemon.totodile.shiny",
           "modifiers": [
             "shiny"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Totodile-Bonus-MysteryDungeon-ExplorersofTimeDarkness",
+          "slug": "totodile-mystery-dungeon-explorersof-time-darkness",
+          "cssClass": ".pokesprite.pokemon.totodile-mystery-dungeon-explorersof-time-darkness",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Totodile-Bonus-MysteryDungeon-ExplorersofTimeDarkness-★",
+          "slug": "totodile-mystery-dungeon-explorersof-time-darkness",
+          "cssClass": ".pokesprite.pokemon.totodile-mystery-dungeon-explorersof-time-darkness.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
           ]
         }
       },
@@ -47822,6 +47941,48 @@
       },
       {
         "regular": {
+          "name": "Torchic-Bonus-MysteryDungeon-ExplorersofTimeDarkness",
+          "slug": "torchic-mystery-dungeon-explorersof-time-darkness",
+          "cssClass": ".pokesprite.pokemon.torchic-mystery-dungeon-explorersof-time-darkness",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Torchic-Bonus-MysteryDungeon-ExplorersofTimeDarkness-★",
+          "slug": "torchic-mystery-dungeon-explorersof-time-darkness",
+          "cssClass": ".pokesprite.pokemon.torchic-mystery-dungeon-explorersof-time-darkness.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Torchic-Bonus-MysteryDungeon-ExplorersofTimeDarkness-F",
+          "slug": "torchic-mystery-dungeon-explorersof-time-darkness-f",
+          "cssClass": ".pokesprite.pokemon.torchic-mystery-dungeon-explorersof-time-darkness-f",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Torchic-Bonus-MysteryDungeon-ExplorersofTimeDarkness-F-★",
+          "slug": "torchic-mystery-dungeon-explorersof-time-darkness-f",
+          "cssClass": ".pokesprite.pokemon.torchic-mystery-dungeon-explorersof-time-darkness-f.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
           "name": "Torchic-Bonus-MysteryDungeon-RescueTeamDX",
           "slug": "torchic-mystery-dungeon-rescue-team-dx",
           "cssClass": ".pokesprite.pokemon.torchic-mystery-dungeon-rescue-team-dx",
@@ -48299,6 +48460,27 @@
           "name": "Mudkip-Bonus-Anime-AG015-★",
           "slug": "mudkip-anime-ag015",
           "cssClass": ".pokesprite.pokemon.mudkip-anime-ag015.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Mudkip-Bonus-MysteryDungeon-ExplorersofTimeDarkness",
+          "slug": "mudkip-mystery-dungeon-explorersof-time-darkness",
+          "cssClass": ".pokesprite.pokemon.mudkip-mystery-dungeon-explorersof-time-darkness",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Mudkip-Bonus-MysteryDungeon-ExplorersofTimeDarkness-★",
+          "slug": "mudkip-mystery-dungeon-explorersof-time-darkness",
+          "cssClass": ".pokesprite.pokemon.mudkip-mystery-dungeon-explorersof-time-darkness.shiny",
           "modifiers": [
             "shiny"
           ],
@@ -50765,6 +50947,27 @@
           "cssClass": ".pokesprite.pokemon.skitty.shiny",
           "modifiers": [
             "shiny"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Skitty-Bonus-MysteryDungeon-ExplorersofTimeDarkness",
+          "slug": "skitty-mystery-dungeon-explorersof-time-darkness",
+          "cssClass": ".pokesprite.pokemon.skitty-mystery-dungeon-explorersof-time-darkness",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Skitty-Bonus-MysteryDungeon-ExplorersofTimeDarkness-★",
+          "slug": "skitty-mystery-dungeon-explorersof-time-darkness",
+          "cssClass": ".pokesprite.pokemon.skitty-mystery-dungeon-explorersof-time-darkness.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
           ]
         }
       },
@@ -57161,6 +57364,27 @@
       },
       {
         "regular": {
+          "name": "Turtwig-Bonus-MysteryDungeon-ExplorersofTimeDarkness",
+          "slug": "turtwig-mystery-dungeon-explorersof-time-darkness",
+          "cssClass": ".pokesprite.pokemon.turtwig-mystery-dungeon-explorersof-time-darkness",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Turtwig-Bonus-MysteryDungeon-ExplorersofTimeDarkness-★",
+          "slug": "turtwig-mystery-dungeon-explorersof-time-darkness",
+          "cssClass": ".pokesprite.pokemon.turtwig-mystery-dungeon-explorersof-time-darkness.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
           "name": "Turtwig-Bonus-MysteryDungeon-Super",
           "slug": "turtwig-mystery-dungeon-super",
           "cssClass": ".pokesprite.pokemon.turtwig-mystery-dungeon-super",
@@ -57336,6 +57560,27 @@
           "name": "Chimchar-Bonus-Anime-MysteryDungeon-★",
           "slug": "chimchar-anime-mystery-dungeon",
           "cssClass": ".pokesprite.pokemon.chimchar-anime-mystery-dungeon.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Chimchar-Bonus-MysteryDungeon-ExplorersofTimeDarkness",
+          "slug": "chimchar-mystery-dungeon-explorersof-time-darkness",
+          "cssClass": ".pokesprite.pokemon.chimchar-mystery-dungeon-explorersof-time-darkness",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Chimchar-Bonus-MysteryDungeon-ExplorersofTimeDarkness-★",
+          "slug": "chimchar-mystery-dungeon-explorersof-time-darkness",
+          "cssClass": ".pokesprite.pokemon.chimchar-mystery-dungeon-explorersof-time-darkness.shiny",
           "modifiers": [
             "shiny"
           ],
@@ -57563,6 +57808,27 @@
           "name": "Piplup-Bonus-Anime-MysteryDungeon-★",
           "slug": "piplup-anime-mystery-dungeon",
           "cssClass": ".pokesprite.pokemon.piplup-anime-mystery-dungeon.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Piplup-Bonus-MysteryDungeon-ExplorersofTimeDarkness",
+          "slug": "piplup-mystery-dungeon-explorersof-time-darkness",
+          "cssClass": ".pokesprite.pokemon.piplup-mystery-dungeon-explorersof-time-darkness",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Piplup-Bonus-MysteryDungeon-ExplorersofTimeDarkness-★",
+          "slug": "piplup-mystery-dungeon-explorersof-time-darkness",
+          "cssClass": ".pokesprite.pokemon.piplup-mystery-dungeon-explorersof-time-darkness.shiny",
           "modifiers": [
             "shiny"
           ],
