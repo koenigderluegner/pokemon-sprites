@@ -36127,6 +36127,48 @@
             "bonus"
           ]
         }
+      },
+      {
+        "regular": {
+          "name": "Chikorita-Bonus-MysteryDungeon-RescueTeamDX",
+          "slug": "chikorita-mystery-dungeon-rescue-team-dx",
+          "cssClass": ".pokesprite.pokemon.chikorita-mystery-dungeon-rescue-team-dx",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Chikorita-Bonus-MysteryDungeon-RescueTeamDX-★",
+          "slug": "chikorita-mystery-dungeon-rescue-team-dx",
+          "cssClass": ".pokesprite.pokemon.chikorita-mystery-dungeon-rescue-team-dx.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Chikorita-Bonus-MysteryDungeon-Super",
+          "slug": "chikorita-mystery-dungeon-super",
+          "cssClass": ".pokesprite.pokemon.chikorita-mystery-dungeon-super",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Chikorita-Bonus-MysteryDungeon-Super-★",
+          "slug": "chikorita-mystery-dungeon-super",
+          "cssClass": ".pokesprite.pokemon.chikorita-mystery-dungeon-super.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       }
     ]
   },
@@ -36317,6 +36359,48 @@
             "bonus"
           ]
         }
+      },
+      {
+        "regular": {
+          "name": "Cyndaquil-Bonus-MysteryDungeon-RescueTeamDX",
+          "slug": "cyndaquil-mystery-dungeon-rescue-team-dx",
+          "cssClass": ".pokesprite.pokemon.cyndaquil-mystery-dungeon-rescue-team-dx",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Cyndaquil-Bonus-MysteryDungeon-RescueTeamDX-★",
+          "slug": "cyndaquil-mystery-dungeon-rescue-team-dx",
+          "cssClass": ".pokesprite.pokemon.cyndaquil-mystery-dungeon-rescue-team-dx.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Cyndaquil-Bonus-MysteryDungeon-Super",
+          "slug": "cyndaquil-mystery-dungeon-super",
+          "cssClass": ".pokesprite.pokemon.cyndaquil-mystery-dungeon-super",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Cyndaquil-Bonus-MysteryDungeon-Super-★",
+          "slug": "cyndaquil-mystery-dungeon-super",
+          "cssClass": ".pokesprite.pokemon.cyndaquil-mystery-dungeon-super.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       }
     ]
   },
@@ -36496,6 +36580,48 @@
           "cssClass": ".pokesprite.pokemon.totodile.shiny",
           "modifiers": [
             "shiny"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Totodile-Bonus-MysteryDungeon-RescueTeamDX",
+          "slug": "totodile-mystery-dungeon-rescue-team-dx",
+          "cssClass": ".pokesprite.pokemon.totodile-mystery-dungeon-rescue-team-dx",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Totodile-Bonus-MysteryDungeon-RescueTeamDX-★",
+          "slug": "totodile-mystery-dungeon-rescue-team-dx",
+          "cssClass": ".pokesprite.pokemon.totodile-mystery-dungeon-rescue-team-dx.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Totodile-Bonus-MysteryDungeon-Super",
+          "slug": "totodile-mystery-dungeon-super",
+          "cssClass": ".pokesprite.pokemon.totodile-mystery-dungeon-super",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Totodile-Bonus-MysteryDungeon-Super-★",
+          "slug": "totodile-mystery-dungeon-super",
+          "cssClass": ".pokesprite.pokemon.totodile-mystery-dungeon-super.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
           ]
         }
       }
@@ -64578,6 +64704,81 @@
           "name": "Rotom-Bonus-Smartphone-LZA-3DS",
           "slug": "rotom-smartphone-lza",
           "cssClass": ".pokesprite.pokemon.rotom-smartphone-lza.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": null
+      },
+      {
+        "regular": {
+          "name": "Rotom-Bonus-Smartphone-LZA-Canari",
+          "slug": "rotom-smartphone-lza-canari",
+          "cssClass": ".pokesprite.pokemon.rotom-smartphone-lza-canari",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": null
+      },
+      {
+        "regular": {
+          "name": "Rotom-Bonus-Smartphone-LZA-Canari-3DS",
+          "slug": "rotom-smartphone-lza-canari",
+          "cssClass": ".pokesprite.pokemon.rotom-smartphone-lza-canari.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": null
+      },
+      {
+        "regular": {
+          "name": "Rotom-Bonus-Smartphone-LZA-Gywnn",
+          "slug": "rotom-smartphone-lza-gywnn",
+          "cssClass": ".pokesprite.pokemon.rotom-smartphone-lza-gywnn",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": null
+      },
+      {
+        "regular": {
+          "name": "Rotom-Bonus-Smartphone-LZA-Gywnn-3DS",
+          "slug": "rotom-smartphone-lza-gywnn",
+          "cssClass": ".pokesprite.pokemon.rotom-smartphone-lza-gywnn.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": null
+      },
+      {
+        "regular": {
+          "name": "Rotom-Bonus-Smartphone-LZA-Vinnie",
+          "slug": "rotom-smartphone-lza-vinnie",
+          "cssClass": ".pokesprite.pokemon.rotom-smartphone-lza-vinnie",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": null
+      },
+      {
+        "regular": {
+          "name": "Rotom-Bonus-Smartphone-LZA-Vinnie-3DS",
+          "slug": "rotom-smartphone-lza-vinnie",
+          "cssClass": ".pokesprite.pokemon.rotom-smartphone-lza-vinnie.n3ds",
           "modifiers": [
             "n3ds"
           ],
