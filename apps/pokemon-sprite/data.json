@@ -2584,6 +2584,98 @@
       },
       {
         "regular": {
+          "name": "Squirtle-Bonus--MysteryDungeon-ResuceTeamDX",
+          "slug": "squirtle--mystery-dungeon-resuce-team-dx",
+          "cssClass": ".pokesprite.pokemon.squirtle--mystery-dungeon-resuce-team-dx",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Squirtle-Bonus--MysteryDungeon-ResuceTeamDX-★",
+          "slug": "squirtle--mystery-dungeon-resuce-team-dx",
+          "cssClass": ".pokesprite.pokemon.squirtle--mystery-dungeon-resuce-team-dx.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Squirtle-Bonus--MysteryDungeon-ResuceTeamDX-3DS",
+          "slug": "squirtle--mystery-dungeon-resuce-team-dx",
+          "cssClass": ".pokesprite.pokemon.squirtle--mystery-dungeon-resuce-team-dx.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Squirtle-Bonus--MysteryDungeon-ResuceTeamDX-3DS-★",
+          "slug": "squirtle--mystery-dungeon-resuce-team-dx",
+          "cssClass": ".pokesprite.pokemon.squirtle--mystery-dungeon-resuce-team-dx.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Squirtle-Bonus--MysteryDungeon-Super",
+          "slug": "squirtle--mystery-dungeon-super",
+          "cssClass": ".pokesprite.pokemon.squirtle--mystery-dungeon-super",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Squirtle-Bonus--MysteryDungeon-Super-★",
+          "slug": "squirtle--mystery-dungeon-super",
+          "cssClass": ".pokesprite.pokemon.squirtle--mystery-dungeon-super.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Squirtle-Bonus--MysteryDungeon-Super-3DS",
+          "slug": "squirtle--mystery-dungeon-super",
+          "cssClass": ".pokesprite.pokemon.squirtle--mystery-dungeon-super.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Squirtle-Bonus--MysteryDungeon-Super-3DS-★",
+          "slug": "squirtle--mystery-dungeon-super",
+          "cssClass": ".pokesprite.pokemon.squirtle--mystery-dungeon-super.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
           "name": "Squirtle-Bonus-Anime-Ash",
           "slug": "squirtle-anime-ash",
           "cssClass": ".pokesprite.pokemon.squirtle-anime-ash",
@@ -55020,6 +55112,52 @@
       },
       {
         "regular": {
+          "name": "Kyogre-Bonus-Manga-SeaDemon",
+          "slug": "kyogre-manga-sea-demon",
+          "cssClass": ".pokesprite.pokemon.kyogre-manga-sea-demon",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Kyogre-Bonus-Manga-SeaDemon-★",
+          "slug": "kyogre-manga-sea-demon",
+          "cssClass": ".pokesprite.pokemon.kyogre-manga-sea-demon.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Kyogre-Bonus-Manga-SeaDemon-3DS",
+          "slug": "kyogre-manga-sea-demon",
+          "cssClass": ".pokesprite.pokemon.kyogre-manga-sea-demon.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Kyogre-Bonus-Manga-SeaDemon-3DS-★",
+          "slug": "kyogre-manga-sea-demon",
+          "cssClass": ".pokesprite.pokemon.kyogre-manga-sea-demon.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
           "name": "Kyogre-Bonus-XDGoD",
           "slug": "kyogre-xdgo-d",
           "cssClass": ".pokesprite.pokemon.kyogre-xdgo-d",
@@ -61611,6 +61749,52 @@
           "modifiers": [
             "n3ds",
             "shiny"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Lickilicky-Bonus-Anime-Movie10-BaronAlberto",
+          "slug": "lickilicky-anime-movie10-baron-alberto",
+          "cssClass": ".pokesprite.pokemon.lickilicky-anime-movie10-baron-alberto",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Lickilicky-Bonus-Anime-Movie10-BaronAlberto-★",
+          "slug": "lickilicky-anime-movie10-baron-alberto",
+          "cssClass": ".pokesprite.pokemon.lickilicky-anime-movie10-baron-alberto.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Lickilicky-Bonus-Anime-Movie10-BaronAlberto-3DS",
+          "slug": "lickilicky-anime-movie10-baron-alberto",
+          "cssClass": ".pokesprite.pokemon.lickilicky-anime-movie10-baron-alberto.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Lickilicky-Bonus-Anime-Movie10-BaronAlberto-3DS-★",
+          "slug": "lickilicky-anime-movie10-baron-alberto",
+          "cssClass": ".pokesprite.pokemon.lickilicky-anime-movie10-baron-alberto.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
           ]
         }
       }
