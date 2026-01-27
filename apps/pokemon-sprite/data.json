@@ -18561,17 +18561,17 @@
       },
       {
         "regular": {
-          "name": "Vulpix-Bonus-MysteryDungeon-ExplorersOfSky-BlueScarf",
-          "slug": "vulpix-mystery-dungeon-explorers-of-sky-blue-scarf",
-          "cssClass": ".pokesprite.pokemon.vulpix-mystery-dungeon-explorers-of-sky-blue-scarf",
+          "name": "Vulpix-Bonus-MysteryDungeon-ExplorersOfSky",
+          "slug": "vulpix-mystery-dungeon-explorers-of-sky",
+          "cssClass": ".pokesprite.pokemon.vulpix-mystery-dungeon-explorers-of-sky",
           "categories": [
             "bonus"
           ]
         },
         "shiny": {
-          "name": "Vulpix-Bonus-MysteryDungeon-ExplorersOfSky-BlueScarf-★",
-          "slug": "vulpix-mystery-dungeon-explorers-of-sky-blue-scarf",
-          "cssClass": ".pokesprite.pokemon.vulpix-mystery-dungeon-explorers-of-sky-blue-scarf.shiny",
+          "name": "Vulpix-Bonus-MysteryDungeon-ExplorersOfSky-★",
+          "slug": "vulpix-mystery-dungeon-explorers-of-sky",
+          "cssClass": ".pokesprite.pokemon.vulpix-mystery-dungeon-explorers-of-sky.shiny",
           "modifiers": [
             "shiny"
           ],
@@ -45507,17 +45507,17 @@
       },
       {
         "regular": {
-          "name": "Phanpy-Bonus-MysteryDungeon-ExplorersOfSky-PurpleScarf",
-          "slug": "phanpy-mystery-dungeon-explorers-of-sky-purple-scarf",
-          "cssClass": ".pokesprite.pokemon.phanpy-mystery-dungeon-explorers-of-sky-purple-scarf",
+          "name": "Phanpy-Bonus-MysteryDungeon-ExplorersOfSky",
+          "slug": "phanpy-mystery-dungeon-explorers-of-sky",
+          "cssClass": ".pokesprite.pokemon.phanpy-mystery-dungeon-explorers-of-sky",
           "categories": [
             "bonus"
           ]
         },
         "shiny": {
-          "name": "Phanpy-Bonus-MysteryDungeon-ExplorersOfSky-PurpleScarf-★",
-          "slug": "phanpy-mystery-dungeon-explorers-of-sky-purple-scarf",
-          "cssClass": ".pokesprite.pokemon.phanpy-mystery-dungeon-explorers-of-sky-purple-scarf.shiny",
+          "name": "Phanpy-Bonus-MysteryDungeon-ExplorersOfSky-★",
+          "slug": "phanpy-mystery-dungeon-explorers-of-sky",
+          "cssClass": ".pokesprite.pokemon.phanpy-mystery-dungeon-explorers-of-sky.shiny",
           "modifiers": [
             "shiny"
           ],
@@ -45528,9 +45528,9 @@
       },
       {
         "regular": {
-          "name": "Phanpy-Bonus-MysteryDungeon-ExplorersOfSky-PurpleScarf-3DS",
-          "slug": "phanpy-mystery-dungeon-explorers-of-sky-purple-scarf",
-          "cssClass": ".pokesprite.pokemon.phanpy-mystery-dungeon-explorers-of-sky-purple-scarf.n3ds",
+          "name": "Phanpy-Bonus-MysteryDungeon-ExplorersOfSky-3DS",
+          "slug": "phanpy-mystery-dungeon-explorers-of-sky",
+          "cssClass": ".pokesprite.pokemon.phanpy-mystery-dungeon-explorers-of-sky.n3ds",
           "modifiers": [
             "n3ds"
           ],
@@ -45539,9 +45539,9 @@
           ]
         },
         "shiny": {
-          "name": "Phanpy-Bonus-MysteryDungeon-ExplorersOfSky-PurpleScarf-3DS-★",
-          "slug": "phanpy-mystery-dungeon-explorers-of-sky-purple-scarf",
-          "cssClass": ".pokesprite.pokemon.phanpy-mystery-dungeon-explorers-of-sky-purple-scarf.shiny.n3ds",
+          "name": "Phanpy-Bonus-MysteryDungeon-ExplorersOfSky-3DS-★",
+          "slug": "phanpy-mystery-dungeon-explorers-of-sky",
+          "cssClass": ".pokesprite.pokemon.phanpy-mystery-dungeon-explorers-of-sky.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -50765,6 +50765,27 @@
           "cssClass": ".pokesprite.pokemon.skitty.shiny",
           "modifiers": [
             "shiny"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Skitty-Bonus-MysteryDungeon-RescueTeamEX",
+          "slug": "skitty-mystery-dungeon-rescue-team-ex",
+          "cssClass": ".pokesprite.pokemon.skitty-mystery-dungeon-rescue-team-ex",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Skitty-Bonus-MysteryDungeon-RescueTeamEX-★",
+          "slug": "skitty-mystery-dungeon-rescue-team-ex",
+          "cssClass": ".pokesprite.pokemon.skitty-mystery-dungeon-rescue-team-ex.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
           ]
         }
       }
@@ -58128,6 +58149,48 @@
             "go"
           ]
         }
+      },
+      {
+        "regular": {
+          "name": "Shinx-Bonus-MysteryDungeon-ExplorersOfSky",
+          "slug": "shinx-mystery-dungeon-explorers-of-sky",
+          "cssClass": ".pokesprite.pokemon.shinx-mystery-dungeon-explorers-of-sky",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Shinx-Bonus-MysteryDungeon-ExplorersOfSky-★",
+          "slug": "shinx-mystery-dungeon-explorers-of-sky",
+          "cssClass": ".pokesprite.pokemon.shinx-mystery-dungeon-explorers-of-sky.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Shinx-Bonus-MysteryDungeon-ExplorersOfSky-F",
+          "slug": "shinx-mystery-dungeon-explorers-of-sky-f",
+          "cssClass": ".pokesprite.pokemon.shinx-mystery-dungeon-explorers-of-sky-f",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Shinx-Bonus-MysteryDungeon-ExplorersOfSky-F-★",
+          "slug": "shinx-mystery-dungeon-explorers-of-sky-f",
+          "cssClass": ".pokesprite.pokemon.shinx-mystery-dungeon-explorers-of-sky-f.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       }
     ]
   },
@@ -61090,6 +61153,52 @@
             "shiny"
           ]
         }
+      },
+      {
+        "regular": {
+          "name": "Munchlax-Bonus-MysteryDungeon-ExplorersofTimeDarkness",
+          "slug": "munchlax-mystery-dungeon-explorersof-time-darkness",
+          "cssClass": ".pokesprite.pokemon.munchlax-mystery-dungeon-explorersof-time-darkness",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Munchlax-Bonus-MysteryDungeon-ExplorersofTimeDarkness-★",
+          "slug": "munchlax-mystery-dungeon-explorersof-time-darkness",
+          "cssClass": ".pokesprite.pokemon.munchlax-mystery-dungeon-explorersof-time-darkness.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Munchlax-Bonus-MysteryDungeon-ExplorersofTimeDarkness-3DS",
+          "slug": "munchlax-mystery-dungeon-explorersof-time-darkness",
+          "cssClass": ".pokesprite.pokemon.munchlax-mystery-dungeon-explorersof-time-darkness.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Munchlax-Bonus-MysteryDungeon-ExplorersofTimeDarkness-3DS-★",
+          "slug": "munchlax-mystery-dungeon-explorersof-time-darkness",
+          "cssClass": ".pokesprite.pokemon.munchlax-mystery-dungeon-explorersof-time-darkness.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       }
     ]
   },
@@ -61109,6 +61218,48 @@
           "cssClass": ".pokesprite.pokemon.riolu.shiny",
           "modifiers": [
             "shiny"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Riolu-Bonus-MysteryDungeon-ExplorersOfSky",
+          "slug": "riolu-mystery-dungeon-explorers-of-sky",
+          "cssClass": ".pokesprite.pokemon.riolu-mystery-dungeon-explorers-of-sky",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Riolu-Bonus-MysteryDungeon-ExplorersOfSky-★",
+          "slug": "riolu-mystery-dungeon-explorers-of-sky",
+          "cssClass": ".pokesprite.pokemon.riolu-mystery-dungeon-explorers-of-sky.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Riolu-Bonus-MysteryDungeon-Super",
+          "slug": "riolu-mystery-dungeon-super",
+          "cssClass": ".pokesprite.pokemon.riolu-mystery-dungeon-super",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Riolu-Bonus-MysteryDungeon-Super-★",
+          "slug": "riolu-mystery-dungeon-super",
+          "cssClass": ".pokesprite.pokemon.riolu-mystery-dungeon-super.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
           ]
         }
       }
