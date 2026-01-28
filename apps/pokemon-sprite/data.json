@@ -37320,6 +37320,44 @@
             "n3ds"
           ]
         }
+      },
+      {
+        "regular": {
+          "name": "Meganium-Mega-F-Switch-SwSh",
+          "slug": "meganium-mega-f-sw-sh",
+          "cssClass": ".pokesprite.pokemon.meganium-mega-f-sw-sh.switch",
+          "modifiers": [
+            "switch"
+          ]
+        },
+        "shiny": {
+          "name": "Meganium-Mega-F-Switch-SwSh-★",
+          "slug": "meganium-mega-f-sw-sh",
+          "cssClass": ".pokesprite.pokemon.meganium-mega-f-sw-sh.shiny.switch",
+          "modifiers": [
+            "shiny",
+            "switch"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Meganium-Mega-Switch-SwSh",
+          "slug": "meganium-mega-sw-sh",
+          "cssClass": ".pokesprite.pokemon.meganium-mega-sw-sh.switch",
+          "modifiers": [
+            "switch"
+          ]
+        },
+        "shiny": {
+          "name": "Meganium-Mega-Switch-SwSh-★",
+          "slug": "meganium-mega-sw-sh",
+          "cssClass": ".pokesprite.pokemon.meganium-mega-sw-sh.shiny.switch",
+          "modifiers": [
+            "shiny",
+            "switch"
+          ]
+        }
       }
     ]
   },
@@ -37781,6 +37819,25 @@
           "modifiers": [
             "shiny",
             "n3ds"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Feraligatr-Mega-Switch-SwSh",
+          "slug": "feraligatr-mega-sw-sh",
+          "cssClass": ".pokesprite.pokemon.feraligatr-mega-sw-sh.switch",
+          "modifiers": [
+            "switch"
+          ]
+        },
+        "shiny": {
+          "name": "Feraligatr-Mega-Switch-SwSh-★",
+          "slug": "feraligatr-mega-sw-sh",
+          "cssClass": ".pokesprite.pokemon.feraligatr-mega-sw-sh.shiny.switch",
+          "modifiers": [
+            "shiny",
+            "switch"
           ]
         }
       },
@@ -39294,6 +39351,17 @@
             "n3ds"
           ]
         }
+      },
+      {
+        "regular": {
+          "name": "Ampharos-Mega-Switch-SwSh",
+          "slug": "ampharos-mega-sw-sh",
+          "cssClass": ".pokesprite.pokemon.ampharos-mega-sw-sh.switch",
+          "modifiers": [
+            "switch"
+          ]
+        },
+        "shiny": null
       },
       {
         "regular": {
@@ -43844,6 +43912,44 @@
       },
       {
         "regular": {
+          "name": "Steelix-Mega-F-Switch-SwSh",
+          "slug": "steelix-mega-f-sw-sh",
+          "cssClass": ".pokesprite.pokemon.steelix-mega-f-sw-sh.switch",
+          "modifiers": [
+            "switch"
+          ]
+        },
+        "shiny": {
+          "name": "Steelix-Mega-F-Switch-SwSh-★",
+          "slug": "steelix-mega-f-sw-sh",
+          "cssClass": ".pokesprite.pokemon.steelix-mega-f-sw-sh.shiny.switch",
+          "modifiers": [
+            "shiny",
+            "switch"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Steelix-Mega-Switch-SwSh",
+          "slug": "steelix-mega-sw-sh",
+          "cssClass": ".pokesprite.pokemon.steelix-mega-sw-sh.switch",
+          "modifiers": [
+            "switch"
+          ]
+        },
+        "shiny": {
+          "name": "Steelix-Mega-Switch-SwSh-★",
+          "slug": "steelix-mega-sw-sh",
+          "cssClass": ".pokesprite.pokemon.steelix-mega-sw-sh.shiny.switch",
+          "modifiers": [
+            "shiny",
+            "switch"
+          ]
+        }
+      },
+      {
+        "regular": {
           "name": "Steelix-Bonus-Anime-Movie08-RedArmy",
           "slug": "steelix-anime-movie08-red-army",
           "cssClass": ".pokesprite.pokemon.steelix-anime-movie08-red-army",
@@ -44313,6 +44419,44 @@
       },
       {
         "regular": {
+          "name": "Scizor-Mega-F-Switch-SwSh",
+          "slug": "scizor-mega-f-sw-sh",
+          "cssClass": ".pokesprite.pokemon.scizor-mega-f-sw-sh.switch",
+          "modifiers": [
+            "switch"
+          ]
+        },
+        "shiny": {
+          "name": "Scizor-Mega-F-Switch-SwSh-★",
+          "slug": "scizor-mega-f-sw-sh",
+          "cssClass": ".pokesprite.pokemon.scizor-mega-f-sw-sh.shiny.switch",
+          "modifiers": [
+            "shiny",
+            "switch"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Scizor-Mega-Switch-SwSh",
+          "slug": "scizor-mega-sw-sh",
+          "cssClass": ".pokesprite.pokemon.scizor-mega-sw-sh.switch",
+          "modifiers": [
+            "switch"
+          ]
+        },
+        "shiny": {
+          "name": "Scizor-Mega-Switch-SwSh-★",
+          "slug": "scizor-mega-sw-sh",
+          "cssClass": ".pokesprite.pokemon.scizor-mega-sw-sh.shiny.switch",
+          "modifiers": [
+            "shiny",
+            "switch"
+          ]
+        }
+      },
+      {
+        "regular": {
           "name": "Scizor-Bonus-Pokken",
           "slug": "scizor-pokken",
           "cssClass": ".pokesprite.pokemon.scizor-pokken",
@@ -44584,6 +44728,82 @@
           "modifiers": [
             "shiny",
             "n3ds"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Heracross-Mega-F-Switch-SwSh",
+          "slug": "heracross-mega-f-sw-sh",
+          "cssClass": ".pokesprite.pokemon.heracross-mega-f-sw-sh.switch",
+          "modifiers": [
+            "switch"
+          ]
+        },
+        "shiny": {
+          "name": "Heracross-Mega-F-Switch-SwSh-★",
+          "slug": "heracross-mega-f-sw-sh",
+          "cssClass": ".pokesprite.pokemon.heracross-mega-f-sw-sh.shiny.switch",
+          "modifiers": [
+            "shiny",
+            "switch"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Heracross-Mega-F-Switch-SwSh-Optional",
+          "slug": "heracross-mega-f-sw-sh-optional",
+          "cssClass": ".pokesprite.pokemon.heracross-mega-f-sw-sh-optional.switch",
+          "modifiers": [
+            "switch"
+          ]
+        },
+        "shiny": {
+          "name": "Heracross-Mega-F-Switch-SwSh-Optional-★",
+          "slug": "heracross-mega-f-sw-sh-optional",
+          "cssClass": ".pokesprite.pokemon.heracross-mega-f-sw-sh-optional.shiny.switch",
+          "modifiers": [
+            "shiny",
+            "switch"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Heracross-Mega-Switch-SwSh",
+          "slug": "heracross-mega-sw-sh",
+          "cssClass": ".pokesprite.pokemon.heracross-mega-sw-sh.switch",
+          "modifiers": [
+            "switch"
+          ]
+        },
+        "shiny": {
+          "name": "Heracross-Mega-Switch-SwSh-★",
+          "slug": "heracross-mega-sw-sh",
+          "cssClass": ".pokesprite.pokemon.heracross-mega-sw-sh.shiny.switch",
+          "modifiers": [
+            "shiny",
+            "switch"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Heracross-Mega-Switch-SwSh-Optional",
+          "slug": "heracross-mega-sw-sh-optional",
+          "cssClass": ".pokesprite.pokemon.heracross-mega-sw-sh-optional.switch",
+          "modifiers": [
+            "switch"
+          ]
+        },
+        "shiny": {
+          "name": "Heracross-Mega-Switch-SwSh-Optional-★",
+          "slug": "heracross-mega-sw-sh-optional",
+          "cssClass": ".pokesprite.pokemon.heracross-mega-sw-sh-optional.shiny.switch",
+          "modifiers": [
+            "shiny",
+            "switch"
           ]
         }
       },
@@ -46171,6 +46391,44 @@
       },
       {
         "regular": {
+          "name": "Skarmory-Mega-Switch-SwSh",
+          "slug": "skarmory-mega-sw-sh",
+          "cssClass": ".pokesprite.pokemon.skarmory-mega-sw-sh.switch",
+          "modifiers": [
+            "switch"
+          ]
+        },
+        "shiny": {
+          "name": "Skarmory-Mega-Switch-SwSh-★",
+          "slug": "skarmory-mega-sw-sh",
+          "cssClass": ".pokesprite.pokemon.skarmory-mega-sw-sh.shiny.switch",
+          "modifiers": [
+            "shiny",
+            "switch"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Skarmory-Mega-Switch-SwSh-Optional",
+          "slug": "skarmory-mega-sw-sh-optional",
+          "cssClass": ".pokesprite.pokemon.skarmory-mega-sw-sh-optional.switch",
+          "modifiers": [
+            "switch"
+          ]
+        },
+        "shiny": {
+          "name": "Skarmory-Mega-Switch-SwSh-Optional-★",
+          "slug": "skarmory-mega-sw-sh-optional",
+          "cssClass": ".pokesprite.pokemon.skarmory-mega-sw-sh-optional.shiny.switch",
+          "modifiers": [
+            "shiny",
+            "switch"
+          ]
+        }
+      },
+      {
+        "regular": {
           "name": "Skarmory-Switch-SwSh",
           "slug": "skarmory-sw-sh",
           "cssClass": ".pokesprite.pokemon.skarmory-sw-sh.switch",
@@ -46419,6 +46677,44 @@
           "modifiers": [
             "shiny",
             "n3ds"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Houndoom-Mega-F-Switch-SwSh",
+          "slug": "houndoom-mega-f-sw-sh",
+          "cssClass": ".pokesprite.pokemon.houndoom-mega-f-sw-sh.switch",
+          "modifiers": [
+            "switch"
+          ]
+        },
+        "shiny": {
+          "name": "Houndoom-Mega-F-Switch-SwSh-★",
+          "slug": "houndoom-mega-f-sw-sh",
+          "cssClass": ".pokesprite.pokemon.houndoom-mega-f-sw-sh.shiny.switch",
+          "modifiers": [
+            "shiny",
+            "switch"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Houndoom-Mega-Switch-SwSh",
+          "slug": "houndoom-mega-sw-sh",
+          "cssClass": ".pokesprite.pokemon.houndoom-mega-sw-sh.switch",
+          "modifiers": [
+            "switch"
+          ]
+        },
+        "shiny": {
+          "name": "Houndoom-Mega-Switch-SwSh-★",
+          "slug": "houndoom-mega-sw-sh",
+          "cssClass": ".pokesprite.pokemon.houndoom-mega-sw-sh.shiny.switch",
+          "modifiers": [
+            "shiny",
+            "switch"
           ]
         }
       },
@@ -47882,6 +48178,44 @@
           "name": "Tyranitar-Mega-Switch-SwSh-★",
           "slug": "tyranitar-mega-sw-sh",
           "cssClass": ".pokesprite.pokemon.tyranitar-mega-sw-sh.shiny.switch",
+          "modifiers": [
+            "shiny",
+            "switch"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Tyranitar-Mega-Switch-SwSh-Optional",
+          "slug": "tyranitar-mega-sw-sh-optional",
+          "cssClass": ".pokesprite.pokemon.tyranitar-mega-sw-sh-optional.switch",
+          "modifiers": [
+            "switch"
+          ]
+        },
+        "shiny": {
+          "name": "Tyranitar-Mega-Switch-SwSh-Optional-★",
+          "slug": "tyranitar-mega-sw-sh-optional",
+          "cssClass": ".pokesprite.pokemon.tyranitar-mega-sw-sh-optional.shiny.switch",
+          "modifiers": [
+            "shiny",
+            "switch"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Tyranitar-Mega-Switch-SwSh-Optional-PreDLC",
+          "slug": "tyranitar-mega-sw-sh-optional-pre-dlc",
+          "cssClass": ".pokesprite.pokemon.tyranitar-mega-sw-sh-optional-pre-dlc.switch",
+          "modifiers": [
+            "switch"
+          ]
+        },
+        "shiny": {
+          "name": "Tyranitar-Mega-Switch-SwSh-Optional-PreDLC-★",
+          "slug": "tyranitar-mega-sw-sh-optional-pre-dlc",
+          "cssClass": ".pokesprite.pokemon.tyranitar-mega-sw-sh-optional-pre-dlc.shiny.switch",
           "modifiers": [
             "shiny",
             "switch"
