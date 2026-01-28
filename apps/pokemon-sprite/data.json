@@ -14376,6 +14376,52 @@
       },
       {
         "regular": {
+          "name": "Pikachu-Bonus-Anime-Ash-JN089-F",
+          "slug": "pikachu-anime-ash-jn089-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-anime-ash-jn089-f",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Pikachu-Bonus-Anime-Ash-JN089-F-★",
+          "slug": "pikachu-anime-ash-jn089-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-anime-ash-jn089-f.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Pikachu-Bonus-Anime-Ash-JN089-F-3DS",
+          "slug": "pikachu-anime-ash-jn089-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-anime-ash-jn089-f.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Pikachu-Bonus-Anime-Ash-JN089-F-3DS-★",
+          "slug": "pikachu-anime-ash-jn089-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-anime-ash-jn089-f.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
           "name": "Pikachu-Bonus-Anime-Ash-UltraGaurdians",
           "slug": "pikachu-anime-ash-ultra-gaurdians",
           "cssClass": ".pokesprite.pokemon.pikachu-anime-ash-ultra-gaurdians",
@@ -20557,6 +20603,98 @@
           "name": "Vileplume-Bonus-Anime-Pinkan-F-3DS-★",
           "slug": "vileplume-anime-pinkan-f",
           "cssClass": ".pokesprite.pokemon.vileplume-anime-pinkan-f.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Vileplume-Bonus-Anime-Sheridan",
+          "slug": "vileplume-anime-sheridan",
+          "cssClass": ".pokesprite.pokemon.vileplume-anime-sheridan",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Vileplume-Bonus-Anime-Sheridan-★",
+          "slug": "vileplume-anime-sheridan",
+          "cssClass": ".pokesprite.pokemon.vileplume-anime-sheridan.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Vileplume-Bonus-Anime-Sheridan-3DS",
+          "slug": "vileplume-anime-sheridan",
+          "cssClass": ".pokesprite.pokemon.vileplume-anime-sheridan.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Vileplume-Bonus-Anime-Sheridan-3DS-★",
+          "slug": "vileplume-anime-sheridan",
+          "cssClass": ".pokesprite.pokemon.vileplume-anime-sheridan.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Vileplume-Bonus-Anime-Sheridan-F",
+          "slug": "vileplume-anime-sheridan-f",
+          "cssClass": ".pokesprite.pokemon.vileplume-anime-sheridan-f",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Vileplume-Bonus-Anime-Sheridan-F-★",
+          "slug": "vileplume-anime-sheridan-f",
+          "cssClass": ".pokesprite.pokemon.vileplume-anime-sheridan-f.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Vileplume-Bonus-Anime-Sheridan-F-3DS",
+          "slug": "vileplume-anime-sheridan-f",
+          "cssClass": ".pokesprite.pokemon.vileplume-anime-sheridan-f.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Vileplume-Bonus-Anime-Sheridan-F-3DS-★",
+          "slug": "vileplume-anime-sheridan-f",
+          "cssClass": ".pokesprite.pokemon.vileplume-anime-sheridan-f.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -53967,6 +54105,98 @@
           "modifiers": [
             "shiny",
             "n3ds"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Roselia-Bonus-Anime-Sheridan",
+          "slug": "roselia-anime-sheridan",
+          "cssClass": ".pokesprite.pokemon.roselia-anime-sheridan",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Roselia-Bonus-Anime-Sheridan-★",
+          "slug": "roselia-anime-sheridan",
+          "cssClass": ".pokesprite.pokemon.roselia-anime-sheridan.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Roselia-Bonus-Anime-Sheridan-3DS",
+          "slug": "roselia-anime-sheridan",
+          "cssClass": ".pokesprite.pokemon.roselia-anime-sheridan.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Roselia-Bonus-Anime-Sheridan-3DS-★",
+          "slug": "roselia-anime-sheridan",
+          "cssClass": ".pokesprite.pokemon.roselia-anime-sheridan.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Roselia-Bonus-Anime-Sheridan-F",
+          "slug": "roselia-anime-sheridan-f",
+          "cssClass": ".pokesprite.pokemon.roselia-anime-sheridan-f",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Roselia-Bonus-Anime-Sheridan-F-★",
+          "slug": "roselia-anime-sheridan-f",
+          "cssClass": ".pokesprite.pokemon.roselia-anime-sheridan-f.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Roselia-Bonus-Anime-Sheridan-F-3DS",
+          "slug": "roselia-anime-sheridan-f",
+          "cssClass": ".pokesprite.pokemon.roselia-anime-sheridan-f.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Roselia-Bonus-Anime-Sheridan-F-3DS-★",
+          "slug": "roselia-anime-sheridan-f",
+          "cssClass": ".pokesprite.pokemon.roselia-anime-sheridan-f.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
           ]
         }
       }
