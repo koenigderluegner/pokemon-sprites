@@ -49103,6 +49103,25 @@
       },
       {
         "regular": {
+          "name": "Sceptile-Mega-Switch-SwSh",
+          "slug": "sceptile-mega-sw-sh",
+          "cssClass": ".pokesprite.pokemon.sceptile-mega-sw-sh.switch",
+          "modifiers": [
+            "switch"
+          ]
+        },
+        "shiny": {
+          "name": "Sceptile-Mega-Switch-SwSh-★",
+          "slug": "sceptile-mega-sw-sh",
+          "cssClass": ".pokesprite.pokemon.sceptile-mega-sw-sh.shiny.switch",
+          "modifiers": [
+            "shiny",
+            "switch"
+          ]
+        }
+      },
+      {
+        "regular": {
           "name": "Sceptile-Bonus-Anime-Ash",
           "slug": "sceptile-anime-ash",
           "cssClass": ".pokesprite.pokemon.sceptile-anime-ash",
@@ -49755,6 +49774,44 @@
       },
       {
         "regular": {
+          "name": "Blaziken-Mega-F-Switch-SwSh",
+          "slug": "blaziken-mega-f-sw-sh",
+          "cssClass": ".pokesprite.pokemon.blaziken-mega-f-sw-sh.switch",
+          "modifiers": [
+            "switch"
+          ]
+        },
+        "shiny": {
+          "name": "Blaziken-Mega-F-Switch-SwSh-★",
+          "slug": "blaziken-mega-f-sw-sh",
+          "cssClass": ".pokesprite.pokemon.blaziken-mega-f-sw-sh.shiny.switch",
+          "modifiers": [
+            "shiny",
+            "switch"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Blaziken-Mega-Switch-SwSh",
+          "slug": "blaziken-mega-sw-sh",
+          "cssClass": ".pokesprite.pokemon.blaziken-mega-sw-sh.switch",
+          "modifiers": [
+            "switch"
+          ]
+        },
+        "shiny": {
+          "name": "Blaziken-Mega-Switch-SwSh-★",
+          "slug": "blaziken-mega-sw-sh",
+          "cssClass": ".pokesprite.pokemon.blaziken-mega-sw-sh.shiny.switch",
+          "modifiers": [
+            "shiny",
+            "switch"
+          ]
+        }
+      },
+      {
+        "regular": {
           "name": "Blaziken-Bonus-Pokken",
           "slug": "blaziken-pokken",
           "cssClass": ".pokesprite.pokemon.blaziken-pokken",
@@ -50072,6 +50129,25 @@
           "modifiers": [
             "shiny",
             "n3ds"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Swampert-Mega-Switch-SwSh",
+          "slug": "swampert-mega-sw-sh",
+          "cssClass": ".pokesprite.pokemon.swampert-mega-sw-sh.switch",
+          "modifiers": [
+            "switch"
+          ]
+        },
+        "shiny": {
+          "name": "Swampert-Mega-Switch-SwSh-★",
+          "slug": "swampert-mega-sw-sh",
+          "cssClass": ".pokesprite.pokemon.swampert-mega-sw-sh.shiny.switch",
+          "modifiers": [
+            "shiny",
+            "switch"
           ]
         }
       }
@@ -51409,6 +51485,25 @@
       },
       {
         "regular": {
+          "name": "Gardevoir-Mega-Switch-SwSh",
+          "slug": "gardevoir-mega-sw-sh",
+          "cssClass": ".pokesprite.pokemon.gardevoir-mega-sw-sh.switch",
+          "modifiers": [
+            "switch"
+          ]
+        },
+        "shiny": {
+          "name": "Gardevoir-Mega-Switch-SwSh-★",
+          "slug": "gardevoir-mega-sw-sh",
+          "cssClass": ".pokesprite.pokemon.gardevoir-mega-sw-sh.shiny.switch",
+          "modifiers": [
+            "shiny",
+            "switch"
+          ]
+        }
+      },
+      {
+        "regular": {
           "name": "Gardevoir-GO-GOFest2021",
           "slug": "gardevoir-gofest2021",
           "cssClass": ".pokesprite.pokemon.gardevoir-gofest2021",
@@ -52557,6 +52652,63 @@
       },
       {
         "regular": {
+          "name": "Sableye-Mega-Switch-LGPE",
+          "slug": "sableye-mega-lgpe",
+          "cssClass": ".pokesprite.pokemon.sableye-mega-lgpe.switch",
+          "modifiers": [
+            "switch"
+          ]
+        },
+        "shiny": {
+          "name": "Sableye-Mega-Switch-LGPE-★",
+          "slug": "sableye-mega-lgpe",
+          "cssClass": ".pokesprite.pokemon.sableye-mega-lgpe.shiny.switch",
+          "modifiers": [
+            "shiny",
+            "switch"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Sableye-Mega-Switch-LGPE-Optional",
+          "slug": "sableye-mega-lgpe-optional",
+          "cssClass": ".pokesprite.pokemon.sableye-mega-lgpe-optional.switch",
+          "modifiers": [
+            "switch"
+          ]
+        },
+        "shiny": {
+          "name": "Sableye-Mega-Switch-LGPE-Optional-★",
+          "slug": "sableye-mega-lgpe-optional",
+          "cssClass": ".pokesprite.pokemon.sableye-mega-lgpe-optional.shiny.switch",
+          "modifiers": [
+            "shiny",
+            "switch"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Sableye-Mega-Switch-SwSh",
+          "slug": "sableye-mega-sw-sh",
+          "cssClass": ".pokesprite.pokemon.sableye-mega-sw-sh.switch",
+          "modifiers": [
+            "switch"
+          ]
+        },
+        "shiny": {
+          "name": "Sableye-Mega-Switch-SwSh-★",
+          "slug": "sableye-mega-sw-sh",
+          "cssClass": ".pokesprite.pokemon.sableye-mega-sw-sh.shiny.switch",
+          "modifiers": [
+            "shiny",
+            "switch"
+          ]
+        }
+      },
+      {
+        "regular": {
           "name": "Sableye-GO-Costume2020",
           "slug": "sableye-costume2020",
           "cssClass": ".pokesprite.pokemon.sableye-costume2020",
@@ -52697,6 +52849,44 @@
           "modifiers": [
             "shiny",
             "n3ds"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Mawile-Mega-Switch-LGPE",
+          "slug": "mawile-mega-lgpe",
+          "cssClass": ".pokesprite.pokemon.mawile-mega-lgpe.switch",
+          "modifiers": [
+            "switch"
+          ]
+        },
+        "shiny": {
+          "name": "Mawile-Mega-Switch-LGPE-★",
+          "slug": "mawile-mega-lgpe",
+          "cssClass": ".pokesprite.pokemon.mawile-mega-lgpe.shiny.switch",
+          "modifiers": [
+            "shiny",
+            "switch"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Mawile-Mega-Switch-SwSh",
+          "slug": "mawile-mega-sw-sh",
+          "cssClass": ".pokesprite.pokemon.mawile-mega-sw-sh.switch",
+          "modifiers": [
+            "switch"
+          ]
+        },
+        "shiny": {
+          "name": "Mawile-Mega-Switch-SwSh-★",
+          "slug": "mawile-mega-sw-sh",
+          "cssClass": ".pokesprite.pokemon.mawile-mega-sw-sh.shiny.switch",
+          "modifiers": [
+            "shiny",
+            "switch"
           ]
         }
       },
@@ -52929,6 +53119,25 @@
       },
       {
         "regular": {
+          "name": "Aggron-Mega-Switch-SwSh",
+          "slug": "aggron-mega-sw-sh",
+          "cssClass": ".pokesprite.pokemon.aggron-mega-sw-sh.switch",
+          "modifiers": [
+            "switch"
+          ]
+        },
+        "shiny": {
+          "name": "Aggron-Mega-Switch-SwSh-★",
+          "slug": "aggron-mega-sw-sh",
+          "cssClass": ".pokesprite.pokemon.aggron-mega-sw-sh.shiny.switch",
+          "modifiers": [
+            "shiny",
+            "switch"
+          ]
+        }
+      },
+      {
+        "regular": {
           "name": "Aggron-Bonus-Anime-Movie08-RedArmy",
           "slug": "aggron-anime-movie08-red-army",
           "cssClass": ".pokesprite.pokemon.aggron-anime-movie08-red-army",
@@ -53150,6 +53359,44 @@
             "n3ds"
           ]
         }
+      },
+      {
+        "regular": {
+          "name": "Medicham-Mega-F-Switch-SwSh",
+          "slug": "medicham-mega-f-sw-sh",
+          "cssClass": ".pokesprite.pokemon.medicham-mega-f-sw-sh.switch",
+          "modifiers": [
+            "switch"
+          ]
+        },
+        "shiny": {
+          "name": "Medicham-Mega-F-Switch-SwSh-★",
+          "slug": "medicham-mega-f-sw-sh",
+          "cssClass": ".pokesprite.pokemon.medicham-mega-f-sw-sh.shiny.switch",
+          "modifiers": [
+            "shiny",
+            "switch"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Medicham-Mega-Switch-SwSh",
+          "slug": "medicham-mega-sw-sh",
+          "cssClass": ".pokesprite.pokemon.medicham-mega-sw-sh.switch",
+          "modifiers": [
+            "switch"
+          ]
+        },
+        "shiny": {
+          "name": "Medicham-Mega-Switch-SwSh-★",
+          "slug": "medicham-mega-sw-sh",
+          "cssClass": ".pokesprite.pokemon.medicham-mega-sw-sh.shiny.switch",
+          "modifiers": [
+            "shiny",
+            "switch"
+          ]
+        }
       }
     ]
   },
@@ -53264,6 +53511,25 @@
           "modifiers": [
             "shiny",
             "n3ds"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Manectric-Mega-Switch-SwSh",
+          "slug": "manectric-mega-sw-sh",
+          "cssClass": ".pokesprite.pokemon.manectric-mega-sw-sh.switch",
+          "modifiers": [
+            "switch"
+          ]
+        },
+        "shiny": {
+          "name": "Manectric-Mega-Switch-SwSh-★",
+          "slug": "manectric-mega-sw-sh",
+          "cssClass": ".pokesprite.pokemon.manectric-mega-sw-sh.shiny.switch",
+          "modifiers": [
+            "shiny",
+            "switch"
           ]
         }
       },
@@ -53846,6 +54112,25 @@
       },
       {
         "regular": {
+          "name": "Sharpedo-Mega-Switch-SwSh",
+          "slug": "sharpedo-mega-sw-sh",
+          "cssClass": ".pokesprite.pokemon.sharpedo-mega-sw-sh.switch",
+          "modifiers": [
+            "switch"
+          ]
+        },
+        "shiny": {
+          "name": "Sharpedo-Mega-Switch-SwSh-★",
+          "slug": "sharpedo-mega-sw-sh",
+          "cssClass": ".pokesprite.pokemon.sharpedo-mega-sw-sh.shiny.switch",
+          "modifiers": [
+            "shiny",
+            "switch"
+          ]
+        }
+      },
+      {
+        "regular": {
           "name": "Sharpedo-Bonus-RidePager",
           "slug": "sharpedo-ride-pager",
           "cssClass": ".pokesprite.pokemon.sharpedo-ride-pager",
@@ -54367,6 +54652,44 @@
           "modifiers": [
             "shiny",
             "n3ds"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Camerupt-Mega-F-Switch-SwSh",
+          "slug": "camerupt-mega-f-sw-sh",
+          "cssClass": ".pokesprite.pokemon.camerupt-mega-f-sw-sh.switch",
+          "modifiers": [
+            "switch"
+          ]
+        },
+        "shiny": {
+          "name": "Camerupt-Mega-F-Switch-SwSh-★",
+          "slug": "camerupt-mega-f-sw-sh",
+          "cssClass": ".pokesprite.pokemon.camerupt-mega-f-sw-sh.shiny.switch",
+          "modifiers": [
+            "shiny",
+            "switch"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Camerupt-Mega-Switch-SwSh",
+          "slug": "camerupt-mega-sw-sh",
+          "cssClass": ".pokesprite.pokemon.camerupt-mega-sw-sh.switch",
+          "modifiers": [
+            "switch"
+          ]
+        },
+        "shiny": {
+          "name": "Camerupt-Mega-Switch-SwSh-★",
+          "slug": "camerupt-mega-sw-sh",
+          "cssClass": ".pokesprite.pokemon.camerupt-mega-sw-sh.shiny.switch",
+          "modifiers": [
+            "shiny",
+            "switch"
           ]
         }
       },
@@ -55069,6 +55392,44 @@
           "modifiers": [
             "shiny",
             "n3ds"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Altaria-Mega-Switch-LGPE",
+          "slug": "altaria-mega-lgpe",
+          "cssClass": ".pokesprite.pokemon.altaria-mega-lgpe.switch",
+          "modifiers": [
+            "switch"
+          ]
+        },
+        "shiny": {
+          "name": "Altaria-Mega-Switch-LGPE-★",
+          "slug": "altaria-mega-lgpe",
+          "cssClass": ".pokesprite.pokemon.altaria-mega-lgpe.shiny.switch",
+          "modifiers": [
+            "shiny",
+            "switch"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Altaria-Mega-Switch-SwSh",
+          "slug": "altaria-mega-sw-sh",
+          "cssClass": ".pokesprite.pokemon.altaria-mega-sw-sh.switch",
+          "modifiers": [
+            "switch"
+          ]
+        },
+        "shiny": {
+          "name": "Altaria-Mega-Switch-SwSh-★",
+          "slug": "altaria-mega-sw-sh",
+          "cssClass": ".pokesprite.pokemon.altaria-mega-sw-sh.shiny.switch",
+          "modifiers": [
+            "shiny",
+            "switch"
           ]
         }
       },
@@ -56263,6 +56624,44 @@
       },
       {
         "regular": {
+          "name": "Banette-Mega-Switch-LGPE",
+          "slug": "banette-mega-lgpe",
+          "cssClass": ".pokesprite.pokemon.banette-mega-lgpe.switch",
+          "modifiers": [
+            "switch"
+          ]
+        },
+        "shiny": {
+          "name": "Banette-Mega-Switch-LGPE-★",
+          "slug": "banette-mega-lgpe",
+          "cssClass": ".pokesprite.pokemon.banette-mega-lgpe.shiny.switch",
+          "modifiers": [
+            "shiny",
+            "switch"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Banette-Mega-Switch-SwSh",
+          "slug": "banette-mega-sw-sh",
+          "cssClass": ".pokesprite.pokemon.banette-mega-sw-sh.switch",
+          "modifiers": [
+            "switch"
+          ]
+        },
+        "shiny": {
+          "name": "Banette-Mega-Switch-SwSh-★",
+          "slug": "banette-mega-sw-sh",
+          "cssClass": ".pokesprite.pokemon.banette-mega-sw-sh.shiny.switch",
+          "modifiers": [
+            "shiny",
+            "switch"
+          ]
+        }
+      },
+      {
+        "regular": {
           "name": "Banette-Bonus-Anime-NurseAid",
           "slug": "banette-anime-nurse-aid",
           "cssClass": ".pokesprite.pokemon.banette-anime-nurse-aid",
@@ -56548,6 +56947,44 @@
             "n3ds"
           ]
         }
+      },
+      {
+        "regular": {
+          "name": "Chimecho-Mega-Switch-LGPE",
+          "slug": "chimecho-mega-lgpe",
+          "cssClass": ".pokesprite.pokemon.chimecho-mega-lgpe.switch",
+          "modifiers": [
+            "switch"
+          ]
+        },
+        "shiny": {
+          "name": "Chimecho-Mega-Switch-LGPE-★",
+          "slug": "chimecho-mega-lgpe",
+          "cssClass": ".pokesprite.pokemon.chimecho-mega-lgpe.shiny.switch",
+          "modifiers": [
+            "shiny",
+            "switch"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Chimecho-Mega-Switch-SwSh",
+          "slug": "chimecho-mega-sw-sh",
+          "cssClass": ".pokesprite.pokemon.chimecho-mega-sw-sh.switch",
+          "modifiers": [
+            "switch"
+          ]
+        },
+        "shiny": {
+          "name": "Chimecho-Mega-Switch-SwSh-★",
+          "slug": "chimecho-mega-sw-sh",
+          "cssClass": ".pokesprite.pokemon.chimecho-mega-sw-sh.shiny.switch",
+          "modifiers": [
+            "shiny",
+            "switch"
+          ]
+        }
       }
     ]
   },
@@ -56625,6 +57062,44 @@
       },
       {
         "regular": {
+          "name": "Absol-Mega-Switch-LGPE",
+          "slug": "absol-mega-lgpe",
+          "cssClass": ".pokesprite.pokemon.absol-mega-lgpe.switch",
+          "modifiers": [
+            "switch"
+          ]
+        },
+        "shiny": {
+          "name": "Absol-Mega-Switch-LGPE-★",
+          "slug": "absol-mega-lgpe",
+          "cssClass": ".pokesprite.pokemon.absol-mega-lgpe.shiny.switch",
+          "modifiers": [
+            "shiny",
+            "switch"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Absol-Mega-Switch-SwSh",
+          "slug": "absol-mega-sw-sh",
+          "cssClass": ".pokesprite.pokemon.absol-mega-sw-sh.switch",
+          "modifiers": [
+            "switch"
+          ]
+        },
+        "shiny": {
+          "name": "Absol-Mega-Switch-SwSh-★",
+          "slug": "absol-mega-sw-sh",
+          "cssClass": ".pokesprite.pokemon.absol-mega-sw-sh.shiny.switch",
+          "modifiers": [
+            "shiny",
+            "switch"
+          ]
+        }
+      },
+      {
+        "regular": {
           "name": "Absol-Megaz",
           "slug": "absol-megaz",
           "cssClass": ".pokesprite.pokemon.absol-megaz"
@@ -56654,6 +57129,44 @@
           "modifiers": [
             "shiny",
             "n3ds"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Absol-Megaz-Switch-LGPE",
+          "slug": "absol-megaz-lgpe",
+          "cssClass": ".pokesprite.pokemon.absol-megaz-lgpe.switch",
+          "modifiers": [
+            "switch"
+          ]
+        },
+        "shiny": {
+          "name": "Absol-Megaz-Switch-LGPE-★",
+          "slug": "absol-megaz-lgpe",
+          "cssClass": ".pokesprite.pokemon.absol-megaz-lgpe.shiny.switch",
+          "modifiers": [
+            "shiny",
+            "switch"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Absol-Megaz-Switch-SwSh",
+          "slug": "absol-megaz-sw-sh",
+          "cssClass": ".pokesprite.pokemon.absol-megaz-sw-sh.switch",
+          "modifiers": [
+            "switch"
+          ]
+        },
+        "shiny": {
+          "name": "Absol-Megaz-Switch-SwSh-★",
+          "slug": "absol-megaz-sw-sh",
+          "cssClass": ".pokesprite.pokemon.absol-megaz-sw-sh.shiny.switch",
+          "modifiers": [
+            "shiny",
+            "switch"
           ]
         }
       },
@@ -56862,6 +57375,25 @@
           "modifiers": [
             "shiny",
             "n3ds"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Glalie-Mega-Switch-SwSh",
+          "slug": "glalie-mega-sw-sh",
+          "cssClass": ".pokesprite.pokemon.glalie-mega-sw-sh.switch",
+          "modifiers": [
+            "switch"
+          ]
+        },
+        "shiny": {
+          "name": "Glalie-Mega-Switch-SwSh-★",
+          "slug": "glalie-mega-sw-sh",
+          "cssClass": ".pokesprite.pokemon.glalie-mega-sw-sh.shiny.switch",
+          "modifiers": [
+            "shiny",
+            "switch"
           ]
         }
       }
@@ -57402,6 +57934,44 @@
       },
       {
         "regular": {
+          "name": "Salamence-Mega-Switch-SwSh-Optional1",
+          "slug": "salamence-mega-sw-sh-optional1",
+          "cssClass": ".pokesprite.pokemon.salamence-mega-sw-sh-optional1.switch",
+          "modifiers": [
+            "switch"
+          ]
+        },
+        "shiny": {
+          "name": "Salamence-Mega-Switch-SwSh-Optional1-★",
+          "slug": "salamence-mega-sw-sh-optional1",
+          "cssClass": ".pokesprite.pokemon.salamence-mega-sw-sh-optional1.shiny.switch",
+          "modifiers": [
+            "shiny",
+            "switch"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Salamence-Mega-Switch-SwSh-Optional2",
+          "slug": "salamence-mega-sw-sh-optional2",
+          "cssClass": ".pokesprite.pokemon.salamence-mega-sw-sh-optional2.switch",
+          "modifiers": [
+            "switch"
+          ]
+        },
+        "shiny": {
+          "name": "Salamence-Mega-Switch-SwSh-Optional2-★",
+          "slug": "salamence-mega-sw-sh-optional2",
+          "cssClass": ".pokesprite.pokemon.salamence-mega-sw-sh-optional2.shiny.switch",
+          "modifiers": [
+            "shiny",
+            "switch"
+          ]
+        }
+      },
+      {
+        "regular": {
           "name": "Salamence-Switch-SwSh",
           "slug": "salamence-sw-sh",
           "cssClass": ".pokesprite.pokemon.salamence-sw-sh.switch",
@@ -57618,6 +58188,25 @@
             "n3ds"
           ]
         }
+      },
+      {
+        "regular": {
+          "name": "Metagross-Mega-Switch-SwSh",
+          "slug": "metagross-mega-sw-sh",
+          "cssClass": ".pokesprite.pokemon.metagross-mega-sw-sh.switch",
+          "modifiers": [
+            "switch"
+          ]
+        },
+        "shiny": {
+          "name": "Metagross-Mega-Switch-SwSh-★",
+          "slug": "metagross-mega-sw-sh",
+          "cssClass": ".pokesprite.pokemon.metagross-mega-sw-sh.shiny.switch",
+          "modifiers": [
+            "shiny",
+            "switch"
+          ]
+        }
       }
     ]
   },
@@ -57812,6 +58401,25 @@
             "n3ds"
           ]
         }
+      },
+      {
+        "regular": {
+          "name": "Latias-Mega-Switch-SwSh",
+          "slug": "latias-mega-sw-sh",
+          "cssClass": ".pokesprite.pokemon.latias-mega-sw-sh.switch",
+          "modifiers": [
+            "switch"
+          ]
+        },
+        "shiny": {
+          "name": "Latias-Mega-Switch-SwSh-★",
+          "slug": "latias-mega-sw-sh",
+          "cssClass": ".pokesprite.pokemon.latias-mega-sw-sh.shiny.switch",
+          "modifiers": [
+            "shiny",
+            "switch"
+          ]
+        }
       }
     ]
   },
@@ -57884,6 +58492,25 @@
           "modifiers": [
             "shiny",
             "n3ds"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Latios-Mega-Switch-SwSh",
+          "slug": "latios-mega-sw-sh",
+          "cssClass": ".pokesprite.pokemon.latios-mega-sw-sh.switch",
+          "modifiers": [
+            "switch"
+          ]
+        },
+        "shiny": {
+          "name": "Latios-Mega-Switch-SwSh-★",
+          "slug": "latios-mega-sw-sh",
+          "cssClass": ".pokesprite.pokemon.latios-mega-sw-sh.shiny.switch",
+          "modifiers": [
+            "shiny",
+            "switch"
           ]
         }
       }
@@ -58290,6 +58917,25 @@
           "modifiers": [
             "shiny",
             "n3ds"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Rayquaza-Mega-Switch-SwSh",
+          "slug": "rayquaza-mega-sw-sh",
+          "cssClass": ".pokesprite.pokemon.rayquaza-mega-sw-sh.switch",
+          "modifiers": [
+            "switch"
+          ]
+        },
+        "shiny": {
+          "name": "Rayquaza-Mega-Switch-SwSh-★",
+          "slug": "rayquaza-mega-sw-sh",
+          "cssClass": ".pokesprite.pokemon.rayquaza-mega-sw-sh.shiny.switch",
+          "modifiers": [
+            "shiny",
+            "switch"
           ]
         }
       }
@@ -59802,6 +60448,82 @@
           "modifiers": [
             "shiny",
             "n3ds"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Staraptor-Mega-F-Switch-LGPE",
+          "slug": "staraptor-mega-f-lgpe",
+          "cssClass": ".pokesprite.pokemon.staraptor-mega-f-lgpe.switch",
+          "modifiers": [
+            "switch"
+          ]
+        },
+        "shiny": {
+          "name": "Staraptor-Mega-F-Switch-LGPE-★",
+          "slug": "staraptor-mega-f-lgpe",
+          "cssClass": ".pokesprite.pokemon.staraptor-mega-f-lgpe.shiny.switch",
+          "modifiers": [
+            "shiny",
+            "switch"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Staraptor-Mega-F-Switch-SwSh",
+          "slug": "staraptor-mega-f-sw-sh",
+          "cssClass": ".pokesprite.pokemon.staraptor-mega-f-sw-sh.switch",
+          "modifiers": [
+            "switch"
+          ]
+        },
+        "shiny": {
+          "name": "Staraptor-Mega-F-Switch-SwSh-★",
+          "slug": "staraptor-mega-f-sw-sh",
+          "cssClass": ".pokesprite.pokemon.staraptor-mega-f-sw-sh.shiny.switch",
+          "modifiers": [
+            "shiny",
+            "switch"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Staraptor-Mega-Switch-LGPE",
+          "slug": "staraptor-mega-lgpe",
+          "cssClass": ".pokesprite.pokemon.staraptor-mega-lgpe.switch",
+          "modifiers": [
+            "switch"
+          ]
+        },
+        "shiny": {
+          "name": "Staraptor-Mega-Switch-LGPE-★",
+          "slug": "staraptor-mega-lgpe",
+          "cssClass": ".pokesprite.pokemon.staraptor-mega-lgpe.shiny.switch",
+          "modifiers": [
+            "shiny",
+            "switch"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Staraptor-Mega-Switch-SwSh",
+          "slug": "staraptor-mega-sw-sh",
+          "cssClass": ".pokesprite.pokemon.staraptor-mega-sw-sh.switch",
+          "modifiers": [
+            "switch"
+          ]
+        },
+        "shiny": {
+          "name": "Staraptor-Mega-Switch-SwSh-★",
+          "slug": "staraptor-mega-sw-sh",
+          "cssClass": ".pokesprite.pokemon.staraptor-mega-sw-sh.shiny.switch",
+          "modifiers": [
+            "shiny",
+            "switch"
           ]
         }
       }
@@ -62231,6 +62953,44 @@
       },
       {
         "regular": {
+          "name": "Lopunny-Mega-Switch-LGPE",
+          "slug": "lopunny-mega-lgpe",
+          "cssClass": ".pokesprite.pokemon.lopunny-mega-lgpe.switch",
+          "modifiers": [
+            "switch"
+          ]
+        },
+        "shiny": {
+          "name": "Lopunny-Mega-Switch-LGPE-★",
+          "slug": "lopunny-mega-lgpe",
+          "cssClass": ".pokesprite.pokemon.lopunny-mega-lgpe.shiny.switch",
+          "modifiers": [
+            "shiny",
+            "switch"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Lopunny-Mega-Switch-SwSh",
+          "slug": "lopunny-mega-sw-sh",
+          "cssClass": ".pokesprite.pokemon.lopunny-mega-sw-sh.switch",
+          "modifiers": [
+            "switch"
+          ]
+        },
+        "shiny": {
+          "name": "Lopunny-Mega-Switch-SwSh-★",
+          "slug": "lopunny-mega-sw-sh",
+          "cssClass": ".pokesprite.pokemon.lopunny-mega-sw-sh.shiny.switch",
+          "modifiers": [
+            "shiny",
+            "switch"
+          ]
+        }
+      },
+      {
+        "regular": {
           "name": "Lopunny-GO-April2022",
           "slug": "lopunny-april2022",
           "cssClass": ".pokesprite.pokemon.lopunny-april2022",
@@ -63082,6 +63842,44 @@
       },
       {
         "regular": {
+          "name": "Garchomp-Mega-F-Switch-SwSh",
+          "slug": "garchomp-mega-f-sw-sh",
+          "cssClass": ".pokesprite.pokemon.garchomp-mega-f-sw-sh.switch",
+          "modifiers": [
+            "switch"
+          ]
+        },
+        "shiny": {
+          "name": "Garchomp-Mega-F-Switch-SwSh-★",
+          "slug": "garchomp-mega-f-sw-sh",
+          "cssClass": ".pokesprite.pokemon.garchomp-mega-f-sw-sh.shiny.switch",
+          "modifiers": [
+            "shiny",
+            "switch"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Garchomp-Mega-Switch-SwSh",
+          "slug": "garchomp-mega-sw-sh",
+          "cssClass": ".pokesprite.pokemon.garchomp-mega-sw-sh.switch",
+          "modifiers": [
+            "switch"
+          ]
+        },
+        "shiny": {
+          "name": "Garchomp-Mega-Switch-SwSh-★",
+          "slug": "garchomp-mega-sw-sh",
+          "cssClass": ".pokesprite.pokemon.garchomp-mega-sw-sh.shiny.switch",
+          "modifiers": [
+            "shiny",
+            "switch"
+          ]
+        }
+      },
+      {
+        "regular": {
           "name": "Garchomp-Megaz",
           "slug": "garchomp-megaz",
           "cssClass": ".pokesprite.pokemon.garchomp-megaz"
@@ -63145,6 +63943,44 @@
           "modifiers": [
             "shiny",
             "n3ds"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Garchomp-Megaz-F-Switch-SwSh",
+          "slug": "garchomp-megaz-f-sw-sh",
+          "cssClass": ".pokesprite.pokemon.garchomp-megaz-f-sw-sh.switch",
+          "modifiers": [
+            "switch"
+          ]
+        },
+        "shiny": {
+          "name": "Garchomp-Megaz-F-Switch-SwSh-★",
+          "slug": "garchomp-megaz-f-sw-sh",
+          "cssClass": ".pokesprite.pokemon.garchomp-megaz-f-sw-sh.shiny.switch",
+          "modifiers": [
+            "shiny",
+            "switch"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Garchomp-Megaz-Switch-SwSh",
+          "slug": "garchomp-megaz-sw-sh",
+          "cssClass": ".pokesprite.pokemon.garchomp-megaz-sw-sh.switch",
+          "modifiers": [
+            "switch"
+          ]
+        },
+        "shiny": {
+          "name": "Garchomp-Megaz-Switch-SwSh-★",
+          "slug": "garchomp-megaz-sw-sh",
+          "cssClass": ".pokesprite.pokemon.garchomp-megaz-sw-sh.shiny.switch",
+          "modifiers": [
+            "shiny",
+            "switch"
           ]
         }
       },
@@ -63540,6 +64376,44 @@
       },
       {
         "regular": {
+          "name": "Lucario-Mega-Switch-LGPE",
+          "slug": "lucario-mega-lgpe",
+          "cssClass": ".pokesprite.pokemon.lucario-mega-lgpe.switch",
+          "modifiers": [
+            "switch"
+          ]
+        },
+        "shiny": {
+          "name": "Lucario-Mega-Switch-LGPE-★",
+          "slug": "lucario-mega-lgpe",
+          "cssClass": ".pokesprite.pokemon.lucario-mega-lgpe.shiny.switch",
+          "modifiers": [
+            "shiny",
+            "switch"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Lucario-Mega-Switch-SwSh",
+          "slug": "lucario-mega-sw-sh",
+          "cssClass": ".pokesprite.pokemon.lucario-mega-sw-sh.switch",
+          "modifiers": [
+            "switch"
+          ]
+        },
+        "shiny": {
+          "name": "Lucario-Mega-Switch-SwSh-★",
+          "slug": "lucario-mega-sw-sh",
+          "cssClass": ".pokesprite.pokemon.lucario-mega-sw-sh.shiny.switch",
+          "modifiers": [
+            "shiny",
+            "switch"
+          ]
+        }
+      },
+      {
+        "regular": {
           "name": "Lucario-Megaz",
           "slug": "lucario-megaz",
           "cssClass": ".pokesprite.pokemon.lucario-megaz"
@@ -63569,6 +64443,44 @@
           "modifiers": [
             "shiny",
             "n3ds"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Lucario-Megaz-Switch-LGPE",
+          "slug": "lucario-megaz-lgpe",
+          "cssClass": ".pokesprite.pokemon.lucario-megaz-lgpe.switch",
+          "modifiers": [
+            "switch"
+          ]
+        },
+        "shiny": {
+          "name": "Lucario-Megaz-Switch-LGPE-★",
+          "slug": "lucario-megaz-lgpe",
+          "cssClass": ".pokesprite.pokemon.lucario-megaz-lgpe.shiny.switch",
+          "modifiers": [
+            "shiny",
+            "switch"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Lucario-Megaz-Switch-SwSh",
+          "slug": "lucario-megaz-sw-sh",
+          "cssClass": ".pokesprite.pokemon.lucario-megaz-sw-sh.switch",
+          "modifiers": [
+            "switch"
+          ]
+        },
+        "shiny": {
+          "name": "Lucario-Megaz-Switch-SwSh-★",
+          "slug": "lucario-megaz-sw-sh",
+          "cssClass": ".pokesprite.pokemon.lucario-megaz-sw-sh.shiny.switch",
+          "modifiers": [
+            "shiny",
+            "switch"
           ]
         }
       },
@@ -64826,6 +65738,44 @@
           "modifiers": [
             "shiny",
             "n3ds"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Abomasnow-Mega-F-Switch-SwSh",
+          "slug": "abomasnow-mega-f-sw-sh",
+          "cssClass": ".pokesprite.pokemon.abomasnow-mega-f-sw-sh.switch",
+          "modifiers": [
+            "switch"
+          ]
+        },
+        "shiny": {
+          "name": "Abomasnow-Mega-F-Switch-SwSh-★",
+          "slug": "abomasnow-mega-f-sw-sh",
+          "cssClass": ".pokesprite.pokemon.abomasnow-mega-f-sw-sh.shiny.switch",
+          "modifiers": [
+            "shiny",
+            "switch"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Abomasnow-Mega-Switch-SwSh",
+          "slug": "abomasnow-mega-sw-sh",
+          "cssClass": ".pokesprite.pokemon.abomasnow-mega-sw-sh.switch",
+          "modifiers": [
+            "switch"
+          ]
+        },
+        "shiny": {
+          "name": "Abomasnow-Mega-Switch-SwSh-★",
+          "slug": "abomasnow-mega-sw-sh",
+          "cssClass": ".pokesprite.pokemon.abomasnow-mega-sw-sh.shiny.switch",
+          "modifiers": [
+            "shiny",
+            "switch"
           ]
         }
       }
@@ -66588,6 +67538,25 @@
             "n3ds"
           ]
         }
+      },
+      {
+        "regular": {
+          "name": "Gallade-Mega-Switch-SwSh",
+          "slug": "gallade-mega-sw-sh",
+          "cssClass": ".pokesprite.pokemon.gallade-mega-sw-sh.switch",
+          "modifiers": [
+            "switch"
+          ]
+        },
+        "shiny": {
+          "name": "Gallade-Mega-Switch-SwSh-★",
+          "slug": "gallade-mega-sw-sh",
+          "cssClass": ".pokesprite.pokemon.gallade-mega-sw-sh.shiny.switch",
+          "modifiers": [
+            "shiny",
+            "switch"
+          ]
+        }
       }
     ]
   },
@@ -66832,6 +67801,25 @@
           "modifiers": [
             "shiny",
             "n3ds"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Froslass-Mega-Switch-SwSh",
+          "slug": "froslass-mega-sw-sh",
+          "cssClass": ".pokesprite.pokemon.froslass-mega-sw-sh.switch",
+          "modifiers": [
+            "switch"
+          ]
+        },
+        "shiny": {
+          "name": "Froslass-Mega-Switch-SwSh-★",
+          "slug": "froslass-mega-sw-sh",
+          "cssClass": ".pokesprite.pokemon.froslass-mega-sw-sh.shiny.switch",
+          "modifiers": [
+            "shiny",
+            "switch"
           ]
         }
       },
@@ -69924,6 +70912,25 @@
             "n3ds"
           ]
         }
+      },
+      {
+        "regular": {
+          "name": "Heatran-Mega-Switch-SwSh",
+          "slug": "heatran-mega-sw-sh",
+          "cssClass": ".pokesprite.pokemon.heatran-mega-sw-sh.switch",
+          "modifiers": [
+            "switch"
+          ]
+        },
+        "shiny": {
+          "name": "Heatran-Mega-Switch-SwSh-★",
+          "slug": "heatran-mega-sw-sh",
+          "cssClass": ".pokesprite.pokemon.heatran-mega-sw-sh.shiny.switch",
+          "modifiers": [
+            "shiny",
+            "switch"
+          ]
+        }
       }
     ]
   },
@@ -70322,6 +71329,25 @@
           "modifiers": [
             "shiny",
             "n3ds"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Darkrai-Mega-Switch-SwSh",
+          "slug": "darkrai-mega-sw-sh",
+          "cssClass": ".pokesprite.pokemon.darkrai-mega-sw-sh.switch",
+          "modifiers": [
+            "switch"
+          ]
+        },
+        "shiny": {
+          "name": "Darkrai-Mega-Switch-SwSh-★",
+          "slug": "darkrai-mega-sw-sh",
+          "cssClass": ".pokesprite.pokemon.darkrai-mega-sw-sh.shiny.switch",
+          "modifiers": [
+            "shiny",
+            "switch"
           ]
         }
       },
@@ -71667,6 +72693,25 @@
           "name": "Emboar-Mega-Switch-Optional-★",
           "slug": "emboar-mega-optional",
           "cssClass": ".pokesprite.pokemon.emboar-mega-optional.shiny.switch",
+          "modifiers": [
+            "shiny",
+            "switch"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Emboar-Mega-Switch-SwSh",
+          "slug": "emboar-mega-sw-sh",
+          "cssClass": ".pokesprite.pokemon.emboar-mega-sw-sh.switch",
+          "modifiers": [
+            "switch"
+          ]
+        },
+        "shiny": {
+          "name": "Emboar-Mega-Switch-SwSh-★",
+          "slug": "emboar-mega-sw-sh",
+          "cssClass": ".pokesprite.pokemon.emboar-mega-sw-sh.shiny.switch",
           "modifiers": [
             "shiny",
             "switch"
@@ -73215,6 +74260,44 @@
             "n3ds"
           ]
         }
+      },
+      {
+        "regular": {
+          "name": "Excadrill-Mega-Switch-LGPE",
+          "slug": "excadrill-mega-lgpe",
+          "cssClass": ".pokesprite.pokemon.excadrill-mega-lgpe.switch",
+          "modifiers": [
+            "switch"
+          ]
+        },
+        "shiny": {
+          "name": "Excadrill-Mega-Switch-LGPE-★",
+          "slug": "excadrill-mega-lgpe",
+          "cssClass": ".pokesprite.pokemon.excadrill-mega-lgpe.shiny.switch",
+          "modifiers": [
+            "shiny",
+            "switch"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Excadrill-Mega-Switch-SwSh",
+          "slug": "excadrill-mega-sw-sh",
+          "cssClass": ".pokesprite.pokemon.excadrill-mega-sw-sh.switch",
+          "modifiers": [
+            "switch"
+          ]
+        },
+        "shiny": {
+          "name": "Excadrill-Mega-Switch-SwSh-★",
+          "slug": "excadrill-mega-sw-sh",
+          "cssClass": ".pokesprite.pokemon.excadrill-mega-sw-sh.shiny.switch",
+          "modifiers": [
+            "shiny",
+            "switch"
+          ]
+        }
       }
     ]
   },
@@ -73287,6 +74370,44 @@
           "modifiers": [
             "shiny",
             "n3ds"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Audino-Mega-Switch-LGPE",
+          "slug": "audino-mega-lgpe",
+          "cssClass": ".pokesprite.pokemon.audino-mega-lgpe.switch",
+          "modifiers": [
+            "switch"
+          ]
+        },
+        "shiny": {
+          "name": "Audino-Mega-Switch-LGPE-★",
+          "slug": "audino-mega-lgpe",
+          "cssClass": ".pokesprite.pokemon.audino-mega-lgpe.shiny.switch",
+          "modifiers": [
+            "shiny",
+            "switch"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Audino-Mega-Switch-SwSh",
+          "slug": "audino-mega-sw-sh",
+          "cssClass": ".pokesprite.pokemon.audino-mega-sw-sh.switch",
+          "modifiers": [
+            "switch"
+          ]
+        },
+        "shiny": {
+          "name": "Audino-Mega-Switch-SwSh-★",
+          "slug": "audino-mega-sw-sh",
+          "cssClass": ".pokesprite.pokemon.audino-mega-sw-sh.shiny.switch",
+          "modifiers": [
+            "shiny",
+            "switch"
           ]
         }
       },
@@ -73870,6 +74991,25 @@
           "modifiers": [
             "shiny",
             "n3ds"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Scolipede-Mega-Switch-SwSh",
+          "slug": "scolipede-mega-sw-sh",
+          "cssClass": ".pokesprite.pokemon.scolipede-mega-sw-sh.switch",
+          "modifiers": [
+            "switch"
+          ]
+        },
+        "shiny": {
+          "name": "Scolipede-Mega-Switch-SwSh-★",
+          "slug": "scolipede-mega-sw-sh",
+          "cssClass": ".pokesprite.pokemon.scolipede-mega-sw-sh.shiny.switch",
+          "modifiers": [
+            "shiny",
+            "switch"
           ]
         }
       }
@@ -75144,6 +76284,44 @@
           "modifiers": [
             "shiny",
             "n3ds"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Scrafty-Mega-Switch-LGPE",
+          "slug": "scrafty-mega-lgpe",
+          "cssClass": ".pokesprite.pokemon.scrafty-mega-lgpe.switch",
+          "modifiers": [
+            "switch"
+          ]
+        },
+        "shiny": {
+          "name": "Scrafty-Mega-Switch-LGPE-★",
+          "slug": "scrafty-mega-lgpe",
+          "cssClass": ".pokesprite.pokemon.scrafty-mega-lgpe.shiny.switch",
+          "modifiers": [
+            "shiny",
+            "switch"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Scrafty-Mega-Switch-SwSh",
+          "slug": "scrafty-mega-sw-sh",
+          "cssClass": ".pokesprite.pokemon.scrafty-mega-sw-sh.switch",
+          "modifiers": [
+            "switch"
+          ]
+        },
+        "shiny": {
+          "name": "Scrafty-Mega-Switch-SwSh-★",
+          "slug": "scrafty-mega-sw-sh",
+          "cssClass": ".pokesprite.pokemon.scrafty-mega-sw-sh.shiny.switch",
+          "modifiers": [
+            "shiny",
+            "switch"
           ]
         }
       }
@@ -77262,6 +78440,25 @@
             "n3ds"
           ]
         }
+      },
+      {
+        "regular": {
+          "name": "Eelektross-Mega-Switch-SwSh",
+          "slug": "eelektross-mega-sw-sh",
+          "cssClass": ".pokesprite.pokemon.eelektross-mega-sw-sh.switch",
+          "modifiers": [
+            "switch"
+          ]
+        },
+        "shiny": {
+          "name": "Eelektross-Mega-Switch-SwSh-★",
+          "slug": "eelektross-mega-sw-sh",
+          "cssClass": ".pokesprite.pokemon.eelektross-mega-sw-sh.shiny.switch",
+          "modifiers": [
+            "shiny",
+            "switch"
+          ]
+        }
       }
     ]
   },
@@ -77496,6 +78693,25 @@
           "modifiers": [
             "shiny",
             "n3ds"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Chandelure-Mega-Switch-SwSh",
+          "slug": "chandelure-mega-sw-sh",
+          "cssClass": ".pokesprite.pokemon.chandelure-mega-sw-sh.switch",
+          "modifiers": [
+            "switch"
+          ]
+        },
+        "shiny": {
+          "name": "Chandelure-Mega-Switch-SwSh-★",
+          "slug": "chandelure-mega-sw-sh",
+          "cssClass": ".pokesprite.pokemon.chandelure-mega-sw-sh.shiny.switch",
+          "modifiers": [
+            "shiny",
+            "switch"
           ]
         }
       },
@@ -78269,6 +79485,25 @@
       },
       {
         "regular": {
+          "name": "Golurk-Mega-Switch-SwSh",
+          "slug": "golurk-mega-sw-sh",
+          "cssClass": ".pokesprite.pokemon.golurk-mega-sw-sh.switch",
+          "modifiers": [
+            "switch"
+          ]
+        },
+        "shiny": {
+          "name": "Golurk-Mega-Switch-SwSh-★",
+          "slug": "golurk-mega-sw-sh",
+          "cssClass": ".pokesprite.pokemon.golurk-mega-sw-sh.shiny.switch",
+          "modifiers": [
+            "shiny",
+            "switch"
+          ]
+        }
+      },
+      {
+        "regular": {
           "name": "Golurk-Switch-SwSh",
           "slug": "golurk-sw-sh",
           "cssClass": ".pokesprite.pokemon.golurk-sw-sh.switch",
@@ -78280,6 +79515,25 @@
           "name": "Golurk-Switch-SwSh-★",
           "slug": "golurk-sw-sh",
           "cssClass": ".pokesprite.pokemon.golurk-sw-sh.shiny.switch",
+          "modifiers": [
+            "shiny",
+            "switch"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Golurk-Switch-SwSh-Optional",
+          "slug": "golurk-sw-sh-optional",
+          "cssClass": ".pokesprite.pokemon.golurk-sw-sh-optional.switch",
+          "modifiers": [
+            "switch"
+          ]
+        },
+        "shiny": {
+          "name": "Golurk-Switch-SwSh-Optional-★",
+          "slug": "golurk-sw-sh-optional",
+          "cssClass": ".pokesprite.pokemon.golurk-sw-sh-optional.shiny.switch",
           "modifiers": [
             "shiny",
             "switch"
