@@ -14075,77 +14075,6 @@
       },
       {
         "regular": {
-          "name": "Pikachu-Bonus--MysteryDungeon-GatesToInfinity-3DS",
-          "slug": "pikachu--mystery-dungeon-gates-to-infinity",
-          "cssClass": ".pokesprite.pokemon.pikachu--mystery-dungeon-gates-to-infinity.n3ds",
-          "modifiers": [
-            "n3ds"
-          ],
-          "categories": [
-            "bonus"
-          ]
-        },
-        "shiny": {
-          "name": "Pikachu-Bonus--MysteryDungeon-GatesToInfinity-3DS-★",
-          "slug": "pikachu--mystery-dungeon-gates-to-infinity",
-          "cssClass": ".pokesprite.pokemon.pikachu--mystery-dungeon-gates-to-infinity.shiny.n3ds",
-          "modifiers": [
-            "shiny",
-            "n3ds"
-          ],
-          "categories": [
-            "bonus"
-          ]
-        }
-      },
-      {
-        "regular": {
-          "name": "Pikachu-Bonus--MysteryDungeon-GatesToInfinity-F",
-          "slug": "pikachu--mystery-dungeon-gates-to-infinity-f",
-          "cssClass": ".pokesprite.pokemon.pikachu--mystery-dungeon-gates-to-infinity-f",
-          "categories": [
-            "bonus"
-          ]
-        },
-        "shiny": {
-          "name": "Pikachu-Bonus--MysteryDungeon-GatesToInfinity-F-★",
-          "slug": "pikachu--mystery-dungeon-gates-to-infinity-f",
-          "cssClass": ".pokesprite.pokemon.pikachu--mystery-dungeon-gates-to-infinity-f.shiny",
-          "modifiers": [
-            "shiny"
-          ],
-          "categories": [
-            "bonus"
-          ]
-        }
-      },
-      {
-        "regular": {
-          "name": "Pikachu-Bonus--MysteryDungeon-GatesToInfinity-F-3DS",
-          "slug": "pikachu--mystery-dungeon-gates-to-infinity-f",
-          "cssClass": ".pokesprite.pokemon.pikachu--mystery-dungeon-gates-to-infinity-f.n3ds",
-          "modifiers": [
-            "n3ds"
-          ],
-          "categories": [
-            "bonus"
-          ]
-        },
-        "shiny": {
-          "name": "Pikachu-Bonus--MysteryDungeon-GatesToInfinity-F-3DS-★",
-          "slug": "pikachu--mystery-dungeon-gates-to-infinity-f",
-          "cssClass": ".pokesprite.pokemon.pikachu--mystery-dungeon-gates-to-infinity-f.shiny.n3ds",
-          "modifiers": [
-            "shiny",
-            "n3ds"
-          ],
-          "categories": [
-            "bonus"
-          ]
-        }
-      },
-      {
-        "regular": {
           "name": "Pikachu-Bonus-Anime-Ash-AG097",
           "slug": "pikachu-anime-ash-ag097",
           "cssClass": ".pokesprite.pokemon.pikachu-anime-ash-ag097",
@@ -14868,7 +14797,88 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Pikachu-Bonus-MysteryDungeon-GatesToInfinity-★",
+          "slug": "pikachu-mystery-dungeon-gates-to-infinity",
+          "cssClass": ".pokesprite.pokemon.pikachu-mystery-dungeon-gates-to-infinity.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Pikachu-Bonus-MysteryDungeon-GatesToInfinity-3DS",
+          "slug": "pikachu-mystery-dungeon-gates-to-infinity",
+          "cssClass": ".pokesprite.pokemon.pikachu-mystery-dungeon-gates-to-infinity.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Pikachu-Bonus-MysteryDungeon-GatesToInfinity-3DS-★",
+          "slug": "pikachu-mystery-dungeon-gates-to-infinity",
+          "cssClass": ".pokesprite.pokemon.pikachu-mystery-dungeon-gates-to-infinity.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Pikachu-Bonus-MysteryDungeon-GatesToInfinity-F",
+          "slug": "pikachu-mystery-dungeon-gates-to-infinity-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-mystery-dungeon-gates-to-infinity-f",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Pikachu-Bonus-MysteryDungeon-GatesToInfinity-F-★",
+          "slug": "pikachu-mystery-dungeon-gates-to-infinity-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-mystery-dungeon-gates-to-infinity-f.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Pikachu-Bonus-MysteryDungeon-GatesToInfinity-F-3DS",
+          "slug": "pikachu-mystery-dungeon-gates-to-infinity-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-mystery-dungeon-gates-to-infinity-f.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Pikachu-Bonus-MysteryDungeon-GatesToInfinity-F-3DS-★",
+          "slug": "pikachu-mystery-dungeon-gates-to-infinity-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-mystery-dungeon-gates-to-infinity-f.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -15041,7 +15051,18 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Pikachu-Bonus-MysteryDungeon-Super-F-3DS-★",
+          "slug": "pikachu-mystery-dungeon-super-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-mystery-dungeon-super-f.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
