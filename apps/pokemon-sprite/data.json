@@ -47406,6 +47406,52 @@
       },
       {
         "regular": {
+          "name": "Smeargle-Bonus-Anime-Laki",
+          "slug": "smeargle-anime-laki",
+          "cssClass": ".pokesprite.pokemon.smeargle-anime-laki",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Smeargle-Bonus-Anime-Laki-★",
+          "slug": "smeargle-anime-laki",
+          "cssClass": ".pokesprite.pokemon.smeargle-anime-laki.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Smeargle-Bonus-Anime-Laki-3DS",
+          "slug": "smeargle-anime-laki",
+          "cssClass": ".pokesprite.pokemon.smeargle-anime-laki.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Smeargle-Bonus-Anime-Laki-3DS-★",
+          "slug": "smeargle-anime-laki",
+          "cssClass": ".pokesprite.pokemon.smeargle-anime-laki.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
           "name": "Smeargle-Bonus-Channel",
           "slug": "smeargle-channel",
           "cssClass": ".pokesprite.pokemon.smeargle-channel",
@@ -63697,6 +63743,52 @@
             "shiny"
           ]
         }
+      },
+      {
+        "regular": {
+          "name": "Bronzong-Bonus-Anime-Movie12-Marcus",
+          "slug": "bronzong-anime-movie12-marcus",
+          "cssClass": ".pokesprite.pokemon.bronzong-anime-movie12-marcus",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Bronzong-Bonus-Anime-Movie12-Marcus-★",
+          "slug": "bronzong-anime-movie12-marcus",
+          "cssClass": ".pokesprite.pokemon.bronzong-anime-movie12-marcus.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Bronzong-Bonus-Anime-Movie12-Marcus-3DS",
+          "slug": "bronzong-anime-movie12-marcus",
+          "cssClass": ".pokesprite.pokemon.bronzong-anime-movie12-marcus.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Bronzong-Bonus-Anime-Movie12-Marcus-3DS-★",
+          "slug": "bronzong-anime-movie12-marcus",
+          "cssClass": ".pokesprite.pokemon.bronzong-anime-movie12-marcus.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       }
     ]
   },
@@ -71224,6 +71316,52 @@
           "modifiers": [
             "shiny",
             "switch"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Heatran-Bonus-Anime-Movie12-Marcus",
+          "slug": "heatran-anime-movie12-marcus",
+          "cssClass": ".pokesprite.pokemon.heatran-anime-movie12-marcus",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Heatran-Bonus-Anime-Movie12-Marcus-★",
+          "slug": "heatran-anime-movie12-marcus",
+          "cssClass": ".pokesprite.pokemon.heatran-anime-movie12-marcus.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Heatran-Bonus-Anime-Movie12-Marcus-3DS",
+          "slug": "heatran-anime-movie12-marcus",
+          "cssClass": ".pokesprite.pokemon.heatran-anime-movie12-marcus.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Heatran-Bonus-Anime-Movie12-Marcus-3DS-★",
+          "slug": "heatran-anime-movie12-marcus",
+          "cssClass": ".pokesprite.pokemon.heatran-anime-movie12-marcus.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
           ]
         }
       }
