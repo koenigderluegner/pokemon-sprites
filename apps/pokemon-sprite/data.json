@@ -14075,27 +14075,6 @@
       },
       {
         "regular": {
-          "name": "Pikachu-Bonus--MysteryDungeon-GatesToInfinity",
-          "slug": "pikachu--mystery-dungeon-gates-to-infinity",
-          "cssClass": ".pokesprite.pokemon.pikachu--mystery-dungeon-gates-to-infinity",
-          "categories": [
-            "bonus"
-          ]
-        },
-        "shiny": {
-          "name": "Pikachu-Bonus--MysteryDungeon-GatesToInfinity-★",
-          "slug": "pikachu--mystery-dungeon-gates-to-infinity",
-          "cssClass": ".pokesprite.pokemon.pikachu--mystery-dungeon-gates-to-infinity.shiny",
-          "modifiers": [
-            "shiny"
-          ],
-          "categories": [
-            "bonus"
-          ]
-        }
-      },
-      {
-        "regular": {
           "name": "Pikachu-Bonus--MysteryDungeon-GatesToInfinity-3DS",
           "slug": "pikachu--mystery-dungeon-gates-to-infinity",
           "cssClass": ".pokesprite.pokemon.pikachu--mystery-dungeon-gates-to-infinity.n3ds",
@@ -14156,98 +14135,6 @@
           "name": "Pikachu-Bonus--MysteryDungeon-GatesToInfinity-F-3DS-★",
           "slug": "pikachu--mystery-dungeon-gates-to-infinity-f",
           "cssClass": ".pokesprite.pokemon.pikachu--mystery-dungeon-gates-to-infinity-f.shiny.n3ds",
-          "modifiers": [
-            "shiny",
-            "n3ds"
-          ],
-          "categories": [
-            "bonus"
-          ]
-        }
-      },
-      {
-        "regular": {
-          "name": "Pikachu-Bonus--MysteryDungeon-Super",
-          "slug": "pikachu--mystery-dungeon-super",
-          "cssClass": ".pokesprite.pokemon.pikachu--mystery-dungeon-super",
-          "categories": [
-            "bonus"
-          ]
-        },
-        "shiny": {
-          "name": "Pikachu-Bonus--MysteryDungeon-Super-★",
-          "slug": "pikachu--mystery-dungeon-super",
-          "cssClass": ".pokesprite.pokemon.pikachu--mystery-dungeon-super.shiny",
-          "modifiers": [
-            "shiny"
-          ],
-          "categories": [
-            "bonus"
-          ]
-        }
-      },
-      {
-        "regular": {
-          "name": "Pikachu-Bonus--MysteryDungeon-Super-3DS",
-          "slug": "pikachu--mystery-dungeon-super",
-          "cssClass": ".pokesprite.pokemon.pikachu--mystery-dungeon-super.n3ds",
-          "modifiers": [
-            "n3ds"
-          ],
-          "categories": [
-            "bonus"
-          ]
-        },
-        "shiny": {
-          "name": "Pikachu-Bonus--MysteryDungeon-Super-3DS-★",
-          "slug": "pikachu--mystery-dungeon-super",
-          "cssClass": ".pokesprite.pokemon.pikachu--mystery-dungeon-super.shiny.n3ds",
-          "modifiers": [
-            "shiny",
-            "n3ds"
-          ],
-          "categories": [
-            "bonus"
-          ]
-        }
-      },
-      {
-        "regular": {
-          "name": "Pikachu-Bonus--MysteryDungeon-Super-F",
-          "slug": "pikachu--mystery-dungeon-super-f",
-          "cssClass": ".pokesprite.pokemon.pikachu--mystery-dungeon-super-f",
-          "categories": [
-            "bonus"
-          ]
-        },
-        "shiny": {
-          "name": "Pikachu-Bonus--MysteryDungeon-Super-F-★",
-          "slug": "pikachu--mystery-dungeon-super-f",
-          "cssClass": ".pokesprite.pokemon.pikachu--mystery-dungeon-super-f.shiny",
-          "modifiers": [
-            "shiny"
-          ],
-          "categories": [
-            "bonus"
-          ]
-        }
-      },
-      {
-        "regular": {
-          "name": "Pikachu-Bonus--MysteryDungeon-Super-F-3DS",
-          "slug": "pikachu--mystery-dungeon-super-f",
-          "cssClass": ".pokesprite.pokemon.pikachu--mystery-dungeon-super-f.n3ds",
-          "modifiers": [
-            "n3ds"
-          ],
-          "categories": [
-            "bonus"
-          ]
-        },
-        "shiny": {
-          "name": "Pikachu-Bonus--MysteryDungeon-Super-F-3DS-★",
-          "slug": "pikachu--mystery-dungeon-super-f",
-          "cssClass": ".pokesprite.pokemon.pikachu--mystery-dungeon-super-f.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -14928,6 +14815,17 @@
       },
       {
         "regular": {
+          "name": "Pikachu-Bonus-MysteryDungeon-GatesToInfinity",
+          "slug": "pikachu-mystery-dungeon-gates-to-infinity",
+          "cssClass": ".pokesprite.pokemon.pikachu-mystery-dungeon-gates-to-infinity",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": null
+      },
+      {
+        "regular": {
           "name": "Pikachu-Bonus-MysteryDungeon-ResuceTeamDX",
           "slug": "pikachu-mystery-dungeon-resuce-team-dx",
           "cssClass": ".pokesprite.pokemon.pikachu-mystery-dungeon-resuce-team-dx",
@@ -14998,6 +14896,98 @@
           "name": "Pikachu-Bonus-MysteryDungeon-ResuceTeamDX-F-3DS",
           "slug": "pikachu-mystery-dungeon-resuce-team-dx-f",
           "cssClass": ".pokesprite.pokemon.pikachu-mystery-dungeon-resuce-team-dx-f.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Pikachu-Bonus-MysteryDungeon-ResuceTeamDX-F-3DS-★",
+          "slug": "pikachu-mystery-dungeon-resuce-team-dx-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-mystery-dungeon-resuce-team-dx-f.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Pikachu-Bonus-MysteryDungeon-Super",
+          "slug": "pikachu-mystery-dungeon-super",
+          "cssClass": ".pokesprite.pokemon.pikachu-mystery-dungeon-super",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Pikachu-Bonus-MysteryDungeon-Super-★",
+          "slug": "pikachu-mystery-dungeon-super",
+          "cssClass": ".pokesprite.pokemon.pikachu-mystery-dungeon-super.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Pikachu-Bonus-MysteryDungeon-Super-3DS",
+          "slug": "pikachu-mystery-dungeon-super",
+          "cssClass": ".pokesprite.pokemon.pikachu-mystery-dungeon-super.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Pikachu-Bonus-MysteryDungeon-Super-3DS-★",
+          "slug": "pikachu-mystery-dungeon-super",
+          "cssClass": ".pokesprite.pokemon.pikachu-mystery-dungeon-super.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Pikachu-Bonus-MysteryDungeon-Super-F",
+          "slug": "pikachu-mystery-dungeon-super-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-mystery-dungeon-super-f",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Pikachu-Bonus-MysteryDungeon-Super-F-★",
+          "slug": "pikachu-mystery-dungeon-super-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-mystery-dungeon-super-f.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Pikachu-Bonus-MysteryDungeon-Super-F-3DS",
+          "slug": "pikachu-mystery-dungeon-super-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-mystery-dungeon-super-f.n3ds",
           "modifiers": [
             "n3ds"
           ],
@@ -51726,6 +51716,27 @@
             "shiny"
           ]
         }
+      },
+      {
+        "regular": {
+          "name": "Shroomish-Bonus-Anime-Sheridan",
+          "slug": "shroomish-anime-sheridan",
+          "cssClass": ".pokesprite.pokemon.shroomish-anime-sheridan",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Shroomish-Bonus-Anime-Sheridan-★",
+          "slug": "shroomish-anime-sheridan",
+          "cssClass": ".pokesprite.pokemon.shroomish-anime-sheridan.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       }
     ]
   },
@@ -52266,6 +52277,52 @@
           "modifiers": [
             "n3ds",
             "shiny"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Makuhita-Bonus-Anime-Sheridan",
+          "slug": "makuhita-anime-sheridan",
+          "cssClass": ".pokesprite.pokemon.makuhita-anime-sheridan",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Makuhita-Bonus-Anime-Sheridan-★",
+          "slug": "makuhita-anime-sheridan",
+          "cssClass": ".pokesprite.pokemon.makuhita-anime-sheridan.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Makuhita-Bonus-Anime-Sheridan-3DS",
+          "slug": "makuhita-anime-sheridan",
+          "cssClass": ".pokesprite.pokemon.makuhita-anime-sheridan.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Makuhita-Bonus-Anime-Sheridan-3DS-★",
+          "slug": "makuhita-anime-sheridan",
+          "cssClass": ".pokesprite.pokemon.makuhita-anime-sheridan.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
           ]
         }
       }
