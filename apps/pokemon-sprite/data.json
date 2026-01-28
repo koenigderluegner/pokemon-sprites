@@ -106030,6 +106030,44 @@
             "n3ds"
           ]
         }
+      },
+      {
+        "regular": {
+          "name": "Scovillain-Mega-Switch-LGPE",
+          "slug": "scovillain-mega-lgpe",
+          "cssClass": ".pokesprite.pokemon.scovillain-mega-lgpe.switch",
+          "modifiers": [
+            "switch"
+          ]
+        },
+        "shiny": {
+          "name": "Scovillain-Mega-Switch-LGPE-★",
+          "slug": "scovillain-mega-lgpe",
+          "cssClass": ".pokesprite.pokemon.scovillain-mega-lgpe.shiny.switch",
+          "modifiers": [
+            "shiny",
+            "switch"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Scovillain-Mega-Switch-SwSh",
+          "slug": "scovillain-mega-sw-sh",
+          "cssClass": ".pokesprite.pokemon.scovillain-mega-sw-sh.switch",
+          "modifiers": [
+            "switch"
+          ]
+        },
+        "shiny": {
+          "name": "Scovillain-Mega-Switch-SwSh-★",
+          "slug": "scovillain-mega-sw-sh",
+          "cssClass": ".pokesprite.pokemon.scovillain-mega-sw-sh.shiny.switch",
+          "modifiers": [
+            "shiny",
+            "switch"
+          ]
+        }
       }
     ]
   },
@@ -107405,6 +107443,25 @@
             "n3ds"
           ]
         }
+      },
+      {
+        "regular": {
+          "name": "Glimmora-Mega-Switch-SwSh",
+          "slug": "glimmora-mega-sw-sh",
+          "cssClass": ".pokesprite.pokemon.glimmora-mega-sw-sh.switch",
+          "modifiers": [
+            "switch"
+          ]
+        },
+        "shiny": {
+          "name": "Glimmora-Mega-Switch-SwSh-★",
+          "slug": "glimmora-mega-sw-sh",
+          "cssClass": ".pokesprite.pokemon.glimmora-mega-sw-sh.shiny.switch",
+          "modifiers": [
+            "shiny",
+            "switch"
+          ]
+        }
       }
     ]
   },
@@ -107758,6 +107815,44 @@
       },
       {
         "regular": {
+          "name": "Tatsugiri-Curly-Mega-Switch-LGPE",
+          "slug": "tatsugiri-curly-mega-lgpe",
+          "cssClass": ".pokesprite.pokemon.tatsugiri-curly-mega-lgpe.switch",
+          "modifiers": [
+            "switch"
+          ]
+        },
+        "shiny": {
+          "name": "Tatsugiri-Curly-Mega-Switch-LGPE-★",
+          "slug": "tatsugiri-curly-mega-lgpe",
+          "cssClass": ".pokesprite.pokemon.tatsugiri-curly-mega-lgpe.shiny.switch",
+          "modifiers": [
+            "shiny",
+            "switch"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Tatsugiri-Curly-Mega-Switch-SwSh",
+          "slug": "tatsugiri-curly-mega-sw-sh",
+          "cssClass": ".pokesprite.pokemon.tatsugiri-curly-mega-sw-sh.switch",
+          "modifiers": [
+            "switch"
+          ]
+        },
+        "shiny": {
+          "name": "Tatsugiri-Curly-Mega-Switch-SwSh-★",
+          "slug": "tatsugiri-curly-mega-sw-sh",
+          "cssClass": ".pokesprite.pokemon.tatsugiri-curly-mega-sw-sh.shiny.switch",
+          "modifiers": [
+            "shiny",
+            "switch"
+          ]
+        }
+      },
+      {
+        "regular": {
           "name": "Tatsugiri-Droopy",
           "slug": "tatsugiri-droopy",
           "cssClass": ".pokesprite.pokemon.tatsugiri-droopy"
@@ -107826,6 +107921,44 @@
       },
       {
         "regular": {
+          "name": "Tatsugiri-Droopy-Mega-Switch-LGPE",
+          "slug": "tatsugiri-droopy-mega-lgpe",
+          "cssClass": ".pokesprite.pokemon.tatsugiri-droopy-mega-lgpe.switch",
+          "modifiers": [
+            "switch"
+          ]
+        },
+        "shiny": {
+          "name": "Tatsugiri-Droopy-Mega-Switch-LGPE-★",
+          "slug": "tatsugiri-droopy-mega-lgpe",
+          "cssClass": ".pokesprite.pokemon.tatsugiri-droopy-mega-lgpe.shiny.switch",
+          "modifiers": [
+            "shiny",
+            "switch"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Tatsugiri-Droopy-Mega-Switch-SwSh",
+          "slug": "tatsugiri-droopy-mega-sw-sh",
+          "cssClass": ".pokesprite.pokemon.tatsugiri-droopy-mega-sw-sh.switch",
+          "modifiers": [
+            "switch"
+          ]
+        },
+        "shiny": {
+          "name": "Tatsugiri-Droopy-Mega-Switch-SwSh-★",
+          "slug": "tatsugiri-droopy-mega-sw-sh",
+          "cssClass": ".pokesprite.pokemon.tatsugiri-droopy-mega-sw-sh.shiny.switch",
+          "modifiers": [
+            "shiny",
+            "switch"
+          ]
+        }
+      },
+      {
+        "regular": {
           "name": "Tatsugiri-Mega",
           "slug": "tatsugiri-mega",
           "cssClass": ".pokesprite.pokemon.tatsugiri-mega"
@@ -107855,6 +107988,44 @@
           "modifiers": [
             "shiny",
             "n3ds"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Tatsugiri-Mega-Switch-LGPE",
+          "slug": "tatsugiri-mega-lgpe",
+          "cssClass": ".pokesprite.pokemon.tatsugiri-mega-lgpe.switch",
+          "modifiers": [
+            "switch"
+          ]
+        },
+        "shiny": {
+          "name": "Tatsugiri-Mega-Switch-LGPE-★",
+          "slug": "tatsugiri-mega-lgpe",
+          "cssClass": ".pokesprite.pokemon.tatsugiri-mega-lgpe.shiny.switch",
+          "modifiers": [
+            "shiny",
+            "switch"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Tatsugiri-Mega-Switch-SwSh",
+          "slug": "tatsugiri-mega-sw-sh",
+          "cssClass": ".pokesprite.pokemon.tatsugiri-mega-sw-sh.switch",
+          "modifiers": [
+            "switch"
+          ]
+        },
+        "shiny": {
+          "name": "Tatsugiri-Mega-Switch-SwSh-★",
+          "slug": "tatsugiri-mega-sw-sh",
+          "cssClass": ".pokesprite.pokemon.tatsugiri-mega-sw-sh.shiny.switch",
+          "modifiers": [
+            "shiny",
+            "switch"
           ]
         }
       },
@@ -107923,6 +108094,44 @@
           "modifiers": [
             "shiny",
             "n3ds"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Tatsugiri-Stretchy-Mega-Switch-LGPE",
+          "slug": "tatsugiri-stretchy-mega-lgpe",
+          "cssClass": ".pokesprite.pokemon.tatsugiri-stretchy-mega-lgpe.switch",
+          "modifiers": [
+            "switch"
+          ]
+        },
+        "shiny": {
+          "name": "Tatsugiri-Stretchy-Mega-Switch-LGPE-★",
+          "slug": "tatsugiri-stretchy-mega-lgpe",
+          "cssClass": ".pokesprite.pokemon.tatsugiri-stretchy-mega-lgpe.shiny.switch",
+          "modifiers": [
+            "shiny",
+            "switch"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Tatsugiri-Stretchy-Mega-Switch-SwSh",
+          "slug": "tatsugiri-stretchy-mega-sw-sh",
+          "cssClass": ".pokesprite.pokemon.tatsugiri-stretchy-mega-sw-sh.switch",
+          "modifiers": [
+            "switch"
+          ]
+        },
+        "shiny": {
+          "name": "Tatsugiri-Stretchy-Mega-Switch-SwSh-★",
+          "slug": "tatsugiri-stretchy-mega-sw-sh",
+          "cssClass": ".pokesprite.pokemon.tatsugiri-stretchy-mega-sw-sh.shiny.switch",
+          "modifiers": [
+            "shiny",
+            "switch"
           ]
         }
       }
@@ -108806,6 +109015,25 @@
           "modifiers": [
             "shiny",
             "n3ds"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Baxcalibur-Mega-Switch-SwSh",
+          "slug": "baxcalibur-mega-sw-sh",
+          "cssClass": ".pokesprite.pokemon.baxcalibur-mega-sw-sh.switch",
+          "modifiers": [
+            "switch"
+          ]
+        },
+        "shiny": {
+          "name": "Baxcalibur-Mega-Switch-SwSh-★",
+          "slug": "baxcalibur-mega-sw-sh",
+          "cssClass": ".pokesprite.pokemon.baxcalibur-mega-sw-sh.shiny.switch",
+          "modifiers": [
+            "shiny",
+            "switch"
           ]
         }
       }
