@@ -14259,6 +14259,98 @@
       },
       {
         "regular": {
+          "name": "Pikachu-Bonus-Anime-Ash-DP062",
+          "slug": "pikachu-anime-ash-dp062",
+          "cssClass": ".pokesprite.pokemon.pikachu-anime-ash-dp062",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Pikachu-Bonus-Anime-Ash-DP062-★",
+          "slug": "pikachu-anime-ash-dp062",
+          "cssClass": ".pokesprite.pokemon.pikachu-anime-ash-dp062.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Pikachu-Bonus-Anime-Ash-DP062-3DS",
+          "slug": "pikachu-anime-ash-dp062",
+          "cssClass": ".pokesprite.pokemon.pikachu-anime-ash-dp062.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Pikachu-Bonus-Anime-Ash-DP062-3DS-★",
+          "slug": "pikachu-anime-ash-dp062",
+          "cssClass": ".pokesprite.pokemon.pikachu-anime-ash-dp062.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Pikachu-Bonus-Anime-Ash-DP062-F",
+          "slug": "pikachu-anime-ash-dp062-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-anime-ash-dp062-f",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Pikachu-Bonus-Anime-Ash-DP062-F-★",
+          "slug": "pikachu-anime-ash-dp062-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-anime-ash-dp062-f.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Pikachu-Bonus-Anime-Ash-DP062-F-3DS",
+          "slug": "pikachu-anime-ash-dp062-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-anime-ash-dp062-f.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Pikachu-Bonus-Anime-Ash-DP062-F-3DS-★",
+          "slug": "pikachu-anime-ash-dp062-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-anime-ash-dp062-f.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
           "name": "Pikachu-Bonus-Anime-Ash-EP090",
           "slug": "pikachu-anime-ash-ep090",
           "cssClass": ".pokesprite.pokemon.pikachu-anime-ash-ep090",
@@ -48932,6 +49024,52 @@
           "modifiers": [
             "n3ds",
             "shiny"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Miltank-Bonus-Anime-DP062",
+          "slug": "miltank-anime-dp062",
+          "cssClass": ".pokesprite.pokemon.miltank-anime-dp062",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Miltank-Bonus-Anime-DP062-★",
+          "slug": "miltank-anime-dp062",
+          "cssClass": ".pokesprite.pokemon.miltank-anime-dp062.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Miltank-Bonus-Anime-DP062-3DS",
+          "slug": "miltank-anime-dp062",
+          "cssClass": ".pokesprite.pokemon.miltank-anime-dp062.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Miltank-Bonus-Anime-DP062-3DS-★",
+          "slug": "miltank-anime-dp062",
+          "cssClass": ".pokesprite.pokemon.miltank-anime-dp062.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
           ]
         }
       },
