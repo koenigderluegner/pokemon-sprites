@@ -18831,6 +18831,27 @@
       },
       {
         "regular": {
+          "name": "Clefairy-Bonus-Anime-EP246",
+          "slug": "clefairy-anime-ep246",
+          "cssClass": ".pokesprite.pokemon.clefairy-anime-ep246",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Clefairy-Bonus-Anime-EP246-★",
+          "slug": "clefairy-anime-ep246",
+          "cssClass": ".pokesprite.pokemon.clefairy-anime-ep246.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
           "name": "Clefairy-Bonus-Anime-Lusamine",
           "slug": "clefairy-anime-lusamine",
           "cssClass": ".pokesprite.pokemon.clefairy-anime-lusamine",
@@ -56151,6 +56172,52 @@
             "shiny"
           ]
         }
+      },
+      {
+        "regular": {
+          "name": "Spinda-Bonus-Anime-AG057",
+          "slug": "spinda-anime-ag057",
+          "cssClass": ".pokesprite.pokemon.spinda-anime-ag057",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Spinda-Bonus-Anime-AG057-★",
+          "slug": "spinda-anime-ag057",
+          "cssClass": ".pokesprite.pokemon.spinda-anime-ag057.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Spinda-Bonus-Anime-AG057-3DS",
+          "slug": "spinda-anime-ag057",
+          "cssClass": ".pokesprite.pokemon.spinda-anime-ag057.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Spinda-Bonus-Anime-AG057-3DS-★",
+          "slug": "spinda-anime-ag057",
+          "cssClass": ".pokesprite.pokemon.spinda-anime-ag057.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       }
     ]
   },
@@ -57639,6 +57706,52 @@
           "modifiers": [
             "n3ds",
             "shiny"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Kecleon-Bonus-Invisible",
+          "slug": "kecleon-invisible",
+          "cssClass": ".pokesprite.pokemon.kecleon-invisible",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Kecleon-Bonus-Invisible-★",
+          "slug": "kecleon-invisible",
+          "cssClass": ".pokesprite.pokemon.kecleon-invisible.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Kecleon-Bonus-Invisible-3DS",
+          "slug": "kecleon-invisible",
+          "cssClass": ".pokesprite.pokemon.kecleon-invisible.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Kecleon-Bonus-Invisible-3DS-★",
+          "slug": "kecleon-invisible",
+          "cssClass": ".pokesprite.pokemon.kecleon-invisible.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
           ]
         }
       },
