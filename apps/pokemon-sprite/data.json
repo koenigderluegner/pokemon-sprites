@@ -50244,6 +50244,52 @@
       },
       {
         "regular": {
+          "name": "Treecko-Bonus-Anime-AG034",
+          "slug": "treecko-anime-ag034",
+          "cssClass": ".pokesprite.pokemon.treecko-anime-ag034",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Treecko-Bonus-Anime-AG034-★",
+          "slug": "treecko-anime-ag034",
+          "cssClass": ".pokesprite.pokemon.treecko-anime-ag034.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Treecko-Bonus-Anime-AG034-3DS-XY",
+          "slug": "treecko-anime-ag034-xy",
+          "cssClass": ".pokesprite.pokemon.treecko-anime-ag034-xy.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Treecko-Bonus-Anime-AG034-3DS-XY-★",
+          "slug": "treecko-anime-ag034-xy",
+          "cssClass": ".pokesprite.pokemon.treecko-anime-ag034-xy.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
           "name": "Treecko-Bonus-Anime-Ash",
           "slug": "treecko-anime-ash",
           "cssClass": ".pokesprite.pokemon.treecko-anime-ash",
