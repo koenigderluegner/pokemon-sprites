@@ -42094,6 +42094,98 @@
             "go"
           ]
         }
+      },
+      {
+        "regular": {
+          "name": "Quagsire-Bonus-Anime-EP153",
+          "slug": "quagsire-anime-ep153",
+          "cssClass": ".pokesprite.pokemon.quagsire-anime-ep153",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Quagsire-Bonus-Anime-EP153-★",
+          "slug": "quagsire-anime-ep153",
+          "cssClass": ".pokesprite.pokemon.quagsire-anime-ep153.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Quagsire-Bonus-Anime-EP153-3DS",
+          "slug": "quagsire-anime-ep153",
+          "cssClass": ".pokesprite.pokemon.quagsire-anime-ep153.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Quagsire-Bonus-Anime-EP153-3DS-★",
+          "slug": "quagsire-anime-ep153",
+          "cssClass": ".pokesprite.pokemon.quagsire-anime-ep153.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Quagsire-Bonus-Anime-EP153-F",
+          "slug": "quagsire-anime-ep153-f",
+          "cssClass": ".pokesprite.pokemon.quagsire-anime-ep153-f",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Quagsire-Bonus-Anime-EP153-F-★",
+          "slug": "quagsire-anime-ep153-f",
+          "cssClass": ".pokesprite.pokemon.quagsire-anime-ep153-f.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Quagsire-Bonus-Anime-EP153-F-3DS",
+          "slug": "quagsire-anime-ep153-f",
+          "cssClass": ".pokesprite.pokemon.quagsire-anime-ep153-f.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Quagsire-Bonus-Anime-EP153-F-3DS-★",
+          "slug": "quagsire-anime-ep153-f",
+          "cssClass": ".pokesprite.pokemon.quagsire-anime-ep153-f.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       }
     ]
   },
@@ -113418,6 +113510,17 @@
       },
       {
         "regular": {
+          "name": "Egg-Bonus-Anime-Larvesta",
+          "slug": "egg-anime-larvesta",
+          "cssClass": ".pokesprite.pokemon.egg-anime-larvesta",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": null
+      },
+      {
+        "regular": {
           "name": "Egg-Bonus-Anime-Larvitar",
           "slug": "egg-anime-larvitar",
           "cssClass": ".pokesprite.pokemon.egg-anime-larvitar",
@@ -113465,6 +113568,17 @@
           "name": "Egg-Bonus-Anime-Psyduck",
           "slug": "egg-anime-psyduck",
           "cssClass": ".pokesprite.pokemon.egg-anime-psyduck",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": null
+      },
+      {
+        "regular": {
+          "name": "Egg-Bonus-Anime-Sandile",
+          "slug": "egg-anime-sandile",
+          "cssClass": ".pokesprite.pokemon.egg-anime-sandile",
           "categories": [
             "bonus"
           ]
