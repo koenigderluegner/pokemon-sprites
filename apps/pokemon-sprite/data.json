@@ -61125,6 +61125,27 @@
       },
       {
         "regular": {
+          "name": "Turtwig-Bonus-Anime-Ash-DP062",
+          "slug": "turtwig-anime-ash-dp062",
+          "cssClass": ".pokesprite.pokemon.turtwig-anime-ash-dp062",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Turtwig-Bonus-Anime-Ash-DP062-★",
+          "slug": "turtwig-anime-ash-dp062",
+          "cssClass": ".pokesprite.pokemon.turtwig-anime-ash-dp062.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
           "name": "Turtwig-Bonus-MysteryDungeon-ExplorersofTimeDarkness",
           "slug": "turtwig-mystery-dungeon-explorersof-time-darkness",
           "cssClass": ".pokesprite.pokemon.turtwig-mystery-dungeon-explorersof-time-darkness",
@@ -61548,6 +61569,27 @@
           "name": "Piplup-Bonus-Anime-Dawn-Cheerleader-★",
           "slug": "piplup-anime-dawn-cheerleader",
           "cssClass": ".pokesprite.pokemon.piplup-anime-dawn-cheerleader.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Piplup-Bonus-Anime-Dawn-DP062",
+          "slug": "piplup-anime-dawn-dp062",
+          "cssClass": ".pokesprite.pokemon.piplup-anime-dawn-dp062",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Piplup-Bonus-Anime-Dawn-DP062-★",
+          "slug": "piplup-anime-dawn-dp062",
+          "cssClass": ".pokesprite.pokemon.piplup-anime-dawn-dp062.shiny",
           "modifiers": [
             "shiny"
           ],
@@ -64394,6 +64436,27 @@
           "name": "Buneary-Bonus-Anime-Dawn-Cheerleader-★",
           "slug": "buneary-anime-dawn-cheerleader",
           "cssClass": ".pokesprite.pokemon.buneary-anime-dawn-cheerleader.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Buneary-Bonus-Anime-Dawn-DP062",
+          "slug": "buneary-anime-dawn-dp062",
+          "cssClass": ".pokesprite.pokemon.buneary-anime-dawn-dp062",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Buneary-Bonus-Anime-Dawn-DP062-★",
+          "slug": "buneary-anime-dawn-dp062",
+          "cssClass": ".pokesprite.pokemon.buneary-anime-dawn-dp062.shiny",
           "modifiers": [
             "shiny"
           ],
@@ -76065,6 +76128,52 @@
           "name": "Audino-Bonus-Anime-NurseAid-3DS-★",
           "slug": "audino-anime-nurse-aid",
           "cssClass": ".pokesprite.pokemon.audino-anime-nurse-aid.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Audino-Bonus-Anime-NurseAid-BW124",
+          "slug": "audino-anime-nurse-aid-bw124",
+          "cssClass": ".pokesprite.pokemon.audino-anime-nurse-aid-bw124",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Audino-Bonus-Anime-NurseAid-BW124-★",
+          "slug": "audino-anime-nurse-aid-bw124",
+          "cssClass": ".pokesprite.pokemon.audino-anime-nurse-aid-bw124.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Audino-Bonus-Anime-NurseAid-BW124-3DS",
+          "slug": "audino-anime-nurse-aid-bw124",
+          "cssClass": ".pokesprite.pokemon.audino-anime-nurse-aid-bw124.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Audino-Bonus-Anime-NurseAid-BW124-3DS-★",
+          "slug": "audino-anime-nurse-aid-bw124",
+          "cssClass": ".pokesprite.pokemon.audino-anime-nurse-aid-bw124.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
