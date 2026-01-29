@@ -14489,6 +14489,52 @@
       },
       {
         "regular": {
+          "name": "Pikachu-Bonus-Anime-Ash-XY078-F",
+          "slug": "pikachu-anime-ash-xy078-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-anime-ash-xy078-f",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Pikachu-Bonus-Anime-Ash-XY078-F-★",
+          "slug": "pikachu-anime-ash-xy078-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-anime-ash-xy078-f.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Pikachu-Bonus-Anime-Ash-XY078-F-3DS",
+          "slug": "pikachu-anime-ash-xy078-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-anime-ash-xy078-f.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Pikachu-Bonus-Anime-Ash-XY078-F-3DS-★",
+          "slug": "pikachu-anime-ash-xy078-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-anime-ash-xy078-f.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
           "name": "Pikachu-Bonus-Anime-AshKetchum",
           "slug": "pikachu-anime-ash-ketchum",
           "cssClass": ".pokesprite.pokemon.pikachu-anime-ash-ketchum",
@@ -27085,6 +27131,98 @@
           "name": "Marowak-Alola-Bonus-Anime-Kiawe-UltraGuardians-3DS-★",
           "slug": "marowak-alola-anime-kiawe-ultra-guardians",
           "cssClass": ".pokesprite.pokemon.marowak-alola-anime-kiawe-ultra-guardians.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Marowak-Alola-Bonus-Anime-Kiawe-WelaCrown",
+          "slug": "marowak-alola-anime-kiawe-wela-crown",
+          "cssClass": ".pokesprite.pokemon.marowak-alola-anime-kiawe-wela-crown",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Marowak-Alola-Bonus-Anime-Kiawe-WelaCrown-★",
+          "slug": "marowak-alola-anime-kiawe-wela-crown",
+          "cssClass": ".pokesprite.pokemon.marowak-alola-anime-kiawe-wela-crown.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Marowak-Alola-Bonus-Anime-Kiawe-WelaCrown-3DS",
+          "slug": "marowak-alola-anime-kiawe-wela-crown",
+          "cssClass": ".pokesprite.pokemon.marowak-alola-anime-kiawe-wela-crown.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Marowak-Alola-Bonus-Anime-Kiawe-WelaCrown-3DS-★",
+          "slug": "marowak-alola-anime-kiawe-wela-crown",
+          "cssClass": ".pokesprite.pokemon.marowak-alola-anime-kiawe-wela-crown.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Marowak-Alola-Bonus-UnlitBone",
+          "slug": "marowak-alola-unlit-bone",
+          "cssClass": ".pokesprite.pokemon.marowak-alola-unlit-bone",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Marowak-Alola-Bonus-UnlitBone-★",
+          "slug": "marowak-alola-unlit-bone",
+          "cssClass": ".pokesprite.pokemon.marowak-alola-unlit-bone.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Marowak-Alola-Bonus-UnlitBone-3DS",
+          "slug": "marowak-alola-unlit-bone",
+          "cssClass": ".pokesprite.pokemon.marowak-alola-unlit-bone.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Marowak-Alola-Bonus-UnlitBone-3DS-★",
+          "slug": "marowak-alola-unlit-bone",
+          "cssClass": ".pokesprite.pokemon.marowak-alola-unlit-bone.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
