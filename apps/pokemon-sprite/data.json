@@ -14259,6 +14259,98 @@
       },
       {
         "regular": {
+          "name": "Pikachu-Bonus-Anime-Ash-EP090",
+          "slug": "pikachu-anime-ash-ep090",
+          "cssClass": ".pokesprite.pokemon.pikachu-anime-ash-ep090",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Pikachu-Bonus-Anime-Ash-EP090-★",
+          "slug": "pikachu-anime-ash-ep090",
+          "cssClass": ".pokesprite.pokemon.pikachu-anime-ash-ep090.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Pikachu-Bonus-Anime-Ash-EP090-3DS",
+          "slug": "pikachu-anime-ash-ep090",
+          "cssClass": ".pokesprite.pokemon.pikachu-anime-ash-ep090.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Pikachu-Bonus-Anime-Ash-EP090-3DS-★",
+          "slug": "pikachu-anime-ash-ep090",
+          "cssClass": ".pokesprite.pokemon.pikachu-anime-ash-ep090.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Pikachu-Bonus-Anime-Ash-EP090-F",
+          "slug": "pikachu-anime-ash-ep090-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-anime-ash-ep090-f",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Pikachu-Bonus-Anime-Ash-EP090-F-★",
+          "slug": "pikachu-anime-ash-ep090-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-anime-ash-ep090-f.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Pikachu-Bonus-Anime-Ash-EP090-F-3DS",
+          "slug": "pikachu-anime-ash-ep090-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-anime-ash-ep090-f.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Pikachu-Bonus-Anime-Ash-EP090-F-3DS-★",
+          "slug": "pikachu-anime-ash-ep090-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-anime-ash-ep090-f.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
           "name": "Pikachu-Bonus-Anime-Ash-JN089",
           "slug": "pikachu-anime-ash-jn089",
           "cssClass": ".pokesprite.pokemon.pikachu-anime-ash-jn089",
@@ -17606,6 +17698,98 @@
             "go"
           ]
         }
+      },
+      {
+        "regular": {
+          "name": "Raichu-Bonus-Anime-Kay",
+          "slug": "raichu-anime-kay",
+          "cssClass": ".pokesprite.pokemon.raichu-anime-kay",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Raichu-Bonus-Anime-Kay-★",
+          "slug": "raichu-anime-kay",
+          "cssClass": ".pokesprite.pokemon.raichu-anime-kay.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Raichu-Bonus-Anime-Kay-3DS",
+          "slug": "raichu-anime-kay",
+          "cssClass": ".pokesprite.pokemon.raichu-anime-kay.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Raichu-Bonus-Anime-Kay-3DS-★",
+          "slug": "raichu-anime-kay",
+          "cssClass": ".pokesprite.pokemon.raichu-anime-kay.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Raichu-Bonus-Anime-Kay-F",
+          "slug": "raichu-anime-kay-f",
+          "cssClass": ".pokesprite.pokemon.raichu-anime-kay-f",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Raichu-Bonus-Anime-Kay-F-★",
+          "slug": "raichu-anime-kay-f",
+          "cssClass": ".pokesprite.pokemon.raichu-anime-kay-f.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Raichu-Bonus-Anime-Kay-F-3DS",
+          "slug": "raichu-anime-kay-f",
+          "cssClass": ".pokesprite.pokemon.raichu-anime-kay-f.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Raichu-Bonus-Anime-Kay-F-3DS-★",
+          "slug": "raichu-anime-kay-f",
+          "cssClass": ".pokesprite.pokemon.raichu-anime-kay-f.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       }
     ]
   },
@@ -20861,6 +21045,27 @@
       },
       {
         "regular": {
+          "name": "Paras-Bonus-Anime-EP006",
+          "slug": "paras-anime-ep006",
+          "cssClass": ".pokesprite.pokemon.paras-anime-ep006",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Paras-Bonus-Anime-EP006-★",
+          "slug": "paras-anime-ep006",
+          "cssClass": ".pokesprite.pokemon.paras-anime-ep006.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
           "name": "Paras-Bonus-Anime-Pinkan",
           "slug": "paras-anime-pinkan",
           "cssClass": ".pokesprite.pokemon.paras-anime-pinkan",
@@ -23282,6 +23487,52 @@
           "modifiers": [
             "n3ds",
             "shiny"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Machoke-Bonus-Anime-EP090",
+          "slug": "machoke-anime-ep090",
+          "cssClass": ".pokesprite.pokemon.machoke-anime-ep090",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Machoke-Bonus-Anime-EP090-★",
+          "slug": "machoke-anime-ep090",
+          "cssClass": ".pokesprite.pokemon.machoke-anime-ep090.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Machoke-Bonus-Anime-EP090-3DS",
+          "slug": "machoke-anime-ep090",
+          "cssClass": ".pokesprite.pokemon.machoke-anime-ep090.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Machoke-Bonus-Anime-EP090-3DS-★",
+          "slug": "machoke-anime-ep090",
+          "cssClass": ".pokesprite.pokemon.machoke-anime-ep090.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
           ]
         }
       }
