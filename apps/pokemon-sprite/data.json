@@ -39333,6 +39333,27 @@
       },
       {
         "regular": {
+          "name": "Pichu-Bonus-Anime-PichuBros",
+          "slug": "pichu-anime-pichu-bros",
+          "cssClass": ".pokesprite.pokemon.pichu-anime-pichu-bros",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Pichu-Bonus-Anime-PichuBros-★",
+          "slug": "pichu-anime-pichu-bros",
+          "cssClass": ".pokesprite.pokemon.pichu-anime-pichu-bros.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
           "name": "Pichu-Bonus-RangerGuardianSigns",
           "slug": "pichu-ranger-guardian-signs",
           "cssClass": ".pokesprite.pokemon.pichu-ranger-guardian-signs",
@@ -39745,6 +39766,27 @@
           "cssClass": ".pokesprite.pokemon.mareep.shiny",
           "modifiers": [
             "shiny"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Mareep-Bonus-Anime-AG057",
+          "slug": "mareep-anime-ag057",
+          "cssClass": ".pokesprite.pokemon.mareep-anime-ag057",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Mareep-Bonus-Anime-AG057-★",
+          "slug": "mareep-anime-ag057",
+          "cssClass": ".pokesprite.pokemon.mareep-anime-ag057.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
           ]
         }
       },
