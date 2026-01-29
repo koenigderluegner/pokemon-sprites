@@ -27892,7 +27892,18 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Rhydon-Bonus-Anime-EP228-F-Switch-LGPE-★",
+          "slug": "rhydon-anime-ep228-f-lgpe",
+          "cssClass": ".pokesprite.pokemon.rhydon-anime-ep228-f-lgpe.shiny.switch",
+          "modifiers": [
+            "shiny",
+            "switch"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
