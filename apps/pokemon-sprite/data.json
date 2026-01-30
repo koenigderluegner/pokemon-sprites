@@ -1786,6 +1786,52 @@
       },
       {
         "regular": {
+          "name": "Charizard-Bonus-Anime-Alain",
+          "slug": "charizard-anime-alain",
+          "cssClass": ".pokesprite.pokemon.charizard-anime-alain",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Charizard-Bonus-Anime-Alain-★",
+          "slug": "charizard-anime-alain",
+          "cssClass": ".pokesprite.pokemon.charizard-anime-alain.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Charizard-Bonus-Anime-Alain-3DS",
+          "slug": "charizard-anime-alain",
+          "cssClass": ".pokesprite.pokemon.charizard-anime-alain.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Charizard-Bonus-Anime-Alain-3DS-★",
+          "slug": "charizard-anime-alain",
+          "cssClass": ".pokesprite.pokemon.charizard-anime-alain.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
           "name": "Charizard-Bonus-Anime-Charla",
           "slug": "charizard-anime-charla",
           "cssClass": ".pokesprite.pokemon.charizard-anime-charla",
@@ -14535,6 +14581,98 @@
       },
       {
         "regular": {
+          "name": "Pikachu-Bonus-Anime-Ash-SM028",
+          "slug": "pikachu-anime-ash-sm028",
+          "cssClass": ".pokesprite.pokemon.pikachu-anime-ash-sm028",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Pikachu-Bonus-Anime-Ash-SM028-★",
+          "slug": "pikachu-anime-ash-sm028",
+          "cssClass": ".pokesprite.pokemon.pikachu-anime-ash-sm028.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Pikachu-Bonus-Anime-Ash-SM028-3DS",
+          "slug": "pikachu-anime-ash-sm028",
+          "cssClass": ".pokesprite.pokemon.pikachu-anime-ash-sm028.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Pikachu-Bonus-Anime-Ash-SM028-3DS-★",
+          "slug": "pikachu-anime-ash-sm028",
+          "cssClass": ".pokesprite.pokemon.pikachu-anime-ash-sm028.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Pikachu-Bonus-Anime-Ash-SM028-F",
+          "slug": "pikachu-anime-ash-sm028-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-anime-ash-sm028-f",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Pikachu-Bonus-Anime-Ash-SM028-F-★",
+          "slug": "pikachu-anime-ash-sm028-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-anime-ash-sm028-f.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Pikachu-Bonus-Anime-Ash-SM028-F-3DS",
+          "slug": "pikachu-anime-ash-sm028-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-anime-ash-sm028-f.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Pikachu-Bonus-Anime-Ash-SM028-F-3DS-★",
+          "slug": "pikachu-anime-ash-sm028-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-anime-ash-sm028-f.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
           "name": "Pikachu-Bonus-Anime-Ash-UltraGaurdians",
           "slug": "pikachu-anime-ash-ultra-gaurdians",
           "cssClass": ".pokesprite.pokemon.pikachu-anime-ash-ultra-gaurdians",
@@ -19398,6 +19536,27 @@
       },
       {
         "regular": {
+          "name": "Vulpix-Alola-Bonus-Anime-Snowy-SM028",
+          "slug": "vulpix-alola-anime-snowy-sm028",
+          "cssClass": ".pokesprite.pokemon.vulpix-alola-anime-snowy-sm028",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Vulpix-Alola-Bonus-Anime-Snowy-SM028-★",
+          "slug": "vulpix-alola-anime-snowy-sm028",
+          "cssClass": ".pokesprite.pokemon.vulpix-alola-anime-snowy-sm028.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
           "name": "Vulpix-Alola-Bonus-Anime-Snowy-UltraGaurdians",
           "slug": "vulpix-alola-anime-snowy-ultra-gaurdians",
           "cssClass": ".pokesprite.pokemon.vulpix-alola-anime-snowy-ultra-gaurdians",
@@ -21750,6 +21909,27 @@
           "name": "Meowth-Bonus-Anime-TeamRocket-EP087-★",
           "slug": "meowth-anime-team-rocket-ep087",
           "cssClass": ".pokesprite.pokemon.meowth-anime-team-rocket-ep087.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Meowth-Bonus-Anime-TeamRocket-SM028",
+          "slug": "meowth-anime-team-rocket-sm028",
+          "cssClass": ".pokesprite.pokemon.meowth-anime-team-rocket-sm028",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Meowth-Bonus-Anime-TeamRocket-SM028-★",
+          "slug": "meowth-anime-team-rocket-sm028",
+          "cssClass": ".pokesprite.pokemon.meowth-anime-team-rocket-sm028.shiny",
           "modifiers": [
             "shiny"
           ],
@@ -44902,6 +45082,98 @@
           "name": "Wobbuffet-Bonus-Anime-OfficerJenny-F-3DS-★",
           "slug": "wobbuffet-anime-officer-jenny-f",
           "cssClass": ".pokesprite.pokemon.wobbuffet-anime-officer-jenny-f.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Wobbuffet-Bonus-Anime-TeamRocket-SM028",
+          "slug": "wobbuffet-anime-team-rocket-sm028",
+          "cssClass": ".pokesprite.pokemon.wobbuffet-anime-team-rocket-sm028",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Wobbuffet-Bonus-Anime-TeamRocket-SM028-★",
+          "slug": "wobbuffet-anime-team-rocket-sm028",
+          "cssClass": ".pokesprite.pokemon.wobbuffet-anime-team-rocket-sm028.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Wobbuffet-Bonus-Anime-TeamRocket-SM028-3DS",
+          "slug": "wobbuffet-anime-team-rocket-sm028",
+          "cssClass": ".pokesprite.pokemon.wobbuffet-anime-team-rocket-sm028.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Wobbuffet-Bonus-Anime-TeamRocket-SM028-3DS-★",
+          "slug": "wobbuffet-anime-team-rocket-sm028",
+          "cssClass": ".pokesprite.pokemon.wobbuffet-anime-team-rocket-sm028.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Wobbuffet-Bonus-Anime-TeamRocket-SM028-F",
+          "slug": "wobbuffet-anime-team-rocket-sm028-f",
+          "cssClass": ".pokesprite.pokemon.wobbuffet-anime-team-rocket-sm028-f",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Wobbuffet-Bonus-Anime-TeamRocket-SM028-F-★",
+          "slug": "wobbuffet-anime-team-rocket-sm028-f",
+          "cssClass": ".pokesprite.pokemon.wobbuffet-anime-team-rocket-sm028-f.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Wobbuffet-Bonus-Anime-TeamRocket-SM028-F-3DS",
+          "slug": "wobbuffet-anime-team-rocket-sm028-f",
+          "cssClass": ".pokesprite.pokemon.wobbuffet-anime-team-rocket-sm028-f.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Wobbuffet-Bonus-Anime-TeamRocket-SM028-F-3DS-★",
+          "slug": "wobbuffet-anime-team-rocket-sm028-f",
+          "cssClass": ".pokesprite.pokemon.wobbuffet-anime-team-rocket-sm028-f.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -93382,6 +93654,27 @@
             "bonus"
           ]
         }
+      },
+      {
+        "regular": {
+          "name": "Mareanie-Bonus-Anime-TeamRocket-SM028",
+          "slug": "mareanie-anime-team-rocket-sm028",
+          "cssClass": ".pokesprite.pokemon.mareanie-anime-team-rocket-sm028",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Mareanie-Bonus-Anime-TeamRocket-SM028-★",
+          "slug": "mareanie-anime-team-rocket-sm028",
+          "cssClass": ".pokesprite.pokemon.mareanie-anime-team-rocket-sm028.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       }
     ]
   },
@@ -94048,6 +94341,52 @@
           "modifiers": [
             "n3ds",
             "shiny"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Steenee-Bonus-Anime-Mallow-SM028",
+          "slug": "steenee-anime-mallow-sm028",
+          "cssClass": ".pokesprite.pokemon.steenee-anime-mallow-sm028",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Steenee-Bonus-Anime-Mallow-SM028-★",
+          "slug": "steenee-anime-mallow-sm028",
+          "cssClass": ".pokesprite.pokemon.steenee-anime-mallow-sm028.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Steenee-Bonus-Anime-Mallow-SM028-3DS",
+          "slug": "steenee-anime-mallow-sm028",
+          "cssClass": ".pokesprite.pokemon.steenee-anime-mallow-sm028.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Steenee-Bonus-Anime-Mallow-SM028-3DS-★",
+          "slug": "steenee-anime-mallow-sm028",
+          "cssClass": ".pokesprite.pokemon.steenee-anime-mallow-sm028.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
           ]
         }
       },
@@ -95930,6 +96269,77 @@
       },
       {
         "regular": {
+          "name": "Turtonator-Bonus-Anime-Kiawe-SM028",
+          "slug": "turtonator-anime-kiawe-sm028",
+          "cssClass": ".pokesprite.pokemon.turtonator-anime-kiawe-sm028",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Turtonator-Bonus-Anime-Kiawe-SM028-★",
+          "slug": "turtonator-anime-kiawe-sm028",
+          "cssClass": ".pokesprite.pokemon.turtonator-anime-kiawe-sm028.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Turtonator-Bonus-Anime-Kiawe-SM028-3DS",
+          "slug": "turtonator-anime-kiawe-sm028",
+          "cssClass": ".pokesprite.pokemon.turtonator-anime-kiawe-sm028.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Turtonator-Bonus-Anime-Kiawe-SM028-3DS-★",
+          "slug": "turtonator-anime-kiawe-sm028",
+          "cssClass": ".pokesprite.pokemon.turtonator-anime-kiawe-sm028.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Turtonator-Bonus-Anime-Kiawe-SM028-3DS-Optional",
+          "slug": "turtonator-anime-kiawe-sm028-optional",
+          "cssClass": ".pokesprite.pokemon.turtonator-anime-kiawe-sm028-optional.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Turtonator-Bonus-Anime-Kiawe-SM028-3DS-Optional-★",
+          "slug": "turtonator-anime-kiawe-sm028-optional",
+          "cssClass": ".pokesprite.pokemon.turtonator-anime-kiawe-sm028-optional.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
           "name": "Turtonator-Bonus-Anime-Kiawe-UltraGuardians",
           "slug": "turtonator-anime-kiawe-ultra-guardians",
           "cssClass": ".pokesprite.pokemon.turtonator-anime-kiawe-ultra-guardians",
@@ -96253,6 +96663,52 @@
       },
       {
         "regular": {
+          "name": "Mimikyu-Bonus-Anime-TeamRocket-SM028",
+          "slug": "mimikyu-anime-team-rocket-sm028",
+          "cssClass": ".pokesprite.pokemon.mimikyu-anime-team-rocket-sm028",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Mimikyu-Bonus-Anime-TeamRocket-SM028-★",
+          "slug": "mimikyu-anime-team-rocket-sm028",
+          "cssClass": ".pokesprite.pokemon.mimikyu-anime-team-rocket-sm028.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Mimikyu-Bonus-Anime-TeamRocket-SM028-3DS",
+          "slug": "mimikyu-anime-team-rocket-sm028",
+          "cssClass": ".pokesprite.pokemon.mimikyu-anime-team-rocket-sm028.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Mimikyu-Bonus-Anime-TeamRocket-SM028-3DS-★",
+          "slug": "mimikyu-anime-team-rocket-sm028",
+          "cssClass": ".pokesprite.pokemon.mimikyu-anime-team-rocket-sm028.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
           "name": "Mimikyu-Busted-Bonus-Anime-Mimikins",
           "slug": "mimikyu-busted-anime-mimikins",
           "cssClass": ".pokesprite.pokemon.mimikyu-busted-anime-mimikins",
@@ -96296,6 +96752,31 @@
             "bonus"
           ]
         }
+      },
+      {
+        "regular": {
+          "name": "Mimikyu-Busted-Bonus-Anime-TeamRocket-SM028",
+          "slug": "mimikyu-busted-anime-team-rocket-sm028",
+          "cssClass": ".pokesprite.pokemon.mimikyu-busted-anime-team-rocket-sm028",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": null
+      },
+      {
+        "regular": {
+          "name": "Mimikyu-Busted-Bonus-Anime-TeamRocket-SM028-3DS",
+          "slug": "mimikyu-busted-anime-team-rocket-sm028",
+          "cssClass": ".pokesprite.pokemon.mimikyu-busted-anime-team-rocket-sm028.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": null
       }
     ]
   },
