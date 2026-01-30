@@ -56648,6 +56648,52 @@
             "bonus"
           ]
         }
+      },
+      {
+        "regular": {
+          "name": "Sharpedo-Mega-Bonus-Anime-RidePager-HZ124",
+          "slug": "sharpedo-mega-anime-ride-pager-hz124",
+          "cssClass": ".pokesprite.pokemon.sharpedo-mega-anime-ride-pager-hz124",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Sharpedo-Mega-Bonus-Anime-RidePager-HZ124-★",
+          "slug": "sharpedo-mega-anime-ride-pager-hz124",
+          "cssClass": ".pokesprite.pokemon.sharpedo-mega-anime-ride-pager-hz124.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Sharpedo-Mega-Bonus-Anime-RidePager-HZ124-3DS",
+          "slug": "sharpedo-mega-anime-ride-pager-hz124",
+          "cssClass": ".pokesprite.pokemon.sharpedo-mega-anime-ride-pager-hz124.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Sharpedo-Mega-Bonus-Anime-RidePager-HZ124-3DS-★",
+          "slug": "sharpedo-mega-anime-ride-pager-hz124",
+          "cssClass": ".pokesprite.pokemon.sharpedo-mega-anime-ride-pager-hz124.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       }
     ]
   },
@@ -56947,27 +56993,6 @@
       },
       {
         "regular": {
-          "name": "Numel-Bonus-Anime-HZ037",
-          "slug": "numel-anime-hz037",
-          "cssClass": ".pokesprite.pokemon.numel-anime-hz037",
-          "categories": [
-            "bonus"
-          ]
-        },
-        "shiny": {
-          "name": "Numel-Bonus-Anime-HZ037-★",
-          "slug": "numel-anime-hz037",
-          "cssClass": ".pokesprite.pokemon.numel-anime-hz037.shiny",
-          "modifiers": [
-            "shiny"
-          ],
-          "categories": [
-            "bonus"
-          ]
-        }
-      },
-      {
-        "regular": {
           "name": "Numel-Bonus-Anime-HZ037-F",
           "slug": "numel-anime-hz037-f",
           "cssClass": ".pokesprite.pokemon.numel-anime-hz037-f",
@@ -56979,6 +57004,27 @@
           "name": "Numel-Bonus-Anime-HZ037-F-★",
           "slug": "numel-anime-hz037-f",
           "cssClass": ".pokesprite.pokemon.numel-anime-hz037-f.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Numel-Bonus-Anime-HZ037Seminar",
+          "slug": "numel-anime-hz037-seminar",
+          "cssClass": ".pokesprite.pokemon.numel-anime-hz037-seminar",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Numel-Bonus-Anime-HZ037Seminar-★",
+          "slug": "numel-anime-hz037-seminar",
+          "cssClass": ".pokesprite.pokemon.numel-anime-hz037-seminar.shiny",
           "modifiers": [
             "shiny"
           ],
@@ -111675,6 +111721,52 @@
           "modifiers": [
             "shiny",
             "switch"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Tatsugiri-Droopy-Bonus-HZ074Seminar",
+          "slug": "tatsugiri-droopy-hz074-seminar",
+          "cssClass": ".pokesprite.pokemon.tatsugiri-droopy-hz074-seminar",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Tatsugiri-Droopy-Bonus-HZ074Seminar-★",
+          "slug": "tatsugiri-droopy-hz074-seminar",
+          "cssClass": ".pokesprite.pokemon.tatsugiri-droopy-hz074-seminar.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Tatsugiri-Droopy-Bonus-HZ074Seminar-3DS",
+          "slug": "tatsugiri-droopy-hz074-seminar",
+          "cssClass": ".pokesprite.pokemon.tatsugiri-droopy-hz074-seminar.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Tatsugiri-Droopy-Bonus-HZ074Seminar-3DS-★",
+          "slug": "tatsugiri-droopy-hz074-seminar",
+          "cssClass": ".pokesprite.pokemon.tatsugiri-droopy-hz074-seminar.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
           ]
         }
       }
