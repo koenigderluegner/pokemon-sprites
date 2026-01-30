@@ -88675,6 +88675,52 @@
             "bonus"
           ]
         }
+      },
+      {
+        "regular": {
+          "name": "Hawlucha-Bonus-Anime-Ash-XY127",
+          "slug": "hawlucha-anime-ash-xy127",
+          "cssClass": ".pokesprite.pokemon.hawlucha-anime-ash-xy127",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Hawlucha-Bonus-Anime-Ash-XY127-★",
+          "slug": "hawlucha-anime-ash-xy127",
+          "cssClass": ".pokesprite.pokemon.hawlucha-anime-ash-xy127.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Hawlucha-Bonus-Anime-Ash-XY127-3DS",
+          "slug": "hawlucha-anime-ash-xy127",
+          "cssClass": ".pokesprite.pokemon.hawlucha-anime-ash-xy127.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Hawlucha-Bonus-Anime-Ash-XY127-3DS-★",
+          "slug": "hawlucha-anime-ash-xy127",
+          "cssClass": ".pokesprite.pokemon.hawlucha-anime-ash-xy127.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       }
     ]
   },
@@ -91683,6 +91729,27 @@
           "cssClass": ".pokesprite.pokemon.popplio.shiny",
           "modifiers": [
             "shiny"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Popplio-Bonus-Anime-Lana-SM028",
+          "slug": "popplio-anime-lana-sm028",
+          "cssClass": ".pokesprite.pokemon.popplio-anime-lana-sm028",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Popplio-Bonus-Anime-Lana-SM028-★",
+          "slug": "popplio-anime-lana-sm028",
+          "cssClass": ".pokesprite.pokemon.popplio-anime-lana-sm028.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
           ]
         }
       },
