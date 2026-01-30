@@ -67391,6 +67391,52 @@
       },
       {
         "regular": {
+          "name": "Lucario-Bonus-Anime-Korrina",
+          "slug": "lucario-anime-korrina",
+          "cssClass": ".pokesprite.pokemon.lucario-anime-korrina",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Lucario-Bonus-Anime-Korrina-★",
+          "slug": "lucario-anime-korrina",
+          "cssClass": ".pokesprite.pokemon.lucario-anime-korrina.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Lucario-Bonus-Anime-Korrina-3DS",
+          "slug": "lucario-anime-korrina",
+          "cssClass": ".pokesprite.pokemon.lucario-anime-korrina.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Lucario-Bonus-Anime-Korrina-3DS-★",
+          "slug": "lucario-anime-korrina",
+          "cssClass": ".pokesprite.pokemon.lucario-anime-korrina.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
           "name": "Lucario-Bonus-Anime-Roy-HZ123",
           "slug": "lucario-anime-roy-hz123",
           "cssClass": ".pokesprite.pokemon.lucario-anime-roy-hz123",
@@ -115071,6 +115117,17 @@
           "name": "Egg-Bonus-Anime-Psyduck",
           "slug": "egg-anime-psyduck",
           "cssClass": ".pokesprite.pokemon.egg-anime-psyduck",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": null
+      },
+      {
+        "regular": {
+          "name": "Egg-Bonus-Anime-Riolu",
+          "slug": "egg-anime-riolu",
+          "cssClass": ".pokesprite.pokemon.egg-anime-riolu",
           "categories": [
             "bonus"
           ]
