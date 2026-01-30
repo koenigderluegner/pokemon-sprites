@@ -36148,6 +36148,77 @@
       },
       {
         "regular": {
+          "name": "Kabutops-Bonus-Anime-Movie05",
+          "slug": "kabutops-anime-movie05",
+          "cssClass": ".pokesprite.pokemon.kabutops-anime-movie05",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Kabutops-Bonus-Anime-Movie05-★",
+          "slug": "kabutops-anime-movie05",
+          "cssClass": ".pokesprite.pokemon.kabutops-anime-movie05.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Kabutops-Bonus-Anime-Movie05-3DS",
+          "slug": "kabutops-anime-movie05",
+          "cssClass": ".pokesprite.pokemon.kabutops-anime-movie05.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Kabutops-Bonus-Anime-Movie05-3DS-★",
+          "slug": "kabutops-anime-movie05",
+          "cssClass": ".pokesprite.pokemon.kabutops-anime-movie05.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Kabutops-Bonus-Anime-Movie05-Switch-LGPE",
+          "slug": "kabutops-anime-movie05-lgpe",
+          "cssClass": ".pokesprite.pokemon.kabutops-anime-movie05-lgpe.switch",
+          "modifiers": [
+            "switch"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Kabutops-Bonus-Anime-Movie05-Switch-LGPE-★",
+          "slug": "kabutops-anime-movie05-lgpe",
+          "cssClass": ".pokesprite.pokemon.kabutops-anime-movie05-lgpe.shiny.switch",
+          "modifiers": [
+            "shiny",
+            "switch"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
           "name": "Kabutops-Bonus-PewterFossil",
           "slug": "kabutops-pewter-fossil",
           "cssClass": ".pokesprite.pokemon.kabutops-pewter-fossil",
@@ -36506,6 +36577,77 @@
           ],
           "categories": [
             "extra"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Aerodactyl-Bonus-Anime-Movie05",
+          "slug": "aerodactyl-anime-movie05",
+          "cssClass": ".pokesprite.pokemon.aerodactyl-anime-movie05",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Aerodactyl-Bonus-Anime-Movie05-★",
+          "slug": "aerodactyl-anime-movie05",
+          "cssClass": ".pokesprite.pokemon.aerodactyl-anime-movie05.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Aerodactyl-Bonus-Anime-Movie05-3DS",
+          "slug": "aerodactyl-anime-movie05",
+          "cssClass": ".pokesprite.pokemon.aerodactyl-anime-movie05.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Aerodactyl-Bonus-Anime-Movie05-3DS-★",
+          "slug": "aerodactyl-anime-movie05",
+          "cssClass": ".pokesprite.pokemon.aerodactyl-anime-movie05.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Aerodactyl-Bonus-Anime-Movie05-Switch-LGPE",
+          "slug": "aerodactyl-anime-movie05-lgpe",
+          "cssClass": ".pokesprite.pokemon.aerodactyl-anime-movie05-lgpe.switch",
+          "modifiers": [
+            "switch"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Aerodactyl-Bonus-Anime-Movie05-Switch-LGPE-★",
+          "slug": "aerodactyl-anime-movie05-lgpe",
+          "cssClass": ".pokesprite.pokemon.aerodactyl-anime-movie05-lgpe.shiny.switch",
+          "modifiers": [
+            "shiny",
+            "switch"
+          ],
+          "categories": [
+            "bonus"
           ]
         }
       }
@@ -87162,17 +87304,17 @@
       },
       {
         "regular": {
-          "name": "Pancham-Bonus-Serena",
-          "slug": "pancham-serena",
-          "cssClass": ".pokesprite.pokemon.pancham-serena",
+          "name": "Pancham-Bonus-Anime-Serena",
+          "slug": "pancham-anime-serena",
+          "cssClass": ".pokesprite.pokemon.pancham-anime-serena",
           "categories": [
             "bonus"
           ]
         },
         "shiny": {
-          "name": "Pancham-Bonus-Serena-★",
-          "slug": "pancham-serena",
-          "cssClass": ".pokesprite.pokemon.pancham-serena.shiny",
+          "name": "Pancham-Bonus-Anime-Serena-★",
+          "slug": "pancham-anime-serena",
+          "cssClass": ".pokesprite.pokemon.pancham-anime-serena.shiny",
           "modifiers": [
             "shiny"
           ],
@@ -96985,6 +97127,52 @@
       },
       {
         "regular": {
+          "name": "Mimikyu-Bonus-Anime-TeamRocket-SM038-PaperBag",
+          "slug": "mimikyu-anime-team-rocket-sm038-paper-bag",
+          "cssClass": ".pokesprite.pokemon.mimikyu-anime-team-rocket-sm038-paper-bag",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Mimikyu-Bonus-Anime-TeamRocket-SM038-PaperBag-★",
+          "slug": "mimikyu-anime-team-rocket-sm038-paper-bag",
+          "cssClass": ".pokesprite.pokemon.mimikyu-anime-team-rocket-sm038-paper-bag.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Mimikyu-Bonus-Anime-TeamRocket-SM038-PaperBag-3DS",
+          "slug": "mimikyu-anime-team-rocket-sm038-paper-bag",
+          "cssClass": ".pokesprite.pokemon.mimikyu-anime-team-rocket-sm038-paper-bag.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Mimikyu-Bonus-Anime-TeamRocket-SM038-PaperBag-3DS-★",
+          "slug": "mimikyu-anime-team-rocket-sm038-paper-bag",
+          "cssClass": ".pokesprite.pokemon.mimikyu-anime-team-rocket-sm038-paper-bag.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
           "name": "Mimikyu-Busted-Bonus-Anime-Mimikins",
           "slug": "mimikyu-busted-anime-mimikins",
           "cssClass": ".pokesprite.pokemon.mimikyu-busted-anime-mimikins",
@@ -97038,7 +97226,17 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Mimikyu-Busted-Bonus-Anime-TeamRocket-SM028-★",
+          "slug": "mimikyu-busted-anime-team-rocket-sm028",
+          "cssClass": ".pokesprite.pokemon.mimikyu-busted-anime-team-rocket-sm028.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -97052,7 +97250,18 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Mimikyu-Busted-Bonus-Anime-TeamRocket-SM028-3DS-★",
+          "slug": "mimikyu-busted-anime-team-rocket-sm028",
+          "cssClass": ".pokesprite.pokemon.mimikyu-busted-anime-team-rocket-sm028.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       }
     ]
   },
