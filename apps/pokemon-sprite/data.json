@@ -36451,6 +36451,123 @@
       },
       {
         "regular": {
+          "name": "Snorlax-Bonus-Anime-Oluolu",
+          "slug": "snorlax-anime-oluolu",
+          "cssClass": ".pokesprite.pokemon.snorlax-anime-oluolu",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Snorlax-Bonus-Anime-Oluolu-★",
+          "slug": "snorlax-anime-oluolu",
+          "cssClass": ".pokesprite.pokemon.snorlax-anime-oluolu.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Snorlax-Bonus-Anime-Oluolu-3DS",
+          "slug": "snorlax-anime-oluolu",
+          "cssClass": ".pokesprite.pokemon.snorlax-anime-oluolu.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Snorlax-Bonus-Anime-Oluolu-3DS-★",
+          "slug": "snorlax-anime-oluolu",
+          "cssClass": ".pokesprite.pokemon.snorlax-anime-oluolu.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Snorlax-Bonus-Anime-PK09",
+          "slug": "snorlax-anime-pk09",
+          "cssClass": ".pokesprite.pokemon.snorlax-anime-pk09",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Snorlax-Bonus-Anime-PK09-★",
+          "slug": "snorlax-anime-pk09",
+          "cssClass": ".pokesprite.pokemon.snorlax-anime-pk09.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Snorlax-Bonus-Anime-PK09-3DS",
+          "slug": "snorlax-anime-pk09",
+          "cssClass": ".pokesprite.pokemon.snorlax-anime-pk09.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Snorlax-Bonus-Anime-PK09-3DS-★",
+          "slug": "snorlax-anime-pk09",
+          "cssClass": ".pokesprite.pokemon.snorlax-anime-pk09.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Snorlax-Bonus-Sleep-AmberCanyon",
+          "slug": "snorlax-sleep-amber-canyon",
+          "cssClass": ".pokesprite.pokemon.snorlax-sleep-amber-canyon",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": null
+      },
+      {
+        "regular": {
+          "name": "Snorlax-Bonus-Sleep-AmberCanyon-3DS",
+          "slug": "snorlax-sleep-amber-canyon",
+          "cssClass": ".pokesprite.pokemon.snorlax-sleep-amber-canyon.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": null
+      },
+      {
+        "regular": {
           "name": "Snorlax-Bonus-Sleep-CyanBeach",
           "slug": "snorlax-sleep-cyan-beach",
           "cssClass": ".pokesprite.pokemon.snorlax-sleep-cyan-beach",
@@ -36465,6 +36582,56 @@
           "name": "Snorlax-Bonus-Sleep-CyanBeach-3DS",
           "slug": "snorlax-sleep-cyan-beach",
           "cssClass": ".pokesprite.pokemon.snorlax-sleep-cyan-beach.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": null
+      },
+      {
+        "regular": {
+          "name": "Snorlax-Bonus-Sleep-LapisLakeside",
+          "slug": "snorlax-sleep-lapis-lakeside",
+          "cssClass": ".pokesprite.pokemon.snorlax-sleep-lapis-lakeside",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": null
+      },
+      {
+        "regular": {
+          "name": "Snorlax-Bonus-Sleep-LapisLakeside-3DS",
+          "slug": "snorlax-sleep-lapis-lakeside",
+          "cssClass": ".pokesprite.pokemon.snorlax-sleep-lapis-lakeside.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": null
+      },
+      {
+        "regular": {
+          "name": "Snorlax-Bonus-Sleep-OldGoldPowerPlant",
+          "slug": "snorlax-sleep-old-gold-power-plant",
+          "cssClass": ".pokesprite.pokemon.snorlax-sleep-old-gold-power-plant",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": null
+      },
+      {
+        "regular": {
+          "name": "Snorlax-Bonus-Sleep-OldGoldPowerPlant-3DS",
+          "slug": "snorlax-sleep-old-gold-power-plant",
+          "cssClass": ".pokesprite.pokemon.snorlax-sleep-old-gold-power-plant.n3ds",
           "modifiers": [
             "n3ds"
           ],
@@ -91351,25 +91518,6 @@
       },
       {
         "regular": {
-          "name": "Litten-RumbleRush-FestiveHat-3DS",
-          "slug": "litten-rumble-rush-festive-hat",
-          "cssClass": ".pokesprite.pokemon.litten-rumble-rush-festive-hat.n3ds",
-          "modifiers": [
-            "n3ds"
-          ]
-        },
-        "shiny": {
-          "name": "Litten-RumbleRush-FestiveHat-3DS-★",
-          "slug": "litten-rumble-rush-festive-hat",
-          "cssClass": ".pokesprite.pokemon.litten-rumble-rush-festive-hat.shiny.n3ds",
-          "modifiers": [
-            "shiny",
-            "n3ds"
-          ]
-        }
-      },
-      {
-        "regular": {
           "name": "Litten-Bonus-Anime-Ash-UltraGuardians",
           "slug": "litten-anime-ash-ultra-guardians",
           "cssClass": ".pokesprite.pokemon.litten-anime-ash-ultra-guardians",
@@ -91429,6 +91577,31 @@
           "cssClass": ".pokesprite.pokemon.litten-rumble-rush-festive-hat.shiny",
           "modifiers": [
             "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Litten-Bonus-RumbleRush-FestiveHat-3DS",
+          "slug": "litten-rumble-rush-festive-hat",
+          "cssClass": ".pokesprite.pokemon.litten-rumble-rush-festive-hat.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Litten-Bonus-RumbleRush-FestiveHat-3DS-★",
+          "slug": "litten-rumble-rush-festive-hat",
+          "cssClass": ".pokesprite.pokemon.litten-rumble-rush-festive-hat.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
           ],
           "categories": [
             "bonus"
@@ -92802,6 +92975,27 @@
           "cssClass": ".pokesprite.pokemon.rockruff.shiny",
           "modifiers": [
             "shiny"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Rockruff-Bonus-Anime-Ash-SM028",
+          "slug": "rockruff-anime-ash-sm028",
+          "cssClass": ".pokesprite.pokemon.rockruff-anime-ash-sm028",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Rockruff-Bonus-Anime-Ash-SM028-★",
+          "slug": "rockruff-anime-ash-sm028",
+          "cssClass": ".pokesprite.pokemon.rockruff-anime-ash-sm028.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
           ]
         }
       }
@@ -95842,6 +96036,52 @@
           "modifiers": [
             "n3ds",
             "shiny"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Togedemaru-Bonus-Anime-Sophocles-SM028",
+          "slug": "togedemaru-anime-sophocles-sm028",
+          "cssClass": ".pokesprite.pokemon.togedemaru-anime-sophocles-sm028",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Togedemaru-Bonus-Anime-Sophocles-SM028-★",
+          "slug": "togedemaru-anime-sophocles-sm028",
+          "cssClass": ".pokesprite.pokemon.togedemaru-anime-sophocles-sm028.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Togedemaru-Bonus-Anime-Sophocles-SM028-3DS",
+          "slug": "togedemaru-anime-sophocles-sm028",
+          "cssClass": ".pokesprite.pokemon.togedemaru-anime-sophocles-sm028.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Togedemaru-Bonus-Anime-Sophocles-SM028-3DS-★",
+          "slug": "togedemaru-anime-sophocles-sm028",
+          "cssClass": ".pokesprite.pokemon.togedemaru-anime-sophocles-sm028.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
           ]
         }
       },
