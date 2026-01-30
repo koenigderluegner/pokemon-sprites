@@ -14903,6 +14903,98 @@
       },
       {
         "regular": {
+          "name": "Pikachu-Bonus-Anime-Friede-HZ123",
+          "slug": "pikachu-anime-friede-hz123",
+          "cssClass": ".pokesprite.pokemon.pikachu-anime-friede-hz123",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Pikachu-Bonus-Anime-Friede-HZ123-★",
+          "slug": "pikachu-anime-friede-hz123",
+          "cssClass": ".pokesprite.pokemon.pikachu-anime-friede-hz123.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Pikachu-Bonus-Anime-Friede-HZ123-3DS",
+          "slug": "pikachu-anime-friede-hz123",
+          "cssClass": ".pokesprite.pokemon.pikachu-anime-friede-hz123.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Pikachu-Bonus-Anime-Friede-HZ123-3DS-★",
+          "slug": "pikachu-anime-friede-hz123",
+          "cssClass": ".pokesprite.pokemon.pikachu-anime-friede-hz123.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Pikachu-Bonus-Anime-Friede-HZ123-F",
+          "slug": "pikachu-anime-friede-hz123-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-anime-friede-hz123-f",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Pikachu-Bonus-Anime-Friede-HZ123-F-★",
+          "slug": "pikachu-anime-friede-hz123-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-anime-friede-hz123-f.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Pikachu-Bonus-Anime-Friede-HZ123-F-3DS",
+          "slug": "pikachu-anime-friede-hz123-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-anime-friede-hz123-f.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Pikachu-Bonus-Anime-Friede-HZ123-F-3DS-★",
+          "slug": "pikachu-anime-friede-hz123-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-anime-friede-hz123-f.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
           "name": "Pikachu-Bonus-Anime-Pikala-Bolt",
           "slug": "pikachu-anime-pikala-bolt",
           "cssClass": ".pokesprite.pokemon.pikachu-anime-pikala-bolt",
@@ -41820,6 +41912,98 @@
       },
       {
         "regular": {
+          "name": "Aipom-Bonus-Anime-HZ123",
+          "slug": "aipom-anime-hz123",
+          "cssClass": ".pokesprite.pokemon.aipom-anime-hz123",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Aipom-Bonus-Anime-HZ123-★",
+          "slug": "aipom-anime-hz123",
+          "cssClass": ".pokesprite.pokemon.aipom-anime-hz123.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Aipom-Bonus-Anime-HZ123-3DS",
+          "slug": "aipom-anime-hz123",
+          "cssClass": ".pokesprite.pokemon.aipom-anime-hz123.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Aipom-Bonus-Anime-HZ123-3DS-★",
+          "slug": "aipom-anime-hz123",
+          "cssClass": ".pokesprite.pokemon.aipom-anime-hz123.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Aipom-Bonus-Anime-HZ123-F",
+          "slug": "aipom-anime-hz123-f",
+          "cssClass": ".pokesprite.pokemon.aipom-anime-hz123-f",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Aipom-Bonus-Anime-HZ123-F-★",
+          "slug": "aipom-anime-hz123-f",
+          "cssClass": ".pokesprite.pokemon.aipom-anime-hz123-f.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Aipom-Bonus-Anime-HZ123-F-3DS",
+          "slug": "aipom-anime-hz123-f",
+          "cssClass": ".pokesprite.pokemon.aipom-anime-hz123-f.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Aipom-Bonus-Anime-HZ123-F-3DS-★",
+          "slug": "aipom-anime-hz123-f",
+          "cssClass": ".pokesprite.pokemon.aipom-anime-hz123-f.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
           "name": "Aipom-Bonus-Trozei",
           "slug": "aipom-trozei",
           "cssClass": ".pokesprite.pokemon.aipom-trozei",
@@ -67014,6 +67198,52 @@
           "modifiers": [
             "shiny",
             "switch"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Lucario-Bonus-Anime-Roy-HZ123",
+          "slug": "lucario-anime-roy-hz123",
+          "cssClass": ".pokesprite.pokemon.lucario-anime-roy-hz123",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Lucario-Bonus-Anime-Roy-HZ123-★",
+          "slug": "lucario-anime-roy-hz123",
+          "cssClass": ".pokesprite.pokemon.lucario-anime-roy-hz123.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Lucario-Bonus-Anime-Roy-HZ123-3DS",
+          "slug": "lucario-anime-roy-hz123",
+          "cssClass": ".pokesprite.pokemon.lucario-anime-roy-hz123.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Lucario-Bonus-Anime-Roy-HZ123-3DS-★",
+          "slug": "lucario-anime-roy-hz123",
+          "cssClass": ".pokesprite.pokemon.lucario-anime-roy-hz123.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
           ]
         }
       },
@@ -93504,6 +93734,52 @@
             "bonus"
           ]
         }
+      },
+      {
+        "regular": {
+          "name": "Lycanroc-Midnight-Bonus-Anime-HZ123",
+          "slug": "lycanroc-midnight-anime-hz123",
+          "cssClass": ".pokesprite.pokemon.lycanroc-midnight-anime-hz123",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Lycanroc-Midnight-Bonus-Anime-HZ123-★",
+          "slug": "lycanroc-midnight-anime-hz123",
+          "cssClass": ".pokesprite.pokemon.lycanroc-midnight-anime-hz123.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Lycanroc-Midnight-Bonus-Anime-HZ123-3DS",
+          "slug": "lycanroc-midnight-anime-hz123",
+          "cssClass": ".pokesprite.pokemon.lycanroc-midnight-anime-hz123.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Lycanroc-Midnight-Bonus-Anime-HZ123-3DS-★",
+          "slug": "lycanroc-midnight-anime-hz123",
+          "cssClass": ".pokesprite.pokemon.lycanroc-midnight-anime-hz123.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       }
     ]
   },
@@ -108617,6 +108893,52 @@
             "shiny"
           ]
         }
+      },
+      {
+        "regular": {
+          "name": "Kilowattrel-Bonus-Anime-Roy-HZ123",
+          "slug": "kilowattrel-anime-roy-hz123",
+          "cssClass": ".pokesprite.pokemon.kilowattrel-anime-roy-hz123",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Kilowattrel-Bonus-Anime-Roy-HZ123-★",
+          "slug": "kilowattrel-anime-roy-hz123",
+          "cssClass": ".pokesprite.pokemon.kilowattrel-anime-roy-hz123.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Kilowattrel-Bonus-Anime-Roy-HZ123-3DS",
+          "slug": "kilowattrel-anime-roy-hz123",
+          "cssClass": ".pokesprite.pokemon.kilowattrel-anime-roy-hz123.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Kilowattrel-Bonus-Anime-Roy-HZ123-3DS-★",
+          "slug": "kilowattrel-anime-roy-hz123",
+          "cssClass": ".pokesprite.pokemon.kilowattrel-anime-roy-hz123.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       }
     ]
   },
@@ -109469,6 +109791,52 @@
           "modifiers": [
             "n3ds",
             "shiny"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Bombirdier-Bonus-Anime-HZ123",
+          "slug": "bombirdier-anime-hz123",
+          "cssClass": ".pokesprite.pokemon.bombirdier-anime-hz123",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Bombirdier-Bonus-Anime-HZ123-★",
+          "slug": "bombirdier-anime-hz123",
+          "cssClass": ".pokesprite.pokemon.bombirdier-anime-hz123.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Bombirdier-Bonus-Anime-HZ123-3DS",
+          "slug": "bombirdier-anime-hz123",
+          "cssClass": ".pokesprite.pokemon.bombirdier-anime-hz123.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Bombirdier-Bonus-Anime-HZ123-3DS-★",
+          "slug": "bombirdier-anime-hz123",
+          "cssClass": ".pokesprite.pokemon.bombirdier-anime-hz123.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
           ]
         }
       }
