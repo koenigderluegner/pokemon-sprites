@@ -47833,31 +47833,6 @@
       },
       {
         "regular": {
-          "name": "Snubbull-Bonus-Anime-MadameMuchmoney-3DS",
-          "slug": "snubbull-anime-madame-muchmoney",
-          "cssClass": ".pokesprite.pokemon.snubbull-anime-madame-muchmoney.n3ds",
-          "modifiers": [
-            "n3ds"
-          ],
-          "categories": [
-            "bonus"
-          ]
-        },
-        "shiny": {
-          "name": "Snubbull-Bonus-Anime-MadameMuchmoney-3DS-★",
-          "slug": "snubbull-anime-madame-muchmoney",
-          "cssClass": ".pokesprite.pokemon.snubbull-anime-madame-muchmoney.shiny.n3ds",
-          "modifiers": [
-            "shiny",
-            "n3ds"
-          ],
-          "categories": [
-            "bonus"
-          ]
-        }
-      },
-      {
-        "regular": {
           "name": "Snubbull-Bonus-Anime-XY051",
           "slug": "snubbull-anime-xy051",
           "cssClass": ".pokesprite.pokemon.snubbull-anime-xy051",
@@ -47914,6 +47889,31 @@
           "modifiers": [
             "n3ds",
             "shiny"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Granbull-Bonus-Anime-MadameMuchmoney-3DS",
+          "slug": "granbull-anime-madame-muchmoney",
+          "cssClass": ".pokesprite.pokemon.granbull-anime-madame-muchmoney.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Granbull-Bonus-Anime-MadameMuchmoney-3DS-★",
+          "slug": "granbull-anime-madame-muchmoney",
+          "cssClass": ".pokesprite.pokemon.granbull-anime-madame-muchmoney.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
           ]
         }
       },
@@ -80306,6 +80306,27 @@
             "go"
           ]
         }
+      },
+      {
+        "regular": {
+          "name": "Cottonee-Bonus-Anime-BW051",
+          "slug": "cottonee-anime-bw051",
+          "cssClass": ".pokesprite.pokemon.cottonee-anime-bw051",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Cottonee-Bonus-Anime-BW051-★",
+          "slug": "cottonee-anime-bw051",
+          "cssClass": ".pokesprite.pokemon.cottonee-anime-bw051.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       }
     ]
   },
@@ -82766,6 +82787,90 @@
           "cssClass": ".pokesprite.pokemon.deerling-winter.shiny",
           "modifiers": [
             "shiny"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Deerling-Autumn-Bonus-Anime-BW051",
+          "slug": "deerling-autumn-anime-bw051",
+          "cssClass": ".pokesprite.pokemon.deerling-autumn-anime-bw051",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Deerling-Autumn-Bonus-Anime-BW051-★",
+          "slug": "deerling-autumn-anime-bw051",
+          "cssClass": ".pokesprite.pokemon.deerling-autumn-anime-bw051.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Deerling-Spring-Bonus-Anime-BW051",
+          "slug": "deerling-spring-anime-bw051",
+          "cssClass": ".pokesprite.pokemon.deerling-spring-anime-bw051",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Deerling-Spring-Bonus-Anime-BW051-★",
+          "slug": "deerling-spring-anime-bw051",
+          "cssClass": ".pokesprite.pokemon.deerling-spring-anime-bw051.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Deerling-Summer-Bonus-Anime-BW051",
+          "slug": "deerling-summer-anime-bw051",
+          "cssClass": ".pokesprite.pokemon.deerling-summer-anime-bw051",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Deerling-Summer-Bonus-Anime-BW051-★",
+          "slug": "deerling-summer-anime-bw051",
+          "cssClass": ".pokesprite.pokemon.deerling-summer-anime-bw051.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Deerling-Winter-Bonus-Anime-BW051",
+          "slug": "deerling-winter-anime-bw051",
+          "cssClass": ".pokesprite.pokemon.deerling-winter-anime-bw051",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Deerling-Winter-Bonus-Anime-BW051-★",
+          "slug": "deerling-winter-anime-bw051",
+          "cssClass": ".pokesprite.pokemon.deerling-winter-anime-bw051.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
           ]
         }
       }
