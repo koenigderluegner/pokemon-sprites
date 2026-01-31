@@ -15317,6 +15317,98 @@
       },
       {
         "regular": {
+          "name": "Pikachu-Bonus-Anime-Ash-Movie08",
+          "slug": "pikachu-anime-ash-movie08",
+          "cssClass": ".pokesprite.pokemon.pikachu-anime-ash-movie08",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Pikachu-Bonus-Anime-Ash-Movie08-★",
+          "slug": "pikachu-anime-ash-movie08",
+          "cssClass": ".pokesprite.pokemon.pikachu-anime-ash-movie08.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Pikachu-Bonus-Anime-Ash-Movie08-3DS",
+          "slug": "pikachu-anime-ash-movie08",
+          "cssClass": ".pokesprite.pokemon.pikachu-anime-ash-movie08.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Pikachu-Bonus-Anime-Ash-Movie08-3DS-★",
+          "slug": "pikachu-anime-ash-movie08",
+          "cssClass": ".pokesprite.pokemon.pikachu-anime-ash-movie08.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Pikachu-Bonus-Anime-Ash-Movie08-F",
+          "slug": "pikachu-anime-ash-movie08-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-anime-ash-movie08-f",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Pikachu-Bonus-Anime-Ash-Movie08-F-★",
+          "slug": "pikachu-anime-ash-movie08-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-anime-ash-movie08-f.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Pikachu-Bonus-Anime-Ash-Movie08-F-3DS",
+          "slug": "pikachu-anime-ash-movie08-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-anime-ash-movie08-f.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Pikachu-Bonus-Anime-Ash-Movie08-F-3DS-★",
+          "slug": "pikachu-anime-ash-movie08-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-anime-ash-movie08-f.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
           "name": "Pikachu-Bonus-Anime-Ash-SM028",
           "slug": "pikachu-anime-ash-sm028",
           "cssClass": ".pokesprite.pokemon.pikachu-anime-ash-sm028",
@@ -63791,6 +63883,27 @@
       },
       {
         "regular": {
+          "name": "Piplup-Bonus-Anime-DP133",
+          "slug": "piplup-anime-dp133",
+          "cssClass": ".pokesprite.pokemon.piplup-anime-dp133",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Piplup-Bonus-Anime-DP133-★",
+          "slug": "piplup-anime-dp133",
+          "cssClass": ".pokesprite.pokemon.piplup-anime-dp133.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
           "name": "Piplup-Bonus-Anime-MysteryDungeon",
           "slug": "piplup-anime-mystery-dungeon",
           "cssClass": ".pokesprite.pokemon.piplup-anime-mystery-dungeon",
@@ -66795,6 +66908,27 @@
           ],
           "categories": [
             "go"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Buneary-Bonus-Anime-Dawn",
+          "slug": "buneary-anime-dawn",
+          "cssClass": ".pokesprite.pokemon.buneary-anime-dawn",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Buneary-Bonus-Anime-Dawn-★",
+          "slug": "buneary-anime-dawn",
+          "cssClass": ".pokesprite.pokemon.buneary-anime-dawn.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
           ]
         }
       },
