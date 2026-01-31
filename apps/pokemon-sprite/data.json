@@ -32813,6 +32813,77 @@
             "bonus"
           ]
         }
+      },
+      {
+        "regular": {
+          "name": "Electabuzz-Bonus-Anime-SM048",
+          "slug": "electabuzz-anime-sm048",
+          "cssClass": ".pokesprite.pokemon.electabuzz-anime-sm048",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Electabuzz-Bonus-Anime-SM048-★",
+          "slug": "electabuzz-anime-sm048",
+          "cssClass": ".pokesprite.pokemon.electabuzz-anime-sm048.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Electabuzz-Bonus-Anime-SM048-3DS",
+          "slug": "electabuzz-anime-sm048",
+          "cssClass": ".pokesprite.pokemon.electabuzz-anime-sm048.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Electabuzz-Bonus-Anime-SM048-3DS-★",
+          "slug": "electabuzz-anime-sm048",
+          "cssClass": ".pokesprite.pokemon.electabuzz-anime-sm048.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Electabuzz-Bonus-Anime-SM048-Switch-LGPE",
+          "slug": "electabuzz-anime-sm048-lgpe",
+          "cssClass": ".pokesprite.pokemon.electabuzz-anime-sm048-lgpe.switch",
+          "modifiers": [
+            "switch"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Electabuzz-Bonus-Anime-SM048-Switch-LGPE-★",
+          "slug": "electabuzz-anime-sm048-lgpe",
+          "cssClass": ".pokesprite.pokemon.electabuzz-anime-sm048-lgpe.shiny.switch",
+          "modifiers": [
+            "shiny",
+            "switch"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       }
     ]
   },
@@ -62342,6 +62413,52 @@
             "shiny"
           ]
         }
+      },
+      {
+        "regular": {
+          "name": "Luvdisc-Bonus-Anime-Luverin",
+          "slug": "luvdisc-anime-luverin",
+          "cssClass": ".pokesprite.pokemon.luvdisc-anime-luverin",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Luvdisc-Bonus-Anime-Luverin-★",
+          "slug": "luvdisc-anime-luverin",
+          "cssClass": ".pokesprite.pokemon.luvdisc-anime-luverin.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Luvdisc-Bonus-Anime-Luverin-3DS",
+          "slug": "luvdisc-anime-luverin",
+          "cssClass": ".pokesprite.pokemon.luvdisc-anime-luverin.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Luvdisc-Bonus-Anime-Luverin-3DS-★",
+          "slug": "luvdisc-anime-luverin",
+          "cssClass": ".pokesprite.pokemon.luvdisc-anime-luverin.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       }
     ]
   },
@@ -81597,6 +81714,52 @@
             "switch"
           ]
         }
+      },
+      {
+        "regular": {
+          "name": "Scrafty-Bonus-Anime-SM048",
+          "slug": "scrafty-anime-sm048",
+          "cssClass": ".pokesprite.pokemon.scrafty-anime-sm048",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Scrafty-Bonus-Anime-SM048-★",
+          "slug": "scrafty-anime-sm048",
+          "cssClass": ".pokesprite.pokemon.scrafty-anime-sm048.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Scrafty-Bonus-Anime-SM048-3DS",
+          "slug": "scrafty-anime-sm048",
+          "cssClass": ".pokesprite.pokemon.scrafty-anime-sm048.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Scrafty-Bonus-Anime-SM048-3DS-★",
+          "slug": "scrafty-anime-sm048",
+          "cssClass": ".pokesprite.pokemon.scrafty-anime-sm048.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       }
     ]
   },
@@ -84790,6 +84953,77 @@
           "modifiers": [
             "shiny",
             "n3ds"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Druddigon-Bonus-Anime-SM057",
+          "slug": "druddigon-anime-sm057",
+          "cssClass": ".pokesprite.pokemon.druddigon-anime-sm057",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Druddigon-Bonus-Anime-SM057-★",
+          "slug": "druddigon-anime-sm057",
+          "cssClass": ".pokesprite.pokemon.druddigon-anime-sm057.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Druddigon-Bonus-Anime-SM057-3DS",
+          "slug": "druddigon-anime-sm057",
+          "cssClass": ".pokesprite.pokemon.druddigon-anime-sm057.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Druddigon-Bonus-Anime-SM057-3DS-★",
+          "slug": "druddigon-anime-sm057",
+          "cssClass": ".pokesprite.pokemon.druddigon-anime-sm057.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Druddigon-Bonus-Anime-SM057-3DS-Optional",
+          "slug": "druddigon-anime-sm057-optional",
+          "cssClass": ".pokesprite.pokemon.druddigon-anime-sm057-optional.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Druddigon-Bonus-Anime-SM057-3DS-Optional-★",
+          "slug": "druddigon-anime-sm057-optional",
+          "cssClass": ".pokesprite.pokemon.druddigon-anime-sm057-optional.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
           ]
         }
       }
