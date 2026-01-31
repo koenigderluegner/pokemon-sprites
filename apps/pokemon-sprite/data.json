@@ -16375,6 +16375,52 @@
       },
       {
         "regular": {
+          "name": "Pikachu-Bonus-Anime-XY078-F",
+          "slug": "pikachu-anime-xy078-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-anime-xy078-f",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Pikachu-Bonus-Anime-XY078-F-★",
+          "slug": "pikachu-anime-xy078-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-anime-xy078-f.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Pikachu-Bonus-Anime-XY078-F-3DS",
+          "slug": "pikachu-anime-xy078-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-anime-xy078-f.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Pikachu-Bonus-Anime-XY078-F-3DS-★",
+          "slug": "pikachu-anime-xy078-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-anime-xy078-f.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
           "name": "Pikachu-Bonus-Mechachu",
           "slug": "pikachu-mechachu",
           "cssClass": ".pokesprite.pokemon.pikachu-mechachu",
@@ -17372,6 +17418,52 @@
       },
       {
         "regular": {
+          "name": "Pikachu-Cosplay-Libre-Bonus-Anime-XY078-F",
+          "slug": "pikachu-cosplay-libre-anime-xy078-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-cosplay-libre-anime-xy078-f",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Pikachu-Cosplay-Libre-Bonus-Anime-XY078-F-★",
+          "slug": "pikachu-cosplay-libre-anime-xy078-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-cosplay-libre-anime-xy078-f.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Pikachu-Cosplay-Libre-Bonus-Anime-XY078-F-3DS",
+          "slug": "pikachu-cosplay-libre-anime-xy078-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-cosplay-libre-anime-xy078-f.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Pikachu-Cosplay-Libre-Bonus-Anime-XY078-F-3DS-★",
+          "slug": "pikachu-cosplay-libre-anime-xy078-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-cosplay-libre-anime-xy078-f.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
           "name": "Pikachu-Cosplay-Libre-Bonus-Pokken",
           "slug": "pikachu-cosplay-libre-pokken",
           "cssClass": ".pokesprite.pokemon.pikachu-cosplay-libre-pokken",
@@ -17443,6 +17535,52 @@
       },
       {
         "regular": {
+          "name": "Pikachu-Cosplay-Rockstar-Bonus-Anime-XY078-F",
+          "slug": "pikachu-cosplay-rockstar-anime-xy078-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-cosplay-rockstar-anime-xy078-f",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Pikachu-Cosplay-Rockstar-Bonus-Anime-XY078-F-★",
+          "slug": "pikachu-cosplay-rockstar-anime-xy078-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-cosplay-rockstar-anime-xy078-f.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Pikachu-Cosplay-Rockstar-Bonus-Anime-XY078-F-3DS",
+          "slug": "pikachu-cosplay-rockstar-anime-xy078-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-cosplay-rockstar-anime-xy078-f.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Pikachu-Cosplay-Rockstar-Bonus-Anime-XY078-F-3DS-★",
+          "slug": "pikachu-cosplay-rockstar-anime-xy078-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-cosplay-rockstar-anime-xy078-f.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
           "name": "Pikachu-Surfing-Bonus-Anime-Puka",
           "slug": "pikachu-surfing-anime-puka",
           "cssClass": ".pokesprite.pokemon.pikachu-surfing-anime-puka",
@@ -17478,6 +17616,52 @@
           "name": "Pikachu-Surfing-Bonus-Anime-Puka-3DS-★",
           "slug": "pikachu-surfing-anime-puka",
           "cssClass": ".pokesprite.pokemon.pikachu-surfing-anime-puka.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Pikachu-Surfing-Bonus-Anime-Puka-F",
+          "slug": "pikachu-surfing-anime-puka-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-surfing-anime-puka-f",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Pikachu-Surfing-Bonus-Anime-Puka-F-★",
+          "slug": "pikachu-surfing-anime-puka-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-surfing-anime-puka-f.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Pikachu-Surfing-Bonus-Anime-Puka-F-3DS",
+          "slug": "pikachu-surfing-anime-puka-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-surfing-anime-puka-f.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Pikachu-Surfing-Bonus-Anime-Puka-F-3DS-★",
+          "slug": "pikachu-surfing-anime-puka-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-surfing-anime-puka-f.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -47960,6 +48144,27 @@
           "modifiers": [
             "n3ds",
             "shiny"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Granbull-Bonus-Anime-MadameMuchmoney",
+          "slug": "granbull-anime-madame-muchmoney",
+          "cssClass": ".pokesprite.pokemon.granbull-anime-madame-muchmoney",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Granbull-Bonus-Anime-MadameMuchmoney-★",
+          "slug": "granbull-anime-madame-muchmoney",
+          "cssClass": ".pokesprite.pokemon.granbull-anime-madame-muchmoney.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
           ]
         }
       },
