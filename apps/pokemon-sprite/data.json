@@ -2924,6 +2924,52 @@
       },
       {
         "regular": {
+          "name": "Squirtle-Bonus-Anime-May-AG151",
+          "slug": "squirtle-anime-may-ag151",
+          "cssClass": ".pokesprite.pokemon.squirtle-anime-may-ag151",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Squirtle-Bonus-Anime-May-AG151-★",
+          "slug": "squirtle-anime-may-ag151",
+          "cssClass": ".pokesprite.pokemon.squirtle-anime-may-ag151.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Squirtle-Bonus-Anime-May-AG151-3DS",
+          "slug": "squirtle-anime-may-ag151",
+          "cssClass": ".pokesprite.pokemon.squirtle-anime-may-ag151.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Squirtle-Bonus-Anime-May-AG151-3DS-★",
+          "slug": "squirtle-anime-may-ag151",
+          "cssClass": ".pokesprite.pokemon.squirtle-anime-may-ag151.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
           "name": "Squirtle-Bonus-Anime-MysteryDungeon",
           "slug": "squirtle-anime-mystery-dungeon",
           "cssClass": ".pokesprite.pokemon.squirtle-anime-mystery-dungeon",
@@ -14167,6 +14213,144 @@
       },
       {
         "regular": {
+          "name": "Pikachu-Bonus-Anime-Ash-AG097-F",
+          "slug": "pikachu-anime-ash-ag097-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-anime-ash-ag097-f",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Pikachu-Bonus-Anime-Ash-AG097-F-★",
+          "slug": "pikachu-anime-ash-ag097-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-anime-ash-ag097-f.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Pikachu-Bonus-Anime-Ash-AG097-F-3DS",
+          "slug": "pikachu-anime-ash-ag097-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-anime-ash-ag097-f.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Pikachu-Bonus-Anime-Ash-AG097-F-3DS-★",
+          "slug": "pikachu-anime-ash-ag097-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-anime-ash-ag097-f.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Pikachu-Bonus-Anime-Ash-AG160",
+          "slug": "pikachu-anime-ash-ag160",
+          "cssClass": ".pokesprite.pokemon.pikachu-anime-ash-ag160",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Pikachu-Bonus-Anime-Ash-AG160-★",
+          "slug": "pikachu-anime-ash-ag160",
+          "cssClass": ".pokesprite.pokemon.pikachu-anime-ash-ag160.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Pikachu-Bonus-Anime-Ash-AG160-3DS",
+          "slug": "pikachu-anime-ash-ag160",
+          "cssClass": ".pokesprite.pokemon.pikachu-anime-ash-ag160.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Pikachu-Bonus-Anime-Ash-AG160-3DS-★",
+          "slug": "pikachu-anime-ash-ag160",
+          "cssClass": ".pokesprite.pokemon.pikachu-anime-ash-ag160.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Pikachu-Bonus-Anime-Ash-AG160-F",
+          "slug": "pikachu-anime-ash-ag160-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-anime-ash-ag160-f",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Pikachu-Bonus-Anime-Ash-AG160-F-★",
+          "slug": "pikachu-anime-ash-ag160-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-anime-ash-ag160-f.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Pikachu-Bonus-Anime-Ash-AG160-F-3DS",
+          "slug": "pikachu-anime-ash-ag160-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-anime-ash-ag160-f.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Pikachu-Bonus-Anime-Ash-AG160-F-3DS-★",
+          "slug": "pikachu-anime-ash-ag160-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-anime-ash-ag160-f.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
           "name": "Pikachu-Bonus-Anime-Ash-BW082",
           "slug": "pikachu-anime-ash-bw082",
           "cssClass": ".pokesprite.pokemon.pikachu-anime-ash-bw082",
@@ -14903,6 +15087,52 @@
       },
       {
         "regular": {
+          "name": "Pikachu-Bonus-Anime-AshKetchum-F",
+          "slug": "pikachu-anime-ash-ketchum-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-anime-ash-ketchum-f",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Pikachu-Bonus-Anime-AshKetchum-F-★",
+          "slug": "pikachu-anime-ash-ketchum-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-anime-ash-ketchum-f.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Pikachu-Bonus-Anime-AshKetchum-F-3DS",
+          "slug": "pikachu-anime-ash-ketchum-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-anime-ash-ketchum-f.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Pikachu-Bonus-Anime-AshKetchum-F-3DS-★",
+          "slug": "pikachu-anime-ash-ketchum-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-anime-ash-ketchum-f.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
           "name": "Pikachu-Bonus-Anime-Friede-HZ123",
           "slug": "pikachu-anime-friede-hz123",
           "cssClass": ".pokesprite.pokemon.pikachu-anime-friede-hz123",
@@ -15133,6 +15363,52 @@
       },
       {
         "regular": {
+          "name": "Pikachu-Bonus-Anime-Sparky-F",
+          "slug": "pikachu-anime-sparky-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-anime-sparky-f",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Pikachu-Bonus-Anime-Sparky-F-★",
+          "slug": "pikachu-anime-sparky-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-anime-sparky-f.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Pikachu-Bonus-Anime-Sparky-F-3DS",
+          "slug": "pikachu-anime-sparky-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-anime-sparky-f.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Pikachu-Bonus-Anime-Sparky-F-3DS-★",
+          "slug": "pikachu-anime-sparky-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-anime-sparky-f.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
           "name": "Pikachu-Bonus-Anime-Spike",
           "slug": "pikachu-anime-spike",
           "cssClass": ".pokesprite.pokemon.pikachu-anime-spike",
@@ -15168,6 +15444,52 @@
           "name": "Pikachu-Bonus-Anime-Spike-3DS-★",
           "slug": "pikachu-anime-spike",
           "cssClass": ".pokesprite.pokemon.pikachu-anime-spike.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Pikachu-Bonus-Anime-Spike-F",
+          "slug": "pikachu-anime-spike-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-anime-spike-f",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Pikachu-Bonus-Anime-Spike-F-★",
+          "slug": "pikachu-anime-spike-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-anime-spike-f.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Pikachu-Bonus-Anime-Spike-F-3DS",
+          "slug": "pikachu-anime-spike-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-anime-spike-f.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Pikachu-Bonus-Anime-Spike-F-3DS-★",
+          "slug": "pikachu-anime-spike-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-anime-spike-f.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -22831,6 +23153,52 @@
       },
       {
         "regular": {
+          "name": "Arcanine-Bonus-Anime-Diana-HZ108",
+          "slug": "arcanine-anime-diana-hz108",
+          "cssClass": ".pokesprite.pokemon.arcanine-anime-diana-hz108",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Arcanine-Bonus-Anime-Diana-HZ108-★",
+          "slug": "arcanine-anime-diana-hz108",
+          "cssClass": ".pokesprite.pokemon.arcanine-anime-diana-hz108.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Arcanine-Bonus-Anime-Diana-HZ108-3DS",
+          "slug": "arcanine-anime-diana-hz108",
+          "cssClass": ".pokesprite.pokemon.arcanine-anime-diana-hz108.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Arcanine-Bonus-Anime-Diana-HZ108-3DS-★",
+          "slug": "arcanine-anime-diana-hz108",
+          "cssClass": ".pokesprite.pokemon.arcanine-anime-diana-hz108.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
           "name": "Arcanine-Bonus-Anime-Gary-EP228",
           "slug": "arcanine-anime-gary-ep228",
           "cssClass": ".pokesprite.pokemon.arcanine-anime-gary-ep228",
@@ -29111,6 +29479,52 @@
           "name": "Chansey-Bonus-Anime-NurseAid-YellowHat-3DS-★",
           "slug": "chansey-anime-nurse-aid-yellow-hat",
           "cssClass": ".pokesprite.pokemon.chansey-anime-nurse-aid-yellow-hat.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Chansey-Bonus-Poketoon",
+          "slug": "chansey-poketoon",
+          "cssClass": ".pokesprite.pokemon.chansey-poketoon",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Chansey-Bonus-Poketoon-★",
+          "slug": "chansey-poketoon",
+          "cssClass": ".pokesprite.pokemon.chansey-poketoon.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Chansey-Bonus-Poketoon-3DS",
+          "slug": "chansey-poketoon",
+          "cssClass": ".pokesprite.pokemon.chansey-poketoon.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Chansey-Bonus-Poketoon-3DS-★",
+          "slug": "chansey-poketoon",
+          "cssClass": ".pokesprite.pokemon.chansey-poketoon.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -87364,6 +87778,52 @@
           "name": "Gogoat-Bonus-LumioseShuttle-3DS-★",
           "slug": "gogoat-lumiose-shuttle",
           "cssClass": ".pokesprite.pokemon.gogoat-lumiose-shuttle.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Gogoat-Bonus-Poketoon",
+          "slug": "gogoat-poketoon",
+          "cssClass": ".pokesprite.pokemon.gogoat-poketoon",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Gogoat-Bonus-Poketoon-★",
+          "slug": "gogoat-poketoon",
+          "cssClass": ".pokesprite.pokemon.gogoat-poketoon.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Gogoat-Bonus-Poketoon-3DS",
+          "slug": "gogoat-poketoon",
+          "cssClass": ".pokesprite.pokemon.gogoat-poketoon.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Gogoat-Bonus-Poketoon-3DS-★",
+          "slug": "gogoat-poketoon",
+          "cssClass": ".pokesprite.pokemon.gogoat-poketoon.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
