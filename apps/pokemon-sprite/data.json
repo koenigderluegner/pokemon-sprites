@@ -14673,6 +14673,190 @@
       },
       {
         "regular": {
+          "name": "Pikachu-Bonus-Anime-Ash-JN028",
+          "slug": "pikachu-anime-ash-jn028",
+          "cssClass": ".pokesprite.pokemon.pikachu-anime-ash-jn028",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Pikachu-Bonus-Anime-Ash-JN028-★",
+          "slug": "pikachu-anime-ash-jn028",
+          "cssClass": ".pokesprite.pokemon.pikachu-anime-ash-jn028.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Pikachu-Bonus-Anime-Ash-JN028-3DS",
+          "slug": "pikachu-anime-ash-jn028",
+          "cssClass": ".pokesprite.pokemon.pikachu-anime-ash-jn028.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Pikachu-Bonus-Anime-Ash-JN028-3DS-★",
+          "slug": "pikachu-anime-ash-jn028",
+          "cssClass": ".pokesprite.pokemon.pikachu-anime-ash-jn028.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Pikachu-Bonus-Anime-Ash-JN028-F",
+          "slug": "pikachu-anime-ash-jn028-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-anime-ash-jn028-f",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Pikachu-Bonus-Anime-Ash-JN028-F-★",
+          "slug": "pikachu-anime-ash-jn028-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-anime-ash-jn028-f.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Pikachu-Bonus-Anime-Ash-JN028-F-3DS",
+          "slug": "pikachu-anime-ash-jn028-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-anime-ash-jn028-f.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Pikachu-Bonus-Anime-Ash-JN028-F-3DS-★",
+          "slug": "pikachu-anime-ash-jn028-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-anime-ash-jn028-f.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Pikachu-Bonus-Anime-Ash-JN036",
+          "slug": "pikachu-anime-ash-jn036",
+          "cssClass": ".pokesprite.pokemon.pikachu-anime-ash-jn036",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Pikachu-Bonus-Anime-Ash-JN036-★",
+          "slug": "pikachu-anime-ash-jn036",
+          "cssClass": ".pokesprite.pokemon.pikachu-anime-ash-jn036.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Pikachu-Bonus-Anime-Ash-JN036-3DS",
+          "slug": "pikachu-anime-ash-jn036",
+          "cssClass": ".pokesprite.pokemon.pikachu-anime-ash-jn036.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Pikachu-Bonus-Anime-Ash-JN036-3DS-★",
+          "slug": "pikachu-anime-ash-jn036",
+          "cssClass": ".pokesprite.pokemon.pikachu-anime-ash-jn036.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Pikachu-Bonus-Anime-Ash-JN036-F",
+          "slug": "pikachu-anime-ash-jn036-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-anime-ash-jn036-f",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Pikachu-Bonus-Anime-Ash-JN036-F-★",
+          "slug": "pikachu-anime-ash-jn036-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-anime-ash-jn036-f.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Pikachu-Bonus-Anime-Ash-JN036-F-3DS",
+          "slug": "pikachu-anime-ash-jn036-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-anime-ash-jn036-f.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Pikachu-Bonus-Anime-Ash-JN036-F-3DS-★",
+          "slug": "pikachu-anime-ash-jn036-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-anime-ash-jn036-f.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
           "name": "Pikachu-Bonus-Anime-Ash-JN089",
           "slug": "pikachu-anime-ash-jn089",
           "cssClass": ".pokesprite.pokemon.pikachu-anime-ash-jn089",
@@ -67671,6 +67855,48 @@
       },
       {
         "regular": {
+          "name": "Riolu-Bonus-Anime-Ash-JN028",
+          "slug": "riolu-anime-ash-jn028",
+          "cssClass": ".pokesprite.pokemon.riolu-anime-ash-jn028",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Riolu-Bonus-Anime-Ash-JN028-★",
+          "slug": "riolu-anime-ash-jn028",
+          "cssClass": ".pokesprite.pokemon.riolu-anime-ash-jn028.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Riolu-Bonus-Anime-Ash-JN036",
+          "slug": "riolu-anime-ash-jn036",
+          "cssClass": ".pokesprite.pokemon.riolu-anime-ash-jn036",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Riolu-Bonus-Anime-Ash-JN036-★",
+          "slug": "riolu-anime-ash-jn036",
+          "cssClass": ".pokesprite.pokemon.riolu-anime-ash-jn036.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
           "name": "Riolu-Bonus-MysteryDungeon-ExplorersOfSky",
           "slug": "riolu-mystery-dungeon-explorers-of-sky",
           "cssClass": ".pokesprite.pokemon.riolu-mystery-dungeon-explorers-of-sky",
@@ -100458,6 +100684,98 @@
             "shiny"
           ]
         }
+      },
+      {
+        "regular": {
+          "name": "Raboot-Bonus-Anime-Goh-JN028",
+          "slug": "raboot-anime-goh-jn028",
+          "cssClass": ".pokesprite.pokemon.raboot-anime-goh-jn028",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Raboot-Bonus-Anime-Goh-JN028-★",
+          "slug": "raboot-anime-goh-jn028",
+          "cssClass": ".pokesprite.pokemon.raboot-anime-goh-jn028.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Raboot-Bonus-Anime-Goh-JN028-3DS",
+          "slug": "raboot-anime-goh-jn028",
+          "cssClass": ".pokesprite.pokemon.raboot-anime-goh-jn028.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Raboot-Bonus-Anime-Goh-JN028-3DS-★",
+          "slug": "raboot-anime-goh-jn028",
+          "cssClass": ".pokesprite.pokemon.raboot-anime-goh-jn028.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Raboot-Bonus-Anime-Goh-JN036",
+          "slug": "raboot-anime-goh-jn036",
+          "cssClass": ".pokesprite.pokemon.raboot-anime-goh-jn036",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Raboot-Bonus-Anime-Goh-JN036-★",
+          "slug": "raboot-anime-goh-jn036",
+          "cssClass": ".pokesprite.pokemon.raboot-anime-goh-jn036.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Raboot-Bonus-Anime-Goh-JN036-3DS",
+          "slug": "raboot-anime-goh-jn036",
+          "cssClass": ".pokesprite.pokemon.raboot-anime-goh-jn036.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Raboot-Bonus-Anime-Goh-JN036-3DS-★",
+          "slug": "raboot-anime-goh-jn036",
+          "cssClass": ".pokesprite.pokemon.raboot-anime-goh-jn036.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       }
     ]
   },
@@ -100570,6 +100888,52 @@
           "modifiers": [
             "shiny",
             "switch"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Sobble-Bonus-Anime-Goh-JN036",
+          "slug": "sobble-anime-goh-jn036",
+          "cssClass": ".pokesprite.pokemon.sobble-anime-goh-jn036",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Sobble-Bonus-Anime-Goh-JN036-★",
+          "slug": "sobble-anime-goh-jn036",
+          "cssClass": ".pokesprite.pokemon.sobble-anime-goh-jn036.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Sobble-Bonus-Anime-Goh-JN036-Switch-SwSh",
+          "slug": "sobble-anime-goh-jn036-sw-sh",
+          "cssClass": ".pokesprite.pokemon.sobble-anime-goh-jn036-sw-sh.switch",
+          "modifiers": [
+            "switch"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Sobble-Bonus-Anime-Goh-JN036-Switch-SwSh-★",
+          "slug": "sobble-anime-goh-jn036-sw-sh",
+          "cssClass": ".pokesprite.pokemon.sobble-anime-goh-jn036-sw-sh.shiny.switch",
+          "modifiers": [
+            "shiny",
+            "switch"
+          ],
+          "categories": [
+            "bonus"
           ]
         }
       }
