@@ -15133,6 +15133,98 @@
       },
       {
         "regular": {
+          "name": "Pikachu-Bonus-Anime-Friede",
+          "slug": "pikachu-anime-friede",
+          "cssClass": ".pokesprite.pokemon.pikachu-anime-friede",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Pikachu-Bonus-Anime-Friede-★",
+          "slug": "pikachu-anime-friede",
+          "cssClass": ".pokesprite.pokemon.pikachu-anime-friede.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Pikachu-Bonus-Anime-Friede-3DS",
+          "slug": "pikachu-anime-friede",
+          "cssClass": ".pokesprite.pokemon.pikachu-anime-friede.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Pikachu-Bonus-Anime-Friede-3DS-★",
+          "slug": "pikachu-anime-friede",
+          "cssClass": ".pokesprite.pokemon.pikachu-anime-friede.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Pikachu-Bonus-Anime-Friede-F",
+          "slug": "pikachu-anime-friede-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-anime-friede-f",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Pikachu-Bonus-Anime-Friede-F-★",
+          "slug": "pikachu-anime-friede-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-anime-friede-f.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Pikachu-Bonus-Anime-Friede-F-3DS",
+          "slug": "pikachu-anime-friede-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-anime-friede-f.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Pikachu-Bonus-Anime-Friede-F-3DS-★",
+          "slug": "pikachu-anime-friede-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-anime-friede-f.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
           "name": "Pikachu-Bonus-Anime-Friede-HZ123",
           "slug": "pikachu-anime-friede-hz123",
           "cssClass": ".pokesprite.pokemon.pikachu-anime-friede-hz123",
