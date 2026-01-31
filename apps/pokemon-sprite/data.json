@@ -82311,6 +82311,52 @@
             "shiny"
           ]
         }
+      },
+      {
+        "regular": {
+          "name": "Gothitelle-Bonus-Anime-BW051",
+          "slug": "gothitelle-anime-bw051",
+          "cssClass": ".pokesprite.pokemon.gothitelle-anime-bw051",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Gothitelle-Bonus-Anime-BW051-★",
+          "slug": "gothitelle-anime-bw051",
+          "cssClass": ".pokesprite.pokemon.gothitelle-anime-bw051.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Gothitelle-Bonus-Anime-BW051-3DS",
+          "slug": "gothitelle-anime-bw051",
+          "cssClass": ".pokesprite.pokemon.gothitelle-anime-bw051.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Gothitelle-Bonus-Anime-BW051-3DS-★",
+          "slug": "gothitelle-anime-bw051",
+          "cssClass": ".pokesprite.pokemon.gothitelle-anime-bw051.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       }
     ]
   },
@@ -82492,6 +82538,52 @@
           "modifiers": [
             "n3ds",
             "shiny"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Swanna-Bonus-Anime-BW051",
+          "slug": "swanna-anime-bw051",
+          "cssClass": ".pokesprite.pokemon.swanna-anime-bw051",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Swanna-Bonus-Anime-BW051-★",
+          "slug": "swanna-anime-bw051",
+          "cssClass": ".pokesprite.pokemon.swanna-anime-bw051.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Swanna-Bonus-Anime-BW051-3DS",
+          "slug": "swanna-anime-bw051",
+          "cssClass": ".pokesprite.pokemon.swanna-anime-bw051.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Swanna-Bonus-Anime-BW051-3DS-★",
+          "slug": "swanna-anime-bw051",
+          "cssClass": ".pokesprite.pokemon.swanna-anime-bw051.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
           ]
         }
       }
