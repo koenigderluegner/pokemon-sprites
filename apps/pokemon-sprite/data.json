@@ -70240,6 +70240,69 @@
       },
       {
         "regular": {
+          "name": "Croagunk-Bonus-Anime-Chrissy-Crown",
+          "slug": "croagunk-anime-chrissy-crown",
+          "cssClass": ".pokesprite.pokemon.croagunk-anime-chrissy-crown",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Croagunk-Bonus-Anime-Chrissy-Crown-★",
+          "slug": "croagunk-anime-chrissy-crown",
+          "cssClass": ".pokesprite.pokemon.croagunk-anime-chrissy-crown.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Croagunk-Bonus-Anime-Chrissy-Crown-F",
+          "slug": "croagunk-anime-chrissy-crown-f",
+          "cssClass": ".pokesprite.pokemon.croagunk-anime-chrissy-crown-f",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Croagunk-Bonus-Anime-Chrissy-Crown-F-★",
+          "slug": "croagunk-anime-chrissy-crown-f",
+          "cssClass": ".pokesprite.pokemon.croagunk-anime-chrissy-crown-f.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Croagunk-Bonus-Anime-Chrissy-F",
+          "slug": "croagunk-anime-chrissy-f",
+          "cssClass": ".pokesprite.pokemon.croagunk-anime-chrissy-f",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Croagunk-Bonus-Anime-Chrissy-F-★",
+          "slug": "croagunk-anime-chrissy-f",
+          "cssClass": ".pokesprite.pokemon.croagunk-anime-chrissy-f.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
           "name": "Croagunk-Bonus-Anime-Crown",
           "slug": "croagunk-anime-crown",
           "cssClass": ".pokesprite.pokemon.croagunk-anime-crown",
@@ -70251,6 +70314,27 @@
           "name": "Croagunk-Bonus-Anime-Crown-★",
           "slug": "croagunk-anime-crown",
           "cssClass": ".pokesprite.pokemon.croagunk-anime-crown.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Croagunk-Bonus-Anime-Crown-F",
+          "slug": "croagunk-anime-crown-f",
+          "cssClass": ".pokesprite.pokemon.croagunk-anime-crown-f",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Croagunk-Bonus-Anime-Crown-F-★",
+          "slug": "croagunk-anime-crown-f",
+          "cssClass": ".pokesprite.pokemon.croagunk-anime-crown-f.shiny",
           "modifiers": [
             "shiny"
           ],
@@ -82103,6 +82187,27 @@
           "cssClass": ".pokesprite.pokemon.gothita.shiny",
           "modifiers": [
             "shiny"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Gothita-Bonus-Anime-BW051",
+          "slug": "gothita-anime-bw051",
+          "cssClass": ".pokesprite.pokemon.gothita-anime-bw051",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Gothita-Bonus-Anime-BW051-★",
+          "slug": "gothita-anime-bw051",
+          "cssClass": ".pokesprite.pokemon.gothita-anime-bw051.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
           ]
         }
       }
