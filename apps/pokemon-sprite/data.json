@@ -14535,6 +14535,98 @@
       },
       {
         "regular": {
+          "name": "Pikachu-Bonus-Anime-Ash-BW066",
+          "slug": "pikachu-anime-ash-bw066",
+          "cssClass": ".pokesprite.pokemon.pikachu-anime-ash-bw066",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Pikachu-Bonus-Anime-Ash-BW066-★",
+          "slug": "pikachu-anime-ash-bw066",
+          "cssClass": ".pokesprite.pokemon.pikachu-anime-ash-bw066.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Pikachu-Bonus-Anime-Ash-BW066-3DS",
+          "slug": "pikachu-anime-ash-bw066",
+          "cssClass": ".pokesprite.pokemon.pikachu-anime-ash-bw066.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Pikachu-Bonus-Anime-Ash-BW066-3DS-★",
+          "slug": "pikachu-anime-ash-bw066",
+          "cssClass": ".pokesprite.pokemon.pikachu-anime-ash-bw066.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Pikachu-Bonus-Anime-Ash-BW066-F",
+          "slug": "pikachu-anime-ash-bw066-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-anime-ash-bw066-f",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Pikachu-Bonus-Anime-Ash-BW066-F-★",
+          "slug": "pikachu-anime-ash-bw066-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-anime-ash-bw066-f.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Pikachu-Bonus-Anime-Ash-BW066-F-3DS",
+          "slug": "pikachu-anime-ash-bw066-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-anime-ash-bw066-f.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Pikachu-Bonus-Anime-Ash-BW066-F-3DS-★",
+          "slug": "pikachu-anime-ash-bw066-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-anime-ash-bw066-f.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
           "name": "Pikachu-Bonus-Anime-Ash-BW082",
           "slug": "pikachu-anime-ash-bw082",
           "cssClass": ".pokesprite.pokemon.pikachu-anime-ash-bw082",
@@ -77844,6 +77936,27 @@
       },
       {
         "regular": {
+          "name": "Snivy-Bonus-Anime-Ash-BW066",
+          "slug": "snivy-anime-ash-bw066",
+          "cssClass": ".pokesprite.pokemon.snivy-anime-ash-bw066",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Snivy-Bonus-Anime-Ash-BW066-★",
+          "slug": "snivy-anime-ash-bw066",
+          "cssClass": ".pokesprite.pokemon.snivy-anime-ash-bw066.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
           "name": "Snivy-Bonus-MysteryDungeon-GatesToInfinity",
           "slug": "snivy-mystery-dungeon-gates-to-infinity",
           "cssClass": ".pokesprite.pokemon.snivy-mystery-dungeon-gates-to-infinity",
@@ -77982,6 +78095,27 @@
           "cssClass": ".pokesprite.pokemon.tepig.shiny",
           "modifiers": [
             "shiny"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Tepig-Bonus-Anime-Ash-BW066",
+          "slug": "tepig-anime-ash-bw066",
+          "cssClass": ".pokesprite.pokemon.tepig-anime-ash-bw066",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Tepig-Bonus-Anime-Ash-BW066-★",
+          "slug": "tepig-anime-ash-bw066",
+          "cssClass": ".pokesprite.pokemon.tepig-anime-ash-bw066.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
           ]
         }
       },
@@ -78278,6 +78412,27 @@
           "name": "Oshawott-Bonus-Anime-Ash-BW051-★",
           "slug": "oshawott-anime-ash-bw051",
           "cssClass": ".pokesprite.pokemon.oshawott-anime-ash-bw051.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Oshawott-Bonus-Anime-Ash-BW066",
+          "slug": "oshawott-anime-ash-bw066",
+          "cssClass": ".pokesprite.pokemon.oshawott-anime-ash-bw066",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Oshawott-Bonus-Anime-Ash-BW066-★",
+          "slug": "oshawott-anime-ash-bw066",
+          "cssClass": ".pokesprite.pokemon.oshawott-anime-ash-bw066.shiny",
           "modifiers": [
             "shiny"
           ],
@@ -79987,6 +80142,52 @@
       },
       {
         "regular": {
+          "name": "Audino-Bonus-Anime-NurseAid-BW066",
+          "slug": "audino-anime-nurse-aid-bw066",
+          "cssClass": ".pokesprite.pokemon.audino-anime-nurse-aid-bw066",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Audino-Bonus-Anime-NurseAid-BW066-★",
+          "slug": "audino-anime-nurse-aid-bw066",
+          "cssClass": ".pokesprite.pokemon.audino-anime-nurse-aid-bw066.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Audino-Bonus-Anime-NurseAid-BW066-3DS",
+          "slug": "audino-anime-nurse-aid-bw066",
+          "cssClass": ".pokesprite.pokemon.audino-anime-nurse-aid-bw066.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Audino-Bonus-Anime-NurseAid-BW066-3DS-★",
+          "slug": "audino-anime-nurse-aid-bw066",
+          "cssClass": ".pokesprite.pokemon.audino-anime-nurse-aid-bw066.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
           "name": "Audino-Bonus-Anime-NurseAid-BW124",
           "slug": "audino-anime-nurse-aid-bw124",
           "cssClass": ".pokesprite.pokemon.audino-anime-nurse-aid-bw124",
@@ -80022,6 +80223,52 @@
           "name": "Audino-Bonus-Anime-NurseAid-BW124-3DS-★",
           "slug": "audino-anime-nurse-aid-bw124",
           "cssClass": ".pokesprite.pokemon.audino-anime-nurse-aid-bw124.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Audino-Bonus-Anime-NurseAid-PinkSymbol",
+          "slug": "audino-anime-nurse-aid-pink-symbol",
+          "cssClass": ".pokesprite.pokemon.audino-anime-nurse-aid-pink-symbol",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Audino-Bonus-Anime-NurseAid-PinkSymbol-★",
+          "slug": "audino-anime-nurse-aid-pink-symbol",
+          "cssClass": ".pokesprite.pokemon.audino-anime-nurse-aid-pink-symbol.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Audino-Bonus-Anime-NurseAid-PinkSymbol-3DS",
+          "slug": "audino-anime-nurse-aid-pink-symbol",
+          "cssClass": ".pokesprite.pokemon.audino-anime-nurse-aid-pink-symbol.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Audino-Bonus-Anime-NurseAid-PinkSymbol-3DS-★",
+          "slug": "audino-anime-nurse-aid-pink-symbol",
+          "cssClass": ".pokesprite.pokemon.audino-anime-nurse-aid-pink-symbol.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
