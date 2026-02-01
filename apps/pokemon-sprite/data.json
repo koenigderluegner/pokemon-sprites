@@ -33353,96 +33353,6 @@
       },
       {
         "regular": {
-          "name": "Pinsir-Stadium-Player2",
-          "slug": "pinsir-stadium-player2",
-          "cssClass": ".pokesprite.pokemon.pinsir-stadium-player2"
-        },
-        "shiny": null
-      },
-      {
-        "regular": {
-          "name": "Pinsir-Stadium-Player2-3DS",
-          "slug": "pinsir-stadium-player2",
-          "cssClass": ".pokesprite.pokemon.pinsir-stadium-player2.n3ds",
-          "modifiers": [
-            "n3ds"
-          ]
-        },
-        "shiny": null
-      },
-      {
-        "regular": {
-          "name": "Pinsir-Stadium-Player2-Switch-LGPE",
-          "slug": "pinsir-stadium-player2-lgpe",
-          "cssClass": ".pokesprite.pokemon.pinsir-stadium-player2-lgpe.switch",
-          "modifiers": [
-            "switch"
-          ]
-        },
-        "shiny": null
-      },
-      {
-        "regular": {
-          "name": "Pinsir-Stadium-Player3",
-          "slug": "pinsir-stadium-player3",
-          "cssClass": ".pokesprite.pokemon.pinsir-stadium-player3"
-        },
-        "shiny": null
-      },
-      {
-        "regular": {
-          "name": "Pinsir-Stadium-Player3-3DS",
-          "slug": "pinsir-stadium-player3",
-          "cssClass": ".pokesprite.pokemon.pinsir-stadium-player3.n3ds",
-          "modifiers": [
-            "n3ds"
-          ]
-        },
-        "shiny": null
-      },
-      {
-        "regular": {
-          "name": "Pinsir-Stadium-Player3-Switch-LGPE",
-          "slug": "pinsir-stadium-player3-lgpe",
-          "cssClass": ".pokesprite.pokemon.pinsir-stadium-player3-lgpe.switch",
-          "modifiers": [
-            "switch"
-          ]
-        },
-        "shiny": null
-      },
-      {
-        "regular": {
-          "name": "Pinsir-Stadium-Player4",
-          "slug": "pinsir-stadium-player4",
-          "cssClass": ".pokesprite.pokemon.pinsir-stadium-player4"
-        },
-        "shiny": null
-      },
-      {
-        "regular": {
-          "name": "Pinsir-Stadium-Player4-3DS",
-          "slug": "pinsir-stadium-player4",
-          "cssClass": ".pokesprite.pokemon.pinsir-stadium-player4.n3ds",
-          "modifiers": [
-            "n3ds"
-          ]
-        },
-        "shiny": null
-      },
-      {
-        "regular": {
-          "name": "Pinsir-Stadium-Player4-Switch-LGPE",
-          "slug": "pinsir-stadium-player4-lgpe",
-          "cssClass": ".pokesprite.pokemon.pinsir-stadium-player4-lgpe.switch",
-          "modifiers": [
-            "switch"
-          ]
-        },
-        "shiny": null
-      },
-      {
-        "regular": {
           "name": "Pinsir-Switch-LGPE",
           "slug": "pinsir-lgpe",
           "cssClass": ".pokesprite.pokemon.pinsir-lgpe.switch",
@@ -33459,6 +33369,123 @@
             "switch"
           ]
         }
+      },
+      {
+        "regular": {
+          "name": "Pinsir-Bonus-Stadium-Player2",
+          "slug": "pinsir-stadium-player2",
+          "cssClass": ".pokesprite.pokemon.pinsir-stadium-player2",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": null
+      },
+      {
+        "regular": {
+          "name": "Pinsir-Bonus-Stadium-Player2-3DS",
+          "slug": "pinsir-stadium-player2",
+          "cssClass": ".pokesprite.pokemon.pinsir-stadium-player2.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": null
+      },
+      {
+        "regular": {
+          "name": "Pinsir-Bonus-Stadium-Player2-Switch-LGPE",
+          "slug": "pinsir-stadium-player2-lgpe",
+          "cssClass": ".pokesprite.pokemon.pinsir-stadium-player2-lgpe.switch",
+          "modifiers": [
+            "switch"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": null
+      },
+      {
+        "regular": {
+          "name": "Pinsir-Bonus-Stadium-Player3",
+          "slug": "pinsir-stadium-player3",
+          "cssClass": ".pokesprite.pokemon.pinsir-stadium-player3",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": null
+      },
+      {
+        "regular": {
+          "name": "Pinsir-Bonus-Stadium-Player3-3DS",
+          "slug": "pinsir-stadium-player3",
+          "cssClass": ".pokesprite.pokemon.pinsir-stadium-player3.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": null
+      },
+      {
+        "regular": {
+          "name": "Pinsir-Bonus-Stadium-Player3-Switch-LGPE",
+          "slug": "pinsir-stadium-player3-lgpe",
+          "cssClass": ".pokesprite.pokemon.pinsir-stadium-player3-lgpe.switch",
+          "modifiers": [
+            "switch"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": null
+      },
+      {
+        "regular": {
+          "name": "Pinsir-Bonus-Stadium-Player4",
+          "slug": "pinsir-stadium-player4",
+          "cssClass": ".pokesprite.pokemon.pinsir-stadium-player4",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": null
+      },
+      {
+        "regular": {
+          "name": "Pinsir-Bonus-Stadium-Player4-3DS",
+          "slug": "pinsir-stadium-player4",
+          "cssClass": ".pokesprite.pokemon.pinsir-stadium-player4.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": null
+      },
+      {
+        "regular": {
+          "name": "Pinsir-Bonus-Stadium-Player4-Switch-LGPE",
+          "slug": "pinsir-stadium-player4-lgpe",
+          "cssClass": ".pokesprite.pokemon.pinsir-stadium-player4-lgpe.switch",
+          "modifiers": [
+            "switch"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": null
       }
     ]
   },
