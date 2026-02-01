@@ -76274,6 +76274,52 @@
       },
       {
         "regular": {
+          "name": "Dialga-Bonus-EternaCityStatue",
+          "slug": "dialga-eterna-city-statue",
+          "cssClass": ".pokesprite.pokemon.dialga-eterna-city-statue",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Dialga-Bonus-EternaCityStatue-★",
+          "slug": "dialga-eterna-city-statue",
+          "cssClass": ".pokesprite.pokemon.dialga-eterna-city-statue.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Dialga-Bonus-EternaCityStatue-3DS",
+          "slug": "dialga-eterna-city-statue",
+          "cssClass": ".pokesprite.pokemon.dialga-eterna-city-statue.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Dialga-Bonus-EternaCityStatue-3DS-★",
+          "slug": "dialga-eterna-city-statue",
+          "cssClass": ".pokesprite.pokemon.dialga-eterna-city-statue.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
           "name": "Dialga-Origin-Bonus-Dark",
           "slug": "dialga-origin-dark",
           "cssClass": ".pokesprite.pokemon.dialga-origin-dark",
@@ -76389,6 +76435,52 @@
           "modifiers": [
             "shiny",
             "n3ds"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Palkia-Bonus-EternaCityStatue",
+          "slug": "palkia-eterna-city-statue",
+          "cssClass": ".pokesprite.pokemon.palkia-eterna-city-statue",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Palkia-Bonus-EternaCityStatue-★",
+          "slug": "palkia-eterna-city-statue",
+          "cssClass": ".pokesprite.pokemon.palkia-eterna-city-statue.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Palkia-Bonus-EternaCityStatue-3DS",
+          "slug": "palkia-eterna-city-statue",
+          "cssClass": ".pokesprite.pokemon.palkia-eterna-city-statue.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Palkia-Bonus-EternaCityStatue-3DS-★",
+          "slug": "palkia-eterna-city-statue",
+          "cssClass": ".pokesprite.pokemon.palkia-eterna-city-statue.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
           ]
         }
       }
@@ -118372,6 +118464,94 @@
           "name": "Egg-Placeholder-Small",
           "slug": "egg-placeholder-small",
           "cssClass": ".pokesprite.pokemon.egg-placeholder-small"
+        },
+        "shiny": null
+      },
+      {
+        "regular": {
+          "name": "Egg-GO-RaidEgg-Elite",
+          "slug": "egg-raid-egg-elite",
+          "cssClass": ".pokesprite.pokemon.egg-raid-egg-elite",
+          "categories": [
+            "go"
+          ]
+        },
+        "shiny": null
+      },
+      {
+        "regular": {
+          "name": "Egg-GO-RaidEgg-Event",
+          "slug": "egg-raid-egg-event",
+          "cssClass": ".pokesprite.pokemon.egg-raid-egg-event",
+          "categories": [
+            "go"
+          ]
+        },
+        "shiny": null
+      },
+      {
+        "regular": {
+          "name": "Egg-GO-RaidEgg-Legendary",
+          "slug": "egg-raid-egg-legendary",
+          "cssClass": ".pokesprite.pokemon.egg-raid-egg-legendary",
+          "categories": [
+            "go"
+          ]
+        },
+        "shiny": null
+      },
+      {
+        "regular": {
+          "name": "Egg-GO-RaidEgg-LegendaryMega",
+          "slug": "egg-raid-egg-legendary-mega",
+          "cssClass": ".pokesprite.pokemon.egg-raid-egg-legendary-mega",
+          "categories": [
+            "go"
+          ]
+        },
+        "shiny": null
+      },
+      {
+        "regular": {
+          "name": "Egg-GO-RaidEgg-Mega",
+          "slug": "egg-raid-egg-mega",
+          "cssClass": ".pokesprite.pokemon.egg-raid-egg-mega",
+          "categories": [
+            "go"
+          ]
+        },
+        "shiny": null
+      },
+      {
+        "regular": {
+          "name": "Egg-GO-RaidEgg-Normal",
+          "slug": "egg-raid-egg-normal",
+          "cssClass": ".pokesprite.pokemon.egg-raid-egg-normal",
+          "categories": [
+            "go"
+          ]
+        },
+        "shiny": null
+      },
+      {
+        "regular": {
+          "name": "Egg-GO-RaidEgg-Primal",
+          "slug": "egg-raid-egg-primal",
+          "cssClass": ".pokesprite.pokemon.egg-raid-egg-primal",
+          "categories": [
+            "go"
+          ]
+        },
+        "shiny": null
+      },
+      {
+        "regular": {
+          "name": "Egg-GO-RaidEgg-Rare",
+          "slug": "egg-raid-egg-rare",
+          "cssClass": ".pokesprite.pokemon.egg-raid-egg-rare",
+          "categories": [
+            "go"
+          ]
         },
         "shiny": null
       },
