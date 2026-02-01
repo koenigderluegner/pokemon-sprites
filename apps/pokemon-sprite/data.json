@@ -79981,6 +79981,52 @@
             "switch"
           ]
         }
+      },
+      {
+        "regular": {
+          "name": "Excadrill-Bonus-Anime-Iris-BW066",
+          "slug": "excadrill-anime-iris-bw066",
+          "cssClass": ".pokesprite.pokemon.excadrill-anime-iris-bw066",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Excadrill-Bonus-Anime-Iris-BW066-★",
+          "slug": "excadrill-anime-iris-bw066",
+          "cssClass": ".pokesprite.pokemon.excadrill-anime-iris-bw066.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Excadrill-Bonus-Anime-Iris-BW066-3DS",
+          "slug": "excadrill-anime-iris-bw066",
+          "cssClass": ".pokesprite.pokemon.excadrill-anime-iris-bw066.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Excadrill-Bonus-Anime-Iris-BW066-3DS-★",
+          "slug": "excadrill-anime-iris-bw066",
+          "cssClass": ".pokesprite.pokemon.excadrill-anime-iris-bw066.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       }
     ]
   },
@@ -82054,6 +82100,27 @@
             "shiny"
           ]
         }
+      },
+      {
+        "regular": {
+          "name": "Scraggy-Bonus-Anime-Ash-BW066",
+          "slug": "scraggy-anime-ash-bw066",
+          "cssClass": ".pokesprite.pokemon.scraggy-anime-ash-bw066",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Scraggy-Bonus-Anime-Ash-BW066-★",
+          "slug": "scraggy-anime-ash-bw066",
+          "cssClass": ".pokesprite.pokemon.scraggy-anime-ash-bw066.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       }
     ]
   },
@@ -83796,6 +83863,52 @@
             "shiny"
           ]
         }
+      },
+      {
+        "regular": {
+          "name": "Emolga-Bonus-Anime-Iris-BW066",
+          "slug": "emolga-anime-iris-bw066",
+          "cssClass": ".pokesprite.pokemon.emolga-anime-iris-bw066",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Emolga-Bonus-Anime-Iris-BW066-★",
+          "slug": "emolga-anime-iris-bw066",
+          "cssClass": ".pokesprite.pokemon.emolga-anime-iris-bw066.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Emolga-Bonus-Anime-Iris-BW066-3DS",
+          "slug": "emolga-anime-iris-bw066",
+          "cssClass": ".pokesprite.pokemon.emolga-anime-iris-bw066.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Emolga-Bonus-Anime-Iris-BW066-3DS-★",
+          "slug": "emolga-anime-iris-bw066",
+          "cssClass": ".pokesprite.pokemon.emolga-anime-iris-bw066.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       }
     ]
   },
@@ -84859,6 +84972,48 @@
           "name": "Axew-Bonus--MysteryDungeon-GatesToInfinity-★",
           "slug": "axew--mystery-dungeon-gates-to-infinity",
           "cssClass": ".pokesprite.pokemon.axew--mystery-dungeon-gates-to-infinity.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Axew-Bonus-Anime-Ash-BW066",
+          "slug": "axew-anime-ash-bw066",
+          "cssClass": ".pokesprite.pokemon.axew-anime-ash-bw066",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Axew-Bonus-Anime-Ash-BW066-★",
+          "slug": "axew-anime-ash-bw066",
+          "cssClass": ".pokesprite.pokemon.axew-anime-ash-bw066.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Axew-Bonus-Anime-Ash-BW066-Plants",
+          "slug": "axew-anime-ash-bw066-plants",
+          "cssClass": ".pokesprite.pokemon.axew-anime-ash-bw066-plants",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Axew-Bonus-Anime-Ash-BW066-Plants-★",
+          "slug": "axew-anime-ash-bw066-plants",
+          "cssClass": ".pokesprite.pokemon.axew-anime-ash-bw066-plants.shiny",
           "modifiers": [
             "shiny"
           ],
