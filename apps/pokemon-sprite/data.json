@@ -269,6 +269,604 @@
       },
       {
         "regular": {
+          "name": "Bulbasaur-Bonus-CaféRemix-3rdACrown",
+          "slug": "bulbasaur-cafe-remix-3rd-acrown",
+          "cssClass": ".pokesprite.pokemon.bulbasaur-cafe-remix-3rd-acrown",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Bulbasaur-Bonus-CaféRemix-3rdACrown-★",
+          "slug": "bulbasaur-cafe-remix-3rd-acrown",
+          "cssClass": ".pokesprite.pokemon.bulbasaur-cafe-remix-3rd-acrown.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Bulbasaur-Bonus-CaféRemix-3rdACrown-3DS",
+          "slug": "bulbasaur-cafe-remix-3rd-acrown",
+          "cssClass": ".pokesprite.pokemon.bulbasaur-cafe-remix-3rd-acrown.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Bulbasaur-Bonus-CaféRemix-3rdACrown-3DS-★",
+          "slug": "bulbasaur-cafe-remix-3rd-acrown",
+          "cssClass": ".pokesprite.pokemon.bulbasaur-cafe-remix-3rd-acrown.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Bulbasaur-Bonus-CaféRemix-BulbasaurGreen",
+          "slug": "bulbasaur-cafe-remix-bulbasaur-green",
+          "cssClass": ".pokesprite.pokemon.bulbasaur-cafe-remix-bulbasaur-green",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Bulbasaur-Bonus-CaféRemix-BulbasaurGreen-★",
+          "slug": "bulbasaur-cafe-remix-bulbasaur-green",
+          "cssClass": ".pokesprite.pokemon.bulbasaur-cafe-remix-bulbasaur-green.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Bulbasaur-Bonus-CaféRemix-BulbasaurGreen-3DS",
+          "slug": "bulbasaur-cafe-remix-bulbasaur-green",
+          "cssClass": ".pokesprite.pokemon.bulbasaur-cafe-remix-bulbasaur-green.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Bulbasaur-Bonus-CaféRemix-BulbasaurGreen-3DS-★",
+          "slug": "bulbasaur-cafe-remix-bulbasaur-green",
+          "cssClass": ".pokesprite.pokemon.bulbasaur-cafe-remix-bulbasaur-green.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Bulbasaur-Bonus-CaféRemix-CelebratoryCrown",
+          "slug": "bulbasaur-cafe-remix-celebratory-crown",
+          "cssClass": ".pokesprite.pokemon.bulbasaur-cafe-remix-celebratory-crown",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Bulbasaur-Bonus-CaféRemix-CelebratoryCrown-★",
+          "slug": "bulbasaur-cafe-remix-celebratory-crown",
+          "cssClass": ".pokesprite.pokemon.bulbasaur-cafe-remix-celebratory-crown.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Bulbasaur-Bonus-CaféRemix-CelebratoryCrown-3DS",
+          "slug": "bulbasaur-cafe-remix-celebratory-crown",
+          "cssClass": ".pokesprite.pokemon.bulbasaur-cafe-remix-celebratory-crown.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Bulbasaur-Bonus-CaféRemix-CelebratoryCrown-3DS-★",
+          "slug": "bulbasaur-cafe-remix-celebratory-crown",
+          "cssClass": ".pokesprite.pokemon.bulbasaur-cafe-remix-celebratory-crown.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Bulbasaur-Bonus-CaféRemix-CharmanderRed",
+          "slug": "bulbasaur-cafe-remix-charmander-red",
+          "cssClass": ".pokesprite.pokemon.bulbasaur-cafe-remix-charmander-red",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Bulbasaur-Bonus-CaféRemix-CharmanderRed-★",
+          "slug": "bulbasaur-cafe-remix-charmander-red",
+          "cssClass": ".pokesprite.pokemon.bulbasaur-cafe-remix-charmander-red.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Bulbasaur-Bonus-CaféRemix-CharmanderRed-3DS",
+          "slug": "bulbasaur-cafe-remix-charmander-red",
+          "cssClass": ".pokesprite.pokemon.bulbasaur-cafe-remix-charmander-red.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Bulbasaur-Bonus-CaféRemix-CharmanderRed-3DS-★",
+          "slug": "bulbasaur-cafe-remix-charmander-red",
+          "cssClass": ".pokesprite.pokemon.bulbasaur-cafe-remix-charmander-red.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Bulbasaur-Bonus-CaféRemix-DragoniteOrange",
+          "slug": "bulbasaur-cafe-remix-dragonite-orange",
+          "cssClass": ".pokesprite.pokemon.bulbasaur-cafe-remix-dragonite-orange",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Bulbasaur-Bonus-CaféRemix-DragoniteOrange-★",
+          "slug": "bulbasaur-cafe-remix-dragonite-orange",
+          "cssClass": ".pokesprite.pokemon.bulbasaur-cafe-remix-dragonite-orange.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Bulbasaur-Bonus-CaféRemix-DragoniteOrange-3DS",
+          "slug": "bulbasaur-cafe-remix-dragonite-orange",
+          "cssClass": ".pokesprite.pokemon.bulbasaur-cafe-remix-dragonite-orange.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Bulbasaur-Bonus-CaféRemix-DragoniteOrange-3DS-★",
+          "slug": "bulbasaur-cafe-remix-dragonite-orange",
+          "cssClass": ".pokesprite.pokemon.bulbasaur-cafe-remix-dragonite-orange.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Bulbasaur-Bonus-CaféRemix-EeveeBrown",
+          "slug": "bulbasaur-cafe-remix-eevee-brown",
+          "cssClass": ".pokesprite.pokemon.bulbasaur-cafe-remix-eevee-brown",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Bulbasaur-Bonus-CaféRemix-EeveeBrown-★",
+          "slug": "bulbasaur-cafe-remix-eevee-brown",
+          "cssClass": ".pokesprite.pokemon.bulbasaur-cafe-remix-eevee-brown.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Bulbasaur-Bonus-CaféRemix-EeveeBrown-3DS",
+          "slug": "bulbasaur-cafe-remix-eevee-brown",
+          "cssClass": ".pokesprite.pokemon.bulbasaur-cafe-remix-eevee-brown.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Bulbasaur-Bonus-CaféRemix-EeveeBrown-3DS-★",
+          "slug": "bulbasaur-cafe-remix-eevee-brown",
+          "cssClass": ".pokesprite.pokemon.bulbasaur-cafe-remix-eevee-brown.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Bulbasaur-Bonus-CaféRemix-GengarPurple",
+          "slug": "bulbasaur-cafe-remix-gengar-purple",
+          "cssClass": ".pokesprite.pokemon.bulbasaur-cafe-remix-gengar-purple",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Bulbasaur-Bonus-CaféRemix-GengarPurple-★",
+          "slug": "bulbasaur-cafe-remix-gengar-purple",
+          "cssClass": ".pokesprite.pokemon.bulbasaur-cafe-remix-gengar-purple.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Bulbasaur-Bonus-CaféRemix-GengarPurple-3DS",
+          "slug": "bulbasaur-cafe-remix-gengar-purple",
+          "cssClass": ".pokesprite.pokemon.bulbasaur-cafe-remix-gengar-purple.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Bulbasaur-Bonus-CaféRemix-GengarPurple-3DS-★",
+          "slug": "bulbasaur-cafe-remix-gengar-purple",
+          "cssClass": ".pokesprite.pokemon.bulbasaur-cafe-remix-gengar-purple.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Bulbasaur-Bonus-CaféRemix-GothoritaBlack",
+          "slug": "bulbasaur-cafe-remix-gothorita-black",
+          "cssClass": ".pokesprite.pokemon.bulbasaur-cafe-remix-gothorita-black",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Bulbasaur-Bonus-CaféRemix-GothoritaBlack-★",
+          "slug": "bulbasaur-cafe-remix-gothorita-black",
+          "cssClass": ".pokesprite.pokemon.bulbasaur-cafe-remix-gothorita-black.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Bulbasaur-Bonus-CaféRemix-GothoritaBlack-3DS",
+          "slug": "bulbasaur-cafe-remix-gothorita-black",
+          "cssClass": ".pokesprite.pokemon.bulbasaur-cafe-remix-gothorita-black.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Bulbasaur-Bonus-CaféRemix-GothoritaBlack-3DS-★",
+          "slug": "bulbasaur-cafe-remix-gothorita-black",
+          "cssClass": ".pokesprite.pokemon.bulbasaur-cafe-remix-gothorita-black.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Bulbasaur-Bonus-CaféRemix-JigglypuffPink",
+          "slug": "bulbasaur-cafe-remix-jigglypuff-pink",
+          "cssClass": ".pokesprite.pokemon.bulbasaur-cafe-remix-jigglypuff-pink",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Bulbasaur-Bonus-CaféRemix-JigglypuffPink-★",
+          "slug": "bulbasaur-cafe-remix-jigglypuff-pink",
+          "cssClass": ".pokesprite.pokemon.bulbasaur-cafe-remix-jigglypuff-pink.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Bulbasaur-Bonus-CaféRemix-JigglypuffPink-3DS",
+          "slug": "bulbasaur-cafe-remix-jigglypuff-pink",
+          "cssClass": ".pokesprite.pokemon.bulbasaur-cafe-remix-jigglypuff-pink.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Bulbasaur-Bonus-CaféRemix-JigglypuffPink-3DS-★",
+          "slug": "bulbasaur-cafe-remix-jigglypuff-pink",
+          "cssClass": ".pokesprite.pokemon.bulbasaur-cafe-remix-jigglypuff-pink.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Bulbasaur-Bonus-CaféRemix-LucarioBlue",
+          "slug": "bulbasaur-cafe-remix-lucario-blue",
+          "cssClass": ".pokesprite.pokemon.bulbasaur-cafe-remix-lucario-blue",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Bulbasaur-Bonus-CaféRemix-LucarioBlue-★",
+          "slug": "bulbasaur-cafe-remix-lucario-blue",
+          "cssClass": ".pokesprite.pokemon.bulbasaur-cafe-remix-lucario-blue.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Bulbasaur-Bonus-CaféRemix-LucarioBlue-3DS",
+          "slug": "bulbasaur-cafe-remix-lucario-blue",
+          "cssClass": ".pokesprite.pokemon.bulbasaur-cafe-remix-lucario-blue.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Bulbasaur-Bonus-CaféRemix-LucarioBlue-3DS-★",
+          "slug": "bulbasaur-cafe-remix-lucario-blue",
+          "cssClass": ".pokesprite.pokemon.bulbasaur-cafe-remix-lucario-blue.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Bulbasaur-Bonus-CaféRemix-PikachuYellow",
+          "slug": "bulbasaur-cafe-remix-pikachu-yellow",
+          "cssClass": ".pokesprite.pokemon.bulbasaur-cafe-remix-pikachu-yellow",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Bulbasaur-Bonus-CaféRemix-PikachuYellow-★",
+          "slug": "bulbasaur-cafe-remix-pikachu-yellow",
+          "cssClass": ".pokesprite.pokemon.bulbasaur-cafe-remix-pikachu-yellow.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Bulbasaur-Bonus-CaféRemix-PikachuYellow-3DS",
+          "slug": "bulbasaur-cafe-remix-pikachu-yellow",
+          "cssClass": ".pokesprite.pokemon.bulbasaur-cafe-remix-pikachu-yellow.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Bulbasaur-Bonus-CaféRemix-PikachuYellow-3DS-★",
+          "slug": "bulbasaur-cafe-remix-pikachu-yellow",
+          "cssClass": ".pokesprite.pokemon.bulbasaur-cafe-remix-pikachu-yellow.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Bulbasaur-Bonus-CaféRemix-SlowpokePink",
+          "slug": "bulbasaur-cafe-remix-slowpoke-pink",
+          "cssClass": ".pokesprite.pokemon.bulbasaur-cafe-remix-slowpoke-pink",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Bulbasaur-Bonus-CaféRemix-SlowpokePink-★",
+          "slug": "bulbasaur-cafe-remix-slowpoke-pink",
+          "cssClass": ".pokesprite.pokemon.bulbasaur-cafe-remix-slowpoke-pink.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Bulbasaur-Bonus-CaféRemix-SlowpokePink-3DS",
+          "slug": "bulbasaur-cafe-remix-slowpoke-pink",
+          "cssClass": ".pokesprite.pokemon.bulbasaur-cafe-remix-slowpoke-pink.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Bulbasaur-Bonus-CaféRemix-SlowpokePink-3DS-★",
+          "slug": "bulbasaur-cafe-remix-slowpoke-pink",
+          "cssClass": ".pokesprite.pokemon.bulbasaur-cafe-remix-slowpoke-pink.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Bulbasaur-Bonus-CaféRemix-SquirtleBlue",
+          "slug": "bulbasaur-cafe-remix-squirtle-blue",
+          "cssClass": ".pokesprite.pokemon.bulbasaur-cafe-remix-squirtle-blue",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Bulbasaur-Bonus-CaféRemix-SquirtleBlue-★",
+          "slug": "bulbasaur-cafe-remix-squirtle-blue",
+          "cssClass": ".pokesprite.pokemon.bulbasaur-cafe-remix-squirtle-blue.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Bulbasaur-Bonus-CaféRemix-SquirtleBlue-3DS",
+          "slug": "bulbasaur-cafe-remix-squirtle-blue",
+          "cssClass": ".pokesprite.pokemon.bulbasaur-cafe-remix-squirtle-blue.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Bulbasaur-Bonus-CaféRemix-SquirtleBlue-3DS-★",
+          "slug": "bulbasaur-cafe-remix-squirtle-blue",
+          "cssClass": ".pokesprite.pokemon.bulbasaur-cafe-remix-squirtle-blue.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
           "name": "Bulbasaur-Bonus-MysteryDungeon-RescueTeamDX",
           "slug": "bulbasaur-mystery-dungeon-rescue-team-dx",
           "cssClass": ".pokesprite.pokemon.bulbasaur-mystery-dungeon-rescue-team-dx",
