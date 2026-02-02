@@ -34694,6 +34694,98 @@
       },
       {
         "regular": {
+          "name": "Gyarados-Bonus-Anime-SM113",
+          "slug": "gyarados-anime-sm113",
+          "cssClass": ".pokesprite.pokemon.gyarados-anime-sm113",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Gyarados-Bonus-Anime-SM113-★",
+          "slug": "gyarados-anime-sm113",
+          "cssClass": ".pokesprite.pokemon.gyarados-anime-sm113.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Gyarados-Bonus-Anime-SM113-3DS",
+          "slug": "gyarados-anime-sm113",
+          "cssClass": ".pokesprite.pokemon.gyarados-anime-sm113.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Gyarados-Bonus-Anime-SM113-3DS-★",
+          "slug": "gyarados-anime-sm113",
+          "cssClass": ".pokesprite.pokemon.gyarados-anime-sm113.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Gyarados-Bonus-Anime-SM113-F",
+          "slug": "gyarados-anime-sm113-f",
+          "cssClass": ".pokesprite.pokemon.gyarados-anime-sm113-f",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Gyarados-Bonus-Anime-SM113-F-★",
+          "slug": "gyarados-anime-sm113-f",
+          "cssClass": ".pokesprite.pokemon.gyarados-anime-sm113-f.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Gyarados-Bonus-Anime-SM113-F-3DS",
+          "slug": "gyarados-anime-sm113-f",
+          "cssClass": ".pokesprite.pokemon.gyarados-anime-sm113-f.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Gyarados-Bonus-Anime-SM113-F-3DS-★",
+          "slug": "gyarados-anime-sm113-f",
+          "cssClass": ".pokesprite.pokemon.gyarados-anime-sm113-f.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
           "name": "Gyarados-Bonus-Concierge",
           "slug": "gyarados-concierge",
           "cssClass": ".pokesprite.pokemon.gyarados-concierge",
@@ -38180,17 +38272,7 @@
             "extra"
           ]
         },
-        "shiny": {
-          "name": "Aerodactyl-Extra-PewterFossil-★",
-          "slug": "aerodactyl-pewter-fossil",
-          "cssClass": ".pokesprite.pokemon.aerodactyl-pewter-fossil.shiny",
-          "modifiers": [
-            "shiny"
-          ],
-          "categories": [
-            "extra"
-          ]
-        }
+        "shiny": null
       },
       {
         "regular": {
@@ -38204,18 +38286,7 @@
             "extra"
           ]
         },
-        "shiny": {
-          "name": "Aerodactyl-Extra-PewterFossil-3DS-★",
-          "slug": "aerodactyl-pewter-fossil",
-          "cssClass": ".pokesprite.pokemon.aerodactyl-pewter-fossil.shiny.n3ds",
-          "modifiers": [
-            "shiny",
-            "n3ds"
-          ],
-          "categories": [
-            "extra"
-          ]
-        }
+        "shiny": null
       },
       {
         "regular": {
@@ -38229,18 +38300,7 @@
             "extra"
           ]
         },
-        "shiny": {
-          "name": "Aerodactyl-Extra-PewterFossil-Switch-LGPE-★",
-          "slug": "aerodactyl-pewter-fossil-lgpe",
-          "cssClass": ".pokesprite.pokemon.aerodactyl-pewter-fossil-lgpe.shiny.switch",
-          "modifiers": [
-            "shiny",
-            "switch"
-          ],
-          "categories": [
-            "extra"
-          ]
-        }
+        "shiny": null
       },
       {
         "regular": {
@@ -53283,35 +53343,47 @@
       },
       {
         "regular": {
-          "name": "Celebi-Anime-Movie04-Dark",
+          "name": "Celebi-Bonus-Anime-Movie04-Dark",
           "slug": "celebi-anime-movie04-dark",
-          "cssClass": ".pokesprite.pokemon.celebi-anime-movie04-dark"
+          "cssClass": ".pokesprite.pokemon.celebi-anime-movie04-dark",
+          "categories": [
+            "bonus"
+          ]
         },
         "shiny": {
-          "name": "Celebi-Anime-Movie04-Dark-★",
+          "name": "Celebi-Bonus-Anime-Movie04-Dark-★",
           "slug": "celebi-anime-movie04-dark",
           "cssClass": ".pokesprite.pokemon.celebi-anime-movie04-dark.shiny",
           "modifiers": [
             "shiny"
+          ],
+          "categories": [
+            "bonus"
           ]
         }
       },
       {
         "regular": {
-          "name": "Celebi-Anime-Movie04-Dark-3DS",
+          "name": "Celebi-Bonus-Anime-Movie04-Dark-3DS",
           "slug": "celebi-anime-movie04-dark",
           "cssClass": ".pokesprite.pokemon.celebi-anime-movie04-dark.n3ds",
           "modifiers": [
             "n3ds"
+          ],
+          "categories": [
+            "bonus"
           ]
         },
         "shiny": {
-          "name": "Celebi-Anime-Movie04-Dark-3DS-★",
+          "name": "Celebi-Bonus-Anime-Movie04-Dark-3DS-★",
           "slug": "celebi-anime-movie04-dark",
           "cssClass": ".pokesprite.pokemon.celebi-anime-movie04-dark.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
+          ],
+          "categories": [
+            "bonus"
           ]
         }
       }
@@ -97698,6 +97770,52 @@
             "shiny"
           ]
         }
+      },
+      {
+        "regular": {
+          "name": "Mudbray-Bonus-Anime-PanoliaRanch",
+          "slug": "mudbray-anime-panolia-ranch",
+          "cssClass": ".pokesprite.pokemon.mudbray-anime-panolia-ranch",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Mudbray-Bonus-Anime-PanoliaRanch-★",
+          "slug": "mudbray-anime-panolia-ranch",
+          "cssClass": ".pokesprite.pokemon.mudbray-anime-panolia-ranch.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Mudbray-Bonus-Anime-PanoliaRanch-3DS",
+          "slug": "mudbray-anime-panolia-ranch",
+          "cssClass": ".pokesprite.pokemon.mudbray-anime-panolia-ranch.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Mudbray-Bonus-Anime-PanoliaRanch-3DS-★",
+          "slug": "mudbray-anime-panolia-ranch",
+          "cssClass": ".pokesprite.pokemon.mudbray-anime-panolia-ranch.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       }
     ]
   },
@@ -98370,6 +98488,52 @@
           "modifiers": [
             "n3ds",
             "shiny"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Tsareena-Bonus-Anime-Mallow-Apron",
+          "slug": "tsareena-anime-mallow-apron",
+          "cssClass": ".pokesprite.pokemon.tsareena-anime-mallow-apron",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Tsareena-Bonus-Anime-Mallow-Apron-★",
+          "slug": "tsareena-anime-mallow-apron",
+          "cssClass": ".pokesprite.pokemon.tsareena-anime-mallow-apron.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Tsareena-Bonus-Anime-Mallow-Apron-3DS",
+          "slug": "tsareena-anime-mallow-apron",
+          "cssClass": ".pokesprite.pokemon.tsareena-anime-mallow-apron.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Tsareena-Bonus-Anime-Mallow-Apron-3DS-★",
+          "slug": "tsareena-anime-mallow-apron",
+          "cssClass": ".pokesprite.pokemon.tsareena-anime-mallow-apron.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
           ]
         }
       },
@@ -102565,35 +102729,47 @@
       },
       {
         "regular": {
-          "name": "Marshadow-Bouns-Zenith",
-          "slug": "marshadow-bouns-zenith",
-          "cssClass": ".pokesprite.pokemon.marshadow-bouns-zenith"
+          "name": "Marshadow-Bonus-Zenith",
+          "slug": "marshadow-zenith",
+          "cssClass": ".pokesprite.pokemon.marshadow-zenith",
+          "categories": [
+            "bonus"
+          ]
         },
         "shiny": {
-          "name": "Marshadow-Bouns-Zenith-★",
-          "slug": "marshadow-bouns-zenith",
-          "cssClass": ".pokesprite.pokemon.marshadow-bouns-zenith.shiny",
+          "name": "Marshadow-Bonus-Zenith-★",
+          "slug": "marshadow-zenith",
+          "cssClass": ".pokesprite.pokemon.marshadow-zenith.shiny",
           "modifiers": [
             "shiny"
+          ],
+          "categories": [
+            "bonus"
           ]
         }
       },
       {
         "regular": {
-          "name": "Marshadow-Bouns-Zenith-3DS",
-          "slug": "marshadow-bouns-zenith",
-          "cssClass": ".pokesprite.pokemon.marshadow-bouns-zenith.n3ds",
+          "name": "Marshadow-Bonus-Zenith-3DS",
+          "slug": "marshadow-zenith",
+          "cssClass": ".pokesprite.pokemon.marshadow-zenith.n3ds",
           "modifiers": [
             "n3ds"
+          ],
+          "categories": [
+            "bonus"
           ]
         },
         "shiny": {
-          "name": "Marshadow-Bouns-Zenith-3DS-★",
-          "slug": "marshadow-bouns-zenith",
-          "cssClass": ".pokesprite.pokemon.marshadow-bouns-zenith.shiny.n3ds",
+          "name": "Marshadow-Bonus-Zenith-3DS-★",
+          "slug": "marshadow-zenith",
+          "cssClass": ".pokesprite.pokemon.marshadow-zenith.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
+          ],
+          "categories": [
+            "bonus"
           ]
         }
       }
@@ -113820,17 +113996,17 @@
       },
       {
         "regular": {
-          "name": "Revavroom-Bonus-Caph",
-          "slug": "revavroom-caph",
-          "cssClass": ".pokesprite.pokemon.revavroom-caph",
+          "name": "Revavroom-Bonus-TeamStar-Caph",
+          "slug": "revavroom-team-star-caph",
+          "cssClass": ".pokesprite.pokemon.revavroom-team-star-caph",
           "categories": [
             "bonus"
           ]
         },
         "shiny": {
-          "name": "Revavroom-Bonus-Caph-★",
-          "slug": "revavroom-caph",
-          "cssClass": ".pokesprite.pokemon.revavroom-caph.shiny",
+          "name": "Revavroom-Bonus-TeamStar-Caph-★",
+          "slug": "revavroom-team-star-caph",
+          "cssClass": ".pokesprite.pokemon.revavroom-team-star-caph.shiny",
           "modifiers": [
             "shiny"
           ],
@@ -113841,17 +114017,17 @@
       },
       {
         "regular": {
-          "name": "Revavroom-Bonus-Navi",
-          "slug": "revavroom-navi",
-          "cssClass": ".pokesprite.pokemon.revavroom-navi",
+          "name": "Revavroom-Bonus-TeamStar-Navi",
+          "slug": "revavroom-team-star-navi",
+          "cssClass": ".pokesprite.pokemon.revavroom-team-star-navi",
           "categories": [
             "bonus"
           ]
         },
         "shiny": {
-          "name": "Revavroom-Bonus-Navi-★",
-          "slug": "revavroom-navi",
-          "cssClass": ".pokesprite.pokemon.revavroom-navi.shiny",
+          "name": "Revavroom-Bonus-TeamStar-Navi-★",
+          "slug": "revavroom-team-star-navi",
+          "cssClass": ".pokesprite.pokemon.revavroom-team-star-navi.shiny",
           "modifiers": [
             "shiny"
           ],
@@ -113862,17 +114038,17 @@
       },
       {
         "regular": {
-          "name": "Revavroom-Bonus-Ruchbah",
-          "slug": "revavroom-ruchbah",
-          "cssClass": ".pokesprite.pokemon.revavroom-ruchbah",
+          "name": "Revavroom-Bonus-TeamStar-Ruchbah",
+          "slug": "revavroom-team-star-ruchbah",
+          "cssClass": ".pokesprite.pokemon.revavroom-team-star-ruchbah",
           "categories": [
             "bonus"
           ]
         },
         "shiny": {
-          "name": "Revavroom-Bonus-Ruchbah-★",
-          "slug": "revavroom-ruchbah",
-          "cssClass": ".pokesprite.pokemon.revavroom-ruchbah.shiny",
+          "name": "Revavroom-Bonus-TeamStar-Ruchbah-★",
+          "slug": "revavroom-team-star-ruchbah",
+          "cssClass": ".pokesprite.pokemon.revavroom-team-star-ruchbah.shiny",
           "modifiers": [
             "shiny"
           ],
@@ -113883,17 +114059,17 @@
       },
       {
         "regular": {
-          "name": "Revavroom-Bonus-Schedar",
-          "slug": "revavroom-schedar",
-          "cssClass": ".pokesprite.pokemon.revavroom-schedar",
+          "name": "Revavroom-Bonus-TeamStar-Schedar",
+          "slug": "revavroom-team-star-schedar",
+          "cssClass": ".pokesprite.pokemon.revavroom-team-star-schedar",
           "categories": [
             "bonus"
           ]
         },
         "shiny": {
-          "name": "Revavroom-Bonus-Schedar-★",
-          "slug": "revavroom-schedar",
-          "cssClass": ".pokesprite.pokemon.revavroom-schedar.shiny",
+          "name": "Revavroom-Bonus-TeamStar-Schedar-★",
+          "slug": "revavroom-team-star-schedar",
+          "cssClass": ".pokesprite.pokemon.revavroom-team-star-schedar.shiny",
           "modifiers": [
             "shiny"
           ],
@@ -113904,17 +114080,17 @@
       },
       {
         "regular": {
-          "name": "Revavroom-Bonus-Segin",
-          "slug": "revavroom-segin",
-          "cssClass": ".pokesprite.pokemon.revavroom-segin",
+          "name": "Revavroom-Bonus-TeamStar-Segin",
+          "slug": "revavroom-team-star-segin",
+          "cssClass": ".pokesprite.pokemon.revavroom-team-star-segin",
           "categories": [
             "bonus"
           ]
         },
         "shiny": {
-          "name": "Revavroom-Bonus-Segin-★",
-          "slug": "revavroom-segin",
-          "cssClass": ".pokesprite.pokemon.revavroom-segin.shiny",
+          "name": "Revavroom-Bonus-TeamStar-Segin-★",
+          "slug": "revavroom-team-star-segin",
+          "cssClass": ".pokesprite.pokemon.revavroom-team-star-segin.shiny",
           "modifiers": [
             "shiny"
           ],
