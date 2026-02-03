@@ -19294,6 +19294,190 @@
       },
       {
         "regular": {
+          "name": "Pikachu-Bonus-CaféRemix-FancyDress",
+          "slug": "pikachu-cafe-remix-fancy-dress",
+          "cssClass": ".pokesprite.pokemon.pikachu-cafe-remix-fancy-dress",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Pikachu-Bonus-CaféRemix-FancyDress-★",
+          "slug": "pikachu-cafe-remix-fancy-dress",
+          "cssClass": ".pokesprite.pokemon.pikachu-cafe-remix-fancy-dress.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Pikachu-Bonus-CaféRemix-FancyDress-3DS",
+          "slug": "pikachu-cafe-remix-fancy-dress",
+          "cssClass": ".pokesprite.pokemon.pikachu-cafe-remix-fancy-dress.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Pikachu-Bonus-CaféRemix-FancyDress-3DS-★",
+          "slug": "pikachu-cafe-remix-fancy-dress",
+          "cssClass": ".pokesprite.pokemon.pikachu-cafe-remix-fancy-dress.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Pikachu-Bonus-CaféRemix-FancyDress-F",
+          "slug": "pikachu-cafe-remix-fancy-dress-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-cafe-remix-fancy-dress-f",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Pikachu-Bonus-CaféRemix-FancyDress-F-★",
+          "slug": "pikachu-cafe-remix-fancy-dress-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-cafe-remix-fancy-dress-f.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Pikachu-Bonus-CaféRemix-FancyDress-F-3DS",
+          "slug": "pikachu-cafe-remix-fancy-dress-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-cafe-remix-fancy-dress-f.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Pikachu-Bonus-CaféRemix-FancyDress-F-3DS-★",
+          "slug": "pikachu-cafe-remix-fancy-dress-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-cafe-remix-fancy-dress-f.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Pikachu-Bonus-CaféRemix-FancyTux",
+          "slug": "pikachu-cafe-remix-fancy-tux",
+          "cssClass": ".pokesprite.pokemon.pikachu-cafe-remix-fancy-tux",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Pikachu-Bonus-CaféRemix-FancyTux-★",
+          "slug": "pikachu-cafe-remix-fancy-tux",
+          "cssClass": ".pokesprite.pokemon.pikachu-cafe-remix-fancy-tux.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Pikachu-Bonus-CaféRemix-FancyTux-3DS",
+          "slug": "pikachu-cafe-remix-fancy-tux",
+          "cssClass": ".pokesprite.pokemon.pikachu-cafe-remix-fancy-tux.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Pikachu-Bonus-CaféRemix-FancyTux-3DS-★",
+          "slug": "pikachu-cafe-remix-fancy-tux",
+          "cssClass": ".pokesprite.pokemon.pikachu-cafe-remix-fancy-tux.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Pikachu-Bonus-CaféRemix-FancyTux-F",
+          "slug": "pikachu-cafe-remix-fancy-tux-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-cafe-remix-fancy-tux-f",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Pikachu-Bonus-CaféRemix-FancyTux-F-★",
+          "slug": "pikachu-cafe-remix-fancy-tux-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-cafe-remix-fancy-tux-f.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Pikachu-Bonus-CaféRemix-FancyTux-F-3DS",
+          "slug": "pikachu-cafe-remix-fancy-tux-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-cafe-remix-fancy-tux-f.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Pikachu-Bonus-CaféRemix-FancyTux-F-3DS-★",
+          "slug": "pikachu-cafe-remix-fancy-tux-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-cafe-remix-fancy-tux-f.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
           "name": "Pikachu-Bonus-CaféRemix-FarmFresh",
           "slug": "pikachu-cafe-remix-farm-fresh",
           "cssClass": ".pokesprite.pokemon.pikachu-cafe-remix-farm-fresh",
@@ -19375,6 +19559,98 @@
           "name": "Pikachu-Bonus-CaféRemix-FarmFresh-F-3DS-★",
           "slug": "pikachu-cafe-remix-farm-fresh-f",
           "cssClass": ".pokesprite.pokemon.pikachu-cafe-remix-farm-fresh-f.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Pikachu-Bonus-CaféRemix-FlowerFrame",
+          "slug": "pikachu-cafe-remix-flower-frame",
+          "cssClass": ".pokesprite.pokemon.pikachu-cafe-remix-flower-frame",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Pikachu-Bonus-CaféRemix-FlowerFrame-★",
+          "slug": "pikachu-cafe-remix-flower-frame",
+          "cssClass": ".pokesprite.pokemon.pikachu-cafe-remix-flower-frame.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Pikachu-Bonus-CaféRemix-FlowerFrame-3DS",
+          "slug": "pikachu-cafe-remix-flower-frame",
+          "cssClass": ".pokesprite.pokemon.pikachu-cafe-remix-flower-frame.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Pikachu-Bonus-CaféRemix-FlowerFrame-3DS-★",
+          "slug": "pikachu-cafe-remix-flower-frame",
+          "cssClass": ".pokesprite.pokemon.pikachu-cafe-remix-flower-frame.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Pikachu-Bonus-CaféRemix-FlowerFrame-F",
+          "slug": "pikachu-cafe-remix-flower-frame-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-cafe-remix-flower-frame-f",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Pikachu-Bonus-CaféRemix-FlowerFrame-F-★",
+          "slug": "pikachu-cafe-remix-flower-frame-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-cafe-remix-flower-frame-f.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Pikachu-Bonus-CaféRemix-FlowerFrame-F-3DS",
+          "slug": "pikachu-cafe-remix-flower-frame-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-cafe-remix-flower-frame-f.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Pikachu-Bonus-CaféRemix-FlowerFrame-F-3DS-★",
+          "slug": "pikachu-cafe-remix-flower-frame-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-cafe-remix-flower-frame-f.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -20214,6 +20490,558 @@
       },
       {
         "regular": {
+          "name": "Pikachu-Bonus-CaféRemix-StylishDenim",
+          "slug": "pikachu-cafe-remix-stylish-denim",
+          "cssClass": ".pokesprite.pokemon.pikachu-cafe-remix-stylish-denim",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Pikachu-Bonus-CaféRemix-StylishDenim-★",
+          "slug": "pikachu-cafe-remix-stylish-denim",
+          "cssClass": ".pokesprite.pokemon.pikachu-cafe-remix-stylish-denim.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Pikachu-Bonus-CaféRemix-StylishDenim-3DS",
+          "slug": "pikachu-cafe-remix-stylish-denim",
+          "cssClass": ".pokesprite.pokemon.pikachu-cafe-remix-stylish-denim.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Pikachu-Bonus-CaféRemix-StylishDenim-3DS-★",
+          "slug": "pikachu-cafe-remix-stylish-denim",
+          "cssClass": ".pokesprite.pokemon.pikachu-cafe-remix-stylish-denim.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Pikachu-Bonus-CaféRemix-StylishDenim-F",
+          "slug": "pikachu-cafe-remix-stylish-denim-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-cafe-remix-stylish-denim-f",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Pikachu-Bonus-CaféRemix-StylishDenim-F-★",
+          "slug": "pikachu-cafe-remix-stylish-denim-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-cafe-remix-stylish-denim-f.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Pikachu-Bonus-CaféRemix-StylishDenim-F-3DS",
+          "slug": "pikachu-cafe-remix-stylish-denim-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-cafe-remix-stylish-denim-f.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Pikachu-Bonus-CaféRemix-StylishDenim-F-3DS-★",
+          "slug": "pikachu-cafe-remix-stylish-denim-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-cafe-remix-stylish-denim-f.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Pikachu-Bonus-CaféRemix-StylishNight",
+          "slug": "pikachu-cafe-remix-stylish-night",
+          "cssClass": ".pokesprite.pokemon.pikachu-cafe-remix-stylish-night",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Pikachu-Bonus-CaféRemix-StylishNight-★",
+          "slug": "pikachu-cafe-remix-stylish-night",
+          "cssClass": ".pokesprite.pokemon.pikachu-cafe-remix-stylish-night.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Pikachu-Bonus-CaféRemix-StylishNight-3DS",
+          "slug": "pikachu-cafe-remix-stylish-night",
+          "cssClass": ".pokesprite.pokemon.pikachu-cafe-remix-stylish-night.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Pikachu-Bonus-CaféRemix-StylishNight-3DS-★",
+          "slug": "pikachu-cafe-remix-stylish-night",
+          "cssClass": ".pokesprite.pokemon.pikachu-cafe-remix-stylish-night.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Pikachu-Bonus-CaféRemix-StylishNight-F",
+          "slug": "pikachu-cafe-remix-stylish-night-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-cafe-remix-stylish-night-f",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Pikachu-Bonus-CaféRemix-StylishNight-F-★",
+          "slug": "pikachu-cafe-remix-stylish-night-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-cafe-remix-stylish-night-f.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Pikachu-Bonus-CaféRemix-StylishNight-F-3DS",
+          "slug": "pikachu-cafe-remix-stylish-night-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-cafe-remix-stylish-night-f.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Pikachu-Bonus-CaféRemix-StylishNight-F-3DS-★",
+          "slug": "pikachu-cafe-remix-stylish-night-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-cafe-remix-stylish-night-f.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Pikachu-Bonus-CaféRemix-StylishOlive",
+          "slug": "pikachu-cafe-remix-stylish-olive",
+          "cssClass": ".pokesprite.pokemon.pikachu-cafe-remix-stylish-olive",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Pikachu-Bonus-CaféRemix-StylishOlive-★",
+          "slug": "pikachu-cafe-remix-stylish-olive",
+          "cssClass": ".pokesprite.pokemon.pikachu-cafe-remix-stylish-olive.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Pikachu-Bonus-CaféRemix-StylishOlive-3DS",
+          "slug": "pikachu-cafe-remix-stylish-olive",
+          "cssClass": ".pokesprite.pokemon.pikachu-cafe-remix-stylish-olive.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Pikachu-Bonus-CaféRemix-StylishOlive-3DS-★",
+          "slug": "pikachu-cafe-remix-stylish-olive",
+          "cssClass": ".pokesprite.pokemon.pikachu-cafe-remix-stylish-olive.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Pikachu-Bonus-CaféRemix-StylishOlive-F",
+          "slug": "pikachu-cafe-remix-stylish-olive-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-cafe-remix-stylish-olive-f",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Pikachu-Bonus-CaféRemix-StylishOlive-F-★",
+          "slug": "pikachu-cafe-remix-stylish-olive-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-cafe-remix-stylish-olive-f.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Pikachu-Bonus-CaféRemix-StylishOlive-F-3DS",
+          "slug": "pikachu-cafe-remix-stylish-olive-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-cafe-remix-stylish-olive-f.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Pikachu-Bonus-CaféRemix-StylishOlive-F-3DS-★",
+          "slug": "pikachu-cafe-remix-stylish-olive-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-cafe-remix-stylish-olive-f.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Pikachu-Bonus-CaféRemix-StylishPerwinkle",
+          "slug": "pikachu-cafe-remix-stylish-perwinkle",
+          "cssClass": ".pokesprite.pokemon.pikachu-cafe-remix-stylish-perwinkle",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Pikachu-Bonus-CaféRemix-StylishPerwinkle-★",
+          "slug": "pikachu-cafe-remix-stylish-perwinkle",
+          "cssClass": ".pokesprite.pokemon.pikachu-cafe-remix-stylish-perwinkle.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Pikachu-Bonus-CaféRemix-StylishPerwinkle-3DS",
+          "slug": "pikachu-cafe-remix-stylish-perwinkle",
+          "cssClass": ".pokesprite.pokemon.pikachu-cafe-remix-stylish-perwinkle.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Pikachu-Bonus-CaféRemix-StylishPerwinkle-3DS-★",
+          "slug": "pikachu-cafe-remix-stylish-perwinkle",
+          "cssClass": ".pokesprite.pokemon.pikachu-cafe-remix-stylish-perwinkle.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Pikachu-Bonus-CaféRemix-StylishPerwinkle-F",
+          "slug": "pikachu-cafe-remix-stylish-perwinkle-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-cafe-remix-stylish-perwinkle-f",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Pikachu-Bonus-CaféRemix-StylishPerwinkle-F-★",
+          "slug": "pikachu-cafe-remix-stylish-perwinkle-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-cafe-remix-stylish-perwinkle-f.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Pikachu-Bonus-CaféRemix-StylishPerwinkle-F-3DS",
+          "slug": "pikachu-cafe-remix-stylish-perwinkle-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-cafe-remix-stylish-perwinkle-f.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Pikachu-Bonus-CaféRemix-StylishPerwinkle-F-3DS-★",
+          "slug": "pikachu-cafe-remix-stylish-perwinkle-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-cafe-remix-stylish-perwinkle-f.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Pikachu-Bonus-CaféRemix-StylishSnow",
+          "slug": "pikachu-cafe-remix-stylish-snow",
+          "cssClass": ".pokesprite.pokemon.pikachu-cafe-remix-stylish-snow",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Pikachu-Bonus-CaféRemix-StylishSnow-★",
+          "slug": "pikachu-cafe-remix-stylish-snow",
+          "cssClass": ".pokesprite.pokemon.pikachu-cafe-remix-stylish-snow.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Pikachu-Bonus-CaféRemix-StylishSnow-3DS",
+          "slug": "pikachu-cafe-remix-stylish-snow",
+          "cssClass": ".pokesprite.pokemon.pikachu-cafe-remix-stylish-snow.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Pikachu-Bonus-CaféRemix-StylishSnow-3DS-★",
+          "slug": "pikachu-cafe-remix-stylish-snow",
+          "cssClass": ".pokesprite.pokemon.pikachu-cafe-remix-stylish-snow.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Pikachu-Bonus-CaféRemix-StylishSnow-F",
+          "slug": "pikachu-cafe-remix-stylish-snow-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-cafe-remix-stylish-snow-f",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Pikachu-Bonus-CaféRemix-StylishSnow-F-★",
+          "slug": "pikachu-cafe-remix-stylish-snow-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-cafe-remix-stylish-snow-f.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Pikachu-Bonus-CaféRemix-StylishSnow-F-3DS",
+          "slug": "pikachu-cafe-remix-stylish-snow-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-cafe-remix-stylish-snow-f.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Pikachu-Bonus-CaféRemix-StylishSnow-F-3DS-★",
+          "slug": "pikachu-cafe-remix-stylish-snow-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-cafe-remix-stylish-snow-f.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Pikachu-Bonus-CaféRemix-StylishSpring",
+          "slug": "pikachu-cafe-remix-stylish-spring",
+          "cssClass": ".pokesprite.pokemon.pikachu-cafe-remix-stylish-spring",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Pikachu-Bonus-CaféRemix-StylishSpring-★",
+          "slug": "pikachu-cafe-remix-stylish-spring",
+          "cssClass": ".pokesprite.pokemon.pikachu-cafe-remix-stylish-spring.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Pikachu-Bonus-CaféRemix-StylishSpring-3DS",
+          "slug": "pikachu-cafe-remix-stylish-spring",
+          "cssClass": ".pokesprite.pokemon.pikachu-cafe-remix-stylish-spring.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Pikachu-Bonus-CaféRemix-StylishSpring-3DS-★",
+          "slug": "pikachu-cafe-remix-stylish-spring",
+          "cssClass": ".pokesprite.pokemon.pikachu-cafe-remix-stylish-spring.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Pikachu-Bonus-CaféRemix-StylishSpring-F",
+          "slug": "pikachu-cafe-remix-stylish-spring-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-cafe-remix-stylish-spring-f",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Pikachu-Bonus-CaféRemix-StylishSpring-F-★",
+          "slug": "pikachu-cafe-remix-stylish-spring-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-cafe-remix-stylish-spring-f.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Pikachu-Bonus-CaféRemix-StylishSpring-F-3DS",
+          "slug": "pikachu-cafe-remix-stylish-spring-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-cafe-remix-stylish-spring-f.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Pikachu-Bonus-CaféRemix-StylishSpring-F-3DS-★",
+          "slug": "pikachu-cafe-remix-stylish-spring-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-cafe-remix-stylish-spring-f.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
           "name": "Pikachu-Bonus-CaféRemix-Sweets",
           "slug": "pikachu-cafe-remix-sweets",
           "cssClass": ".pokesprite.pokemon.pikachu-cafe-remix-sweets",
@@ -20295,6 +21123,98 @@
           "name": "Pikachu-Bonus-CaféRemix-Sweets-F-3DS-★",
           "slug": "pikachu-cafe-remix-sweets-f",
           "cssClass": ".pokesprite.pokemon.pikachu-cafe-remix-sweets-f.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Pikachu-Bonus-CaféRemix-Welcome2022",
+          "slug": "pikachu-cafe-remix-welcome2022",
+          "cssClass": ".pokesprite.pokemon.pikachu-cafe-remix-welcome2022",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Pikachu-Bonus-CaféRemix-Welcome2022-★",
+          "slug": "pikachu-cafe-remix-welcome2022",
+          "cssClass": ".pokesprite.pokemon.pikachu-cafe-remix-welcome2022.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Pikachu-Bonus-CaféRemix-Welcome2022-3DS",
+          "slug": "pikachu-cafe-remix-welcome2022",
+          "cssClass": ".pokesprite.pokemon.pikachu-cafe-remix-welcome2022.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Pikachu-Bonus-CaféRemix-Welcome2022-3DS-★",
+          "slug": "pikachu-cafe-remix-welcome2022",
+          "cssClass": ".pokesprite.pokemon.pikachu-cafe-remix-welcome2022.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Pikachu-Bonus-CaféRemix-Welcome2022-F",
+          "slug": "pikachu-cafe-remix-welcome2022-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-cafe-remix-welcome2022-f",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Pikachu-Bonus-CaféRemix-Welcome2022-F-★",
+          "slug": "pikachu-cafe-remix-welcome2022-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-cafe-remix-welcome2022-f.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Pikachu-Bonus-CaféRemix-Welcome2022-F-3DS",
+          "slug": "pikachu-cafe-remix-welcome2022-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-cafe-remix-welcome2022-f.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Pikachu-Bonus-CaféRemix-Welcome2022-F-3DS-★",
+          "slug": "pikachu-cafe-remix-welcome2022-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-cafe-remix-welcome2022-f.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
