@@ -24162,6 +24162,604 @@
       },
       {
         "regular": {
+          "name": "Raichu-Alola-Bonus-CaféRemix-BulbasaurGreen",
+          "slug": "raichu-alola-cafe-remix-bulbasaur-green",
+          "cssClass": ".pokesprite.pokemon.raichu-alola-cafe-remix-bulbasaur-green",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Raichu-Alola-Bonus-CaféRemix-BulbasaurGreen-★",
+          "slug": "raichu-alola-cafe-remix-bulbasaur-green",
+          "cssClass": ".pokesprite.pokemon.raichu-alola-cafe-remix-bulbasaur-green.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Raichu-Alola-Bonus-CaféRemix-BulbasaurGreen-3DS",
+          "slug": "raichu-alola-cafe-remix-bulbasaur-green",
+          "cssClass": ".pokesprite.pokemon.raichu-alola-cafe-remix-bulbasaur-green.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Raichu-Alola-Bonus-CaféRemix-BulbasaurGreen-3DS-★",
+          "slug": "raichu-alola-cafe-remix-bulbasaur-green",
+          "cssClass": ".pokesprite.pokemon.raichu-alola-cafe-remix-bulbasaur-green.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Raichu-Alola-Bonus-CaféRemix-CharmanderRed",
+          "slug": "raichu-alola-cafe-remix-charmander-red",
+          "cssClass": ".pokesprite.pokemon.raichu-alola-cafe-remix-charmander-red",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Raichu-Alola-Bonus-CaféRemix-CharmanderRed-★",
+          "slug": "raichu-alola-cafe-remix-charmander-red",
+          "cssClass": ".pokesprite.pokemon.raichu-alola-cafe-remix-charmander-red.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Raichu-Alola-Bonus-CaféRemix-CharmanderRed-3DS",
+          "slug": "raichu-alola-cafe-remix-charmander-red",
+          "cssClass": ".pokesprite.pokemon.raichu-alola-cafe-remix-charmander-red.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Raichu-Alola-Bonus-CaféRemix-CharmanderRed-3DS-★",
+          "slug": "raichu-alola-cafe-remix-charmander-red",
+          "cssClass": ".pokesprite.pokemon.raichu-alola-cafe-remix-charmander-red.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Raichu-Alola-Bonus-CaféRemix-DragoniteOrange",
+          "slug": "raichu-alola-cafe-remix-dragonite-orange",
+          "cssClass": ".pokesprite.pokemon.raichu-alola-cafe-remix-dragonite-orange",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Raichu-Alola-Bonus-CaféRemix-DragoniteOrange-★",
+          "slug": "raichu-alola-cafe-remix-dragonite-orange",
+          "cssClass": ".pokesprite.pokemon.raichu-alola-cafe-remix-dragonite-orange.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Raichu-Alola-Bonus-CaféRemix-DragoniteOrange-3DS",
+          "slug": "raichu-alola-cafe-remix-dragonite-orange",
+          "cssClass": ".pokesprite.pokemon.raichu-alola-cafe-remix-dragonite-orange.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Raichu-Alola-Bonus-CaféRemix-DragoniteOrange-3DS-★",
+          "slug": "raichu-alola-cafe-remix-dragonite-orange",
+          "cssClass": ".pokesprite.pokemon.raichu-alola-cafe-remix-dragonite-orange.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Raichu-Alola-Bonus-CaféRemix-EeveeBrown",
+          "slug": "raichu-alola-cafe-remix-eevee-brown",
+          "cssClass": ".pokesprite.pokemon.raichu-alola-cafe-remix-eevee-brown",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Raichu-Alola-Bonus-CaféRemix-EeveeBrown-★",
+          "slug": "raichu-alola-cafe-remix-eevee-brown",
+          "cssClass": ".pokesprite.pokemon.raichu-alola-cafe-remix-eevee-brown.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Raichu-Alola-Bonus-CaféRemix-EeveeBrown-3DS",
+          "slug": "raichu-alola-cafe-remix-eevee-brown",
+          "cssClass": ".pokesprite.pokemon.raichu-alola-cafe-remix-eevee-brown.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Raichu-Alola-Bonus-CaféRemix-EeveeBrown-3DS-★",
+          "slug": "raichu-alola-cafe-remix-eevee-brown",
+          "cssClass": ".pokesprite.pokemon.raichu-alola-cafe-remix-eevee-brown.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Raichu-Alola-Bonus-CaféRemix-GengarPurple",
+          "slug": "raichu-alola-cafe-remix-gengar-purple",
+          "cssClass": ".pokesprite.pokemon.raichu-alola-cafe-remix-gengar-purple",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Raichu-Alola-Bonus-CaféRemix-GengarPurple-★",
+          "slug": "raichu-alola-cafe-remix-gengar-purple",
+          "cssClass": ".pokesprite.pokemon.raichu-alola-cafe-remix-gengar-purple.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Raichu-Alola-Bonus-CaféRemix-GengarPurple-3DS",
+          "slug": "raichu-alola-cafe-remix-gengar-purple",
+          "cssClass": ".pokesprite.pokemon.raichu-alola-cafe-remix-gengar-purple.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Raichu-Alola-Bonus-CaféRemix-GengarPurple-3DS-★",
+          "slug": "raichu-alola-cafe-remix-gengar-purple",
+          "cssClass": ".pokesprite.pokemon.raichu-alola-cafe-remix-gengar-purple.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Raichu-Alola-Bonus-CaféRemix-GothoritaBlack",
+          "slug": "raichu-alola-cafe-remix-gothorita-black",
+          "cssClass": ".pokesprite.pokemon.raichu-alola-cafe-remix-gothorita-black",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Raichu-Alola-Bonus-CaféRemix-GothoritaBlack-★",
+          "slug": "raichu-alola-cafe-remix-gothorita-black",
+          "cssClass": ".pokesprite.pokemon.raichu-alola-cafe-remix-gothorita-black.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Raichu-Alola-Bonus-CaféRemix-GothoritaBlack-3DS",
+          "slug": "raichu-alola-cafe-remix-gothorita-black",
+          "cssClass": ".pokesprite.pokemon.raichu-alola-cafe-remix-gothorita-black.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Raichu-Alola-Bonus-CaféRemix-GothoritaBlack-3DS-★",
+          "slug": "raichu-alola-cafe-remix-gothorita-black",
+          "cssClass": ".pokesprite.pokemon.raichu-alola-cafe-remix-gothorita-black.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Raichu-Alola-Bonus-CaféRemix-JigglypuffPink",
+          "slug": "raichu-alola-cafe-remix-jigglypuff-pink",
+          "cssClass": ".pokesprite.pokemon.raichu-alola-cafe-remix-jigglypuff-pink",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Raichu-Alola-Bonus-CaféRemix-JigglypuffPink-★",
+          "slug": "raichu-alola-cafe-remix-jigglypuff-pink",
+          "cssClass": ".pokesprite.pokemon.raichu-alola-cafe-remix-jigglypuff-pink.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Raichu-Alola-Bonus-CaféRemix-JigglypuffPink-3DS",
+          "slug": "raichu-alola-cafe-remix-jigglypuff-pink",
+          "cssClass": ".pokesprite.pokemon.raichu-alola-cafe-remix-jigglypuff-pink.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Raichu-Alola-Bonus-CaféRemix-JigglypuffPink-3DS-★",
+          "slug": "raichu-alola-cafe-remix-jigglypuff-pink",
+          "cssClass": ".pokesprite.pokemon.raichu-alola-cafe-remix-jigglypuff-pink.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Raichu-Alola-Bonus-CaféRemix-LucarioBlue",
+          "slug": "raichu-alola-cafe-remix-lucario-blue",
+          "cssClass": ".pokesprite.pokemon.raichu-alola-cafe-remix-lucario-blue",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Raichu-Alola-Bonus-CaféRemix-LucarioBlue-★",
+          "slug": "raichu-alola-cafe-remix-lucario-blue",
+          "cssClass": ".pokesprite.pokemon.raichu-alola-cafe-remix-lucario-blue.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Raichu-Alola-Bonus-CaféRemix-LucarioBlue-3DS",
+          "slug": "raichu-alola-cafe-remix-lucario-blue",
+          "cssClass": ".pokesprite.pokemon.raichu-alola-cafe-remix-lucario-blue.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Raichu-Alola-Bonus-CaféRemix-LucarioBlue-3DS-★",
+          "slug": "raichu-alola-cafe-remix-lucario-blue",
+          "cssClass": ".pokesprite.pokemon.raichu-alola-cafe-remix-lucario-blue.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Raichu-Alola-Bonus-CaféRemix-MinccinoGray",
+          "slug": "raichu-alola-cafe-remix-minccino-gray",
+          "cssClass": ".pokesprite.pokemon.raichu-alola-cafe-remix-minccino-gray",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Raichu-Alola-Bonus-CaféRemix-MinccinoGray-★",
+          "slug": "raichu-alola-cafe-remix-minccino-gray",
+          "cssClass": ".pokesprite.pokemon.raichu-alola-cafe-remix-minccino-gray.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Raichu-Alola-Bonus-CaféRemix-MinccinoGray-3DS",
+          "slug": "raichu-alola-cafe-remix-minccino-gray",
+          "cssClass": ".pokesprite.pokemon.raichu-alola-cafe-remix-minccino-gray.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Raichu-Alola-Bonus-CaféRemix-MinccinoGray-3DS-★",
+          "slug": "raichu-alola-cafe-remix-minccino-gray",
+          "cssClass": ".pokesprite.pokemon.raichu-alola-cafe-remix-minccino-gray.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Raichu-Alola-Bonus-CaféRemix-PancakeChef",
+          "slug": "raichu-alola-cafe-remix-pancake-chef",
+          "cssClass": ".pokesprite.pokemon.raichu-alola-cafe-remix-pancake-chef",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Raichu-Alola-Bonus-CaféRemix-PancakeChef-★",
+          "slug": "raichu-alola-cafe-remix-pancake-chef",
+          "cssClass": ".pokesprite.pokemon.raichu-alola-cafe-remix-pancake-chef.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Raichu-Alola-Bonus-CaféRemix-PancakeChef-3DS",
+          "slug": "raichu-alola-cafe-remix-pancake-chef",
+          "cssClass": ".pokesprite.pokemon.raichu-alola-cafe-remix-pancake-chef.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Raichu-Alola-Bonus-CaféRemix-PancakeChef-3DS-★",
+          "slug": "raichu-alola-cafe-remix-pancake-chef",
+          "cssClass": ".pokesprite.pokemon.raichu-alola-cafe-remix-pancake-chef.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Raichu-Alola-Bonus-CaféRemix-PikachuYellow",
+          "slug": "raichu-alola-cafe-remix-pikachu-yellow",
+          "cssClass": ".pokesprite.pokemon.raichu-alola-cafe-remix-pikachu-yellow",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Raichu-Alola-Bonus-CaféRemix-PikachuYellow-★",
+          "slug": "raichu-alola-cafe-remix-pikachu-yellow",
+          "cssClass": ".pokesprite.pokemon.raichu-alola-cafe-remix-pikachu-yellow.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Raichu-Alola-Bonus-CaféRemix-PikachuYellow-3DS",
+          "slug": "raichu-alola-cafe-remix-pikachu-yellow",
+          "cssClass": ".pokesprite.pokemon.raichu-alola-cafe-remix-pikachu-yellow.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Raichu-Alola-Bonus-CaféRemix-PikachuYellow-3DS-★",
+          "slug": "raichu-alola-cafe-remix-pikachu-yellow",
+          "cssClass": ".pokesprite.pokemon.raichu-alola-cafe-remix-pikachu-yellow.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Raichu-Alola-Bonus-CaféRemix-SlowpokePink",
+          "slug": "raichu-alola-cafe-remix-slowpoke-pink",
+          "cssClass": ".pokesprite.pokemon.raichu-alola-cafe-remix-slowpoke-pink",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Raichu-Alola-Bonus-CaféRemix-SlowpokePink-★",
+          "slug": "raichu-alola-cafe-remix-slowpoke-pink",
+          "cssClass": ".pokesprite.pokemon.raichu-alola-cafe-remix-slowpoke-pink.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Raichu-Alola-Bonus-CaféRemix-SlowpokePink-3DS",
+          "slug": "raichu-alola-cafe-remix-slowpoke-pink",
+          "cssClass": ".pokesprite.pokemon.raichu-alola-cafe-remix-slowpoke-pink.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Raichu-Alola-Bonus-CaféRemix-SlowpokePink-3DS-★",
+          "slug": "raichu-alola-cafe-remix-slowpoke-pink",
+          "cssClass": ".pokesprite.pokemon.raichu-alola-cafe-remix-slowpoke-pink.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Raichu-Alola-Bonus-CaféRemix-SquirtleBlue",
+          "slug": "raichu-alola-cafe-remix-squirtle-blue",
+          "cssClass": ".pokesprite.pokemon.raichu-alola-cafe-remix-squirtle-blue",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Raichu-Alola-Bonus-CaféRemix-SquirtleBlue-★",
+          "slug": "raichu-alola-cafe-remix-squirtle-blue",
+          "cssClass": ".pokesprite.pokemon.raichu-alola-cafe-remix-squirtle-blue.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Raichu-Alola-Bonus-CaféRemix-SquirtleBlue-3DS",
+          "slug": "raichu-alola-cafe-remix-squirtle-blue",
+          "cssClass": ".pokesprite.pokemon.raichu-alola-cafe-remix-squirtle-blue.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Raichu-Alola-Bonus-CaféRemix-SquirtleBlue-3DS-★",
+          "slug": "raichu-alola-cafe-remix-squirtle-blue",
+          "cssClass": ".pokesprite.pokemon.raichu-alola-cafe-remix-squirtle-blue.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
           "name": "Raichu-Bonus-Anime-Kay",
           "slug": "raichu-anime-kay",
           "cssClass": ".pokesprite.pokemon.raichu-anime-kay",
