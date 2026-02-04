@@ -27511,6 +27511,321 @@
       },
       {
         "regular": {
+          "name": "Vulpix-Alola-Bonus-CaféRemix-BulbasaurGreen",
+          "slug": "vulpix-alola-cafe-remix-bulbasaur-green",
+          "cssClass": ".pokesprite.pokemon.vulpix-alola-cafe-remix-bulbasaur-green",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Vulpix-Alola-Bonus-CaféRemix-BulbasaurGreen-★",
+          "slug": "vulpix-alola-cafe-remix-bulbasaur-green",
+          "cssClass": ".pokesprite.pokemon.vulpix-alola-cafe-remix-bulbasaur-green.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Vulpix-Alola-Bonus-CaféRemix-CharmanderRed",
+          "slug": "vulpix-alola-cafe-remix-charmander-red",
+          "cssClass": ".pokesprite.pokemon.vulpix-alola-cafe-remix-charmander-red",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Vulpix-Alola-Bonus-CaféRemix-CharmanderRed-★",
+          "slug": "vulpix-alola-cafe-remix-charmander-red",
+          "cssClass": ".pokesprite.pokemon.vulpix-alola-cafe-remix-charmander-red.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Vulpix-Alola-Bonus-CaféRemix-CozyCape",
+          "slug": "vulpix-alola-cafe-remix-cozy-cape",
+          "cssClass": ".pokesprite.pokemon.vulpix-alola-cafe-remix-cozy-cape",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Vulpix-Alola-Bonus-CaféRemix-CozyCape-★",
+          "slug": "vulpix-alola-cafe-remix-cozy-cape",
+          "cssClass": ".pokesprite.pokemon.vulpix-alola-cafe-remix-cozy-cape.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Vulpix-Alola-Bonus-CaféRemix-DragoniteOrange",
+          "slug": "vulpix-alola-cafe-remix-dragonite-orange",
+          "cssClass": ".pokesprite.pokemon.vulpix-alola-cafe-remix-dragonite-orange",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Vulpix-Alola-Bonus-CaféRemix-DragoniteOrange-★",
+          "slug": "vulpix-alola-cafe-remix-dragonite-orange",
+          "cssClass": ".pokesprite.pokemon.vulpix-alola-cafe-remix-dragonite-orange.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Vulpix-Alola-Bonus-CaféRemix-EeveeBrown",
+          "slug": "vulpix-alola-cafe-remix-eevee-brown",
+          "cssClass": ".pokesprite.pokemon.vulpix-alola-cafe-remix-eevee-brown",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Vulpix-Alola-Bonus-CaféRemix-EeveeBrown-★",
+          "slug": "vulpix-alola-cafe-remix-eevee-brown",
+          "cssClass": ".pokesprite.pokemon.vulpix-alola-cafe-remix-eevee-brown.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Vulpix-Alola-Bonus-CaféRemix-FestiveCeremony",
+          "slug": "vulpix-alola-cafe-remix-festive-ceremony",
+          "cssClass": ".pokesprite.pokemon.vulpix-alola-cafe-remix-festive-ceremony",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Vulpix-Alola-Bonus-CaféRemix-FestiveCeremony-★",
+          "slug": "vulpix-alola-cafe-remix-festive-ceremony",
+          "cssClass": ".pokesprite.pokemon.vulpix-alola-cafe-remix-festive-ceremony.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Vulpix-Alola-Bonus-CaféRemix-Floral",
+          "slug": "vulpix-alola-cafe-remix-floral",
+          "cssClass": ".pokesprite.pokemon.vulpix-alola-cafe-remix-floral",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Vulpix-Alola-Bonus-CaféRemix-Floral-★",
+          "slug": "vulpix-alola-cafe-remix-floral",
+          "cssClass": ".pokesprite.pokemon.vulpix-alola-cafe-remix-floral.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Vulpix-Alola-Bonus-CaféRemix-GengarPurple",
+          "slug": "vulpix-alola-cafe-remix-gengar-purple",
+          "cssClass": ".pokesprite.pokemon.vulpix-alola-cafe-remix-gengar-purple",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Vulpix-Alola-Bonus-CaféRemix-GengarPurple-★",
+          "slug": "vulpix-alola-cafe-remix-gengar-purple",
+          "cssClass": ".pokesprite.pokemon.vulpix-alola-cafe-remix-gengar-purple.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Vulpix-Alola-Bonus-CaféRemix-GothoritaBlack",
+          "slug": "vulpix-alola-cafe-remix-gothorita-black",
+          "cssClass": ".pokesprite.pokemon.vulpix-alola-cafe-remix-gothorita-black",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Vulpix-Alola-Bonus-CaféRemix-GothoritaBlack-★",
+          "slug": "vulpix-alola-cafe-remix-gothorita-black",
+          "cssClass": ".pokesprite.pokemon.vulpix-alola-cafe-remix-gothorita-black.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Vulpix-Alola-Bonus-CaféRemix-JigglypuffPink",
+          "slug": "vulpix-alola-cafe-remix-jigglypuff-pink",
+          "cssClass": ".pokesprite.pokemon.vulpix-alola-cafe-remix-jigglypuff-pink",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Vulpix-Alola-Bonus-CaféRemix-JigglypuffPink-★",
+          "slug": "vulpix-alola-cafe-remix-jigglypuff-pink",
+          "cssClass": ".pokesprite.pokemon.vulpix-alola-cafe-remix-jigglypuff-pink.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Vulpix-Alola-Bonus-CaféRemix-LucarioBlue",
+          "slug": "vulpix-alola-cafe-remix-lucario-blue",
+          "cssClass": ".pokesprite.pokemon.vulpix-alola-cafe-remix-lucario-blue",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Vulpix-Alola-Bonus-CaféRemix-LucarioBlue-★",
+          "slug": "vulpix-alola-cafe-remix-lucario-blue",
+          "cssClass": ".pokesprite.pokemon.vulpix-alola-cafe-remix-lucario-blue.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Vulpix-Alola-Bonus-CaféRemix-MinccinoGray",
+          "slug": "vulpix-alola-cafe-remix-minccino-gray",
+          "cssClass": ".pokesprite.pokemon.vulpix-alola-cafe-remix-minccino-gray",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Vulpix-Alola-Bonus-CaféRemix-MinccinoGray-★",
+          "slug": "vulpix-alola-cafe-remix-minccino-gray",
+          "cssClass": ".pokesprite.pokemon.vulpix-alola-cafe-remix-minccino-gray.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Vulpix-Alola-Bonus-CaféRemix-PikachuYellow",
+          "slug": "vulpix-alola-cafe-remix-pikachu-yellow",
+          "cssClass": ".pokesprite.pokemon.vulpix-alola-cafe-remix-pikachu-yellow",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Vulpix-Alola-Bonus-CaféRemix-PikachuYellow-★",
+          "slug": "vulpix-alola-cafe-remix-pikachu-yellow",
+          "cssClass": ".pokesprite.pokemon.vulpix-alola-cafe-remix-pikachu-yellow.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Vulpix-Alola-Bonus-CaféRemix-SlowpokePink",
+          "slug": "vulpix-alola-cafe-remix-slowpoke-pink",
+          "cssClass": ".pokesprite.pokemon.vulpix-alola-cafe-remix-slowpoke-pink",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Vulpix-Alola-Bonus-CaféRemix-SlowpokePink-★",
+          "slug": "vulpix-alola-cafe-remix-slowpoke-pink",
+          "cssClass": ".pokesprite.pokemon.vulpix-alola-cafe-remix-slowpoke-pink.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Vulpix-Alola-Bonus-CaféRemix-SquirtleBlue",
+          "slug": "vulpix-alola-cafe-remix-squirtle-blue",
+          "cssClass": ".pokesprite.pokemon.vulpix-alola-cafe-remix-squirtle-blue",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Vulpix-Alola-Bonus-CaféRemix-SquirtleBlue-★",
+          "slug": "vulpix-alola-cafe-remix-squirtle-blue",
+          "cssClass": ".pokesprite.pokemon.vulpix-alola-cafe-remix-squirtle-blue.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
           "name": "Vulpix-Bonus-Anime-JN067",
           "slug": "vulpix-anime-jn067",
           "cssClass": ".pokesprite.pokemon.vulpix-anime-jn067",
@@ -27522,6 +27837,300 @@
           "name": "Vulpix-Bonus-Anime-JN067-★",
           "slug": "vulpix-anime-jn067",
           "cssClass": ".pokesprite.pokemon.vulpix-anime-jn067.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Vulpix-Bonus-CaféRemix-BulbasaurGreen",
+          "slug": "vulpix-cafe-remix-bulbasaur-green",
+          "cssClass": ".pokesprite.pokemon.vulpix-cafe-remix-bulbasaur-green",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Vulpix-Bonus-CaféRemix-BulbasaurGreen-★",
+          "slug": "vulpix-cafe-remix-bulbasaur-green",
+          "cssClass": ".pokesprite.pokemon.vulpix-cafe-remix-bulbasaur-green.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Vulpix-Bonus-CaféRemix-CharmanderRed",
+          "slug": "vulpix-cafe-remix-charmander-red",
+          "cssClass": ".pokesprite.pokemon.vulpix-cafe-remix-charmander-red",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Vulpix-Bonus-CaféRemix-CharmanderRed-★",
+          "slug": "vulpix-cafe-remix-charmander-red",
+          "cssClass": ".pokesprite.pokemon.vulpix-cafe-remix-charmander-red.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Vulpix-Bonus-CaféRemix-CozyCape",
+          "slug": "vulpix-cafe-remix-cozy-cape",
+          "cssClass": ".pokesprite.pokemon.vulpix-cafe-remix-cozy-cape",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Vulpix-Bonus-CaféRemix-CozyCape-★",
+          "slug": "vulpix-cafe-remix-cozy-cape",
+          "cssClass": ".pokesprite.pokemon.vulpix-cafe-remix-cozy-cape.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Vulpix-Bonus-CaféRemix-DragoniteOrange",
+          "slug": "vulpix-cafe-remix-dragonite-orange",
+          "cssClass": ".pokesprite.pokemon.vulpix-cafe-remix-dragonite-orange",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Vulpix-Bonus-CaféRemix-DragoniteOrange-★",
+          "slug": "vulpix-cafe-remix-dragonite-orange",
+          "cssClass": ".pokesprite.pokemon.vulpix-cafe-remix-dragonite-orange.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Vulpix-Bonus-CaféRemix-EeveeBrown",
+          "slug": "vulpix-cafe-remix-eevee-brown",
+          "cssClass": ".pokesprite.pokemon.vulpix-cafe-remix-eevee-brown",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Vulpix-Bonus-CaféRemix-EeveeBrown-★",
+          "slug": "vulpix-cafe-remix-eevee-brown",
+          "cssClass": ".pokesprite.pokemon.vulpix-cafe-remix-eevee-brown.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Vulpix-Bonus-CaféRemix-GengarPurple",
+          "slug": "vulpix-cafe-remix-gengar-purple",
+          "cssClass": ".pokesprite.pokemon.vulpix-cafe-remix-gengar-purple",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Vulpix-Bonus-CaféRemix-GengarPurple-★",
+          "slug": "vulpix-cafe-remix-gengar-purple",
+          "cssClass": ".pokesprite.pokemon.vulpix-cafe-remix-gengar-purple.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Vulpix-Bonus-CaféRemix-GothoritaBlack",
+          "slug": "vulpix-cafe-remix-gothorita-black",
+          "cssClass": ".pokesprite.pokemon.vulpix-cafe-remix-gothorita-black",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Vulpix-Bonus-CaféRemix-GothoritaBlack-★",
+          "slug": "vulpix-cafe-remix-gothorita-black",
+          "cssClass": ".pokesprite.pokemon.vulpix-cafe-remix-gothorita-black.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Vulpix-Bonus-CaféRemix-JigglypuffPink",
+          "slug": "vulpix-cafe-remix-jigglypuff-pink",
+          "cssClass": ".pokesprite.pokemon.vulpix-cafe-remix-jigglypuff-pink",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Vulpix-Bonus-CaféRemix-JigglypuffPink-★",
+          "slug": "vulpix-cafe-remix-jigglypuff-pink",
+          "cssClass": ".pokesprite.pokemon.vulpix-cafe-remix-jigglypuff-pink.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Vulpix-Bonus-CaféRemix-LucarioBlue",
+          "slug": "vulpix-cafe-remix-lucario-blue",
+          "cssClass": ".pokesprite.pokemon.vulpix-cafe-remix-lucario-blue",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Vulpix-Bonus-CaféRemix-LucarioBlue-★",
+          "slug": "vulpix-cafe-remix-lucario-blue",
+          "cssClass": ".pokesprite.pokemon.vulpix-cafe-remix-lucario-blue.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Vulpix-Bonus-CaféRemix-MinccinoGray",
+          "slug": "vulpix-cafe-remix-minccino-gray",
+          "cssClass": ".pokesprite.pokemon.vulpix-cafe-remix-minccino-gray",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Vulpix-Bonus-CaféRemix-MinccinoGray-★",
+          "slug": "vulpix-cafe-remix-minccino-gray",
+          "cssClass": ".pokesprite.pokemon.vulpix-cafe-remix-minccino-gray.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Vulpix-Bonus-CaféRemix-Picnic",
+          "slug": "vulpix-cafe-remix-picnic",
+          "cssClass": ".pokesprite.pokemon.vulpix-cafe-remix-picnic",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Vulpix-Bonus-CaféRemix-Picnic-★",
+          "slug": "vulpix-cafe-remix-picnic",
+          "cssClass": ".pokesprite.pokemon.vulpix-cafe-remix-picnic.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Vulpix-Bonus-CaféRemix-PikachuYellow",
+          "slug": "vulpix-cafe-remix-pikachu-yellow",
+          "cssClass": ".pokesprite.pokemon.vulpix-cafe-remix-pikachu-yellow",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Vulpix-Bonus-CaféRemix-PikachuYellow-★",
+          "slug": "vulpix-cafe-remix-pikachu-yellow",
+          "cssClass": ".pokesprite.pokemon.vulpix-cafe-remix-pikachu-yellow.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Vulpix-Bonus-CaféRemix-SlowpokePink",
+          "slug": "vulpix-cafe-remix-slowpoke-pink",
+          "cssClass": ".pokesprite.pokemon.vulpix-cafe-remix-slowpoke-pink",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Vulpix-Bonus-CaféRemix-SlowpokePink-★",
+          "slug": "vulpix-cafe-remix-slowpoke-pink",
+          "cssClass": ".pokesprite.pokemon.vulpix-cafe-remix-slowpoke-pink.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Vulpix-Bonus-CaféRemix-SquirtleBlue",
+          "slug": "vulpix-cafe-remix-squirtle-blue",
+          "cssClass": ".pokesprite.pokemon.vulpix-cafe-remix-squirtle-blue",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Vulpix-Bonus-CaféRemix-SquirtleBlue-★",
+          "slug": "vulpix-cafe-remix-squirtle-blue",
+          "cssClass": ".pokesprite.pokemon.vulpix-cafe-remix-squirtle-blue.shiny",
           "modifiers": [
             "shiny"
           ],
