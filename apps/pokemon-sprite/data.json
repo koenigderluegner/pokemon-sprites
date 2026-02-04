@@ -29125,6 +29125,410 @@
       },
       {
         "regular": {
+          "name": "Jigglypuff-Bonus-CaféRemix-BalloonBouquet",
+          "slug": "jigglypuff-cafe-remix-balloon-bouquet",
+          "cssClass": ".pokesprite.pokemon.jigglypuff-cafe-remix-balloon-bouquet",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": null
+      },
+      {
+        "regular": {
+          "name": "Jigglypuff-Bonus-CaféRemix-BalloonBouquet-3DS",
+          "slug": "jigglypuff-cafe-remix-balloon-bouquet",
+          "cssClass": ".pokesprite.pokemon.jigglypuff-cafe-remix-balloon-bouquet.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Jigglypuff-Bonus-CaféRemix-BalloonBouquet-3DS-★",
+          "slug": "jigglypuff-cafe-remix-balloon-bouquet",
+          "cssClass": ".pokesprite.pokemon.jigglypuff-cafe-remix-balloon-bouquet.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Jigglypuff-Bonus-CaféRemix-EeveeBrown",
+          "slug": "jigglypuff-cafe-remix-eevee-brown",
+          "cssClass": ".pokesprite.pokemon.jigglypuff-cafe-remix-eevee-brown",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Jigglypuff-Bonus-CaféRemix-EeveeBrown-★",
+          "slug": "jigglypuff-cafe-remix-eevee-brown",
+          "cssClass": ".pokesprite.pokemon.jigglypuff-cafe-remix-eevee-brown.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Jigglypuff-Bonus-CaféRemix-EeveeBrown-3DS",
+          "slug": "jigglypuff-cafe-remix-eevee-brown",
+          "cssClass": ".pokesprite.pokemon.jigglypuff-cafe-remix-eevee-brown.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Jigglypuff-Bonus-CaféRemix-EeveeBrown-3DS-★",
+          "slug": "jigglypuff-cafe-remix-eevee-brown",
+          "cssClass": ".pokesprite.pokemon.jigglypuff-cafe-remix-eevee-brown.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Jigglypuff-Bonus-CaféRemix-GengarPurple",
+          "slug": "jigglypuff-cafe-remix-gengar-purple",
+          "cssClass": ".pokesprite.pokemon.jigglypuff-cafe-remix-gengar-purple",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Jigglypuff-Bonus-CaféRemix-GengarPurple-★",
+          "slug": "jigglypuff-cafe-remix-gengar-purple",
+          "cssClass": ".pokesprite.pokemon.jigglypuff-cafe-remix-gengar-purple.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Jigglypuff-Bonus-CaféRemix-GengarPurple-3DS",
+          "slug": "jigglypuff-cafe-remix-gengar-purple",
+          "cssClass": ".pokesprite.pokemon.jigglypuff-cafe-remix-gengar-purple.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Jigglypuff-Bonus-CaféRemix-GengarPurple-3DS-★",
+          "slug": "jigglypuff-cafe-remix-gengar-purple",
+          "cssClass": ".pokesprite.pokemon.jigglypuff-cafe-remix-gengar-purple.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Jigglypuff-Bonus-CaféRemix-Holiday",
+          "slug": "jigglypuff-cafe-remix-holiday",
+          "cssClass": ".pokesprite.pokemon.jigglypuff-cafe-remix-holiday",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Jigglypuff-Bonus-CaféRemix-Holiday-★",
+          "slug": "jigglypuff-cafe-remix-holiday",
+          "cssClass": ".pokesprite.pokemon.jigglypuff-cafe-remix-holiday.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Jigglypuff-Bonus-CaféRemix-Holiday-3DS",
+          "slug": "jigglypuff-cafe-remix-holiday",
+          "cssClass": ".pokesprite.pokemon.jigglypuff-cafe-remix-holiday.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Jigglypuff-Bonus-CaféRemix-Holiday-3DS-★",
+          "slug": "jigglypuff-cafe-remix-holiday",
+          "cssClass": ".pokesprite.pokemon.jigglypuff-cafe-remix-holiday.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Jigglypuff-Bonus-CaféRemix-MinccinoGray",
+          "slug": "jigglypuff-cafe-remix-minccino-gray",
+          "cssClass": ".pokesprite.pokemon.jigglypuff-cafe-remix-minccino-gray",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Jigglypuff-Bonus-CaféRemix-MinccinoGray-★",
+          "slug": "jigglypuff-cafe-remix-minccino-gray",
+          "cssClass": ".pokesprite.pokemon.jigglypuff-cafe-remix-minccino-gray.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Jigglypuff-Bonus-CaféRemix-MinccinoGray-3DS",
+          "slug": "jigglypuff-cafe-remix-minccino-gray",
+          "cssClass": ".pokesprite.pokemon.jigglypuff-cafe-remix-minccino-gray.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Jigglypuff-Bonus-CaféRemix-MinccinoGray-3DS-★",
+          "slug": "jigglypuff-cafe-remix-minccino-gray",
+          "cssClass": ".pokesprite.pokemon.jigglypuff-cafe-remix-minccino-gray.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Jigglypuff-Bonus-CaféRemix-PikachuYellow",
+          "slug": "jigglypuff-cafe-remix-pikachu-yellow",
+          "cssClass": ".pokesprite.pokemon.jigglypuff-cafe-remix-pikachu-yellow",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Jigglypuff-Bonus-CaféRemix-PikachuYellow-★",
+          "slug": "jigglypuff-cafe-remix-pikachu-yellow",
+          "cssClass": ".pokesprite.pokemon.jigglypuff-cafe-remix-pikachu-yellow.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Jigglypuff-Bonus-CaféRemix-PikachuYellow-3DS",
+          "slug": "jigglypuff-cafe-remix-pikachu-yellow",
+          "cssClass": ".pokesprite.pokemon.jigglypuff-cafe-remix-pikachu-yellow.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Jigglypuff-Bonus-CaféRemix-PikachuYellow-3DS-★",
+          "slug": "jigglypuff-cafe-remix-pikachu-yellow",
+          "cssClass": ".pokesprite.pokemon.jigglypuff-cafe-remix-pikachu-yellow.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Jigglypuff-Bonus-CaféRemix-SlowpokePink",
+          "slug": "jigglypuff-cafe-remix-slowpoke-pink",
+          "cssClass": ".pokesprite.pokemon.jigglypuff-cafe-remix-slowpoke-pink",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Jigglypuff-Bonus-CaféRemix-SlowpokePink-★",
+          "slug": "jigglypuff-cafe-remix-slowpoke-pink",
+          "cssClass": ".pokesprite.pokemon.jigglypuff-cafe-remix-slowpoke-pink.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Jigglypuff-Bonus-CaféRemix-SlowpokePink-3DS",
+          "slug": "jigglypuff-cafe-remix-slowpoke-pink",
+          "cssClass": ".pokesprite.pokemon.jigglypuff-cafe-remix-slowpoke-pink.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Jigglypuff-Bonus-CaféRemix-SlowpokePink-3DS-★",
+          "slug": "jigglypuff-cafe-remix-slowpoke-pink",
+          "cssClass": ".pokesprite.pokemon.jigglypuff-cafe-remix-slowpoke-pink.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Jigglypuff-Bonus-CaféRemix-SquirtleBlue",
+          "slug": "jigglypuff-cafe-remix-squirtle-blue",
+          "cssClass": ".pokesprite.pokemon.jigglypuff-cafe-remix-squirtle-blue",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Jigglypuff-Bonus-CaféRemix-SquirtleBlue-★",
+          "slug": "jigglypuff-cafe-remix-squirtle-blue",
+          "cssClass": ".pokesprite.pokemon.jigglypuff-cafe-remix-squirtle-blue.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Jigglypuff-Bonus-CaféRemix-SquirtleBlue-3DS",
+          "slug": "jigglypuff-cafe-remix-squirtle-blue",
+          "cssClass": ".pokesprite.pokemon.jigglypuff-cafe-remix-squirtle-blue.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Jigglypuff-Bonus-CaféRemix-SquirtleBlue-3DS-★",
+          "slug": "jigglypuff-cafe-remix-squirtle-blue",
+          "cssClass": ".pokesprite.pokemon.jigglypuff-cafe-remix-squirtle-blue.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Jigglypuff-Bonus-CaféRemix-SummerFun",
+          "slug": "jigglypuff-cafe-remix-summer-fun",
+          "cssClass": ".pokesprite.pokemon.jigglypuff-cafe-remix-summer-fun",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Jigglypuff-Bonus-CaféRemix-SummerFun-★",
+          "slug": "jigglypuff-cafe-remix-summer-fun",
+          "cssClass": ".pokesprite.pokemon.jigglypuff-cafe-remix-summer-fun.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Jigglypuff-Bonus-CaféRemix-SummerFun-3DS",
+          "slug": "jigglypuff-cafe-remix-summer-fun",
+          "cssClass": ".pokesprite.pokemon.jigglypuff-cafe-remix-summer-fun.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Jigglypuff-Bonus-CaféRemix-SummerFun-3DS-★",
+          "slug": "jigglypuff-cafe-remix-summer-fun",
+          "cssClass": ".pokesprite.pokemon.jigglypuff-cafe-remix-summer-fun.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
           "name": "Jigglypuff-Bonus-Poketoon-EP08",
           "slug": "jigglypuff-poketoon-ep08",
           "cssClass": ".pokesprite.pokemon.jigglypuff-poketoon-ep08",
