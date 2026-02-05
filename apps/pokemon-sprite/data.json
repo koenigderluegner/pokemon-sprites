@@ -31652,6 +31652,27 @@
       },
       {
         "regular": {
+          "name": "Meowth-Alola-Bonus-CaféRemix-StylishPlum",
+          "slug": "meowth-alola-cafe-remix-stylish-plum",
+          "cssClass": ".pokesprite.pokemon.meowth-alola-cafe-remix-stylish-plum",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Meowth-Alola-Bonus-CaféRemix-StylishPlum-★",
+          "slug": "meowth-alola-cafe-remix-stylish-plum",
+          "cssClass": ".pokesprite.pokemon.meowth-alola-cafe-remix-stylish-plum.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
           "name": "Meowth-Alola-Bonus-CaféRemix-VenusaurGreen",
           "slug": "meowth-alola-cafe-remix-venusaur-green",
           "cssClass": ".pokesprite.pokemon.meowth-alola-cafe-remix-venusaur-green",
@@ -31957,6 +31978,48 @@
           "name": "Meowth-Bonus-CaféRemix-SquirtleBlue-★",
           "slug": "meowth-cafe-remix-squirtle-blue",
           "cssClass": ".pokesprite.pokemon.meowth-cafe-remix-squirtle-blue.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Meowth-Bonus-CaféRemix-StylishNightSky",
+          "slug": "meowth-cafe-remix-stylish-night-sky",
+          "cssClass": ".pokesprite.pokemon.meowth-cafe-remix-stylish-night-sky",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Meowth-Bonus-CaféRemix-StylishNightSky-★",
+          "slug": "meowth-cafe-remix-stylish-night-sky",
+          "cssClass": ".pokesprite.pokemon.meowth-cafe-remix-stylish-night-sky.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Meowth-Bonus-CaféRemix-StylishOrange",
+          "slug": "meowth-cafe-remix-stylish-orange",
+          "cssClass": ".pokesprite.pokemon.meowth-cafe-remix-stylish-orange",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Meowth-Bonus-CaféRemix-StylishOrange-★",
+          "slug": "meowth-cafe-remix-stylish-orange",
+          "cssClass": ".pokesprite.pokemon.meowth-cafe-remix-stylish-orange.shiny",
           "modifiers": [
             "shiny"
           ],
@@ -32409,6 +32472,27 @@
           "name": "Psyduck-Bonus-CaféRemix-SquirtleBlue-★",
           "slug": "psyduck-cafe-remix-squirtle-blue",
           "cssClass": ".pokesprite.pokemon.psyduck-cafe-remix-squirtle-blue.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Psyduck-Bonus-CaféRemix-StylishRose",
+          "slug": "psyduck-cafe-remix-stylish-rose",
+          "cssClass": ".pokesprite.pokemon.psyduck-cafe-remix-stylish-rose",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Psyduck-Bonus-CaféRemix-StylishRose-★",
+          "slug": "psyduck-cafe-remix-stylish-rose",
+          "cssClass": ".pokesprite.pokemon.psyduck-cafe-remix-stylish-rose.shiny",
           "modifiers": [
             "shiny"
           ],
@@ -34397,6 +34481,650 @@
           "name": "Machoke-Bonus-Anime-EP090-3DS-★",
           "slug": "machoke-anime-ep090",
           "cssClass": ".pokesprite.pokemon.machoke-anime-ep090.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Machoke-Bonus-CaféRemix-BulbasaurGreen",
+          "slug": "machoke-cafe-remix-bulbasaur-green",
+          "cssClass": ".pokesprite.pokemon.machoke-cafe-remix-bulbasaur-green",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Machoke-Bonus-CaféRemix-BulbasaurGreen-★",
+          "slug": "machoke-cafe-remix-bulbasaur-green",
+          "cssClass": ".pokesprite.pokemon.machoke-cafe-remix-bulbasaur-green.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Machoke-Bonus-CaféRemix-BulbasaurGreen-3DS",
+          "slug": "machoke-cafe-remix-bulbasaur-green",
+          "cssClass": ".pokesprite.pokemon.machoke-cafe-remix-bulbasaur-green.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Machoke-Bonus-CaféRemix-BulbasaurGreen-3DS-★",
+          "slug": "machoke-cafe-remix-bulbasaur-green",
+          "cssClass": ".pokesprite.pokemon.machoke-cafe-remix-bulbasaur-green.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Machoke-Bonus-CaféRemix-CharmanderRed",
+          "slug": "machoke-cafe-remix-charmander-red",
+          "cssClass": ".pokesprite.pokemon.machoke-cafe-remix-charmander-red",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Machoke-Bonus-CaféRemix-CharmanderRed-★",
+          "slug": "machoke-cafe-remix-charmander-red",
+          "cssClass": ".pokesprite.pokemon.machoke-cafe-remix-charmander-red.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Machoke-Bonus-CaféRemix-CharmanderRed-3DS",
+          "slug": "machoke-cafe-remix-charmander-red",
+          "cssClass": ".pokesprite.pokemon.machoke-cafe-remix-charmander-red.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Machoke-Bonus-CaféRemix-CharmanderRed-3DS-★",
+          "slug": "machoke-cafe-remix-charmander-red",
+          "cssClass": ".pokesprite.pokemon.machoke-cafe-remix-charmander-red.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Machoke-Bonus-CaféRemix-DragoniteOrange",
+          "slug": "machoke-cafe-remix-dragonite-orange",
+          "cssClass": ".pokesprite.pokemon.machoke-cafe-remix-dragonite-orange",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Machoke-Bonus-CaféRemix-DragoniteOrange-★",
+          "slug": "machoke-cafe-remix-dragonite-orange",
+          "cssClass": ".pokesprite.pokemon.machoke-cafe-remix-dragonite-orange.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Machoke-Bonus-CaféRemix-DragoniteOrange-3DS",
+          "slug": "machoke-cafe-remix-dragonite-orange",
+          "cssClass": ".pokesprite.pokemon.machoke-cafe-remix-dragonite-orange.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Machoke-Bonus-CaféRemix-DragoniteOrange-3DS-★",
+          "slug": "machoke-cafe-remix-dragonite-orange",
+          "cssClass": ".pokesprite.pokemon.machoke-cafe-remix-dragonite-orange.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Machoke-Bonus-CaféRemix-EeveeBrown",
+          "slug": "machoke-cafe-remix-eevee-brown",
+          "cssClass": ".pokesprite.pokemon.machoke-cafe-remix-eevee-brown",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Machoke-Bonus-CaféRemix-EeveeBrown-★",
+          "slug": "machoke-cafe-remix-eevee-brown",
+          "cssClass": ".pokesprite.pokemon.machoke-cafe-remix-eevee-brown.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Machoke-Bonus-CaféRemix-EeveeBrown-3DS",
+          "slug": "machoke-cafe-remix-eevee-brown",
+          "cssClass": ".pokesprite.pokemon.machoke-cafe-remix-eevee-brown.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Machoke-Bonus-CaféRemix-EeveeBrown-3DS-★",
+          "slug": "machoke-cafe-remix-eevee-brown",
+          "cssClass": ".pokesprite.pokemon.machoke-cafe-remix-eevee-brown.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Machoke-Bonus-CaféRemix-GengarPurple",
+          "slug": "machoke-cafe-remix-gengar-purple",
+          "cssClass": ".pokesprite.pokemon.machoke-cafe-remix-gengar-purple",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Machoke-Bonus-CaféRemix-GengarPurple-★",
+          "slug": "machoke-cafe-remix-gengar-purple",
+          "cssClass": ".pokesprite.pokemon.machoke-cafe-remix-gengar-purple.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Machoke-Bonus-CaféRemix-GengarPurple-3DS",
+          "slug": "machoke-cafe-remix-gengar-purple",
+          "cssClass": ".pokesprite.pokemon.machoke-cafe-remix-gengar-purple.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Machoke-Bonus-CaféRemix-GengarPurple-3DS-★",
+          "slug": "machoke-cafe-remix-gengar-purple",
+          "cssClass": ".pokesprite.pokemon.machoke-cafe-remix-gengar-purple.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Machoke-Bonus-CaféRemix-GothoritaBlack",
+          "slug": "machoke-cafe-remix-gothorita-black",
+          "cssClass": ".pokesprite.pokemon.machoke-cafe-remix-gothorita-black",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Machoke-Bonus-CaféRemix-GothoritaBlack-★",
+          "slug": "machoke-cafe-remix-gothorita-black",
+          "cssClass": ".pokesprite.pokemon.machoke-cafe-remix-gothorita-black.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Machoke-Bonus-CaféRemix-GothoritaBlack-3DS",
+          "slug": "machoke-cafe-remix-gothorita-black",
+          "cssClass": ".pokesprite.pokemon.machoke-cafe-remix-gothorita-black.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Machoke-Bonus-CaféRemix-GothoritaBlack-3DS-★",
+          "slug": "machoke-cafe-remix-gothorita-black",
+          "cssClass": ".pokesprite.pokemon.machoke-cafe-remix-gothorita-black.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Machoke-Bonus-CaféRemix-Hiker",
+          "slug": "machoke-cafe-remix-hiker",
+          "cssClass": ".pokesprite.pokemon.machoke-cafe-remix-hiker",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Machoke-Bonus-CaféRemix-Hiker-★",
+          "slug": "machoke-cafe-remix-hiker",
+          "cssClass": ".pokesprite.pokemon.machoke-cafe-remix-hiker.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Machoke-Bonus-CaféRemix-Hiker-3DS",
+          "slug": "machoke-cafe-remix-hiker",
+          "cssClass": ".pokesprite.pokemon.machoke-cafe-remix-hiker.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Machoke-Bonus-CaféRemix-Hiker-3DS-★",
+          "slug": "machoke-cafe-remix-hiker",
+          "cssClass": ".pokesprite.pokemon.machoke-cafe-remix-hiker.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Machoke-Bonus-CaféRemix-JigglypuffPink",
+          "slug": "machoke-cafe-remix-jigglypuff-pink",
+          "cssClass": ".pokesprite.pokemon.machoke-cafe-remix-jigglypuff-pink",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Machoke-Bonus-CaféRemix-JigglypuffPink-★",
+          "slug": "machoke-cafe-remix-jigglypuff-pink",
+          "cssClass": ".pokesprite.pokemon.machoke-cafe-remix-jigglypuff-pink.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Machoke-Bonus-CaféRemix-JigglypuffPink-3DS",
+          "slug": "machoke-cafe-remix-jigglypuff-pink",
+          "cssClass": ".pokesprite.pokemon.machoke-cafe-remix-jigglypuff-pink.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Machoke-Bonus-CaféRemix-JigglypuffPink-3DS-★",
+          "slug": "machoke-cafe-remix-jigglypuff-pink",
+          "cssClass": ".pokesprite.pokemon.machoke-cafe-remix-jigglypuff-pink.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Machoke-Bonus-CaféRemix-LucarioBlue",
+          "slug": "machoke-cafe-remix-lucario-blue",
+          "cssClass": ".pokesprite.pokemon.machoke-cafe-remix-lucario-blue",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Machoke-Bonus-CaféRemix-LucarioBlue-★",
+          "slug": "machoke-cafe-remix-lucario-blue",
+          "cssClass": ".pokesprite.pokemon.machoke-cafe-remix-lucario-blue.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Machoke-Bonus-CaféRemix-LucarioBlue-3DS",
+          "slug": "machoke-cafe-remix-lucario-blue",
+          "cssClass": ".pokesprite.pokemon.machoke-cafe-remix-lucario-blue.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Machoke-Bonus-CaféRemix-LucarioBlue-3DS-★",
+          "slug": "machoke-cafe-remix-lucario-blue",
+          "cssClass": ".pokesprite.pokemon.machoke-cafe-remix-lucario-blue.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Machoke-Bonus-CaféRemix-MinccinoGray",
+          "slug": "machoke-cafe-remix-minccino-gray",
+          "cssClass": ".pokesprite.pokemon.machoke-cafe-remix-minccino-gray",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Machoke-Bonus-CaféRemix-MinccinoGray-★",
+          "slug": "machoke-cafe-remix-minccino-gray",
+          "cssClass": ".pokesprite.pokemon.machoke-cafe-remix-minccino-gray.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Machoke-Bonus-CaféRemix-MinccinoGray-3DS",
+          "slug": "machoke-cafe-remix-minccino-gray",
+          "cssClass": ".pokesprite.pokemon.machoke-cafe-remix-minccino-gray.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Machoke-Bonus-CaféRemix-MinccinoGray-3DS-★",
+          "slug": "machoke-cafe-remix-minccino-gray",
+          "cssClass": ".pokesprite.pokemon.machoke-cafe-remix-minccino-gray.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Machoke-Bonus-CaféRemix-PikachuYellow",
+          "slug": "machoke-cafe-remix-pikachu-yellow",
+          "cssClass": ".pokesprite.pokemon.machoke-cafe-remix-pikachu-yellow",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Machoke-Bonus-CaféRemix-PikachuYellow-★",
+          "slug": "machoke-cafe-remix-pikachu-yellow",
+          "cssClass": ".pokesprite.pokemon.machoke-cafe-remix-pikachu-yellow.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Machoke-Bonus-CaféRemix-PikachuYellow-3DS",
+          "slug": "machoke-cafe-remix-pikachu-yellow",
+          "cssClass": ".pokesprite.pokemon.machoke-cafe-remix-pikachu-yellow.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Machoke-Bonus-CaféRemix-PikachuYellow-3DS-★",
+          "slug": "machoke-cafe-remix-pikachu-yellow",
+          "cssClass": ".pokesprite.pokemon.machoke-cafe-remix-pikachu-yellow.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Machoke-Bonus-CaféRemix-SlowpokePink",
+          "slug": "machoke-cafe-remix-slowpoke-pink",
+          "cssClass": ".pokesprite.pokemon.machoke-cafe-remix-slowpoke-pink",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Machoke-Bonus-CaféRemix-SlowpokePink-★",
+          "slug": "machoke-cafe-remix-slowpoke-pink",
+          "cssClass": ".pokesprite.pokemon.machoke-cafe-remix-slowpoke-pink.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Machoke-Bonus-CaféRemix-SlowpokePink-3DS",
+          "slug": "machoke-cafe-remix-slowpoke-pink",
+          "cssClass": ".pokesprite.pokemon.machoke-cafe-remix-slowpoke-pink.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Machoke-Bonus-CaféRemix-SlowpokePink-3DS-★",
+          "slug": "machoke-cafe-remix-slowpoke-pink",
+          "cssClass": ".pokesprite.pokemon.machoke-cafe-remix-slowpoke-pink.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Machoke-Bonus-CaféRemix-SquirtleBlue",
+          "slug": "machoke-cafe-remix-squirtle-blue",
+          "cssClass": ".pokesprite.pokemon.machoke-cafe-remix-squirtle-blue",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Machoke-Bonus-CaféRemix-SquirtleBlue-★",
+          "slug": "machoke-cafe-remix-squirtle-blue",
+          "cssClass": ".pokesprite.pokemon.machoke-cafe-remix-squirtle-blue.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Machoke-Bonus-CaféRemix-SquirtleBlue-3DS",
+          "slug": "machoke-cafe-remix-squirtle-blue",
+          "cssClass": ".pokesprite.pokemon.machoke-cafe-remix-squirtle-blue.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Machoke-Bonus-CaféRemix-SquirtleBlue-3DS-★",
+          "slug": "machoke-cafe-remix-squirtle-blue",
+          "cssClass": ".pokesprite.pokemon.machoke-cafe-remix-squirtle-blue.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Machoke-Bonus-CaféRemix-StylishPlum",
+          "slug": "machoke-cafe-remix-stylish-plum",
+          "cssClass": ".pokesprite.pokemon.machoke-cafe-remix-stylish-plum",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Machoke-Bonus-CaféRemix-StylishPlum-★",
+          "slug": "machoke-cafe-remix-stylish-plum",
+          "cssClass": ".pokesprite.pokemon.machoke-cafe-remix-stylish-plum.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Machoke-Bonus-CaféRemix-StylishPlum-3DS",
+          "slug": "machoke-cafe-remix-stylish-plum",
+          "cssClass": ".pokesprite.pokemon.machoke-cafe-remix-stylish-plum.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Machoke-Bonus-CaféRemix-StylishPlum-3DS-★",
+          "slug": "machoke-cafe-remix-stylish-plum",
+          "cssClass": ".pokesprite.pokemon.machoke-cafe-remix-stylish-plum.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
