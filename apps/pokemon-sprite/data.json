@@ -36042,6 +36042,279 @@
             "go"
           ]
         }
+      },
+      {
+        "regular": {
+          "name": "Ponyta-Galar-Bonus-CaféRemix-BulbasaurGreen",
+          "slug": "ponyta-galar-cafe-remix-bulbasaur-green",
+          "cssClass": ".pokesprite.pokemon.ponyta-galar-cafe-remix-bulbasaur-green",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Ponyta-Galar-Bonus-CaféRemix-BulbasaurGreen-★",
+          "slug": "ponyta-galar-cafe-remix-bulbasaur-green",
+          "cssClass": ".pokesprite.pokemon.ponyta-galar-cafe-remix-bulbasaur-green.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Ponyta-Galar-Bonus-CaféRemix-CharmanderRed",
+          "slug": "ponyta-galar-cafe-remix-charmander-red",
+          "cssClass": ".pokesprite.pokemon.ponyta-galar-cafe-remix-charmander-red",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Ponyta-Galar-Bonus-CaféRemix-CharmanderRed-★",
+          "slug": "ponyta-galar-cafe-remix-charmander-red",
+          "cssClass": ".pokesprite.pokemon.ponyta-galar-cafe-remix-charmander-red.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Ponyta-Galar-Bonus-CaféRemix-DragoniteOrange",
+          "slug": "ponyta-galar-cafe-remix-dragonite-orange",
+          "cssClass": ".pokesprite.pokemon.ponyta-galar-cafe-remix-dragonite-orange",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Ponyta-Galar-Bonus-CaféRemix-DragoniteOrange-★",
+          "slug": "ponyta-galar-cafe-remix-dragonite-orange",
+          "cssClass": ".pokesprite.pokemon.ponyta-galar-cafe-remix-dragonite-orange.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Ponyta-Galar-Bonus-CaféRemix-EeveeBrown",
+          "slug": "ponyta-galar-cafe-remix-eevee-brown",
+          "cssClass": ".pokesprite.pokemon.ponyta-galar-cafe-remix-eevee-brown",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Ponyta-Galar-Bonus-CaféRemix-EeveeBrown-★",
+          "slug": "ponyta-galar-cafe-remix-eevee-brown",
+          "cssClass": ".pokesprite.pokemon.ponyta-galar-cafe-remix-eevee-brown.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Ponyta-Galar-Bonus-CaféRemix-GengarPurple",
+          "slug": "ponyta-galar-cafe-remix-gengar-purple",
+          "cssClass": ".pokesprite.pokemon.ponyta-galar-cafe-remix-gengar-purple",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Ponyta-Galar-Bonus-CaféRemix-GengarPurple-★",
+          "slug": "ponyta-galar-cafe-remix-gengar-purple",
+          "cssClass": ".pokesprite.pokemon.ponyta-galar-cafe-remix-gengar-purple.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Ponyta-Galar-Bonus-CaféRemix-GothoritaBlack",
+          "slug": "ponyta-galar-cafe-remix-gothorita-black",
+          "cssClass": ".pokesprite.pokemon.ponyta-galar-cafe-remix-gothorita-black",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Ponyta-Galar-Bonus-CaféRemix-GothoritaBlack-★",
+          "slug": "ponyta-galar-cafe-remix-gothorita-black",
+          "cssClass": ".pokesprite.pokemon.ponyta-galar-cafe-remix-gothorita-black.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Ponyta-Galar-Bonus-CaféRemix-Holiday",
+          "slug": "ponyta-galar-cafe-remix-holiday",
+          "cssClass": ".pokesprite.pokemon.ponyta-galar-cafe-remix-holiday",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Ponyta-Galar-Bonus-CaféRemix-Holiday-★",
+          "slug": "ponyta-galar-cafe-remix-holiday",
+          "cssClass": ".pokesprite.pokemon.ponyta-galar-cafe-remix-holiday.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Ponyta-Galar-Bonus-CaféRemix-JigglypuffPink",
+          "slug": "ponyta-galar-cafe-remix-jigglypuff-pink",
+          "cssClass": ".pokesprite.pokemon.ponyta-galar-cafe-remix-jigglypuff-pink",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Ponyta-Galar-Bonus-CaféRemix-JigglypuffPink-★",
+          "slug": "ponyta-galar-cafe-remix-jigglypuff-pink",
+          "cssClass": ".pokesprite.pokemon.ponyta-galar-cafe-remix-jigglypuff-pink.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Ponyta-Galar-Bonus-CaféRemix-LucarioBlue",
+          "slug": "ponyta-galar-cafe-remix-lucario-blue",
+          "cssClass": ".pokesprite.pokemon.ponyta-galar-cafe-remix-lucario-blue",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Ponyta-Galar-Bonus-CaféRemix-LucarioBlue-★",
+          "slug": "ponyta-galar-cafe-remix-lucario-blue",
+          "cssClass": ".pokesprite.pokemon.ponyta-galar-cafe-remix-lucario-blue.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Ponyta-Galar-Bonus-CaféRemix-MinccinoGray",
+          "slug": "ponyta-galar-cafe-remix-minccino-gray",
+          "cssClass": ".pokesprite.pokemon.ponyta-galar-cafe-remix-minccino-gray",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Ponyta-Galar-Bonus-CaféRemix-MinccinoGray-★",
+          "slug": "ponyta-galar-cafe-remix-minccino-gray",
+          "cssClass": ".pokesprite.pokemon.ponyta-galar-cafe-remix-minccino-gray.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Ponyta-Galar-Bonus-CaféRemix-PikachuYellow",
+          "slug": "ponyta-galar-cafe-remix-pikachu-yellow",
+          "cssClass": ".pokesprite.pokemon.ponyta-galar-cafe-remix-pikachu-yellow",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Ponyta-Galar-Bonus-CaféRemix-PikachuYellow-★",
+          "slug": "ponyta-galar-cafe-remix-pikachu-yellow",
+          "cssClass": ".pokesprite.pokemon.ponyta-galar-cafe-remix-pikachu-yellow.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Ponyta-Galar-Bonus-CaféRemix-SlowpokePink",
+          "slug": "ponyta-galar-cafe-remix-slowpoke-pink",
+          "cssClass": ".pokesprite.pokemon.ponyta-galar-cafe-remix-slowpoke-pink",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Ponyta-Galar-Bonus-CaféRemix-SlowpokePink-★",
+          "slug": "ponyta-galar-cafe-remix-slowpoke-pink",
+          "cssClass": ".pokesprite.pokemon.ponyta-galar-cafe-remix-slowpoke-pink.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Ponyta-Galar-Bonus-CaféRemix-SquirtleBlue",
+          "slug": "ponyta-galar-cafe-remix-squirtle-blue",
+          "cssClass": ".pokesprite.pokemon.ponyta-galar-cafe-remix-squirtle-blue",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Ponyta-Galar-Bonus-CaféRemix-SquirtleBlue-★",
+          "slug": "ponyta-galar-cafe-remix-squirtle-blue",
+          "cssClass": ".pokesprite.pokemon.ponyta-galar-cafe-remix-squirtle-blue.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       }
     ]
   },
