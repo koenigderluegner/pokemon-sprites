@@ -36622,6 +36622,468 @@
             "extra"
           ]
         }
+      },
+      {
+        "regular": {
+          "name": "Slowpoke-Bonus-CaféRemix-BulbasaurGreen",
+          "slug": "slowpoke-cafe-remix-bulbasaur-green",
+          "cssClass": ".pokesprite.pokemon.slowpoke-cafe-remix-bulbasaur-green",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Slowpoke-Bonus-CaféRemix-BulbasaurGreen-★",
+          "slug": "slowpoke-cafe-remix-bulbasaur-green",
+          "cssClass": ".pokesprite.pokemon.slowpoke-cafe-remix-bulbasaur-green.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Slowpoke-Bonus-CaféRemix-CharmanderRed",
+          "slug": "slowpoke-cafe-remix-charmander-red",
+          "cssClass": ".pokesprite.pokemon.slowpoke-cafe-remix-charmander-red",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Slowpoke-Bonus-CaféRemix-CharmanderRed-★",
+          "slug": "slowpoke-cafe-remix-charmander-red",
+          "cssClass": ".pokesprite.pokemon.slowpoke-cafe-remix-charmander-red.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Slowpoke-Bonus-CaféRemix-Chef",
+          "slug": "slowpoke-cafe-remix-chef",
+          "cssClass": ".pokesprite.pokemon.slowpoke-cafe-remix-chef",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Slowpoke-Bonus-CaféRemix-Chef-★",
+          "slug": "slowpoke-cafe-remix-chef",
+          "cssClass": ".pokesprite.pokemon.slowpoke-cafe-remix-chef.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Slowpoke-Bonus-CaféRemix-Cozy",
+          "slug": "slowpoke-cafe-remix-cozy",
+          "cssClass": ".pokesprite.pokemon.slowpoke-cafe-remix-cozy",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Slowpoke-Bonus-CaféRemix-Cozy-★",
+          "slug": "slowpoke-cafe-remix-cozy",
+          "cssClass": ".pokesprite.pokemon.slowpoke-cafe-remix-cozy.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Slowpoke-Bonus-CaféRemix-DragoniteOrange",
+          "slug": "slowpoke-cafe-remix-dragonite-orange",
+          "cssClass": ".pokesprite.pokemon.slowpoke-cafe-remix-dragonite-orange",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Slowpoke-Bonus-CaféRemix-DragoniteOrange-★",
+          "slug": "slowpoke-cafe-remix-dragonite-orange",
+          "cssClass": ".pokesprite.pokemon.slowpoke-cafe-remix-dragonite-orange.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Slowpoke-Bonus-CaféRemix-GengarPurple",
+          "slug": "slowpoke-cafe-remix-gengar-purple",
+          "cssClass": ".pokesprite.pokemon.slowpoke-cafe-remix-gengar-purple",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Slowpoke-Bonus-CaféRemix-GengarPurple-★",
+          "slug": "slowpoke-cafe-remix-gengar-purple",
+          "cssClass": ".pokesprite.pokemon.slowpoke-cafe-remix-gengar-purple.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Slowpoke-Bonus-CaféRemix-GothoritaBlack",
+          "slug": "slowpoke-cafe-remix-gothorita-black",
+          "cssClass": ".pokesprite.pokemon.slowpoke-cafe-remix-gothorita-black",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Slowpoke-Bonus-CaféRemix-GothoritaBlack-★",
+          "slug": "slowpoke-cafe-remix-gothorita-black",
+          "cssClass": ".pokesprite.pokemon.slowpoke-cafe-remix-gothorita-black.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Slowpoke-Bonus-CaféRemix-JigglypuffPink",
+          "slug": "slowpoke-cafe-remix-jigglypuff-pink",
+          "cssClass": ".pokesprite.pokemon.slowpoke-cafe-remix-jigglypuff-pink",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Slowpoke-Bonus-CaféRemix-JigglypuffPink-★",
+          "slug": "slowpoke-cafe-remix-jigglypuff-pink",
+          "cssClass": ".pokesprite.pokemon.slowpoke-cafe-remix-jigglypuff-pink.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Slowpoke-Bonus-CaféRemix-LucarioBlue",
+          "slug": "slowpoke-cafe-remix-lucario-blue",
+          "cssClass": ".pokesprite.pokemon.slowpoke-cafe-remix-lucario-blue",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Slowpoke-Bonus-CaféRemix-LucarioBlue-★",
+          "slug": "slowpoke-cafe-remix-lucario-blue",
+          "cssClass": ".pokesprite.pokemon.slowpoke-cafe-remix-lucario-blue.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Slowpoke-Bonus-CaféRemix-MinccinoGray",
+          "slug": "slowpoke-cafe-remix-minccino-gray",
+          "cssClass": ".pokesprite.pokemon.slowpoke-cafe-remix-minccino-gray",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Slowpoke-Bonus-CaféRemix-MinccinoGray-★",
+          "slug": "slowpoke-cafe-remix-minccino-gray",
+          "cssClass": ".pokesprite.pokemon.slowpoke-cafe-remix-minccino-gray.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Slowpoke-Bonus-CaféRemix-SlowpokePink",
+          "slug": "slowpoke-cafe-remix-slowpoke-pink",
+          "cssClass": ".pokesprite.pokemon.slowpoke-cafe-remix-slowpoke-pink",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Slowpoke-Bonus-CaféRemix-SlowpokePink-★",
+          "slug": "slowpoke-cafe-remix-slowpoke-pink",
+          "cssClass": ".pokesprite.pokemon.slowpoke-cafe-remix-slowpoke-pink.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Slowpoke-Bonus-CaféRemix-SquirtleBlue",
+          "slug": "slowpoke-cafe-remix-squirtle-blue",
+          "cssClass": ".pokesprite.pokemon.slowpoke-cafe-remix-squirtle-blue",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Slowpoke-Bonus-CaféRemix-SquirtleBlue-★",
+          "slug": "slowpoke-cafe-remix-squirtle-blue",
+          "cssClass": ".pokesprite.pokemon.slowpoke-cafe-remix-squirtle-blue.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Slowpoke-Galar-Bonus-CaféRemix-BulbasaurGreen",
+          "slug": "slowpoke-galar-cafe-remix-bulbasaur-green",
+          "cssClass": ".pokesprite.pokemon.slowpoke-galar-cafe-remix-bulbasaur-green",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Slowpoke-Galar-Bonus-CaféRemix-BulbasaurGreen-★",
+          "slug": "slowpoke-galar-cafe-remix-bulbasaur-green",
+          "cssClass": ".pokesprite.pokemon.slowpoke-galar-cafe-remix-bulbasaur-green.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Slowpoke-Galar-Bonus-CaféRemix-CharmanderRed",
+          "slug": "slowpoke-galar-cafe-remix-charmander-red",
+          "cssClass": ".pokesprite.pokemon.slowpoke-galar-cafe-remix-charmander-red",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Slowpoke-Galar-Bonus-CaféRemix-CharmanderRed-★",
+          "slug": "slowpoke-galar-cafe-remix-charmander-red",
+          "cssClass": ".pokesprite.pokemon.slowpoke-galar-cafe-remix-charmander-red.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Slowpoke-Galar-Bonus-CaféRemix-DragoniteOrange",
+          "slug": "slowpoke-galar-cafe-remix-dragonite-orange",
+          "cssClass": ".pokesprite.pokemon.slowpoke-galar-cafe-remix-dragonite-orange",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Slowpoke-Galar-Bonus-CaféRemix-DragoniteOrange-★",
+          "slug": "slowpoke-galar-cafe-remix-dragonite-orange",
+          "cssClass": ".pokesprite.pokemon.slowpoke-galar-cafe-remix-dragonite-orange.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Slowpoke-Galar-Bonus-CaféRemix-GengarPurple",
+          "slug": "slowpoke-galar-cafe-remix-gengar-purple",
+          "cssClass": ".pokesprite.pokemon.slowpoke-galar-cafe-remix-gengar-purple",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Slowpoke-Galar-Bonus-CaféRemix-GengarPurple-★",
+          "slug": "slowpoke-galar-cafe-remix-gengar-purple",
+          "cssClass": ".pokesprite.pokemon.slowpoke-galar-cafe-remix-gengar-purple.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Slowpoke-Galar-Bonus-CaféRemix-GothoritaBlack",
+          "slug": "slowpoke-galar-cafe-remix-gothorita-black",
+          "cssClass": ".pokesprite.pokemon.slowpoke-galar-cafe-remix-gothorita-black",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Slowpoke-Galar-Bonus-CaféRemix-GothoritaBlack-★",
+          "slug": "slowpoke-galar-cafe-remix-gothorita-black",
+          "cssClass": ".pokesprite.pokemon.slowpoke-galar-cafe-remix-gothorita-black.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Slowpoke-Galar-Bonus-CaféRemix-JigglypuffPink",
+          "slug": "slowpoke-galar-cafe-remix-jigglypuff-pink",
+          "cssClass": ".pokesprite.pokemon.slowpoke-galar-cafe-remix-jigglypuff-pink",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Slowpoke-Galar-Bonus-CaféRemix-JigglypuffPink-★",
+          "slug": "slowpoke-galar-cafe-remix-jigglypuff-pink",
+          "cssClass": ".pokesprite.pokemon.slowpoke-galar-cafe-remix-jigglypuff-pink.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Slowpoke-Galar-Bonus-CaféRemix-LucarioBlue",
+          "slug": "slowpoke-galar-cafe-remix-lucario-blue",
+          "cssClass": ".pokesprite.pokemon.slowpoke-galar-cafe-remix-lucario-blue",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Slowpoke-Galar-Bonus-CaféRemix-LucarioBlue-★",
+          "slug": "slowpoke-galar-cafe-remix-lucario-blue",
+          "cssClass": ".pokesprite.pokemon.slowpoke-galar-cafe-remix-lucario-blue.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Slowpoke-Galar-Bonus-CaféRemix-MinccinoGray",
+          "slug": "slowpoke-galar-cafe-remix-minccino-gray",
+          "cssClass": ".pokesprite.pokemon.slowpoke-galar-cafe-remix-minccino-gray",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Slowpoke-Galar-Bonus-CaféRemix-MinccinoGray-★",
+          "slug": "slowpoke-galar-cafe-remix-minccino-gray",
+          "cssClass": ".pokesprite.pokemon.slowpoke-galar-cafe-remix-minccino-gray.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Slowpoke-Galar-Bonus-CaféRemix-SlowpokePink",
+          "slug": "slowpoke-galar-cafe-remix-slowpoke-pink",
+          "cssClass": ".pokesprite.pokemon.slowpoke-galar-cafe-remix-slowpoke-pink",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Slowpoke-Galar-Bonus-CaféRemix-SlowpokePink-★",
+          "slug": "slowpoke-galar-cafe-remix-slowpoke-pink",
+          "cssClass": ".pokesprite.pokemon.slowpoke-galar-cafe-remix-slowpoke-pink.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Slowpoke-Galar-Bonus-CaféRemix-SquirtleBlue",
+          "slug": "slowpoke-galar-cafe-remix-squirtle-blue",
+          "cssClass": ".pokesprite.pokemon.slowpoke-galar-cafe-remix-squirtle-blue",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Slowpoke-Galar-Bonus-CaféRemix-SquirtleBlue-★",
+          "slug": "slowpoke-galar-cafe-remix-squirtle-blue",
+          "cssClass": ".pokesprite.pokemon.slowpoke-galar-cafe-remix-squirtle-blue.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       }
     ]
   },
