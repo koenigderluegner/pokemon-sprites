@@ -49416,6 +49416,52 @@
             "switch"
           ]
         }
+      },
+      {
+        "regular": {
+          "name": "Articuno-Bonus-Manga-ThuFiZer",
+          "slug": "articuno-manga-thu-fi-zer",
+          "cssClass": ".pokesprite.pokemon.articuno-manga-thu-fi-zer",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Articuno-Bonus-Manga-ThuFiZer-★",
+          "slug": "articuno-manga-thu-fi-zer",
+          "cssClass": ".pokesprite.pokemon.articuno-manga-thu-fi-zer.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Articuno-Bonus-Manga-ThuFiZer-3DS",
+          "slug": "articuno-manga-thu-fi-zer",
+          "cssClass": ".pokesprite.pokemon.articuno-manga-thu-fi-zer.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Articuno-Bonus-Manga-ThuFiZer-3DS-★",
+          "slug": "articuno-manga-thu-fi-zer",
+          "cssClass": ".pokesprite.pokemon.articuno-manga-thu-fi-zer.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       }
     ]
   },
@@ -49509,6 +49555,52 @@
             "switch"
           ]
         }
+      },
+      {
+        "regular": {
+          "name": "Zapdos-Bonus-Manga-ThuFiZer",
+          "slug": "zapdos-manga-thu-fi-zer",
+          "cssClass": ".pokesprite.pokemon.zapdos-manga-thu-fi-zer",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Zapdos-Bonus-Manga-ThuFiZer-★",
+          "slug": "zapdos-manga-thu-fi-zer",
+          "cssClass": ".pokesprite.pokemon.zapdos-manga-thu-fi-zer.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Zapdos-Bonus-Manga-ThuFiZer-3DS",
+          "slug": "zapdos-manga-thu-fi-zer",
+          "cssClass": ".pokesprite.pokemon.zapdos-manga-thu-fi-zer.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Zapdos-Bonus-Manga-ThuFiZer-3DS-★",
+          "slug": "zapdos-manga-thu-fi-zer",
+          "cssClass": ".pokesprite.pokemon.zapdos-manga-thu-fi-zer.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       }
     ]
   },
@@ -49600,6 +49692,52 @@
           "modifiers": [
             "shiny",
             "switch"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Moltres-Bonus-Manga-ThuFiZer",
+          "slug": "moltres-manga-thu-fi-zer",
+          "cssClass": ".pokesprite.pokemon.moltres-manga-thu-fi-zer",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Moltres-Bonus-Manga-ThuFiZer-★",
+          "slug": "moltres-manga-thu-fi-zer",
+          "cssClass": ".pokesprite.pokemon.moltres-manga-thu-fi-zer.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Moltres-Bonus-Manga-ThuFiZer-3DS",
+          "slug": "moltres-manga-thu-fi-zer",
+          "cssClass": ".pokesprite.pokemon.moltres-manga-thu-fi-zer.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Moltres-Bonus-Manga-ThuFiZer-3DS-★",
+          "slug": "moltres-manga-thu-fi-zer",
+          "cssClass": ".pokesprite.pokemon.moltres-manga-thu-fi-zer.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
           ]
         }
       }
@@ -63795,6 +63933,52 @@
           "modifiers": [
             "n3ds",
             "shiny"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "HoOh-Bonus-Anime-EP001",
+          "slug": "ho-oh-anime-ep001",
+          "cssClass": ".pokesprite.pokemon.ho-oh-anime-ep001",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "HoOh-Bonus-Anime-EP001-★",
+          "slug": "ho-oh-anime-ep001",
+          "cssClass": ".pokesprite.pokemon.ho-oh-anime-ep001.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "HoOh-Bonus-Anime-EP001-3DS",
+          "slug": "ho-oh-anime-ep001",
+          "cssClass": ".pokesprite.pokemon.ho-oh-anime-ep001.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "HoOh-Bonus-Anime-EP001-3DS-★",
+          "slug": "ho-oh-anime-ep001",
+          "cssClass": ".pokesprite.pokemon.ho-oh-anime-ep001.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
           ]
         }
       }
@@ -79333,6 +79517,27 @@
             "shiny"
           ]
         }
+      },
+      {
+        "regular": {
+          "name": "Bonsly-Bonus-Anime-Brock-AG165",
+          "slug": "bonsly-anime-brock-ag165",
+          "cssClass": ".pokesprite.pokemon.bonsly-anime-brock-ag165",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Bonsly-Bonus-Anime-Brock-AG165-★",
+          "slug": "bonsly-anime-brock-ag165",
+          "cssClass": ".pokesprite.pokemon.bonsly-anime-brock-ag165.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       }
     ]
   },
@@ -79352,6 +79557,27 @@
           "cssClass": ".pokesprite.pokemon.mime-jr.shiny",
           "modifiers": [
             "shiny"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "MimeJr-Bonus-Anime-TeamRocket-AG165",
+          "slug": "mime-jr-anime-team-rocket-ag165",
+          "cssClass": ".pokesprite.pokemon.mime-jr-anime-team-rocket-ag165",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "MimeJr-Bonus-Anime-TeamRocket-AG165-★",
+          "slug": "mime-jr-anime-team-rocket-ag165",
+          "cssClass": ".pokesprite.pokemon.mime-jr-anime-team-rocket-ag165.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
           ]
         }
       }
