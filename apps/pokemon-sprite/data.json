@@ -40868,6 +40868,237 @@
             "bonus"
           ]
         }
+      },
+      {
+        "regular": {
+          "name": "Voltorb-Hisui-Bonus-CaféRemix-BulbasaurGreen",
+          "slug": "voltorb-hisui-cafe-remix-bulbasaur-green",
+          "cssClass": ".pokesprite.pokemon.voltorb-hisui-cafe-remix-bulbasaur-green",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Voltorb-Hisui-Bonus-CaféRemix-BulbasaurGreen-★",
+          "slug": "voltorb-hisui-cafe-remix-bulbasaur-green",
+          "cssClass": ".pokesprite.pokemon.voltorb-hisui-cafe-remix-bulbasaur-green.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Voltorb-Hisui-Bonus-CaféRemix-CharmanderRed",
+          "slug": "voltorb-hisui-cafe-remix-charmander-red",
+          "cssClass": ".pokesprite.pokemon.voltorb-hisui-cafe-remix-charmander-red",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Voltorb-Hisui-Bonus-CaféRemix-CharmanderRed-★",
+          "slug": "voltorb-hisui-cafe-remix-charmander-red",
+          "cssClass": ".pokesprite.pokemon.voltorb-hisui-cafe-remix-charmander-red.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Voltorb-Hisui-Bonus-CaféRemix-DragoniteOrange",
+          "slug": "voltorb-hisui-cafe-remix-dragonite-orange",
+          "cssClass": ".pokesprite.pokemon.voltorb-hisui-cafe-remix-dragonite-orange",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Voltorb-Hisui-Bonus-CaféRemix-DragoniteOrange-★",
+          "slug": "voltorb-hisui-cafe-remix-dragonite-orange",
+          "cssClass": ".pokesprite.pokemon.voltorb-hisui-cafe-remix-dragonite-orange.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Voltorb-Hisui-Bonus-CaféRemix-GengarPurple",
+          "slug": "voltorb-hisui-cafe-remix-gengar-purple",
+          "cssClass": ".pokesprite.pokemon.voltorb-hisui-cafe-remix-gengar-purple",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Voltorb-Hisui-Bonus-CaféRemix-GengarPurple-★",
+          "slug": "voltorb-hisui-cafe-remix-gengar-purple",
+          "cssClass": ".pokesprite.pokemon.voltorb-hisui-cafe-remix-gengar-purple.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Voltorb-Hisui-Bonus-CaféRemix-GothoritaBlack",
+          "slug": "voltorb-hisui-cafe-remix-gothorita-black",
+          "cssClass": ".pokesprite.pokemon.voltorb-hisui-cafe-remix-gothorita-black",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Voltorb-Hisui-Bonus-CaféRemix-GothoritaBlack-★",
+          "slug": "voltorb-hisui-cafe-remix-gothorita-black",
+          "cssClass": ".pokesprite.pokemon.voltorb-hisui-cafe-remix-gothorita-black.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Voltorb-Hisui-Bonus-CaféRemix-JigglypuffPink",
+          "slug": "voltorb-hisui-cafe-remix-jigglypuff-pink",
+          "cssClass": ".pokesprite.pokemon.voltorb-hisui-cafe-remix-jigglypuff-pink",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Voltorb-Hisui-Bonus-CaféRemix-JigglypuffPink-★",
+          "slug": "voltorb-hisui-cafe-remix-jigglypuff-pink",
+          "cssClass": ".pokesprite.pokemon.voltorb-hisui-cafe-remix-jigglypuff-pink.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Voltorb-Hisui-Bonus-CaféRemix-LucarioBlue",
+          "slug": "voltorb-hisui-cafe-remix-lucario-blue",
+          "cssClass": ".pokesprite.pokemon.voltorb-hisui-cafe-remix-lucario-blue",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Voltorb-Hisui-Bonus-CaféRemix-LucarioBlue-★",
+          "slug": "voltorb-hisui-cafe-remix-lucario-blue",
+          "cssClass": ".pokesprite.pokemon.voltorb-hisui-cafe-remix-lucario-blue.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Voltorb-Hisui-Bonus-CaféRemix-MinccinoGray",
+          "slug": "voltorb-hisui-cafe-remix-minccino-gray",
+          "cssClass": ".pokesprite.pokemon.voltorb-hisui-cafe-remix-minccino-gray",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Voltorb-Hisui-Bonus-CaféRemix-MinccinoGray-★",
+          "slug": "voltorb-hisui-cafe-remix-minccino-gray",
+          "cssClass": ".pokesprite.pokemon.voltorb-hisui-cafe-remix-minccino-gray.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Voltorb-Hisui-Bonus-CaféRemix-PikachuYellow",
+          "slug": "voltorb-hisui-cafe-remix-pikachu-yellow",
+          "cssClass": ".pokesprite.pokemon.voltorb-hisui-cafe-remix-pikachu-yellow",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Voltorb-Hisui-Bonus-CaféRemix-PikachuYellow-★",
+          "slug": "voltorb-hisui-cafe-remix-pikachu-yellow",
+          "cssClass": ".pokesprite.pokemon.voltorb-hisui-cafe-remix-pikachu-yellow.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Voltorb-Hisui-Bonus-CaféRemix-SlowpokePink",
+          "slug": "voltorb-hisui-cafe-remix-slowpoke-pink",
+          "cssClass": ".pokesprite.pokemon.voltorb-hisui-cafe-remix-slowpoke-pink",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Voltorb-Hisui-Bonus-CaféRemix-SlowpokePink-★",
+          "slug": "voltorb-hisui-cafe-remix-slowpoke-pink",
+          "cssClass": ".pokesprite.pokemon.voltorb-hisui-cafe-remix-slowpoke-pink.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Voltorb-Hisui-Bonus-CaféRemix-SquirtleBlue",
+          "slug": "voltorb-hisui-cafe-remix-squirtle-blue",
+          "cssClass": ".pokesprite.pokemon.voltorb-hisui-cafe-remix-squirtle-blue",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Voltorb-Hisui-Bonus-CaféRemix-SquirtleBlue-★",
+          "slug": "voltorb-hisui-cafe-remix-squirtle-blue",
+          "cssClass": ".pokesprite.pokemon.voltorb-hisui-cafe-remix-squirtle-blue.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       }
     ]
   },
@@ -41014,6 +41245,558 @@
           "name": "Electrode-Bonus-Anime-Natasha-3DS-★",
           "slug": "electrode-anime-natasha",
           "cssClass": ".pokesprite.pokemon.electrode-anime-natasha.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Electrode-Bonus-CaféRemix-BulbasaurGreen",
+          "slug": "electrode-cafe-remix-bulbasaur-green",
+          "cssClass": ".pokesprite.pokemon.electrode-cafe-remix-bulbasaur-green",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Electrode-Bonus-CaféRemix-BulbasaurGreen-★",
+          "slug": "electrode-cafe-remix-bulbasaur-green",
+          "cssClass": ".pokesprite.pokemon.electrode-cafe-remix-bulbasaur-green.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Electrode-Bonus-CaféRemix-BulbasaurGreen-3DS",
+          "slug": "electrode-cafe-remix-bulbasaur-green",
+          "cssClass": ".pokesprite.pokemon.electrode-cafe-remix-bulbasaur-green.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Electrode-Bonus-CaféRemix-BulbasaurGreen-3DS-★",
+          "slug": "electrode-cafe-remix-bulbasaur-green",
+          "cssClass": ".pokesprite.pokemon.electrode-cafe-remix-bulbasaur-green.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Electrode-Bonus-CaféRemix-CharmanderRed",
+          "slug": "electrode-cafe-remix-charmander-red",
+          "cssClass": ".pokesprite.pokemon.electrode-cafe-remix-charmander-red",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Electrode-Bonus-CaféRemix-CharmanderRed-★",
+          "slug": "electrode-cafe-remix-charmander-red",
+          "cssClass": ".pokesprite.pokemon.electrode-cafe-remix-charmander-red.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Electrode-Bonus-CaféRemix-CharmanderRed-3DS",
+          "slug": "electrode-cafe-remix-charmander-red",
+          "cssClass": ".pokesprite.pokemon.electrode-cafe-remix-charmander-red.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Electrode-Bonus-CaféRemix-CharmanderRed-3DS-★",
+          "slug": "electrode-cafe-remix-charmander-red",
+          "cssClass": ".pokesprite.pokemon.electrode-cafe-remix-charmander-red.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Electrode-Bonus-CaféRemix-DragoniteOrange",
+          "slug": "electrode-cafe-remix-dragonite-orange",
+          "cssClass": ".pokesprite.pokemon.electrode-cafe-remix-dragonite-orange",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Electrode-Bonus-CaféRemix-DragoniteOrange-★",
+          "slug": "electrode-cafe-remix-dragonite-orange",
+          "cssClass": ".pokesprite.pokemon.electrode-cafe-remix-dragonite-orange.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Electrode-Bonus-CaféRemix-DragoniteOrange-3DS",
+          "slug": "electrode-cafe-remix-dragonite-orange",
+          "cssClass": ".pokesprite.pokemon.electrode-cafe-remix-dragonite-orange.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Electrode-Bonus-CaféRemix-DragoniteOrange-3DS-★",
+          "slug": "electrode-cafe-remix-dragonite-orange",
+          "cssClass": ".pokesprite.pokemon.electrode-cafe-remix-dragonite-orange.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Electrode-Bonus-CaféRemix-GengarPurple",
+          "slug": "electrode-cafe-remix-gengar-purple",
+          "cssClass": ".pokesprite.pokemon.electrode-cafe-remix-gengar-purple",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Electrode-Bonus-CaféRemix-GengarPurple-★",
+          "slug": "electrode-cafe-remix-gengar-purple",
+          "cssClass": ".pokesprite.pokemon.electrode-cafe-remix-gengar-purple.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Electrode-Bonus-CaféRemix-GengarPurple-3DS",
+          "slug": "electrode-cafe-remix-gengar-purple",
+          "cssClass": ".pokesprite.pokemon.electrode-cafe-remix-gengar-purple.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Electrode-Bonus-CaféRemix-GengarPurple-3DS-★",
+          "slug": "electrode-cafe-remix-gengar-purple",
+          "cssClass": ".pokesprite.pokemon.electrode-cafe-remix-gengar-purple.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Electrode-Bonus-CaféRemix-GothoritaBlack",
+          "slug": "electrode-cafe-remix-gothorita-black",
+          "cssClass": ".pokesprite.pokemon.electrode-cafe-remix-gothorita-black",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Electrode-Bonus-CaféRemix-GothoritaBlack-★",
+          "slug": "electrode-cafe-remix-gothorita-black",
+          "cssClass": ".pokesprite.pokemon.electrode-cafe-remix-gothorita-black.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Electrode-Bonus-CaféRemix-GothoritaBlack-3DS",
+          "slug": "electrode-cafe-remix-gothorita-black",
+          "cssClass": ".pokesprite.pokemon.electrode-cafe-remix-gothorita-black.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Electrode-Bonus-CaféRemix-GothoritaBlack-3DS-★",
+          "slug": "electrode-cafe-remix-gothorita-black",
+          "cssClass": ".pokesprite.pokemon.electrode-cafe-remix-gothorita-black.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Electrode-Bonus-CaféRemix-JigglypuffPink",
+          "slug": "electrode-cafe-remix-jigglypuff-pink",
+          "cssClass": ".pokesprite.pokemon.electrode-cafe-remix-jigglypuff-pink",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Electrode-Bonus-CaféRemix-JigglypuffPink-★",
+          "slug": "electrode-cafe-remix-jigglypuff-pink",
+          "cssClass": ".pokesprite.pokemon.electrode-cafe-remix-jigglypuff-pink.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Electrode-Bonus-CaféRemix-JigglypuffPink-3DS",
+          "slug": "electrode-cafe-remix-jigglypuff-pink",
+          "cssClass": ".pokesprite.pokemon.electrode-cafe-remix-jigglypuff-pink.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Electrode-Bonus-CaféRemix-JigglypuffPink-3DS-★",
+          "slug": "electrode-cafe-remix-jigglypuff-pink",
+          "cssClass": ".pokesprite.pokemon.electrode-cafe-remix-jigglypuff-pink.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Electrode-Bonus-CaféRemix-LucarioBlue",
+          "slug": "electrode-cafe-remix-lucario-blue",
+          "cssClass": ".pokesprite.pokemon.electrode-cafe-remix-lucario-blue",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Electrode-Bonus-CaféRemix-LucarioBlue-★",
+          "slug": "electrode-cafe-remix-lucario-blue",
+          "cssClass": ".pokesprite.pokemon.electrode-cafe-remix-lucario-blue.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Electrode-Bonus-CaféRemix-LucarioBlue-3DS",
+          "slug": "electrode-cafe-remix-lucario-blue",
+          "cssClass": ".pokesprite.pokemon.electrode-cafe-remix-lucario-blue.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Electrode-Bonus-CaféRemix-LucarioBlue-3DS-★",
+          "slug": "electrode-cafe-remix-lucario-blue",
+          "cssClass": ".pokesprite.pokemon.electrode-cafe-remix-lucario-blue.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Electrode-Bonus-CaféRemix-MinccinoGray",
+          "slug": "electrode-cafe-remix-minccino-gray",
+          "cssClass": ".pokesprite.pokemon.electrode-cafe-remix-minccino-gray",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Electrode-Bonus-CaféRemix-MinccinoGray-★",
+          "slug": "electrode-cafe-remix-minccino-gray",
+          "cssClass": ".pokesprite.pokemon.electrode-cafe-remix-minccino-gray.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Electrode-Bonus-CaféRemix-MinccinoGray-3DS",
+          "slug": "electrode-cafe-remix-minccino-gray",
+          "cssClass": ".pokesprite.pokemon.electrode-cafe-remix-minccino-gray.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Electrode-Bonus-CaféRemix-MinccinoGray-3DS-★",
+          "slug": "electrode-cafe-remix-minccino-gray",
+          "cssClass": ".pokesprite.pokemon.electrode-cafe-remix-minccino-gray.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Electrode-Bonus-CaféRemix-PikachuYellow",
+          "slug": "electrode-cafe-remix-pikachu-yellow",
+          "cssClass": ".pokesprite.pokemon.electrode-cafe-remix-pikachu-yellow",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Electrode-Bonus-CaféRemix-PikachuYellow-★",
+          "slug": "electrode-cafe-remix-pikachu-yellow",
+          "cssClass": ".pokesprite.pokemon.electrode-cafe-remix-pikachu-yellow.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Electrode-Bonus-CaféRemix-PikachuYellow-3DS",
+          "slug": "electrode-cafe-remix-pikachu-yellow",
+          "cssClass": ".pokesprite.pokemon.electrode-cafe-remix-pikachu-yellow.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Electrode-Bonus-CaféRemix-PikachuYellow-3DS-★",
+          "slug": "electrode-cafe-remix-pikachu-yellow",
+          "cssClass": ".pokesprite.pokemon.electrode-cafe-remix-pikachu-yellow.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Electrode-Bonus-CaféRemix-SlowpokePink",
+          "slug": "electrode-cafe-remix-slowpoke-pink",
+          "cssClass": ".pokesprite.pokemon.electrode-cafe-remix-slowpoke-pink",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Electrode-Bonus-CaféRemix-SlowpokePink-★",
+          "slug": "electrode-cafe-remix-slowpoke-pink",
+          "cssClass": ".pokesprite.pokemon.electrode-cafe-remix-slowpoke-pink.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Electrode-Bonus-CaféRemix-SlowpokePink-3DS",
+          "slug": "electrode-cafe-remix-slowpoke-pink",
+          "cssClass": ".pokesprite.pokemon.electrode-cafe-remix-slowpoke-pink.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Electrode-Bonus-CaféRemix-SlowpokePink-3DS-★",
+          "slug": "electrode-cafe-remix-slowpoke-pink",
+          "cssClass": ".pokesprite.pokemon.electrode-cafe-remix-slowpoke-pink.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Electrode-Bonus-CaféRemix-SquirtleBlue",
+          "slug": "electrode-cafe-remix-squirtle-blue",
+          "cssClass": ".pokesprite.pokemon.electrode-cafe-remix-squirtle-blue",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Electrode-Bonus-CaféRemix-SquirtleBlue-★",
+          "slug": "electrode-cafe-remix-squirtle-blue",
+          "cssClass": ".pokesprite.pokemon.electrode-cafe-remix-squirtle-blue.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Electrode-Bonus-CaféRemix-SquirtleBlue-3DS",
+          "slug": "electrode-cafe-remix-squirtle-blue",
+          "cssClass": ".pokesprite.pokemon.electrode-cafe-remix-squirtle-blue.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Electrode-Bonus-CaféRemix-SquirtleBlue-3DS-★",
+          "slug": "electrode-cafe-remix-squirtle-blue",
+          "cssClass": ".pokesprite.pokemon.electrode-cafe-remix-squirtle-blue.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Electrode-Bonus-CaféRemix-StylishCrèmeBrûlée",
+          "slug": "electrode-cafe-remix-stylish-crème-brûlee",
+          "cssClass": ".pokesprite.pokemon.electrode-cafe-remix-stylish-crème-brûlee",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Electrode-Bonus-CaféRemix-StylishCrèmeBrûlée-★",
+          "slug": "electrode-cafe-remix-stylish-crème-brûlee",
+          "cssClass": ".pokesprite.pokemon.electrode-cafe-remix-stylish-crème-brûlee.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Electrode-Bonus-CaféRemix-StylishCrèmeBrûlée-3DS",
+          "slug": "electrode-cafe-remix-stylish-crème-brûlee",
+          "cssClass": ".pokesprite.pokemon.electrode-cafe-remix-stylish-crème-brûlee.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Electrode-Bonus-CaféRemix-StylishCrèmeBrûlée-3DS-★",
+          "slug": "electrode-cafe-remix-stylish-crème-brûlee",
+          "cssClass": ".pokesprite.pokemon.electrode-cafe-remix-stylish-crème-brûlee.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
