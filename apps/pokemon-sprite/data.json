@@ -121916,6 +121916,742 @@
       },
       {
         "regular": {
+          "name": "Alcremie-RubyCream-BerrySweet-Bonus-CaféRemix-Chocolatier",
+          "slug": "alcremie-ruby-cream-berry-sweet-cafe-remix-chocolatier",
+          "cssClass": ".pokesprite.pokemon.alcremie-ruby-cream-berry-sweet-cafe-remix-chocolatier",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Alcremie-RubyCream-BerrySweet-Bonus-CaféRemix-Chocolatier-★",
+          "slug": "alcremie-ruby-cream-berry-sweet-cafe-remix-chocolatier",
+          "cssClass": ".pokesprite.pokemon.alcremie-ruby-cream-berry-sweet-cafe-remix-chocolatier.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Alcremie-RubyCream-BerrySweet-Bonus-CaféRemix-Chocolatier-3DS",
+          "slug": "alcremie-ruby-cream-berry-sweet-cafe-remix-chocolatier",
+          "cssClass": ".pokesprite.pokemon.alcremie-ruby-cream-berry-sweet-cafe-remix-chocolatier.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Alcremie-RubyCream-BerrySweet-Bonus-CaféRemix-Chocolatier-3DS-★",
+          "slug": "alcremie-ruby-cream-berry-sweet-cafe-remix-chocolatier",
+          "cssClass": ".pokesprite.pokemon.alcremie-ruby-cream-berry-sweet-cafe-remix-chocolatier.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Alcremie-RubyCream-BerrySweet-Bonus-CaféRemix-Holiday",
+          "slug": "alcremie-ruby-cream-berry-sweet-cafe-remix-holiday",
+          "cssClass": ".pokesprite.pokemon.alcremie-ruby-cream-berry-sweet-cafe-remix-holiday",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Alcremie-RubyCream-BerrySweet-Bonus-CaféRemix-Holiday-★",
+          "slug": "alcremie-ruby-cream-berry-sweet-cafe-remix-holiday",
+          "cssClass": ".pokesprite.pokemon.alcremie-ruby-cream-berry-sweet-cafe-remix-holiday.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Alcremie-RubyCream-BerrySweet-Bonus-CaféRemix-Holiday-3DS",
+          "slug": "alcremie-ruby-cream-berry-sweet-cafe-remix-holiday",
+          "cssClass": ".pokesprite.pokemon.alcremie-ruby-cream-berry-sweet-cafe-remix-holiday.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Alcremie-RubyCream-BerrySweet-Bonus-CaféRemix-Holiday-3DS-★",
+          "slug": "alcremie-ruby-cream-berry-sweet-cafe-remix-holiday",
+          "cssClass": ".pokesprite.pokemon.alcremie-ruby-cream-berry-sweet-cafe-remix-holiday.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Alcremie-RubyCream-Bonus-CaféRemix-Chocolatier",
+          "slug": "alcremie-ruby-cream-cafe-remix-chocolatier",
+          "cssClass": ".pokesprite.pokemon.alcremie-ruby-cream-cafe-remix-chocolatier",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Alcremie-RubyCream-Bonus-CaféRemix-Chocolatier-★",
+          "slug": "alcremie-ruby-cream-cafe-remix-chocolatier",
+          "cssClass": ".pokesprite.pokemon.alcremie-ruby-cream-cafe-remix-chocolatier.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Alcremie-RubyCream-Bonus-CaféRemix-Chocolatier-3DS",
+          "slug": "alcremie-ruby-cream-cafe-remix-chocolatier",
+          "cssClass": ".pokesprite.pokemon.alcremie-ruby-cream-cafe-remix-chocolatier.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Alcremie-RubyCream-Bonus-CaféRemix-Chocolatier-3DS-★",
+          "slug": "alcremie-ruby-cream-cafe-remix-chocolatier",
+          "cssClass": ".pokesprite.pokemon.alcremie-ruby-cream-cafe-remix-chocolatier.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Alcremie-RubyCream-Bonus-CaféRemix-Holiday",
+          "slug": "alcremie-ruby-cream-cafe-remix-holiday",
+          "cssClass": ".pokesprite.pokemon.alcremie-ruby-cream-cafe-remix-holiday",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Alcremie-RubyCream-Bonus-CaféRemix-Holiday-★",
+          "slug": "alcremie-ruby-cream-cafe-remix-holiday",
+          "cssClass": ".pokesprite.pokemon.alcremie-ruby-cream-cafe-remix-holiday.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Alcremie-RubyCream-Bonus-CaféRemix-Holiday-3DS",
+          "slug": "alcremie-ruby-cream-cafe-remix-holiday",
+          "cssClass": ".pokesprite.pokemon.alcremie-ruby-cream-cafe-remix-holiday.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Alcremie-RubyCream-Bonus-CaféRemix-Holiday-3DS-★",
+          "slug": "alcremie-ruby-cream-cafe-remix-holiday",
+          "cssClass": ".pokesprite.pokemon.alcremie-ruby-cream-cafe-remix-holiday.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Alcremie-RubyCream-CloverSweet-Bonus-CaféRemix-Chocolatier",
+          "slug": "alcremie-ruby-cream-clover-sweet-cafe-remix-chocolatier",
+          "cssClass": ".pokesprite.pokemon.alcremie-ruby-cream-clover-sweet-cafe-remix-chocolatier",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Alcremie-RubyCream-CloverSweet-Bonus-CaféRemix-Chocolatier-★",
+          "slug": "alcremie-ruby-cream-clover-sweet-cafe-remix-chocolatier",
+          "cssClass": ".pokesprite.pokemon.alcremie-ruby-cream-clover-sweet-cafe-remix-chocolatier.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Alcremie-RubyCream-CloverSweet-Bonus-CaféRemix-Chocolatier-3DS",
+          "slug": "alcremie-ruby-cream-clover-sweet-cafe-remix-chocolatier",
+          "cssClass": ".pokesprite.pokemon.alcremie-ruby-cream-clover-sweet-cafe-remix-chocolatier.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Alcremie-RubyCream-CloverSweet-Bonus-CaféRemix-Chocolatier-3DS-★",
+          "slug": "alcremie-ruby-cream-clover-sweet-cafe-remix-chocolatier",
+          "cssClass": ".pokesprite.pokemon.alcremie-ruby-cream-clover-sweet-cafe-remix-chocolatier.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Alcremie-RubyCream-CloverSweet-Bonus-CaféRemix-Holiday",
+          "slug": "alcremie-ruby-cream-clover-sweet-cafe-remix-holiday",
+          "cssClass": ".pokesprite.pokemon.alcremie-ruby-cream-clover-sweet-cafe-remix-holiday",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Alcremie-RubyCream-CloverSweet-Bonus-CaféRemix-Holiday-★",
+          "slug": "alcremie-ruby-cream-clover-sweet-cafe-remix-holiday",
+          "cssClass": ".pokesprite.pokemon.alcremie-ruby-cream-clover-sweet-cafe-remix-holiday.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Alcremie-RubyCream-CloverSweet-Bonus-CaféRemix-Holiday-3DS",
+          "slug": "alcremie-ruby-cream-clover-sweet-cafe-remix-holiday",
+          "cssClass": ".pokesprite.pokemon.alcremie-ruby-cream-clover-sweet-cafe-remix-holiday.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Alcremie-RubyCream-CloverSweet-Bonus-CaféRemix-Holiday-3DS-★",
+          "slug": "alcremie-ruby-cream-clover-sweet-cafe-remix-holiday",
+          "cssClass": ".pokesprite.pokemon.alcremie-ruby-cream-clover-sweet-cafe-remix-holiday.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Alcremie-RubyCream-FlowerSweet-Bonus-CaféRemix-Chocolatier",
+          "slug": "alcremie-ruby-cream-flower-sweet-cafe-remix-chocolatier",
+          "cssClass": ".pokesprite.pokemon.alcremie-ruby-cream-flower-sweet-cafe-remix-chocolatier",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Alcremie-RubyCream-FlowerSweet-Bonus-CaféRemix-Chocolatier-★",
+          "slug": "alcremie-ruby-cream-flower-sweet-cafe-remix-chocolatier",
+          "cssClass": ".pokesprite.pokemon.alcremie-ruby-cream-flower-sweet-cafe-remix-chocolatier.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Alcremie-RubyCream-FlowerSweet-Bonus-CaféRemix-Chocolatier-3DS",
+          "slug": "alcremie-ruby-cream-flower-sweet-cafe-remix-chocolatier",
+          "cssClass": ".pokesprite.pokemon.alcremie-ruby-cream-flower-sweet-cafe-remix-chocolatier.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Alcremie-RubyCream-FlowerSweet-Bonus-CaféRemix-Chocolatier-3DS-★",
+          "slug": "alcremie-ruby-cream-flower-sweet-cafe-remix-chocolatier",
+          "cssClass": ".pokesprite.pokemon.alcremie-ruby-cream-flower-sweet-cafe-remix-chocolatier.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Alcremie-RubyCream-FlowerSweet-Bonus-CaféRemix-Holiday",
+          "slug": "alcremie-ruby-cream-flower-sweet-cafe-remix-holiday",
+          "cssClass": ".pokesprite.pokemon.alcremie-ruby-cream-flower-sweet-cafe-remix-holiday",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Alcremie-RubyCream-FlowerSweet-Bonus-CaféRemix-Holiday-★",
+          "slug": "alcremie-ruby-cream-flower-sweet-cafe-remix-holiday",
+          "cssClass": ".pokesprite.pokemon.alcremie-ruby-cream-flower-sweet-cafe-remix-holiday.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Alcremie-RubyCream-FlowerSweet-Bonus-CaféRemix-Holiday-3DS",
+          "slug": "alcremie-ruby-cream-flower-sweet-cafe-remix-holiday",
+          "cssClass": ".pokesprite.pokemon.alcremie-ruby-cream-flower-sweet-cafe-remix-holiday.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Alcremie-RubyCream-FlowerSweet-Bonus-CaféRemix-Holiday-3DS-★",
+          "slug": "alcremie-ruby-cream-flower-sweet-cafe-remix-holiday",
+          "cssClass": ".pokesprite.pokemon.alcremie-ruby-cream-flower-sweet-cafe-remix-holiday.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Alcremie-RubyCream-LoveSweet-Bonus-CaféRemix-Chocolatier",
+          "slug": "alcremie-ruby-cream-love-sweet-cafe-remix-chocolatier",
+          "cssClass": ".pokesprite.pokemon.alcremie-ruby-cream-love-sweet-cafe-remix-chocolatier",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Alcremie-RubyCream-LoveSweet-Bonus-CaféRemix-Chocolatier-★",
+          "slug": "alcremie-ruby-cream-love-sweet-cafe-remix-chocolatier",
+          "cssClass": ".pokesprite.pokemon.alcremie-ruby-cream-love-sweet-cafe-remix-chocolatier.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Alcremie-RubyCream-LoveSweet-Bonus-CaféRemix-Chocolatier-3DS",
+          "slug": "alcremie-ruby-cream-love-sweet-cafe-remix-chocolatier",
+          "cssClass": ".pokesprite.pokemon.alcremie-ruby-cream-love-sweet-cafe-remix-chocolatier.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Alcremie-RubyCream-LoveSweet-Bonus-CaféRemix-Chocolatier-3DS-★",
+          "slug": "alcremie-ruby-cream-love-sweet-cafe-remix-chocolatier",
+          "cssClass": ".pokesprite.pokemon.alcremie-ruby-cream-love-sweet-cafe-remix-chocolatier.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Alcremie-RubyCream-LoveSweet-Bonus-CaféRemix-Holiday",
+          "slug": "alcremie-ruby-cream-love-sweet-cafe-remix-holiday",
+          "cssClass": ".pokesprite.pokemon.alcremie-ruby-cream-love-sweet-cafe-remix-holiday",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Alcremie-RubyCream-LoveSweet-Bonus-CaféRemix-Holiday-★",
+          "slug": "alcremie-ruby-cream-love-sweet-cafe-remix-holiday",
+          "cssClass": ".pokesprite.pokemon.alcremie-ruby-cream-love-sweet-cafe-remix-holiday.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Alcremie-RubyCream-LoveSweet-Bonus-CaféRemix-Holiday-3DS",
+          "slug": "alcremie-ruby-cream-love-sweet-cafe-remix-holiday",
+          "cssClass": ".pokesprite.pokemon.alcremie-ruby-cream-love-sweet-cafe-remix-holiday.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Alcremie-RubyCream-LoveSweet-Bonus-CaféRemix-Holiday-3DS-★",
+          "slug": "alcremie-ruby-cream-love-sweet-cafe-remix-holiday",
+          "cssClass": ".pokesprite.pokemon.alcremie-ruby-cream-love-sweet-cafe-remix-holiday.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Alcremie-RubyCream-RibbonSweet-Bonus-CaféRemix-Chocolatier",
+          "slug": "alcremie-ruby-cream-ribbon-sweet-cafe-remix-chocolatier",
+          "cssClass": ".pokesprite.pokemon.alcremie-ruby-cream-ribbon-sweet-cafe-remix-chocolatier",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Alcremie-RubyCream-RibbonSweet-Bonus-CaféRemix-Chocolatier-★",
+          "slug": "alcremie-ruby-cream-ribbon-sweet-cafe-remix-chocolatier",
+          "cssClass": ".pokesprite.pokemon.alcremie-ruby-cream-ribbon-sweet-cafe-remix-chocolatier.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Alcremie-RubyCream-RibbonSweet-Bonus-CaféRemix-Chocolatier-3DS",
+          "slug": "alcremie-ruby-cream-ribbon-sweet-cafe-remix-chocolatier",
+          "cssClass": ".pokesprite.pokemon.alcremie-ruby-cream-ribbon-sweet-cafe-remix-chocolatier.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Alcremie-RubyCream-RibbonSweet-Bonus-CaféRemix-Chocolatier-3DS-★",
+          "slug": "alcremie-ruby-cream-ribbon-sweet-cafe-remix-chocolatier",
+          "cssClass": ".pokesprite.pokemon.alcremie-ruby-cream-ribbon-sweet-cafe-remix-chocolatier.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Alcremie-RubyCream-RibbonSweet-Bonus-CaféRemix-Holiday",
+          "slug": "alcremie-ruby-cream-ribbon-sweet-cafe-remix-holiday",
+          "cssClass": ".pokesprite.pokemon.alcremie-ruby-cream-ribbon-sweet-cafe-remix-holiday",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Alcremie-RubyCream-RibbonSweet-Bonus-CaféRemix-Holiday-★",
+          "slug": "alcremie-ruby-cream-ribbon-sweet-cafe-remix-holiday",
+          "cssClass": ".pokesprite.pokemon.alcremie-ruby-cream-ribbon-sweet-cafe-remix-holiday.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Alcremie-RubyCream-RibbonSweet-Bonus-CaféRemix-Holiday-3DS",
+          "slug": "alcremie-ruby-cream-ribbon-sweet-cafe-remix-holiday",
+          "cssClass": ".pokesprite.pokemon.alcremie-ruby-cream-ribbon-sweet-cafe-remix-holiday.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Alcremie-RubyCream-RibbonSweet-Bonus-CaféRemix-Holiday-3DS-★",
+          "slug": "alcremie-ruby-cream-ribbon-sweet-cafe-remix-holiday",
+          "cssClass": ".pokesprite.pokemon.alcremie-ruby-cream-ribbon-sweet-cafe-remix-holiday.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Alcremie-RubyCream-StarSweet-Bonus-CaféRemix-Chocolatier",
+          "slug": "alcremie-ruby-cream-star-sweet-cafe-remix-chocolatier",
+          "cssClass": ".pokesprite.pokemon.alcremie-ruby-cream-star-sweet-cafe-remix-chocolatier",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Alcremie-RubyCream-StarSweet-Bonus-CaféRemix-Chocolatier-★",
+          "slug": "alcremie-ruby-cream-star-sweet-cafe-remix-chocolatier",
+          "cssClass": ".pokesprite.pokemon.alcremie-ruby-cream-star-sweet-cafe-remix-chocolatier.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Alcremie-RubyCream-StarSweet-Bonus-CaféRemix-Chocolatier-3DS",
+          "slug": "alcremie-ruby-cream-star-sweet-cafe-remix-chocolatier",
+          "cssClass": ".pokesprite.pokemon.alcremie-ruby-cream-star-sweet-cafe-remix-chocolatier.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Alcremie-RubyCream-StarSweet-Bonus-CaféRemix-Chocolatier-3DS-★",
+          "slug": "alcremie-ruby-cream-star-sweet-cafe-remix-chocolatier",
+          "cssClass": ".pokesprite.pokemon.alcremie-ruby-cream-star-sweet-cafe-remix-chocolatier.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Alcremie-RubyCream-StarSweet-Bonus-CaféRemix-Holiday",
+          "slug": "alcremie-ruby-cream-star-sweet-cafe-remix-holiday",
+          "cssClass": ".pokesprite.pokemon.alcremie-ruby-cream-star-sweet-cafe-remix-holiday",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Alcremie-RubyCream-StarSweet-Bonus-CaféRemix-Holiday-★",
+          "slug": "alcremie-ruby-cream-star-sweet-cafe-remix-holiday",
+          "cssClass": ".pokesprite.pokemon.alcremie-ruby-cream-star-sweet-cafe-remix-holiday.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Alcremie-RubyCream-StarSweet-Bonus-CaféRemix-Holiday-3DS",
+          "slug": "alcremie-ruby-cream-star-sweet-cafe-remix-holiday",
+          "cssClass": ".pokesprite.pokemon.alcremie-ruby-cream-star-sweet-cafe-remix-holiday.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Alcremie-RubyCream-StarSweet-Bonus-CaféRemix-Holiday-3DS-★",
+          "slug": "alcremie-ruby-cream-star-sweet-cafe-remix-holiday",
+          "cssClass": ".pokesprite.pokemon.alcremie-ruby-cream-star-sweet-cafe-remix-holiday.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Alcremie-RubyCream-StrawberrySweet-Bonus-CaféRemix-Chocolatier",
+          "slug": "alcremie-ruby-cream-strawberry-sweet-cafe-remix-chocolatier",
+          "cssClass": ".pokesprite.pokemon.alcremie-ruby-cream-strawberry-sweet-cafe-remix-chocolatier",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Alcremie-RubyCream-StrawberrySweet-Bonus-CaféRemix-Chocolatier-★",
+          "slug": "alcremie-ruby-cream-strawberry-sweet-cafe-remix-chocolatier",
+          "cssClass": ".pokesprite.pokemon.alcremie-ruby-cream-strawberry-sweet-cafe-remix-chocolatier.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Alcremie-RubyCream-StrawberrySweet-Bonus-CaféRemix-Chocolatier-3DS",
+          "slug": "alcremie-ruby-cream-strawberry-sweet-cafe-remix-chocolatier",
+          "cssClass": ".pokesprite.pokemon.alcremie-ruby-cream-strawberry-sweet-cafe-remix-chocolatier.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Alcremie-RubyCream-StrawberrySweet-Bonus-CaféRemix-Chocolatier-3DS-★",
+          "slug": "alcremie-ruby-cream-strawberry-sweet-cafe-remix-chocolatier",
+          "cssClass": ".pokesprite.pokemon.alcremie-ruby-cream-strawberry-sweet-cafe-remix-chocolatier.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Alcremie-RubyCream-StrawberrySweet-Bonus-CaféRemix-Holiday",
+          "slug": "alcremie-ruby-cream-strawberry-sweet-cafe-remix-holiday",
+          "cssClass": ".pokesprite.pokemon.alcremie-ruby-cream-strawberry-sweet-cafe-remix-holiday",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Alcremie-RubyCream-StrawberrySweet-Bonus-CaféRemix-Holiday-★",
+          "slug": "alcremie-ruby-cream-strawberry-sweet-cafe-remix-holiday",
+          "cssClass": ".pokesprite.pokemon.alcremie-ruby-cream-strawberry-sweet-cafe-remix-holiday.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Alcremie-RubyCream-StrawberrySweet-Bonus-CaféRemix-Holiday-3DS",
+          "slug": "alcremie-ruby-cream-strawberry-sweet-cafe-remix-holiday",
+          "cssClass": ".pokesprite.pokemon.alcremie-ruby-cream-strawberry-sweet-cafe-remix-holiday.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Alcremie-RubyCream-StrawberrySweet-Bonus-CaféRemix-Holiday-3DS-★",
+          "slug": "alcremie-ruby-cream-strawberry-sweet-cafe-remix-holiday",
+          "cssClass": ".pokesprite.pokemon.alcremie-ruby-cream-strawberry-sweet-cafe-remix-holiday.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
           "name": "Alcremie-VanillaCream-BerrySweet-Bonus-CaféRemix-BulbasaurGreen",
           "slug": "alcremie-vanilla-cream-berry-sweet-cafe-remix-bulbasaur-green",
           "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-berry-sweet-cafe-remix-bulbasaur-green",
