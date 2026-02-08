@@ -121870,6 +121870,52 @@
       },
       {
         "regular": {
+          "name": "Alcremie-VanillaCream-BerrySweet-Bonus-CaféRemix-CharmanderRed",
+          "slug": "alcremie-vanilla-cream-berry-sweet-cafe-remix-charmander-red",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-berry-sweet-cafe-remix-charmander-red",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Alcremie-VanillaCream-BerrySweet-Bonus-CaféRemix-CharmanderRed-★",
+          "slug": "alcremie-vanilla-cream-berry-sweet-cafe-remix-charmander-red",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-berry-sweet-cafe-remix-charmander-red.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Alcremie-VanillaCream-BerrySweet-Bonus-CaféRemix-CharmanderRed-3DS",
+          "slug": "alcremie-vanilla-cream-berry-sweet-cafe-remix-charmander-red",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-berry-sweet-cafe-remix-charmander-red.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Alcremie-VanillaCream-BerrySweet-Bonus-CaféRemix-CharmanderRed-3DS-★",
+          "slug": "alcremie-vanilla-cream-berry-sweet-cafe-remix-charmander-red",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-berry-sweet-cafe-remix-charmander-red.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
           "name": "Alcremie-VanillaCream-BerrySweet-Bonus-CaféRemix-Chocolatier",
           "slug": "alcremie-vanilla-cream-berry-sweet-cafe-remix-chocolatier",
           "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-berry-sweet-cafe-remix-chocolatier",
@@ -121951,6 +121997,52 @@
           "name": "Alcremie-VanillaCream-BerrySweet-Bonus-CaféRemix-Holiday-3DS-★",
           "slug": "alcremie-vanilla-cream-berry-sweet-cafe-remix-holiday",
           "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-berry-sweet-cafe-remix-holiday.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Alcremie-VanillaCream-Bonus-CaféRemix-CharmanderRed",
+          "slug": "alcremie-vanilla-cream-cafe-remix-charmander-red",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-cafe-remix-charmander-red",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Alcremie-VanillaCream-Bonus-CaféRemix-CharmanderRed-★",
+          "slug": "alcremie-vanilla-cream-cafe-remix-charmander-red",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-cafe-remix-charmander-red.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Alcremie-VanillaCream-Bonus-CaféRemix-CharmanderRed-3DS",
+          "slug": "alcremie-vanilla-cream-cafe-remix-charmander-red",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-cafe-remix-charmander-red.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Alcremie-VanillaCream-Bonus-CaféRemix-CharmanderRed-3DS-★",
+          "slug": "alcremie-vanilla-cream-cafe-remix-charmander-red",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-cafe-remix-charmander-red.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -122054,6 +122146,52 @@
       },
       {
         "regular": {
+          "name": "Alcremie-VanillaCream-CloverSweet-Bonus-CaféRemix-CharmanderRed",
+          "slug": "alcremie-vanilla-cream-clover-sweet-cafe-remix-charmander-red",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-clover-sweet-cafe-remix-charmander-red",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Alcremie-VanillaCream-CloverSweet-Bonus-CaféRemix-CharmanderRed-★",
+          "slug": "alcremie-vanilla-cream-clover-sweet-cafe-remix-charmander-red",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-clover-sweet-cafe-remix-charmander-red.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Alcremie-VanillaCream-CloverSweet-Bonus-CaféRemix-CharmanderRed-3DS",
+          "slug": "alcremie-vanilla-cream-clover-sweet-cafe-remix-charmander-red",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-clover-sweet-cafe-remix-charmander-red.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Alcremie-VanillaCream-CloverSweet-Bonus-CaféRemix-CharmanderRed-3DS-★",
+          "slug": "alcremie-vanilla-cream-clover-sweet-cafe-remix-charmander-red",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-clover-sweet-cafe-remix-charmander-red.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
           "name": "Alcremie-VanillaCream-CloverSweet-Bonus-CaféRemix-Chocolatier",
           "slug": "alcremie-vanilla-cream-clover-sweet-cafe-remix-chocolatier",
           "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-clover-sweet-cafe-remix-chocolatier",
@@ -122135,6 +122273,52 @@
           "name": "Alcremie-VanillaCream-CloverSweet-Bonus-CaféRemix-Holiday-3DS-★",
           "slug": "alcremie-vanilla-cream-clover-sweet-cafe-remix-holiday",
           "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-clover-sweet-cafe-remix-holiday.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Alcremie-VanillaCream-FlowerSweet-Bonus-CaféRemix-CharmanderRed",
+          "slug": "alcremie-vanilla-cream-flower-sweet-cafe-remix-charmander-red",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-flower-sweet-cafe-remix-charmander-red",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Alcremie-VanillaCream-FlowerSweet-Bonus-CaféRemix-CharmanderRed-★",
+          "slug": "alcremie-vanilla-cream-flower-sweet-cafe-remix-charmander-red",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-flower-sweet-cafe-remix-charmander-red.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Alcremie-VanillaCream-FlowerSweet-Bonus-CaféRemix-CharmanderRed-3DS",
+          "slug": "alcremie-vanilla-cream-flower-sweet-cafe-remix-charmander-red",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-flower-sweet-cafe-remix-charmander-red.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Alcremie-VanillaCream-FlowerSweet-Bonus-CaféRemix-CharmanderRed-3DS-★",
+          "slug": "alcremie-vanilla-cream-flower-sweet-cafe-remix-charmander-red",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-flower-sweet-cafe-remix-charmander-red.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -122238,6 +122422,52 @@
       },
       {
         "regular": {
+          "name": "Alcremie-VanillaCream-LoveSweet-Bonus-CaféRemix-CharmanderRed",
+          "slug": "alcremie-vanilla-cream-love-sweet-cafe-remix-charmander-red",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-love-sweet-cafe-remix-charmander-red",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Alcremie-VanillaCream-LoveSweet-Bonus-CaféRemix-CharmanderRed-★",
+          "slug": "alcremie-vanilla-cream-love-sweet-cafe-remix-charmander-red",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-love-sweet-cafe-remix-charmander-red.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Alcremie-VanillaCream-LoveSweet-Bonus-CaféRemix-CharmanderRed-3DS",
+          "slug": "alcremie-vanilla-cream-love-sweet-cafe-remix-charmander-red",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-love-sweet-cafe-remix-charmander-red.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Alcremie-VanillaCream-LoveSweet-Bonus-CaféRemix-CharmanderRed-3DS-★",
+          "slug": "alcremie-vanilla-cream-love-sweet-cafe-remix-charmander-red",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-love-sweet-cafe-remix-charmander-red.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
           "name": "Alcremie-VanillaCream-LoveSweet-Bonus-CaféRemix-Chocolatier",
           "slug": "alcremie-vanilla-cream-love-sweet-cafe-remix-chocolatier",
           "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-love-sweet-cafe-remix-chocolatier",
@@ -122319,6 +122549,52 @@
           "name": "Alcremie-VanillaCream-LoveSweet-Bonus-CaféRemix-Holiday-3DS-★",
           "slug": "alcremie-vanilla-cream-love-sweet-cafe-remix-holiday",
           "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-love-sweet-cafe-remix-holiday.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Alcremie-VanillaCream-RibbonSweet-Bonus-CaféRemix-CharmanderRed",
+          "slug": "alcremie-vanilla-cream-ribbon-sweet-cafe-remix-charmander-red",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-ribbon-sweet-cafe-remix-charmander-red",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Alcremie-VanillaCream-RibbonSweet-Bonus-CaféRemix-CharmanderRed-★",
+          "slug": "alcremie-vanilla-cream-ribbon-sweet-cafe-remix-charmander-red",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-ribbon-sweet-cafe-remix-charmander-red.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Alcremie-VanillaCream-RibbonSweet-Bonus-CaféRemix-CharmanderRed-3DS",
+          "slug": "alcremie-vanilla-cream-ribbon-sweet-cafe-remix-charmander-red",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-ribbon-sweet-cafe-remix-charmander-red.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Alcremie-VanillaCream-RibbonSweet-Bonus-CaféRemix-CharmanderRed-3DS-★",
+          "slug": "alcremie-vanilla-cream-ribbon-sweet-cafe-remix-charmander-red",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-ribbon-sweet-cafe-remix-charmander-red.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -122422,6 +122698,52 @@
       },
       {
         "regular": {
+          "name": "Alcremie-VanillaCream-StarSweet-Bonus-CaféRemix-CharmanderRed",
+          "slug": "alcremie-vanilla-cream-star-sweet-cafe-remix-charmander-red",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-star-sweet-cafe-remix-charmander-red",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Alcremie-VanillaCream-StarSweet-Bonus-CaféRemix-CharmanderRed-★",
+          "slug": "alcremie-vanilla-cream-star-sweet-cafe-remix-charmander-red",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-star-sweet-cafe-remix-charmander-red.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Alcremie-VanillaCream-StarSweet-Bonus-CaféRemix-CharmanderRed-3DS",
+          "slug": "alcremie-vanilla-cream-star-sweet-cafe-remix-charmander-red",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-star-sweet-cafe-remix-charmander-red.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Alcremie-VanillaCream-StarSweet-Bonus-CaféRemix-CharmanderRed-3DS-★",
+          "slug": "alcremie-vanilla-cream-star-sweet-cafe-remix-charmander-red",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-star-sweet-cafe-remix-charmander-red.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
           "name": "Alcremie-VanillaCream-StarSweet-Bonus-CaféRemix-Chocolatier",
           "slug": "alcremie-vanilla-cream-star-sweet-cafe-remix-chocolatier",
           "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-star-sweet-cafe-remix-chocolatier",
@@ -122514,6 +122836,73 @@
       },
       {
         "regular": {
+          "name": "Alcremie-VanillaCream-StrawberrySweet-Bonus-CaféRemix-CharmanderRed",
+          "slug": "alcremie-vanilla-cream-strawberry-sweet-cafe-remix-charmander-red",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-strawberry-sweet-cafe-remix-charmander-red",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Alcremie-VanillaCream-StrawberrySweet-Bonus-CaféRemix-CharmanderRed-★",
+          "slug": "alcremie-vanilla-cream-strawberry-sweet-cafe-remix-charmander-red",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-strawberry-sweet-cafe-remix-charmander-red.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Alcremie-VanillaCream-StrawberrySweet-Bonus-CaféRemix-CharmanderRed-3DS",
+          "slug": "alcremie-vanilla-cream-strawberry-sweet-cafe-remix-charmander-red",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-strawberry-sweet-cafe-remix-charmander-red.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Alcremie-VanillaCream-StrawberrySweet-Bonus-CaféRemix-CharmanderRed-3DS-★",
+          "slug": "alcremie-vanilla-cream-strawberry-sweet-cafe-remix-charmander-red",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-strawberry-sweet-cafe-remix-charmander-red.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Alcremie-VanillaCream-StrawberrySweet-Bonus-CaféRemix-Chocolatier",
+          "slug": "alcremie-vanilla-cream-strawberry-sweet-cafe-remix-chocolatier",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-strawberry-sweet-cafe-remix-chocolatier",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Alcremie-VanillaCream-StrawberrySweet-Bonus-CaféRemix-Chocolatier-★",
+          "slug": "alcremie-vanilla-cream-strawberry-sweet-cafe-remix-chocolatier",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-strawberry-sweet-cafe-remix-chocolatier.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
           "name": "Alcremie-VanillaCream-StrawberrySweet-Bonus-CaféRemix-Chocolatier-3DS",
           "slug": "alcremie-vanilla-cream-strawberry-sweet-cafe-remix-chocolatier",
           "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-strawberry-sweet-cafe-remix-chocolatier.n3ds",
@@ -122582,17 +122971,6 @@
             "bonus"
           ]
         }
-      },
-      {
-        "regular": {
-          "name": "Alcremie-VanillaCream-StrawverrySweet-Bonus-CaféRemix-Chocolatier",
-          "slug": "alcremie-vanilla-cream-strawverry-sweet-cafe-remix-chocolatier",
-          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-strawverry-sweet-cafe-remix-chocolatier",
-          "categories": [
-            "bonus"
-          ]
-        },
-        "shiny": null
       }
     ]
   },
