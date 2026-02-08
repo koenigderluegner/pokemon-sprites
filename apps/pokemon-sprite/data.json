@@ -112025,6 +112025,52 @@
             "shiny"
           ]
         }
+      },
+      {
+        "regular": {
+          "name": "Oranguru-Bonus-SM086",
+          "slug": "oranguru-sm086",
+          "cssClass": ".pokesprite.pokemon.oranguru-sm086",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Oranguru-Bonus-SM086-★",
+          "slug": "oranguru-sm086",
+          "cssClass": ".pokesprite.pokemon.oranguru-sm086.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Oranguru-Bonus-SM086-3DS",
+          "slug": "oranguru-sm086",
+          "cssClass": ".pokesprite.pokemon.oranguru-sm086.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Oranguru-Bonus-SM086-3DS-★",
+          "slug": "oranguru-sm086",
+          "cssClass": ".pokesprite.pokemon.oranguru-sm086.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       }
     ]
   },
@@ -122422,6 +122468,52 @@
       },
       {
         "regular": {
+          "name": "Alcremie-VanillaCream-BerrySweet-Bonus-CaféRemix-SlowpokePink",
+          "slug": "alcremie-vanilla-cream-berry-sweet-cafe-remix-slowpoke-pink",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-berry-sweet-cafe-remix-slowpoke-pink",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Alcremie-VanillaCream-BerrySweet-Bonus-CaféRemix-SlowpokePink-★",
+          "slug": "alcremie-vanilla-cream-berry-sweet-cafe-remix-slowpoke-pink",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-berry-sweet-cafe-remix-slowpoke-pink.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Alcremie-VanillaCream-BerrySweet-Bonus-CaféRemix-SlowpokePink-3DS",
+          "slug": "alcremie-vanilla-cream-berry-sweet-cafe-remix-slowpoke-pink",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-berry-sweet-cafe-remix-slowpoke-pink.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Alcremie-VanillaCream-BerrySweet-Bonus-CaféRemix-SlowpokePink-3DS-★",
+          "slug": "alcremie-vanilla-cream-berry-sweet-cafe-remix-slowpoke-pink",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-berry-sweet-cafe-remix-slowpoke-pink.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
           "name": "Alcremie-VanillaCream-BerrySweet-Bonus-CaféRemix-SquirtleBlue",
           "slug": "alcremie-vanilla-cream-berry-sweet-cafe-remix-squirtle-blue",
           "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-berry-sweet-cafe-remix-squirtle-blue",
@@ -122457,6 +122549,52 @@
           "name": "Alcremie-VanillaCream-BerrySweet-Bonus-CaféRemix-SquirtleBlue-3DS-★",
           "slug": "alcremie-vanilla-cream-berry-sweet-cafe-remix-squirtle-blue",
           "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-berry-sweet-cafe-remix-squirtle-blue.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Alcremie-VanillaCream-BerrySweet-Bonus-CaféRemix-StylishNewYear",
+          "slug": "alcremie-vanilla-cream-berry-sweet-cafe-remix-stylish-new-year",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-berry-sweet-cafe-remix-stylish-new-year",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Alcremie-VanillaCream-BerrySweet-Bonus-CaféRemix-StylishNewYear-★",
+          "slug": "alcremie-vanilla-cream-berry-sweet-cafe-remix-stylish-new-year",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-berry-sweet-cafe-remix-stylish-new-year.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Alcremie-VanillaCream-BerrySweet-Bonus-CaféRemix-StylishNewYear-3DS",
+          "slug": "alcremie-vanilla-cream-berry-sweet-cafe-remix-stylish-new-year",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-berry-sweet-cafe-remix-stylish-new-year.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Alcremie-VanillaCream-BerrySweet-Bonus-CaféRemix-StylishNewYear-3DS-★",
+          "slug": "alcremie-vanilla-cream-berry-sweet-cafe-remix-stylish-new-year",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-berry-sweet-cafe-remix-stylish-new-year.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -123020,6 +123158,52 @@
       },
       {
         "regular": {
+          "name": "Alcremie-VanillaCream-Bonus-CaféRemix-SlowpokePink",
+          "slug": "alcremie-vanilla-cream-cafe-remix-slowpoke-pink",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-cafe-remix-slowpoke-pink",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Alcremie-VanillaCream-Bonus-CaféRemix-SlowpokePink-★",
+          "slug": "alcremie-vanilla-cream-cafe-remix-slowpoke-pink",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-cafe-remix-slowpoke-pink.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Alcremie-VanillaCream-Bonus-CaféRemix-SlowpokePink-3DS",
+          "slug": "alcremie-vanilla-cream-cafe-remix-slowpoke-pink",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-cafe-remix-slowpoke-pink.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Alcremie-VanillaCream-Bonus-CaféRemix-SlowpokePink-3DS-★",
+          "slug": "alcremie-vanilla-cream-cafe-remix-slowpoke-pink",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-cafe-remix-slowpoke-pink.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
           "name": "Alcremie-VanillaCream-Bonus-CaféRemix-SquirtleBlue",
           "slug": "alcremie-vanilla-cream-cafe-remix-squirtle-blue",
           "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-cafe-remix-squirtle-blue",
@@ -123055,6 +123239,52 @@
           "name": "Alcremie-VanillaCream-Bonus-CaféRemix-SquirtleBlue-3DS-★",
           "slug": "alcremie-vanilla-cream-cafe-remix-squirtle-blue",
           "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-cafe-remix-squirtle-blue.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Alcremie-VanillaCream-Bonus-CaféRemix-StylishNewYear",
+          "slug": "alcremie-vanilla-cream-cafe-remix-stylish-new-year",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-cafe-remix-stylish-new-year",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Alcremie-VanillaCream-Bonus-CaféRemix-StylishNewYear-★",
+          "slug": "alcremie-vanilla-cream-cafe-remix-stylish-new-year",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-cafe-remix-stylish-new-year.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Alcremie-VanillaCream-Bonus-CaféRemix-StylishNewYear-3DS",
+          "slug": "alcremie-vanilla-cream-cafe-remix-stylish-new-year",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-cafe-remix-stylish-new-year.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Alcremie-VanillaCream-Bonus-CaféRemix-StylishNewYear-3DS-★",
+          "slug": "alcremie-vanilla-cream-cafe-remix-stylish-new-year",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-cafe-remix-stylish-new-year.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -123618,6 +123848,52 @@
       },
       {
         "regular": {
+          "name": "Alcremie-VanillaCream-CloverSweet-Bonus-CaféRemix-SlowpokePink",
+          "slug": "alcremie-vanilla-cream-clover-sweet-cafe-remix-slowpoke-pink",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-clover-sweet-cafe-remix-slowpoke-pink",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Alcremie-VanillaCream-CloverSweet-Bonus-CaféRemix-SlowpokePink-★",
+          "slug": "alcremie-vanilla-cream-clover-sweet-cafe-remix-slowpoke-pink",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-clover-sweet-cafe-remix-slowpoke-pink.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Alcremie-VanillaCream-CloverSweet-Bonus-CaféRemix-SlowpokePink-3DS",
+          "slug": "alcremie-vanilla-cream-clover-sweet-cafe-remix-slowpoke-pink",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-clover-sweet-cafe-remix-slowpoke-pink.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Alcremie-VanillaCream-CloverSweet-Bonus-CaféRemix-SlowpokePink-3DS-★",
+          "slug": "alcremie-vanilla-cream-clover-sweet-cafe-remix-slowpoke-pink",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-clover-sweet-cafe-remix-slowpoke-pink.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
           "name": "Alcremie-VanillaCream-CloverSweet-Bonus-CaféRemix-SquirtleBlue",
           "slug": "alcremie-vanilla-cream-clover-sweet-cafe-remix-squirtle-blue",
           "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-clover-sweet-cafe-remix-squirtle-blue",
@@ -123653,6 +123929,52 @@
           "name": "Alcremie-VanillaCream-CloverSweet-Bonus-CaféRemix-SquirtleBlue-3DS-★",
           "slug": "alcremie-vanilla-cream-clover-sweet-cafe-remix-squirtle-blue",
           "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-clover-sweet-cafe-remix-squirtle-blue.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Alcremie-VanillaCream-CloverSweet-Bonus-CaféRemix-StylishNewYear",
+          "slug": "alcremie-vanilla-cream-clover-sweet-cafe-remix-stylish-new-year",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-clover-sweet-cafe-remix-stylish-new-year",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Alcremie-VanillaCream-CloverSweet-Bonus-CaféRemix-StylishNewYear-★",
+          "slug": "alcremie-vanilla-cream-clover-sweet-cafe-remix-stylish-new-year",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-clover-sweet-cafe-remix-stylish-new-year.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Alcremie-VanillaCream-CloverSweet-Bonus-CaféRemix-StylishNewYear-3DS",
+          "slug": "alcremie-vanilla-cream-clover-sweet-cafe-remix-stylish-new-year",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-clover-sweet-cafe-remix-stylish-new-year.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Alcremie-VanillaCream-CloverSweet-Bonus-CaféRemix-StylishNewYear-3DS-★",
+          "slug": "alcremie-vanilla-cream-clover-sweet-cafe-remix-stylish-new-year",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-clover-sweet-cafe-remix-stylish-new-year.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -124216,6 +124538,52 @@
       },
       {
         "regular": {
+          "name": "Alcremie-VanillaCream-FlowerSweet-Bonus-CaféRemix-SlowpokePink",
+          "slug": "alcremie-vanilla-cream-flower-sweet-cafe-remix-slowpoke-pink",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-flower-sweet-cafe-remix-slowpoke-pink",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Alcremie-VanillaCream-FlowerSweet-Bonus-CaféRemix-SlowpokePink-★",
+          "slug": "alcremie-vanilla-cream-flower-sweet-cafe-remix-slowpoke-pink",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-flower-sweet-cafe-remix-slowpoke-pink.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Alcremie-VanillaCream-FlowerSweet-Bonus-CaféRemix-SlowpokePink-3DS",
+          "slug": "alcremie-vanilla-cream-flower-sweet-cafe-remix-slowpoke-pink",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-flower-sweet-cafe-remix-slowpoke-pink.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Alcremie-VanillaCream-FlowerSweet-Bonus-CaféRemix-SlowpokePink-3DS-★",
+          "slug": "alcremie-vanilla-cream-flower-sweet-cafe-remix-slowpoke-pink",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-flower-sweet-cafe-remix-slowpoke-pink.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
           "name": "Alcremie-VanillaCream-FlowerSweet-Bonus-CaféRemix-SquirtleBlue",
           "slug": "alcremie-vanilla-cream-flower-sweet-cafe-remix-squirtle-blue",
           "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-flower-sweet-cafe-remix-squirtle-blue",
@@ -124251,6 +124619,52 @@
           "name": "Alcremie-VanillaCream-FlowerSweet-Bonus-CaféRemix-SquirtleBlue-3DS-★",
           "slug": "alcremie-vanilla-cream-flower-sweet-cafe-remix-squirtle-blue",
           "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-flower-sweet-cafe-remix-squirtle-blue.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Alcremie-VanillaCream-FlowerSweet-Bonus-CaféRemix-StylishNewYear",
+          "slug": "alcremie-vanilla-cream-flower-sweet-cafe-remix-stylish-new-year",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-flower-sweet-cafe-remix-stylish-new-year",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Alcremie-VanillaCream-FlowerSweet-Bonus-CaféRemix-StylishNewYear-★",
+          "slug": "alcremie-vanilla-cream-flower-sweet-cafe-remix-stylish-new-year",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-flower-sweet-cafe-remix-stylish-new-year.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Alcremie-VanillaCream-FlowerSweet-Bonus-CaféRemix-StylishNewYear-3DS",
+          "slug": "alcremie-vanilla-cream-flower-sweet-cafe-remix-stylish-new-year",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-flower-sweet-cafe-remix-stylish-new-year.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Alcremie-VanillaCream-FlowerSweet-Bonus-CaféRemix-StylishNewYear-3DS-★",
+          "slug": "alcremie-vanilla-cream-flower-sweet-cafe-remix-stylish-new-year",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-flower-sweet-cafe-remix-stylish-new-year.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -124814,6 +125228,52 @@
       },
       {
         "regular": {
+          "name": "Alcremie-VanillaCream-LoveSweet-Bonus-CaféRemix-SlowpokePink",
+          "slug": "alcremie-vanilla-cream-love-sweet-cafe-remix-slowpoke-pink",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-love-sweet-cafe-remix-slowpoke-pink",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Alcremie-VanillaCream-LoveSweet-Bonus-CaféRemix-SlowpokePink-★",
+          "slug": "alcremie-vanilla-cream-love-sweet-cafe-remix-slowpoke-pink",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-love-sweet-cafe-remix-slowpoke-pink.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Alcremie-VanillaCream-LoveSweet-Bonus-CaféRemix-SlowpokePink-3DS",
+          "slug": "alcremie-vanilla-cream-love-sweet-cafe-remix-slowpoke-pink",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-love-sweet-cafe-remix-slowpoke-pink.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Alcremie-VanillaCream-LoveSweet-Bonus-CaféRemix-SlowpokePink-3DS-★",
+          "slug": "alcremie-vanilla-cream-love-sweet-cafe-remix-slowpoke-pink",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-love-sweet-cafe-remix-slowpoke-pink.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
           "name": "Alcremie-VanillaCream-LoveSweet-Bonus-CaféRemix-SquirtleBlue",
           "slug": "alcremie-vanilla-cream-love-sweet-cafe-remix-squirtle-blue",
           "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-love-sweet-cafe-remix-squirtle-blue",
@@ -124849,6 +125309,52 @@
           "name": "Alcremie-VanillaCream-LoveSweet-Bonus-CaféRemix-SquirtleBlue-3DS-★",
           "slug": "alcremie-vanilla-cream-love-sweet-cafe-remix-squirtle-blue",
           "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-love-sweet-cafe-remix-squirtle-blue.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Alcremie-VanillaCream-LoveSweet-Bonus-CaféRemix-StylishNewYear",
+          "slug": "alcremie-vanilla-cream-love-sweet-cafe-remix-stylish-new-year",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-love-sweet-cafe-remix-stylish-new-year",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Alcremie-VanillaCream-LoveSweet-Bonus-CaféRemix-StylishNewYear-★",
+          "slug": "alcremie-vanilla-cream-love-sweet-cafe-remix-stylish-new-year",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-love-sweet-cafe-remix-stylish-new-year.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Alcremie-VanillaCream-LoveSweet-Bonus-CaféRemix-StylishNewYear-3DS",
+          "slug": "alcremie-vanilla-cream-love-sweet-cafe-remix-stylish-new-year",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-love-sweet-cafe-remix-stylish-new-year.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Alcremie-VanillaCream-LoveSweet-Bonus-CaféRemix-StylishNewYear-3DS-★",
+          "slug": "alcremie-vanilla-cream-love-sweet-cafe-remix-stylish-new-year",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-love-sweet-cafe-remix-stylish-new-year.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -125412,6 +125918,52 @@
       },
       {
         "regular": {
+          "name": "Alcremie-VanillaCream-RibbonSweet-Bonus-CaféRemix-SlowpokePink",
+          "slug": "alcremie-vanilla-cream-ribbon-sweet-cafe-remix-slowpoke-pink",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-ribbon-sweet-cafe-remix-slowpoke-pink",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Alcremie-VanillaCream-RibbonSweet-Bonus-CaféRemix-SlowpokePink-★",
+          "slug": "alcremie-vanilla-cream-ribbon-sweet-cafe-remix-slowpoke-pink",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-ribbon-sweet-cafe-remix-slowpoke-pink.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Alcremie-VanillaCream-RibbonSweet-Bonus-CaféRemix-SlowpokePink-3DS",
+          "slug": "alcremie-vanilla-cream-ribbon-sweet-cafe-remix-slowpoke-pink",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-ribbon-sweet-cafe-remix-slowpoke-pink.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Alcremie-VanillaCream-RibbonSweet-Bonus-CaféRemix-SlowpokePink-3DS-★",
+          "slug": "alcremie-vanilla-cream-ribbon-sweet-cafe-remix-slowpoke-pink",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-ribbon-sweet-cafe-remix-slowpoke-pink.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
           "name": "Alcremie-VanillaCream-RibbonSweet-Bonus-CaféRemix-SquirtleBlue",
           "slug": "alcremie-vanilla-cream-ribbon-sweet-cafe-remix-squirtle-blue",
           "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-ribbon-sweet-cafe-remix-squirtle-blue",
@@ -125447,6 +125999,52 @@
           "name": "Alcremie-VanillaCream-RibbonSweet-Bonus-CaféRemix-SquirtleBlue-3DS-★",
           "slug": "alcremie-vanilla-cream-ribbon-sweet-cafe-remix-squirtle-blue",
           "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-ribbon-sweet-cafe-remix-squirtle-blue.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Alcremie-VanillaCream-RibbonSweet-Bonus-CaféRemix-StylishNewYear",
+          "slug": "alcremie-vanilla-cream-ribbon-sweet-cafe-remix-stylish-new-year",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-ribbon-sweet-cafe-remix-stylish-new-year",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Alcremie-VanillaCream-RibbonSweet-Bonus-CaféRemix-StylishNewYear-★",
+          "slug": "alcremie-vanilla-cream-ribbon-sweet-cafe-remix-stylish-new-year",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-ribbon-sweet-cafe-remix-stylish-new-year.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Alcremie-VanillaCream-RibbonSweet-Bonus-CaféRemix-StylishNewYear-3DS",
+          "slug": "alcremie-vanilla-cream-ribbon-sweet-cafe-remix-stylish-new-year",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-ribbon-sweet-cafe-remix-stylish-new-year.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Alcremie-VanillaCream-RibbonSweet-Bonus-CaféRemix-StylishNewYear-3DS-★",
+          "slug": "alcremie-vanilla-cream-ribbon-sweet-cafe-remix-stylish-new-year",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-ribbon-sweet-cafe-remix-stylish-new-year.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -126010,6 +126608,52 @@
       },
       {
         "regular": {
+          "name": "Alcremie-VanillaCream-StarSweet-Bonus-CaféRemix-SlowpokePink",
+          "slug": "alcremie-vanilla-cream-star-sweet-cafe-remix-slowpoke-pink",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-star-sweet-cafe-remix-slowpoke-pink",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Alcremie-VanillaCream-StarSweet-Bonus-CaféRemix-SlowpokePink-★",
+          "slug": "alcremie-vanilla-cream-star-sweet-cafe-remix-slowpoke-pink",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-star-sweet-cafe-remix-slowpoke-pink.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Alcremie-VanillaCream-StarSweet-Bonus-CaféRemix-SlowpokePink-3DS",
+          "slug": "alcremie-vanilla-cream-star-sweet-cafe-remix-slowpoke-pink",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-star-sweet-cafe-remix-slowpoke-pink.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Alcremie-VanillaCream-StarSweet-Bonus-CaféRemix-SlowpokePink-3DS-★",
+          "slug": "alcremie-vanilla-cream-star-sweet-cafe-remix-slowpoke-pink",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-star-sweet-cafe-remix-slowpoke-pink.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
           "name": "Alcremie-VanillaCream-StarSweet-Bonus-CaféRemix-SquirtleBlue",
           "slug": "alcremie-vanilla-cream-star-sweet-cafe-remix-squirtle-blue",
           "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-star-sweet-cafe-remix-squirtle-blue",
@@ -126045,6 +126689,52 @@
           "name": "Alcremie-VanillaCream-StarSweet-Bonus-CaféRemix-SquirtleBlue-3DS-★",
           "slug": "alcremie-vanilla-cream-star-sweet-cafe-remix-squirtle-blue",
           "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-star-sweet-cafe-remix-squirtle-blue.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Alcremie-VanillaCream-StarSweet-Bonus-CaféRemix-StylishNewYear",
+          "slug": "alcremie-vanilla-cream-star-sweet-cafe-remix-stylish-new-year",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-star-sweet-cafe-remix-stylish-new-year",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Alcremie-VanillaCream-StarSweet-Bonus-CaféRemix-StylishNewYear-★",
+          "slug": "alcremie-vanilla-cream-star-sweet-cafe-remix-stylish-new-year",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-star-sweet-cafe-remix-stylish-new-year.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Alcremie-VanillaCream-StarSweet-Bonus-CaféRemix-StylishNewYear-3DS",
+          "slug": "alcremie-vanilla-cream-star-sweet-cafe-remix-stylish-new-year",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-star-sweet-cafe-remix-stylish-new-year.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Alcremie-VanillaCream-StarSweet-Bonus-CaféRemix-StylishNewYear-3DS-★",
+          "slug": "alcremie-vanilla-cream-star-sweet-cafe-remix-stylish-new-year",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-star-sweet-cafe-remix-stylish-new-year.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -126608,6 +127298,52 @@
       },
       {
         "regular": {
+          "name": "Alcremie-VanillaCream-StrawberrySweet-Bonus-CaféRemix-SlowpokePink",
+          "slug": "alcremie-vanilla-cream-strawberry-sweet-cafe-remix-slowpoke-pink",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-strawberry-sweet-cafe-remix-slowpoke-pink",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Alcremie-VanillaCream-StrawberrySweet-Bonus-CaféRemix-SlowpokePink-★",
+          "slug": "alcremie-vanilla-cream-strawberry-sweet-cafe-remix-slowpoke-pink",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-strawberry-sweet-cafe-remix-slowpoke-pink.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Alcremie-VanillaCream-StrawberrySweet-Bonus-CaféRemix-SlowpokePink-3DS",
+          "slug": "alcremie-vanilla-cream-strawberry-sweet-cafe-remix-slowpoke-pink",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-strawberry-sweet-cafe-remix-slowpoke-pink.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Alcremie-VanillaCream-StrawberrySweet-Bonus-CaféRemix-SlowpokePink-3DS-★",
+          "slug": "alcremie-vanilla-cream-strawberry-sweet-cafe-remix-slowpoke-pink",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-strawberry-sweet-cafe-remix-slowpoke-pink.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
           "name": "Alcremie-VanillaCream-StrawberrySweet-Bonus-CaféRemix-SquirtleBlue",
           "slug": "alcremie-vanilla-cream-strawberry-sweet-cafe-remix-squirtle-blue",
           "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-strawberry-sweet-cafe-remix-squirtle-blue",
@@ -126643,6 +127379,52 @@
           "name": "Alcremie-VanillaCream-StrawberrySweet-Bonus-CaféRemix-SquirtleBlue-3DS-★",
           "slug": "alcremie-vanilla-cream-strawberry-sweet-cafe-remix-squirtle-blue",
           "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-strawberry-sweet-cafe-remix-squirtle-blue.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Alcremie-VanillaCream-StrawberrySweet-Bonus-CaféRemix-StylishNewYear",
+          "slug": "alcremie-vanilla-cream-strawberry-sweet-cafe-remix-stylish-new-year",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-strawberry-sweet-cafe-remix-stylish-new-year",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Alcremie-VanillaCream-StrawberrySweet-Bonus-CaféRemix-StylishNewYear-★",
+          "slug": "alcremie-vanilla-cream-strawberry-sweet-cafe-remix-stylish-new-year",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-strawberry-sweet-cafe-remix-stylish-new-year.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Alcremie-VanillaCream-StrawberrySweet-Bonus-CaféRemix-StylishNewYear-3DS",
+          "slug": "alcremie-vanilla-cream-strawberry-sweet-cafe-remix-stylish-new-year",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-strawberry-sweet-cafe-remix-stylish-new-year.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Alcremie-VanillaCream-StrawberrySweet-Bonus-CaféRemix-StylishNewYear-3DS-★",
+          "slug": "alcremie-vanilla-cream-strawberry-sweet-cafe-remix-stylish-new-year",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-strawberry-sweet-cafe-remix-stylish-new-year.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
