@@ -122008,6 +122008,52 @@
       },
       {
         "regular": {
+          "name": "Alcremie-VanillaCream-BerrySweet-Bonus-CaféRemix-DragoniteOrange",
+          "slug": "alcremie-vanilla-cream-berry-sweet-cafe-remix-dragonite-orange",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-berry-sweet-cafe-remix-dragonite-orange",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Alcremie-VanillaCream-BerrySweet-Bonus-CaféRemix-DragoniteOrange-★",
+          "slug": "alcremie-vanilla-cream-berry-sweet-cafe-remix-dragonite-orange",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-berry-sweet-cafe-remix-dragonite-orange.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Alcremie-VanillaCream-BerrySweet-Bonus-CaféRemix-DragoniteOrange-3DS",
+          "slug": "alcremie-vanilla-cream-berry-sweet-cafe-remix-dragonite-orange",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-berry-sweet-cafe-remix-dragonite-orange.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Alcremie-VanillaCream-BerrySweet-Bonus-CaféRemix-DragoniteOrange-3DS-★",
+          "slug": "alcremie-vanilla-cream-berry-sweet-cafe-remix-dragonite-orange",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-berry-sweet-cafe-remix-dragonite-orange.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
           "name": "Alcremie-VanillaCream-BerrySweet-Bonus-CaféRemix-EeveeBrown",
           "slug": "alcremie-vanilla-cream-berry-sweet-cafe-remix-eevee-brown",
           "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-berry-sweet-cafe-remix-eevee-brown",
@@ -122043,6 +122089,98 @@
           "name": "Alcremie-VanillaCream-BerrySweet-Bonus-CaféRemix-EeveeBrown-3DS-★",
           "slug": "alcremie-vanilla-cream-berry-sweet-cafe-remix-eevee-brown",
           "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-berry-sweet-cafe-remix-eevee-brown.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Alcremie-VanillaCream-BerrySweet-Bonus-CaféRemix-GengarPurple",
+          "slug": "alcremie-vanilla-cream-berry-sweet-cafe-remix-gengar-purple",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-berry-sweet-cafe-remix-gengar-purple",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Alcremie-VanillaCream-BerrySweet-Bonus-CaféRemix-GengarPurple-★",
+          "slug": "alcremie-vanilla-cream-berry-sweet-cafe-remix-gengar-purple",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-berry-sweet-cafe-remix-gengar-purple.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Alcremie-VanillaCream-BerrySweet-Bonus-CaféRemix-GengarPurple-3DS",
+          "slug": "alcremie-vanilla-cream-berry-sweet-cafe-remix-gengar-purple",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-berry-sweet-cafe-remix-gengar-purple.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Alcremie-VanillaCream-BerrySweet-Bonus-CaféRemix-GengarPurple-3DS-★",
+          "slug": "alcremie-vanilla-cream-berry-sweet-cafe-remix-gengar-purple",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-berry-sweet-cafe-remix-gengar-purple.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Alcremie-VanillaCream-BerrySweet-Bonus-CaféRemix-GothoritaBlack",
+          "slug": "alcremie-vanilla-cream-berry-sweet-cafe-remix-gothorita-black",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-berry-sweet-cafe-remix-gothorita-black",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Alcremie-VanillaCream-BerrySweet-Bonus-CaféRemix-GothoritaBlack-★",
+          "slug": "alcremie-vanilla-cream-berry-sweet-cafe-remix-gothorita-black",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-berry-sweet-cafe-remix-gothorita-black.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Alcremie-VanillaCream-BerrySweet-Bonus-CaféRemix-GothoritaBlack-3DS",
+          "slug": "alcremie-vanilla-cream-berry-sweet-cafe-remix-gothorita-black",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-berry-sweet-cafe-remix-gothorita-black.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Alcremie-VanillaCream-BerrySweet-Bonus-CaféRemix-GothoritaBlack-3DS-★",
+          "slug": "alcremie-vanilla-cream-berry-sweet-cafe-remix-gothorita-black",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-berry-sweet-cafe-remix-gothorita-black.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -122192,6 +122330,52 @@
       },
       {
         "regular": {
+          "name": "Alcremie-VanillaCream-BerrySweet-Bonus-CaféRemix-MinccinoGray",
+          "slug": "alcremie-vanilla-cream-berry-sweet-cafe-remix-minccino-gray",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-berry-sweet-cafe-remix-minccino-gray",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Alcremie-VanillaCream-BerrySweet-Bonus-CaféRemix-MinccinoGray-★",
+          "slug": "alcremie-vanilla-cream-berry-sweet-cafe-remix-minccino-gray",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-berry-sweet-cafe-remix-minccino-gray.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Alcremie-VanillaCream-BerrySweet-Bonus-CaféRemix-MinccinoGray-3DS",
+          "slug": "alcremie-vanilla-cream-berry-sweet-cafe-remix-minccino-gray",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-berry-sweet-cafe-remix-minccino-gray.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Alcremie-VanillaCream-BerrySweet-Bonus-CaféRemix-MinccinoGray-3DS-★",
+          "slug": "alcremie-vanilla-cream-berry-sweet-cafe-remix-minccino-gray",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-berry-sweet-cafe-remix-minccino-gray.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
           "name": "Alcremie-VanillaCream-BerrySweet-Bonus-CaféRemix-PikachuYellow",
           "slug": "alcremie-vanilla-cream-berry-sweet-cafe-remix-pikachu-yellow",
           "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-berry-sweet-cafe-remix-pikachu-yellow",
@@ -122227,6 +122411,52 @@
           "name": "Alcremie-VanillaCream-BerrySweet-Bonus-CaféRemix-PikachuYellow-3DS-★",
           "slug": "alcremie-vanilla-cream-berry-sweet-cafe-remix-pikachu-yellow",
           "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-berry-sweet-cafe-remix-pikachu-yellow.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Alcremie-VanillaCream-BerrySweet-Bonus-CaféRemix-SquirtleBlue",
+          "slug": "alcremie-vanilla-cream-berry-sweet-cafe-remix-squirtle-blue",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-berry-sweet-cafe-remix-squirtle-blue",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Alcremie-VanillaCream-BerrySweet-Bonus-CaféRemix-SquirtleBlue-★",
+          "slug": "alcremie-vanilla-cream-berry-sweet-cafe-remix-squirtle-blue",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-berry-sweet-cafe-remix-squirtle-blue.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Alcremie-VanillaCream-BerrySweet-Bonus-CaféRemix-SquirtleBlue-3DS",
+          "slug": "alcremie-vanilla-cream-berry-sweet-cafe-remix-squirtle-blue",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-berry-sweet-cafe-remix-squirtle-blue.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Alcremie-VanillaCream-BerrySweet-Bonus-CaféRemix-SquirtleBlue-3DS-★",
+          "slug": "alcremie-vanilla-cream-berry-sweet-cafe-remix-squirtle-blue",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-berry-sweet-cafe-remix-squirtle-blue.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -122376,6 +122606,52 @@
       },
       {
         "regular": {
+          "name": "Alcremie-VanillaCream-Bonus-CaféRemix-DragoniteOrange",
+          "slug": "alcremie-vanilla-cream-cafe-remix-dragonite-orange",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-cafe-remix-dragonite-orange",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Alcremie-VanillaCream-Bonus-CaféRemix-DragoniteOrange-★",
+          "slug": "alcremie-vanilla-cream-cafe-remix-dragonite-orange",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-cafe-remix-dragonite-orange.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Alcremie-VanillaCream-Bonus-CaféRemix-DragoniteOrange-3DS",
+          "slug": "alcremie-vanilla-cream-cafe-remix-dragonite-orange",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-cafe-remix-dragonite-orange.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Alcremie-VanillaCream-Bonus-CaféRemix-DragoniteOrange-3DS-★",
+          "slug": "alcremie-vanilla-cream-cafe-remix-dragonite-orange",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-cafe-remix-dragonite-orange.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
           "name": "Alcremie-VanillaCream-Bonus-CaféRemix-EeveeBrown",
           "slug": "alcremie-vanilla-cream-cafe-remix-eevee-brown",
           "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-cafe-remix-eevee-brown",
@@ -122411,6 +122687,98 @@
           "name": "Alcremie-VanillaCream-Bonus-CaféRemix-EeveeBrown-3DS-★",
           "slug": "alcremie-vanilla-cream-cafe-remix-eevee-brown",
           "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-cafe-remix-eevee-brown.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Alcremie-VanillaCream-Bonus-CaféRemix-GengarPurple",
+          "slug": "alcremie-vanilla-cream-cafe-remix-gengar-purple",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-cafe-remix-gengar-purple",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Alcremie-VanillaCream-Bonus-CaféRemix-GengarPurple-★",
+          "slug": "alcremie-vanilla-cream-cafe-remix-gengar-purple",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-cafe-remix-gengar-purple.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Alcremie-VanillaCream-Bonus-CaféRemix-GengarPurple-3DS",
+          "slug": "alcremie-vanilla-cream-cafe-remix-gengar-purple",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-cafe-remix-gengar-purple.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Alcremie-VanillaCream-Bonus-CaféRemix-GengarPurple-3DS-★",
+          "slug": "alcremie-vanilla-cream-cafe-remix-gengar-purple",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-cafe-remix-gengar-purple.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Alcremie-VanillaCream-Bonus-CaféRemix-GothoritaBlack",
+          "slug": "alcremie-vanilla-cream-cafe-remix-gothorita-black",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-cafe-remix-gothorita-black",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Alcremie-VanillaCream-Bonus-CaféRemix-GothoritaBlack-★",
+          "slug": "alcremie-vanilla-cream-cafe-remix-gothorita-black",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-cafe-remix-gothorita-black.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Alcremie-VanillaCream-Bonus-CaféRemix-GothoritaBlack-3DS",
+          "slug": "alcremie-vanilla-cream-cafe-remix-gothorita-black",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-cafe-remix-gothorita-black.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Alcremie-VanillaCream-Bonus-CaféRemix-GothoritaBlack-3DS-★",
+          "slug": "alcremie-vanilla-cream-cafe-remix-gothorita-black",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-cafe-remix-gothorita-black.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -122560,6 +122928,52 @@
       },
       {
         "regular": {
+          "name": "Alcremie-VanillaCream-Bonus-CaféRemix-MinccinoGray",
+          "slug": "alcremie-vanilla-cream-cafe-remix-minccino-gray",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-cafe-remix-minccino-gray",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Alcremie-VanillaCream-Bonus-CaféRemix-MinccinoGray-★",
+          "slug": "alcremie-vanilla-cream-cafe-remix-minccino-gray",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-cafe-remix-minccino-gray.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Alcremie-VanillaCream-Bonus-CaféRemix-MinccinoGray-3DS",
+          "slug": "alcremie-vanilla-cream-cafe-remix-minccino-gray",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-cafe-remix-minccino-gray.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Alcremie-VanillaCream-Bonus-CaféRemix-MinccinoGray-3DS-★",
+          "slug": "alcremie-vanilla-cream-cafe-remix-minccino-gray",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-cafe-remix-minccino-gray.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
           "name": "Alcremie-VanillaCream-Bonus-CaféRemix-PikachuYellow",
           "slug": "alcremie-vanilla-cream-cafe-remix-pikachu-yellow",
           "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-cafe-remix-pikachu-yellow",
@@ -122595,6 +123009,52 @@
           "name": "Alcremie-VanillaCream-Bonus-CaféRemix-PikachuYellow-3DS-★",
           "slug": "alcremie-vanilla-cream-cafe-remix-pikachu-yellow",
           "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-cafe-remix-pikachu-yellow.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Alcremie-VanillaCream-Bonus-CaféRemix-SquirtleBlue",
+          "slug": "alcremie-vanilla-cream-cafe-remix-squirtle-blue",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-cafe-remix-squirtle-blue",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Alcremie-VanillaCream-Bonus-CaféRemix-SquirtleBlue-★",
+          "slug": "alcremie-vanilla-cream-cafe-remix-squirtle-blue",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-cafe-remix-squirtle-blue.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Alcremie-VanillaCream-Bonus-CaféRemix-SquirtleBlue-3DS",
+          "slug": "alcremie-vanilla-cream-cafe-remix-squirtle-blue",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-cafe-remix-squirtle-blue.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Alcremie-VanillaCream-Bonus-CaféRemix-SquirtleBlue-3DS-★",
+          "slug": "alcremie-vanilla-cream-cafe-remix-squirtle-blue",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-cafe-remix-squirtle-blue.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -122744,6 +123204,52 @@
       },
       {
         "regular": {
+          "name": "Alcremie-VanillaCream-CloverSweet-Bonus-CaféRemix-DragoniteOrange",
+          "slug": "alcremie-vanilla-cream-clover-sweet-cafe-remix-dragonite-orange",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-clover-sweet-cafe-remix-dragonite-orange",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Alcremie-VanillaCream-CloverSweet-Bonus-CaféRemix-DragoniteOrange-★",
+          "slug": "alcremie-vanilla-cream-clover-sweet-cafe-remix-dragonite-orange",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-clover-sweet-cafe-remix-dragonite-orange.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Alcremie-VanillaCream-CloverSweet-Bonus-CaféRemix-DragoniteOrange-3DS",
+          "slug": "alcremie-vanilla-cream-clover-sweet-cafe-remix-dragonite-orange",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-clover-sweet-cafe-remix-dragonite-orange.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Alcremie-VanillaCream-CloverSweet-Bonus-CaféRemix-DragoniteOrange-3DS-★",
+          "slug": "alcremie-vanilla-cream-clover-sweet-cafe-remix-dragonite-orange",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-clover-sweet-cafe-remix-dragonite-orange.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
           "name": "Alcremie-VanillaCream-CloverSweet-Bonus-CaféRemix-EeveeBrown",
           "slug": "alcremie-vanilla-cream-clover-sweet-cafe-remix-eevee-brown",
           "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-clover-sweet-cafe-remix-eevee-brown",
@@ -122779,6 +123285,98 @@
           "name": "Alcremie-VanillaCream-CloverSweet-Bonus-CaféRemix-EeveeBrown-3DS-★",
           "slug": "alcremie-vanilla-cream-clover-sweet-cafe-remix-eevee-brown",
           "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-clover-sweet-cafe-remix-eevee-brown.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Alcremie-VanillaCream-CloverSweet-Bonus-CaféRemix-GengarPurple",
+          "slug": "alcremie-vanilla-cream-clover-sweet-cafe-remix-gengar-purple",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-clover-sweet-cafe-remix-gengar-purple",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Alcremie-VanillaCream-CloverSweet-Bonus-CaféRemix-GengarPurple-★",
+          "slug": "alcremie-vanilla-cream-clover-sweet-cafe-remix-gengar-purple",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-clover-sweet-cafe-remix-gengar-purple.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Alcremie-VanillaCream-CloverSweet-Bonus-CaféRemix-GengarPurple-3DS",
+          "slug": "alcremie-vanilla-cream-clover-sweet-cafe-remix-gengar-purple",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-clover-sweet-cafe-remix-gengar-purple.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Alcremie-VanillaCream-CloverSweet-Bonus-CaféRemix-GengarPurple-3DS-★",
+          "slug": "alcremie-vanilla-cream-clover-sweet-cafe-remix-gengar-purple",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-clover-sweet-cafe-remix-gengar-purple.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Alcremie-VanillaCream-CloverSweet-Bonus-CaféRemix-GothoritaBlack",
+          "slug": "alcremie-vanilla-cream-clover-sweet-cafe-remix-gothorita-black",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-clover-sweet-cafe-remix-gothorita-black",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Alcremie-VanillaCream-CloverSweet-Bonus-CaféRemix-GothoritaBlack-★",
+          "slug": "alcremie-vanilla-cream-clover-sweet-cafe-remix-gothorita-black",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-clover-sweet-cafe-remix-gothorita-black.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Alcremie-VanillaCream-CloverSweet-Bonus-CaféRemix-GothoritaBlack-3DS",
+          "slug": "alcremie-vanilla-cream-clover-sweet-cafe-remix-gothorita-black",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-clover-sweet-cafe-remix-gothorita-black.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Alcremie-VanillaCream-CloverSweet-Bonus-CaféRemix-GothoritaBlack-3DS-★",
+          "slug": "alcremie-vanilla-cream-clover-sweet-cafe-remix-gothorita-black",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-clover-sweet-cafe-remix-gothorita-black.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -122928,6 +123526,52 @@
       },
       {
         "regular": {
+          "name": "Alcremie-VanillaCream-CloverSweet-Bonus-CaféRemix-MinccinoGray",
+          "slug": "alcremie-vanilla-cream-clover-sweet-cafe-remix-minccino-gray",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-clover-sweet-cafe-remix-minccino-gray",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Alcremie-VanillaCream-CloverSweet-Bonus-CaféRemix-MinccinoGray-★",
+          "slug": "alcremie-vanilla-cream-clover-sweet-cafe-remix-minccino-gray",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-clover-sweet-cafe-remix-minccino-gray.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Alcremie-VanillaCream-CloverSweet-Bonus-CaféRemix-MinccinoGray-3DS",
+          "slug": "alcremie-vanilla-cream-clover-sweet-cafe-remix-minccino-gray",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-clover-sweet-cafe-remix-minccino-gray.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Alcremie-VanillaCream-CloverSweet-Bonus-CaféRemix-MinccinoGray-3DS-★",
+          "slug": "alcremie-vanilla-cream-clover-sweet-cafe-remix-minccino-gray",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-clover-sweet-cafe-remix-minccino-gray.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
           "name": "Alcremie-VanillaCream-CloverSweet-Bonus-CaféRemix-PikachuYellow",
           "slug": "alcremie-vanilla-cream-clover-sweet-cafe-remix-pikachu-yellow",
           "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-clover-sweet-cafe-remix-pikachu-yellow",
@@ -122963,6 +123607,52 @@
           "name": "Alcremie-VanillaCream-CloverSweet-Bonus-CaféRemix-PikachuYellow-3DS-★",
           "slug": "alcremie-vanilla-cream-clover-sweet-cafe-remix-pikachu-yellow",
           "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-clover-sweet-cafe-remix-pikachu-yellow.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Alcremie-VanillaCream-CloverSweet-Bonus-CaféRemix-SquirtleBlue",
+          "slug": "alcremie-vanilla-cream-clover-sweet-cafe-remix-squirtle-blue",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-clover-sweet-cafe-remix-squirtle-blue",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Alcremie-VanillaCream-CloverSweet-Bonus-CaféRemix-SquirtleBlue-★",
+          "slug": "alcremie-vanilla-cream-clover-sweet-cafe-remix-squirtle-blue",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-clover-sweet-cafe-remix-squirtle-blue.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Alcremie-VanillaCream-CloverSweet-Bonus-CaféRemix-SquirtleBlue-3DS",
+          "slug": "alcremie-vanilla-cream-clover-sweet-cafe-remix-squirtle-blue",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-clover-sweet-cafe-remix-squirtle-blue.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Alcremie-VanillaCream-CloverSweet-Bonus-CaféRemix-SquirtleBlue-3DS-★",
+          "slug": "alcremie-vanilla-cream-clover-sweet-cafe-remix-squirtle-blue",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-clover-sweet-cafe-remix-squirtle-blue.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -123112,6 +123802,52 @@
       },
       {
         "regular": {
+          "name": "Alcremie-VanillaCream-FlowerSweet-Bonus-CaféRemix-DragoniteOrange",
+          "slug": "alcremie-vanilla-cream-flower-sweet-cafe-remix-dragonite-orange",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-flower-sweet-cafe-remix-dragonite-orange",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Alcremie-VanillaCream-FlowerSweet-Bonus-CaféRemix-DragoniteOrange-★",
+          "slug": "alcremie-vanilla-cream-flower-sweet-cafe-remix-dragonite-orange",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-flower-sweet-cafe-remix-dragonite-orange.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Alcremie-VanillaCream-FlowerSweet-Bonus-CaféRemix-DragoniteOrange-3DS",
+          "slug": "alcremie-vanilla-cream-flower-sweet-cafe-remix-dragonite-orange",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-flower-sweet-cafe-remix-dragonite-orange.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Alcremie-VanillaCream-FlowerSweet-Bonus-CaféRemix-DragoniteOrange-3DS-★",
+          "slug": "alcremie-vanilla-cream-flower-sweet-cafe-remix-dragonite-orange",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-flower-sweet-cafe-remix-dragonite-orange.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
           "name": "Alcremie-VanillaCream-FlowerSweet-Bonus-CaféRemix-EeveeBrown",
           "slug": "alcremie-vanilla-cream-flower-sweet-cafe-remix-eevee-brown",
           "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-flower-sweet-cafe-remix-eevee-brown",
@@ -123147,6 +123883,98 @@
           "name": "Alcremie-VanillaCream-FlowerSweet-Bonus-CaféRemix-EeveeBrown-3DS-★",
           "slug": "alcremie-vanilla-cream-flower-sweet-cafe-remix-eevee-brown",
           "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-flower-sweet-cafe-remix-eevee-brown.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Alcremie-VanillaCream-FlowerSweet-Bonus-CaféRemix-GengarPurple",
+          "slug": "alcremie-vanilla-cream-flower-sweet-cafe-remix-gengar-purple",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-flower-sweet-cafe-remix-gengar-purple",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Alcremie-VanillaCream-FlowerSweet-Bonus-CaféRemix-GengarPurple-★",
+          "slug": "alcremie-vanilla-cream-flower-sweet-cafe-remix-gengar-purple",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-flower-sweet-cafe-remix-gengar-purple.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Alcremie-VanillaCream-FlowerSweet-Bonus-CaféRemix-GengarPurple-3DS",
+          "slug": "alcremie-vanilla-cream-flower-sweet-cafe-remix-gengar-purple",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-flower-sweet-cafe-remix-gengar-purple.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Alcremie-VanillaCream-FlowerSweet-Bonus-CaféRemix-GengarPurple-3DS-★",
+          "slug": "alcremie-vanilla-cream-flower-sweet-cafe-remix-gengar-purple",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-flower-sweet-cafe-remix-gengar-purple.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Alcremie-VanillaCream-FlowerSweet-Bonus-CaféRemix-GothoritaBlack",
+          "slug": "alcremie-vanilla-cream-flower-sweet-cafe-remix-gothorita-black",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-flower-sweet-cafe-remix-gothorita-black",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Alcremie-VanillaCream-FlowerSweet-Bonus-CaféRemix-GothoritaBlack-★",
+          "slug": "alcremie-vanilla-cream-flower-sweet-cafe-remix-gothorita-black",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-flower-sweet-cafe-remix-gothorita-black.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Alcremie-VanillaCream-FlowerSweet-Bonus-CaféRemix-GothoritaBlack-3DS",
+          "slug": "alcremie-vanilla-cream-flower-sweet-cafe-remix-gothorita-black",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-flower-sweet-cafe-remix-gothorita-black.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Alcremie-VanillaCream-FlowerSweet-Bonus-CaféRemix-GothoritaBlack-3DS-★",
+          "slug": "alcremie-vanilla-cream-flower-sweet-cafe-remix-gothorita-black",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-flower-sweet-cafe-remix-gothorita-black.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -123296,6 +124124,52 @@
       },
       {
         "regular": {
+          "name": "Alcremie-VanillaCream-FlowerSweet-Bonus-CaféRemix-MinccinoGray",
+          "slug": "alcremie-vanilla-cream-flower-sweet-cafe-remix-minccino-gray",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-flower-sweet-cafe-remix-minccino-gray",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Alcremie-VanillaCream-FlowerSweet-Bonus-CaféRemix-MinccinoGray-★",
+          "slug": "alcremie-vanilla-cream-flower-sweet-cafe-remix-minccino-gray",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-flower-sweet-cafe-remix-minccino-gray.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Alcremie-VanillaCream-FlowerSweet-Bonus-CaféRemix-MinccinoGray-3DS",
+          "slug": "alcremie-vanilla-cream-flower-sweet-cafe-remix-minccino-gray",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-flower-sweet-cafe-remix-minccino-gray.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Alcremie-VanillaCream-FlowerSweet-Bonus-CaféRemix-MinccinoGray-3DS-★",
+          "slug": "alcremie-vanilla-cream-flower-sweet-cafe-remix-minccino-gray",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-flower-sweet-cafe-remix-minccino-gray.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
           "name": "Alcremie-VanillaCream-FlowerSweet-Bonus-CaféRemix-PikachuYellow",
           "slug": "alcremie-vanilla-cream-flower-sweet-cafe-remix-pikachu-yellow",
           "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-flower-sweet-cafe-remix-pikachu-yellow",
@@ -123331,6 +124205,52 @@
           "name": "Alcremie-VanillaCream-FlowerSweet-Bonus-CaféRemix-PikachuYellow-3DS-★",
           "slug": "alcremie-vanilla-cream-flower-sweet-cafe-remix-pikachu-yellow",
           "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-flower-sweet-cafe-remix-pikachu-yellow.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Alcremie-VanillaCream-FlowerSweet-Bonus-CaféRemix-SquirtleBlue",
+          "slug": "alcremie-vanilla-cream-flower-sweet-cafe-remix-squirtle-blue",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-flower-sweet-cafe-remix-squirtle-blue",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Alcremie-VanillaCream-FlowerSweet-Bonus-CaféRemix-SquirtleBlue-★",
+          "slug": "alcremie-vanilla-cream-flower-sweet-cafe-remix-squirtle-blue",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-flower-sweet-cafe-remix-squirtle-blue.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Alcremie-VanillaCream-FlowerSweet-Bonus-CaféRemix-SquirtleBlue-3DS",
+          "slug": "alcremie-vanilla-cream-flower-sweet-cafe-remix-squirtle-blue",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-flower-sweet-cafe-remix-squirtle-blue.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Alcremie-VanillaCream-FlowerSweet-Bonus-CaféRemix-SquirtleBlue-3DS-★",
+          "slug": "alcremie-vanilla-cream-flower-sweet-cafe-remix-squirtle-blue",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-flower-sweet-cafe-remix-squirtle-blue.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -123480,6 +124400,52 @@
       },
       {
         "regular": {
+          "name": "Alcremie-VanillaCream-LoveSweet-Bonus-CaféRemix-DragoniteOrange",
+          "slug": "alcremie-vanilla-cream-love-sweet-cafe-remix-dragonite-orange",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-love-sweet-cafe-remix-dragonite-orange",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Alcremie-VanillaCream-LoveSweet-Bonus-CaféRemix-DragoniteOrange-★",
+          "slug": "alcremie-vanilla-cream-love-sweet-cafe-remix-dragonite-orange",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-love-sweet-cafe-remix-dragonite-orange.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Alcremie-VanillaCream-LoveSweet-Bonus-CaféRemix-DragoniteOrange-3DS",
+          "slug": "alcremie-vanilla-cream-love-sweet-cafe-remix-dragonite-orange",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-love-sweet-cafe-remix-dragonite-orange.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Alcremie-VanillaCream-LoveSweet-Bonus-CaféRemix-DragoniteOrange-3DS-★",
+          "slug": "alcremie-vanilla-cream-love-sweet-cafe-remix-dragonite-orange",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-love-sweet-cafe-remix-dragonite-orange.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
           "name": "Alcremie-VanillaCream-LoveSweet-Bonus-CaféRemix-EeveeBrown",
           "slug": "alcremie-vanilla-cream-love-sweet-cafe-remix-eevee-brown",
           "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-love-sweet-cafe-remix-eevee-brown",
@@ -123515,6 +124481,98 @@
           "name": "Alcremie-VanillaCream-LoveSweet-Bonus-CaféRemix-EeveeBrown-3DS-★",
           "slug": "alcremie-vanilla-cream-love-sweet-cafe-remix-eevee-brown",
           "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-love-sweet-cafe-remix-eevee-brown.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Alcremie-VanillaCream-LoveSweet-Bonus-CaféRemix-GengarPurple",
+          "slug": "alcremie-vanilla-cream-love-sweet-cafe-remix-gengar-purple",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-love-sweet-cafe-remix-gengar-purple",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Alcremie-VanillaCream-LoveSweet-Bonus-CaféRemix-GengarPurple-★",
+          "slug": "alcremie-vanilla-cream-love-sweet-cafe-remix-gengar-purple",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-love-sweet-cafe-remix-gengar-purple.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Alcremie-VanillaCream-LoveSweet-Bonus-CaféRemix-GengarPurple-3DS",
+          "slug": "alcremie-vanilla-cream-love-sweet-cafe-remix-gengar-purple",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-love-sweet-cafe-remix-gengar-purple.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Alcremie-VanillaCream-LoveSweet-Bonus-CaféRemix-GengarPurple-3DS-★",
+          "slug": "alcremie-vanilla-cream-love-sweet-cafe-remix-gengar-purple",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-love-sweet-cafe-remix-gengar-purple.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Alcremie-VanillaCream-LoveSweet-Bonus-CaféRemix-GothoritaBlack",
+          "slug": "alcremie-vanilla-cream-love-sweet-cafe-remix-gothorita-black",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-love-sweet-cafe-remix-gothorita-black",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Alcremie-VanillaCream-LoveSweet-Bonus-CaféRemix-GothoritaBlack-★",
+          "slug": "alcremie-vanilla-cream-love-sweet-cafe-remix-gothorita-black",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-love-sweet-cafe-remix-gothorita-black.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Alcremie-VanillaCream-LoveSweet-Bonus-CaféRemix-GothoritaBlack-3DS",
+          "slug": "alcremie-vanilla-cream-love-sweet-cafe-remix-gothorita-black",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-love-sweet-cafe-remix-gothorita-black.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Alcremie-VanillaCream-LoveSweet-Bonus-CaféRemix-GothoritaBlack-3DS-★",
+          "slug": "alcremie-vanilla-cream-love-sweet-cafe-remix-gothorita-black",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-love-sweet-cafe-remix-gothorita-black.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -123664,6 +124722,52 @@
       },
       {
         "regular": {
+          "name": "Alcremie-VanillaCream-LoveSweet-Bonus-CaféRemix-MinccinoGray",
+          "slug": "alcremie-vanilla-cream-love-sweet-cafe-remix-minccino-gray",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-love-sweet-cafe-remix-minccino-gray",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Alcremie-VanillaCream-LoveSweet-Bonus-CaféRemix-MinccinoGray-★",
+          "slug": "alcremie-vanilla-cream-love-sweet-cafe-remix-minccino-gray",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-love-sweet-cafe-remix-minccino-gray.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Alcremie-VanillaCream-LoveSweet-Bonus-CaféRemix-MinccinoGray-3DS",
+          "slug": "alcremie-vanilla-cream-love-sweet-cafe-remix-minccino-gray",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-love-sweet-cafe-remix-minccino-gray.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Alcremie-VanillaCream-LoveSweet-Bonus-CaféRemix-MinccinoGray-3DS-★",
+          "slug": "alcremie-vanilla-cream-love-sweet-cafe-remix-minccino-gray",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-love-sweet-cafe-remix-minccino-gray.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
           "name": "Alcremie-VanillaCream-LoveSweet-Bonus-CaféRemix-PikachuYellow",
           "slug": "alcremie-vanilla-cream-love-sweet-cafe-remix-pikachu-yellow",
           "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-love-sweet-cafe-remix-pikachu-yellow",
@@ -123699,6 +124803,52 @@
           "name": "Alcremie-VanillaCream-LoveSweet-Bonus-CaféRemix-PikachuYellow-3DS-★",
           "slug": "alcremie-vanilla-cream-love-sweet-cafe-remix-pikachu-yellow",
           "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-love-sweet-cafe-remix-pikachu-yellow.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Alcremie-VanillaCream-LoveSweet-Bonus-CaféRemix-SquirtleBlue",
+          "slug": "alcremie-vanilla-cream-love-sweet-cafe-remix-squirtle-blue",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-love-sweet-cafe-remix-squirtle-blue",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Alcremie-VanillaCream-LoveSweet-Bonus-CaféRemix-SquirtleBlue-★",
+          "slug": "alcremie-vanilla-cream-love-sweet-cafe-remix-squirtle-blue",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-love-sweet-cafe-remix-squirtle-blue.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Alcremie-VanillaCream-LoveSweet-Bonus-CaféRemix-SquirtleBlue-3DS",
+          "slug": "alcremie-vanilla-cream-love-sweet-cafe-remix-squirtle-blue",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-love-sweet-cafe-remix-squirtle-blue.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Alcremie-VanillaCream-LoveSweet-Bonus-CaféRemix-SquirtleBlue-3DS-★",
+          "slug": "alcremie-vanilla-cream-love-sweet-cafe-remix-squirtle-blue",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-love-sweet-cafe-remix-squirtle-blue.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -123848,6 +124998,52 @@
       },
       {
         "regular": {
+          "name": "Alcremie-VanillaCream-RibbonSweet-Bonus-CaféRemix-DragoniteOrange",
+          "slug": "alcremie-vanilla-cream-ribbon-sweet-cafe-remix-dragonite-orange",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-ribbon-sweet-cafe-remix-dragonite-orange",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Alcremie-VanillaCream-RibbonSweet-Bonus-CaféRemix-DragoniteOrange-★",
+          "slug": "alcremie-vanilla-cream-ribbon-sweet-cafe-remix-dragonite-orange",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-ribbon-sweet-cafe-remix-dragonite-orange.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Alcremie-VanillaCream-RibbonSweet-Bonus-CaféRemix-DragoniteOrange-3DS",
+          "slug": "alcremie-vanilla-cream-ribbon-sweet-cafe-remix-dragonite-orange",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-ribbon-sweet-cafe-remix-dragonite-orange.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Alcremie-VanillaCream-RibbonSweet-Bonus-CaféRemix-DragoniteOrange-3DS-★",
+          "slug": "alcremie-vanilla-cream-ribbon-sweet-cafe-remix-dragonite-orange",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-ribbon-sweet-cafe-remix-dragonite-orange.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
           "name": "Alcremie-VanillaCream-RibbonSweet-Bonus-CaféRemix-EeveeBrown",
           "slug": "alcremie-vanilla-cream-ribbon-sweet-cafe-remix-eevee-brown",
           "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-ribbon-sweet-cafe-remix-eevee-brown",
@@ -123883,6 +125079,98 @@
           "name": "Alcremie-VanillaCream-RibbonSweet-Bonus-CaféRemix-EeveeBrown-3DS-★",
           "slug": "alcremie-vanilla-cream-ribbon-sweet-cafe-remix-eevee-brown",
           "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-ribbon-sweet-cafe-remix-eevee-brown.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Alcremie-VanillaCream-RibbonSweet-Bonus-CaféRemix-GengarPurple",
+          "slug": "alcremie-vanilla-cream-ribbon-sweet-cafe-remix-gengar-purple",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-ribbon-sweet-cafe-remix-gengar-purple",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Alcremie-VanillaCream-RibbonSweet-Bonus-CaféRemix-GengarPurple-★",
+          "slug": "alcremie-vanilla-cream-ribbon-sweet-cafe-remix-gengar-purple",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-ribbon-sweet-cafe-remix-gengar-purple.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Alcremie-VanillaCream-RibbonSweet-Bonus-CaféRemix-GengarPurple-3DS",
+          "slug": "alcremie-vanilla-cream-ribbon-sweet-cafe-remix-gengar-purple",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-ribbon-sweet-cafe-remix-gengar-purple.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Alcremie-VanillaCream-RibbonSweet-Bonus-CaféRemix-GengarPurple-3DS-★",
+          "slug": "alcremie-vanilla-cream-ribbon-sweet-cafe-remix-gengar-purple",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-ribbon-sweet-cafe-remix-gengar-purple.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Alcremie-VanillaCream-RibbonSweet-Bonus-CaféRemix-GothoritaBlack",
+          "slug": "alcremie-vanilla-cream-ribbon-sweet-cafe-remix-gothorita-black",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-ribbon-sweet-cafe-remix-gothorita-black",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Alcremie-VanillaCream-RibbonSweet-Bonus-CaféRemix-GothoritaBlack-★",
+          "slug": "alcremie-vanilla-cream-ribbon-sweet-cafe-remix-gothorita-black",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-ribbon-sweet-cafe-remix-gothorita-black.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Alcremie-VanillaCream-RibbonSweet-Bonus-CaféRemix-GothoritaBlack-3DS",
+          "slug": "alcremie-vanilla-cream-ribbon-sweet-cafe-remix-gothorita-black",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-ribbon-sweet-cafe-remix-gothorita-black.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Alcremie-VanillaCream-RibbonSweet-Bonus-CaféRemix-GothoritaBlack-3DS-★",
+          "slug": "alcremie-vanilla-cream-ribbon-sweet-cafe-remix-gothorita-black",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-ribbon-sweet-cafe-remix-gothorita-black.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -124032,6 +125320,52 @@
       },
       {
         "regular": {
+          "name": "Alcremie-VanillaCream-RibbonSweet-Bonus-CaféRemix-MinccinoGray",
+          "slug": "alcremie-vanilla-cream-ribbon-sweet-cafe-remix-minccino-gray",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-ribbon-sweet-cafe-remix-minccino-gray",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Alcremie-VanillaCream-RibbonSweet-Bonus-CaféRemix-MinccinoGray-★",
+          "slug": "alcremie-vanilla-cream-ribbon-sweet-cafe-remix-minccino-gray",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-ribbon-sweet-cafe-remix-minccino-gray.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Alcremie-VanillaCream-RibbonSweet-Bonus-CaféRemix-MinccinoGray-3DS",
+          "slug": "alcremie-vanilla-cream-ribbon-sweet-cafe-remix-minccino-gray",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-ribbon-sweet-cafe-remix-minccino-gray.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Alcremie-VanillaCream-RibbonSweet-Bonus-CaféRemix-MinccinoGray-3DS-★",
+          "slug": "alcremie-vanilla-cream-ribbon-sweet-cafe-remix-minccino-gray",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-ribbon-sweet-cafe-remix-minccino-gray.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
           "name": "Alcremie-VanillaCream-RibbonSweet-Bonus-CaféRemix-PikachuYellow",
           "slug": "alcremie-vanilla-cream-ribbon-sweet-cafe-remix-pikachu-yellow",
           "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-ribbon-sweet-cafe-remix-pikachu-yellow",
@@ -124067,6 +125401,52 @@
           "name": "Alcremie-VanillaCream-RibbonSweet-Bonus-CaféRemix-PikachuYellow-3DS-★",
           "slug": "alcremie-vanilla-cream-ribbon-sweet-cafe-remix-pikachu-yellow",
           "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-ribbon-sweet-cafe-remix-pikachu-yellow.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Alcremie-VanillaCream-RibbonSweet-Bonus-CaféRemix-SquirtleBlue",
+          "slug": "alcremie-vanilla-cream-ribbon-sweet-cafe-remix-squirtle-blue",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-ribbon-sweet-cafe-remix-squirtle-blue",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Alcremie-VanillaCream-RibbonSweet-Bonus-CaféRemix-SquirtleBlue-★",
+          "slug": "alcremie-vanilla-cream-ribbon-sweet-cafe-remix-squirtle-blue",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-ribbon-sweet-cafe-remix-squirtle-blue.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Alcremie-VanillaCream-RibbonSweet-Bonus-CaféRemix-SquirtleBlue-3DS",
+          "slug": "alcremie-vanilla-cream-ribbon-sweet-cafe-remix-squirtle-blue",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-ribbon-sweet-cafe-remix-squirtle-blue.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Alcremie-VanillaCream-RibbonSweet-Bonus-CaféRemix-SquirtleBlue-3DS-★",
+          "slug": "alcremie-vanilla-cream-ribbon-sweet-cafe-remix-squirtle-blue",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-ribbon-sweet-cafe-remix-squirtle-blue.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -124216,6 +125596,52 @@
       },
       {
         "regular": {
+          "name": "Alcremie-VanillaCream-StarSweet-Bonus-CaféRemix-DragoniteOrange",
+          "slug": "alcremie-vanilla-cream-star-sweet-cafe-remix-dragonite-orange",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-star-sweet-cafe-remix-dragonite-orange",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Alcremie-VanillaCream-StarSweet-Bonus-CaféRemix-DragoniteOrange-★",
+          "slug": "alcremie-vanilla-cream-star-sweet-cafe-remix-dragonite-orange",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-star-sweet-cafe-remix-dragonite-orange.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Alcremie-VanillaCream-StarSweet-Bonus-CaféRemix-DragoniteOrange-3DS",
+          "slug": "alcremie-vanilla-cream-star-sweet-cafe-remix-dragonite-orange",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-star-sweet-cafe-remix-dragonite-orange.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Alcremie-VanillaCream-StarSweet-Bonus-CaféRemix-DragoniteOrange-3DS-★",
+          "slug": "alcremie-vanilla-cream-star-sweet-cafe-remix-dragonite-orange",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-star-sweet-cafe-remix-dragonite-orange.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
           "name": "Alcremie-VanillaCream-StarSweet-Bonus-CaféRemix-EeveeBrown",
           "slug": "alcremie-vanilla-cream-star-sweet-cafe-remix-eevee-brown",
           "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-star-sweet-cafe-remix-eevee-brown",
@@ -124251,6 +125677,98 @@
           "name": "Alcremie-VanillaCream-StarSweet-Bonus-CaféRemix-EeveeBrown-3DS-★",
           "slug": "alcremie-vanilla-cream-star-sweet-cafe-remix-eevee-brown",
           "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-star-sweet-cafe-remix-eevee-brown.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Alcremie-VanillaCream-StarSweet-Bonus-CaféRemix-GengarPurple",
+          "slug": "alcremie-vanilla-cream-star-sweet-cafe-remix-gengar-purple",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-star-sweet-cafe-remix-gengar-purple",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Alcremie-VanillaCream-StarSweet-Bonus-CaféRemix-GengarPurple-★",
+          "slug": "alcremie-vanilla-cream-star-sweet-cafe-remix-gengar-purple",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-star-sweet-cafe-remix-gengar-purple.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Alcremie-VanillaCream-StarSweet-Bonus-CaféRemix-GengarPurple-3DS",
+          "slug": "alcremie-vanilla-cream-star-sweet-cafe-remix-gengar-purple",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-star-sweet-cafe-remix-gengar-purple.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Alcremie-VanillaCream-StarSweet-Bonus-CaféRemix-GengarPurple-3DS-★",
+          "slug": "alcremie-vanilla-cream-star-sweet-cafe-remix-gengar-purple",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-star-sweet-cafe-remix-gengar-purple.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Alcremie-VanillaCream-StarSweet-Bonus-CaféRemix-GothoritaBlack",
+          "slug": "alcremie-vanilla-cream-star-sweet-cafe-remix-gothorita-black",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-star-sweet-cafe-remix-gothorita-black",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Alcremie-VanillaCream-StarSweet-Bonus-CaféRemix-GothoritaBlack-★",
+          "slug": "alcremie-vanilla-cream-star-sweet-cafe-remix-gothorita-black",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-star-sweet-cafe-remix-gothorita-black.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Alcremie-VanillaCream-StarSweet-Bonus-CaféRemix-GothoritaBlack-3DS",
+          "slug": "alcremie-vanilla-cream-star-sweet-cafe-remix-gothorita-black",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-star-sweet-cafe-remix-gothorita-black.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Alcremie-VanillaCream-StarSweet-Bonus-CaféRemix-GothoritaBlack-3DS-★",
+          "slug": "alcremie-vanilla-cream-star-sweet-cafe-remix-gothorita-black",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-star-sweet-cafe-remix-gothorita-black.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -124400,6 +125918,52 @@
       },
       {
         "regular": {
+          "name": "Alcremie-VanillaCream-StarSweet-Bonus-CaféRemix-MinccinoGray",
+          "slug": "alcremie-vanilla-cream-star-sweet-cafe-remix-minccino-gray",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-star-sweet-cafe-remix-minccino-gray",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Alcremie-VanillaCream-StarSweet-Bonus-CaféRemix-MinccinoGray-★",
+          "slug": "alcremie-vanilla-cream-star-sweet-cafe-remix-minccino-gray",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-star-sweet-cafe-remix-minccino-gray.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Alcremie-VanillaCream-StarSweet-Bonus-CaféRemix-MinccinoGray-3DS",
+          "slug": "alcremie-vanilla-cream-star-sweet-cafe-remix-minccino-gray",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-star-sweet-cafe-remix-minccino-gray.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Alcremie-VanillaCream-StarSweet-Bonus-CaféRemix-MinccinoGray-3DS-★",
+          "slug": "alcremie-vanilla-cream-star-sweet-cafe-remix-minccino-gray",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-star-sweet-cafe-remix-minccino-gray.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
           "name": "Alcremie-VanillaCream-StarSweet-Bonus-CaféRemix-PikachuYellow",
           "slug": "alcremie-vanilla-cream-star-sweet-cafe-remix-pikachu-yellow",
           "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-star-sweet-cafe-remix-pikachu-yellow",
@@ -124435,6 +125999,52 @@
           "name": "Alcremie-VanillaCream-StarSweet-Bonus-CaféRemix-PikachuYellow-3DS-★",
           "slug": "alcremie-vanilla-cream-star-sweet-cafe-remix-pikachu-yellow",
           "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-star-sweet-cafe-remix-pikachu-yellow.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Alcremie-VanillaCream-StarSweet-Bonus-CaféRemix-SquirtleBlue",
+          "slug": "alcremie-vanilla-cream-star-sweet-cafe-remix-squirtle-blue",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-star-sweet-cafe-remix-squirtle-blue",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Alcremie-VanillaCream-StarSweet-Bonus-CaféRemix-SquirtleBlue-★",
+          "slug": "alcremie-vanilla-cream-star-sweet-cafe-remix-squirtle-blue",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-star-sweet-cafe-remix-squirtle-blue.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Alcremie-VanillaCream-StarSweet-Bonus-CaféRemix-SquirtleBlue-3DS",
+          "slug": "alcremie-vanilla-cream-star-sweet-cafe-remix-squirtle-blue",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-star-sweet-cafe-remix-squirtle-blue.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Alcremie-VanillaCream-StarSweet-Bonus-CaféRemix-SquirtleBlue-3DS-★",
+          "slug": "alcremie-vanilla-cream-star-sweet-cafe-remix-squirtle-blue",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-star-sweet-cafe-remix-squirtle-blue.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -124584,6 +126194,52 @@
       },
       {
         "regular": {
+          "name": "Alcremie-VanillaCream-StrawberrySweet-Bonus-CaféRemix-DragoniteOrange",
+          "slug": "alcremie-vanilla-cream-strawberry-sweet-cafe-remix-dragonite-orange",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-strawberry-sweet-cafe-remix-dragonite-orange",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Alcremie-VanillaCream-StrawberrySweet-Bonus-CaféRemix-DragoniteOrange-★",
+          "slug": "alcremie-vanilla-cream-strawberry-sweet-cafe-remix-dragonite-orange",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-strawberry-sweet-cafe-remix-dragonite-orange.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Alcremie-VanillaCream-StrawberrySweet-Bonus-CaféRemix-DragoniteOrange-3DS",
+          "slug": "alcremie-vanilla-cream-strawberry-sweet-cafe-remix-dragonite-orange",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-strawberry-sweet-cafe-remix-dragonite-orange.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Alcremie-VanillaCream-StrawberrySweet-Bonus-CaféRemix-DragoniteOrange-3DS-★",
+          "slug": "alcremie-vanilla-cream-strawberry-sweet-cafe-remix-dragonite-orange",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-strawberry-sweet-cafe-remix-dragonite-orange.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
           "name": "Alcremie-VanillaCream-StrawberrySweet-Bonus-CaféRemix-EeveeBrown",
           "slug": "alcremie-vanilla-cream-strawberry-sweet-cafe-remix-eevee-brown",
           "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-strawberry-sweet-cafe-remix-eevee-brown",
@@ -124619,6 +126275,98 @@
           "name": "Alcremie-VanillaCream-StrawberrySweet-Bonus-CaféRemix-EeveeBrown-3DS-★",
           "slug": "alcremie-vanilla-cream-strawberry-sweet-cafe-remix-eevee-brown",
           "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-strawberry-sweet-cafe-remix-eevee-brown.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Alcremie-VanillaCream-StrawberrySweet-Bonus-CaféRemix-GengarPurple",
+          "slug": "alcremie-vanilla-cream-strawberry-sweet-cafe-remix-gengar-purple",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-strawberry-sweet-cafe-remix-gengar-purple",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Alcremie-VanillaCream-StrawberrySweet-Bonus-CaféRemix-GengarPurple-★",
+          "slug": "alcremie-vanilla-cream-strawberry-sweet-cafe-remix-gengar-purple",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-strawberry-sweet-cafe-remix-gengar-purple.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Alcremie-VanillaCream-StrawberrySweet-Bonus-CaféRemix-GengarPurple-3DS",
+          "slug": "alcremie-vanilla-cream-strawberry-sweet-cafe-remix-gengar-purple",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-strawberry-sweet-cafe-remix-gengar-purple.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Alcremie-VanillaCream-StrawberrySweet-Bonus-CaféRemix-GengarPurple-3DS-★",
+          "slug": "alcremie-vanilla-cream-strawberry-sweet-cafe-remix-gengar-purple",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-strawberry-sweet-cafe-remix-gengar-purple.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Alcremie-VanillaCream-StrawberrySweet-Bonus-CaféRemix-GothoritaBlack",
+          "slug": "alcremie-vanilla-cream-strawberry-sweet-cafe-remix-gothorita-black",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-strawberry-sweet-cafe-remix-gothorita-black",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Alcremie-VanillaCream-StrawberrySweet-Bonus-CaféRemix-GothoritaBlack-★",
+          "slug": "alcremie-vanilla-cream-strawberry-sweet-cafe-remix-gothorita-black",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-strawberry-sweet-cafe-remix-gothorita-black.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Alcremie-VanillaCream-StrawberrySweet-Bonus-CaféRemix-GothoritaBlack-3DS",
+          "slug": "alcremie-vanilla-cream-strawberry-sweet-cafe-remix-gothorita-black",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-strawberry-sweet-cafe-remix-gothorita-black.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Alcremie-VanillaCream-StrawberrySweet-Bonus-CaféRemix-GothoritaBlack-3DS-★",
+          "slug": "alcremie-vanilla-cream-strawberry-sweet-cafe-remix-gothorita-black",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-strawberry-sweet-cafe-remix-gothorita-black.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -124768,6 +126516,52 @@
       },
       {
         "regular": {
+          "name": "Alcremie-VanillaCream-StrawberrySweet-Bonus-CaféRemix-MinccinoGray",
+          "slug": "alcremie-vanilla-cream-strawberry-sweet-cafe-remix-minccino-gray",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-strawberry-sweet-cafe-remix-minccino-gray",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Alcremie-VanillaCream-StrawberrySweet-Bonus-CaféRemix-MinccinoGray-★",
+          "slug": "alcremie-vanilla-cream-strawberry-sweet-cafe-remix-minccino-gray",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-strawberry-sweet-cafe-remix-minccino-gray.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Alcremie-VanillaCream-StrawberrySweet-Bonus-CaféRemix-MinccinoGray-3DS",
+          "slug": "alcremie-vanilla-cream-strawberry-sweet-cafe-remix-minccino-gray",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-strawberry-sweet-cafe-remix-minccino-gray.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Alcremie-VanillaCream-StrawberrySweet-Bonus-CaféRemix-MinccinoGray-3DS-★",
+          "slug": "alcremie-vanilla-cream-strawberry-sweet-cafe-remix-minccino-gray",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-strawberry-sweet-cafe-remix-minccino-gray.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
           "name": "Alcremie-VanillaCream-StrawberrySweet-Bonus-CaféRemix-PikachuYellow",
           "slug": "alcremie-vanilla-cream-strawberry-sweet-cafe-remix-pikachu-yellow",
           "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-strawberry-sweet-cafe-remix-pikachu-yellow",
@@ -124803,6 +126597,52 @@
           "name": "Alcremie-VanillaCream-StrawberrySweet-Bonus-CaféRemix-PikachuYellow-3DS-★",
           "slug": "alcremie-vanilla-cream-strawberry-sweet-cafe-remix-pikachu-yellow",
           "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-strawberry-sweet-cafe-remix-pikachu-yellow.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Alcremie-VanillaCream-StrawberrySweet-Bonus-CaféRemix-SquirtleBlue",
+          "slug": "alcremie-vanilla-cream-strawberry-sweet-cafe-remix-squirtle-blue",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-strawberry-sweet-cafe-remix-squirtle-blue",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Alcremie-VanillaCream-StrawberrySweet-Bonus-CaféRemix-SquirtleBlue-★",
+          "slug": "alcremie-vanilla-cream-strawberry-sweet-cafe-remix-squirtle-blue",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-strawberry-sweet-cafe-remix-squirtle-blue.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Alcremie-VanillaCream-StrawberrySweet-Bonus-CaféRemix-SquirtleBlue-3DS",
+          "slug": "alcremie-vanilla-cream-strawberry-sweet-cafe-remix-squirtle-blue",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-strawberry-sweet-cafe-remix-squirtle-blue.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Alcremie-VanillaCream-StrawberrySweet-Bonus-CaféRemix-SquirtleBlue-3DS-★",
+          "slug": "alcremie-vanilla-cream-strawberry-sweet-cafe-remix-squirtle-blue",
+          "cssClass": ".pokesprite.pokemon.alcremie-vanilla-cream-strawberry-sweet-cafe-remix-squirtle-blue.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
