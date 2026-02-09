@@ -124334,7 +124334,18 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Alcremie-MatchaCream-FlowerSweet-Bonus-CaféRemix-Holiday-3DS-★",
+          "slug": "alcremie-matcha-cream-flower-sweet-cafe-remix-holiday",
+          "cssClass": ".pokesprite.pokemon.alcremie-matcha-cream-flower-sweet-cafe-remix-holiday.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -129014,7 +129025,18 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Alcremie-RubyCream-CloverSweet-Bonus-CaféRemix-EeveeBrown-3DS-★",
+          "slug": "alcremie-ruby-cream-clover-sweet-cafe-remix-eevee-brown",
+          "cssClass": ".pokesprite.pokemon.alcremie-ruby-cream-clover-sweet-cafe-remix-eevee-brown.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -130843,7 +130865,18 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Alcremie-RubyCream-LoveSweet-Bonus-CaféRemix-StylishNewYear-3DS-★",
+          "slug": "alcremie-ruby-cream-love-sweet-cafe-remix-stylish-new-year",
+          "cssClass": ".pokesprite.pokemon.alcremie-ruby-cream-love-sweet-cafe-remix-stylish-new-year.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -132081,6 +132114,27 @@
           "modifiers": [
             "shiny",
             "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Alcremie-RubyCream-StarSweet-Bonus-CaféRemix-SlowpokePink",
+          "slug": "alcremie-ruby-cream-star-sweet-cafe-remix-slowpoke-pink",
+          "cssClass": ".pokesprite.pokemon.alcremie-ruby-cream-star-sweet-cafe-remix-slowpoke-pink",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Alcremie-RubyCream-StarSweet-Bonus-CaféRemix-SlowpokePink-★",
+          "slug": "alcremie-ruby-cream-star-sweet-cafe-remix-slowpoke-pink",
+          "cssClass": ".pokesprite.pokemon.alcremie-ruby-cream-star-sweet-cafe-remix-slowpoke-pink.shiny",
+          "modifiers": [
+            "shiny"
           ],
           "categories": [
             "bonus"
