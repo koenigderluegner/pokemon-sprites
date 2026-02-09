@@ -29178,7 +29178,17 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Jigglypuff-Bonus-CaféRemix-BalloonBouquet-★",
+          "slug": "jigglypuff-cafe-remix-balloon-bouquet",
+          "cssClass": ".pokesprite.pokemon.jigglypuff-cafe-remix-balloon-bouquet.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -51275,45 +51285,6 @@
       },
       {
         "regular": {
-          "name": "Aerodactyl-Extra-PewterFossil",
-          "slug": "aerodactyl-pewter-fossil",
-          "cssClass": ".pokesprite.pokemon.aerodactyl-pewter-fossil",
-          "categories": [
-            "extra"
-          ]
-        },
-        "shiny": null
-      },
-      {
-        "regular": {
-          "name": "Aerodactyl-Extra-PewterFossil-3DS",
-          "slug": "aerodactyl-pewter-fossil",
-          "cssClass": ".pokesprite.pokemon.aerodactyl-pewter-fossil.n3ds",
-          "modifiers": [
-            "n3ds"
-          ],
-          "categories": [
-            "extra"
-          ]
-        },
-        "shiny": null
-      },
-      {
-        "regular": {
-          "name": "Aerodactyl-Extra-PewterFossil-Switch-LGPE",
-          "slug": "aerodactyl-pewter-fossil-lgpe",
-          "cssClass": ".pokesprite.pokemon.aerodactyl-pewter-fossil-lgpe.switch",
-          "modifiers": [
-            "switch"
-          ],
-          "categories": [
-            "extra"
-          ]
-        },
-        "shiny": null
-      },
-      {
-        "regular": {
           "name": "Aerodactyl-Bonus-Anime-Movie05",
           "slug": "aerodactyl-anime-movie05",
           "cssClass": ".pokesprite.pokemon.aerodactyl-anime-movie05",
@@ -51374,6 +51345,77 @@
           "name": "Aerodactyl-Bonus-Anime-Movie05-Switch-LGPE-★",
           "slug": "aerodactyl-anime-movie05-lgpe",
           "cssClass": ".pokesprite.pokemon.aerodactyl-anime-movie05-lgpe.shiny.switch",
+          "modifiers": [
+            "shiny",
+            "switch"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Aerodactyl-Bonus-PewterFossil",
+          "slug": "aerodactyl-pewter-fossil",
+          "cssClass": ".pokesprite.pokemon.aerodactyl-pewter-fossil",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Aerodactyl-Bonus-PewterFossil-★",
+          "slug": "aerodactyl-pewter-fossil",
+          "cssClass": ".pokesprite.pokemon.aerodactyl-pewter-fossil.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Aerodactyl-Bonus-PewterFossil-3DS",
+          "slug": "aerodactyl-pewter-fossil",
+          "cssClass": ".pokesprite.pokemon.aerodactyl-pewter-fossil.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Aerodactyl-Bonus-PewterFossil-3DS-★",
+          "slug": "aerodactyl-pewter-fossil",
+          "cssClass": ".pokesprite.pokemon.aerodactyl-pewter-fossil.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Aerodactyl-Bonus-PewterFossil-Switch-LGPE",
+          "slug": "aerodactyl-pewter-fossil-lgpe",
+          "cssClass": ".pokesprite.pokemon.aerodactyl-pewter-fossil-lgpe.switch",
+          "modifiers": [
+            "switch"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Aerodactyl-Bonus-PewterFossil-Switch-LGPE-★",
+          "slug": "aerodactyl-pewter-fossil-lgpe",
+          "cssClass": ".pokesprite.pokemon.aerodactyl-pewter-fossil-lgpe.shiny.switch",
           "modifiers": [
             "shiny",
             "switch"
