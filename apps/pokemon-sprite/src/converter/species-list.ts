@@ -4104,6 +4104,18 @@ export const speciesList: SpeciesList = [
     id: 1025,
   },
   {
+    species: 'Browt',
+    id: 1026,
+  },
+  {
+    species: 'Pombon',
+    id: 1029,
+  },
+  {
+    species: 'Gecqua',
+    id: 1032,
+  },
+  {
     species: 'Egg',
     id: 9999,
   },
