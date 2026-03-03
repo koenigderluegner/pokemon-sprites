@@ -7,7 +7,7 @@
     "apps/*"
   ],
   "scripts": {
-    "update-all": "nx run pokemon-sprite:unzip-assets:generate && git add apps/pokemon-sprite/sprites/\\* &&  nx run pokemon-sprite:convert-assets:convert && nx run pokemon-sprite:generate-spritesheet:generate && nx run pokemon-sprite:generate-docs:generate",
+    "update-all": "git add apps/pokemon-sprite/sprites/\\* &&  nx run pokemon-sprite:convert-assets:convert && nx run pokemon-sprite:generate-spritesheet:generate && nx run pokemon-sprite:generate-docs:generate",
     "lint": "oxlint .",
     "lint:fix": "oxlint --fix .",
     "format": "oxfmt --check",
