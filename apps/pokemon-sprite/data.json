@@ -10411,9 +10411,9 @@
       },
       {
         "regular": {
-          "name": "Kakuna-Bonus-Anime-DP086",
-          "slug": "kakuna-anime-dp086",
-          "cssClass": ".pokesprite.pokemon.kakuna-anime-dp086",
+          "name": "Kakuna-Bonus-Anime-DP033",
+          "slug": "kakuna-anime-dp033",
+          "cssClass": ".pokesprite.pokemon.kakuna-anime-dp033",
           "categories": [
             "bonus"
           ]
@@ -10422,9 +10422,9 @@
       },
       {
         "regular": {
-          "name": "Kakuna-Bonus-Anime-DP086-3DS",
-          "slug": "kakuna-anime-dp086",
-          "cssClass": ".pokesprite.pokemon.kakuna-anime-dp086.n3ds",
+          "name": "Kakuna-Bonus-Anime-DP033-3DS",
+          "slug": "kakuna-anime-dp033",
+          "cssClass": ".pokesprite.pokemon.kakuna-anime-dp033.n3ds",
           "modifiers": [
             "n3ds"
           ],
