@@ -36226,6 +36226,69 @@
       },
       {
         "regular": {
+          "name": "Meowth-Bonus-Anime-TeamRocket-DP103",
+          "slug": "meowth-anime-team-rocket-dp103",
+          "cssClass": ".pokesprite.pokemon.meowth-anime-team-rocket-dp103",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Meowth-Bonus-Anime-TeamRocket-DP103-★",
+          "slug": "meowth-anime-team-rocket-dp103",
+          "cssClass": ".pokesprite.pokemon.meowth-anime-team-rocket-dp103.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Meowth-Bonus-Anime-TeamRocket-DP117",
+          "slug": "meowth-anime-team-rocket-dp117",
+          "cssClass": ".pokesprite.pokemon.meowth-anime-team-rocket-dp117",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Meowth-Bonus-Anime-TeamRocket-DP117-★",
+          "slug": "meowth-anime-team-rocket-dp117",
+          "cssClass": ".pokesprite.pokemon.meowth-anime-team-rocket-dp117.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Meowth-Bonus-Anime-TeamRocket-EP050",
+          "slug": "meowth-anime-team-rocket-ep050",
+          "cssClass": ".pokesprite.pokemon.meowth-anime-team-rocket-ep050",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Meowth-Bonus-Anime-TeamRocket-EP050-★",
+          "slug": "meowth-anime-team-rocket-ep050",
+          "cssClass": ".pokesprite.pokemon.meowth-anime-team-rocket-ep050.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
           "name": "Meowth-Bonus-Anime-TeamRocket-EP087",
           "slug": "meowth-anime-team-rocket-ep087",
           "cssClass": ".pokesprite.pokemon.meowth-anime-team-rocket-ep087",
