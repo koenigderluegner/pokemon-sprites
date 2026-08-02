@@ -36184,6 +36184,48 @@
       },
       {
         "regular": {
+          "name": "Meowth-Bonus-Anime-Meowzie",
+          "slug": "meowth-anime-meowzie",
+          "cssClass": ".pokesprite.pokemon.meowth-anime-meowzie",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Meowth-Bonus-Anime-Meowzie-★",
+          "slug": "meowth-anime-meowzie",
+          "cssClass": ".pokesprite.pokemon.meowth-anime-meowzie.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Meowth-Bonus-Anime-Meowzie-JN095",
+          "slug": "meowth-anime-meowzie-jn095",
+          "cssClass": ".pokesprite.pokemon.meowth-anime-meowzie-jn095",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Meowth-Bonus-Anime-Meowzie-JN095-★",
+          "slug": "meowth-anime-meowzie-jn095",
+          "cssClass": ".pokesprite.pokemon.meowth-anime-meowzie-jn095.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
           "name": "Meowth-Bonus-Anime-TeamRocket-EP087",
           "slug": "meowth-anime-team-rocket-ep087",
           "cssClass": ".pokesprite.pokemon.meowth-anime-team-rocket-ep087",
@@ -36195,6 +36237,27 @@
           "name": "Meowth-Bonus-Anime-TeamRocket-EP087-★",
           "slug": "meowth-anime-team-rocket-ep087",
           "cssClass": ".pokesprite.pokemon.meowth-anime-team-rocket-ep087.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Meowth-Bonus-Anime-TeamRocket-JN095",
+          "slug": "meowth-anime-team-rocket-jn095",
+          "cssClass": ".pokesprite.pokemon.meowth-anime-team-rocket-jn095",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Meowth-Bonus-Anime-TeamRocket-JN095-★",
+          "slug": "meowth-anime-team-rocket-jn095",
+          "cssClass": ".pokesprite.pokemon.meowth-anime-team-rocket-jn095.shiny",
           "modifiers": [
             "shiny"
           ],
@@ -87882,6 +87945,98 @@
       },
       {
         "regular": {
+          "name": "Wobbuffet-Bonus-Anime-TeamRocket-JN095",
+          "slug": "wobbuffet-anime-team-rocket-jn095",
+          "cssClass": ".pokesprite.pokemon.wobbuffet-anime-team-rocket-jn095",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Wobbuffet-Bonus-Anime-TeamRocket-JN095-★",
+          "slug": "wobbuffet-anime-team-rocket-jn095",
+          "cssClass": ".pokesprite.pokemon.wobbuffet-anime-team-rocket-jn095.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Wobbuffet-Bonus-Anime-TeamRocket-JN095-3DS",
+          "slug": "wobbuffet-anime-team-rocket-jn095",
+          "cssClass": ".pokesprite.pokemon.wobbuffet-anime-team-rocket-jn095.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Wobbuffet-Bonus-Anime-TeamRocket-JN095-3DS-★",
+          "slug": "wobbuffet-anime-team-rocket-jn095",
+          "cssClass": ".pokesprite.pokemon.wobbuffet-anime-team-rocket-jn095.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Wobbuffet-Bonus-Anime-TeamRocket-JN095-F",
+          "slug": "wobbuffet-anime-team-rocket-jn095-f",
+          "cssClass": ".pokesprite.pokemon.wobbuffet-anime-team-rocket-jn095-f",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Wobbuffet-Bonus-Anime-TeamRocket-JN095-F-★",
+          "slug": "wobbuffet-anime-team-rocket-jn095-f",
+          "cssClass": ".pokesprite.pokemon.wobbuffet-anime-team-rocket-jn095-f.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Wobbuffet-Bonus-Anime-TeamRocket-JN095-F-3DS",
+          "slug": "wobbuffet-anime-team-rocket-jn095-f",
+          "cssClass": ".pokesprite.pokemon.wobbuffet-anime-team-rocket-jn095-f.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Wobbuffet-Bonus-Anime-TeamRocket-JN095-F-3DS-★",
+          "slug": "wobbuffet-anime-team-rocket-jn095-f",
+          "cssClass": ".pokesprite.pokemon.wobbuffet-anime-team-rocket-jn095-f.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
           "name": "Wobbuffet-Bonus-Anime-TeamRocket-SM028",
           "slug": "wobbuffet-anime-team-rocket-sm028",
           "cssClass": ".pokesprite.pokemon.wobbuffet-anime-team-rocket-sm028",
@@ -111321,6 +111476,31 @@
             "shiny"
           ]
         }
+      },
+      {
+        "regular": {
+          "name": "Swellow-Bonus-Anime-Ash-AG100",
+          "slug": "swellow-anime-ash-ag100",
+          "cssClass": ".pokesprite.pokemon.swellow-anime-ash-ag100",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": null
+      },
+      {
+        "regular": {
+          "name": "Swellow-Bonus-Anime-Ash-AG100-3DS",
+          "slug": "swellow-anime-ash-ag100",
+          "cssClass": ".pokesprite.pokemon.swellow-anime-ash-ag100.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": null
       }
     ]
   },
@@ -190127,6 +190307,27 @@
       },
       {
         "regular": {
+          "name": "Meltan-Bonus-Anime-Ash-SM112-Nutless",
+          "slug": "meltan-anime-ash-sm112-nutless",
+          "cssClass": ".pokesprite.pokemon.meltan-anime-ash-sm112-nutless",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Meltan-Bonus-Anime-Ash-SM112-Nutless-★",
+          "slug": "meltan-anime-ash-sm112-nutless",
+          "cssClass": ".pokesprite.pokemon.meltan-anime-ash-sm112-nutless.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
           "name": "Meltan-Bonus-Anime-Ash-UltraGuardians",
           "slug": "meltan-anime-ash-ultra-guardians",
           "cssClass": ".pokesprite.pokemon.meltan-anime-ash-ultra-guardians",
@@ -190297,6 +190498,52 @@
           "modifiers": [
             "n3ds",
             "shiny"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Thwackey-Bonus-Anime-JN101",
+          "slug": "thwackey-anime-jn101",
+          "cssClass": ".pokesprite.pokemon.thwackey-anime-jn101",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Thwackey-Bonus-Anime-JN101-★",
+          "slug": "thwackey-anime-jn101",
+          "cssClass": ".pokesprite.pokemon.thwackey-anime-jn101.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Thwackey-Bonus-Anime-JN101-3DS",
+          "slug": "thwackey-anime-jn101",
+          "cssClass": ".pokesprite.pokemon.thwackey-anime-jn101.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Thwackey-Bonus-Anime-JN101-3DS-★",
+          "slug": "thwackey-anime-jn101",
+          "cssClass": ".pokesprite.pokemon.thwackey-anime-jn101.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
           ]
         }
       }
