@@ -36226,6 +36226,27 @@
       },
       {
         "regular": {
+          "name": "Meowth-Bonus-Anime-TeamRocket-AG013",
+          "slug": "meowth-anime-team-rocket-ag013",
+          "cssClass": ".pokesprite.pokemon.meowth-anime-team-rocket-ag013",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Meowth-Bonus-Anime-TeamRocket-AG013-★",
+          "slug": "meowth-anime-team-rocket-ag013",
+          "cssClass": ".pokesprite.pokemon.meowth-anime-team-rocket-ag013.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
           "name": "Meowth-Bonus-Anime-TeamRocket-DP103",
           "slug": "meowth-anime-team-rocket-dp103",
           "cssClass": ".pokesprite.pokemon.meowth-anime-team-rocket-dp103",
@@ -36268,6 +36289,27 @@
       },
       {
         "regular": {
+          "name": "Meowth-Bonus-Anime-TeamRocket-EP014",
+          "slug": "meowth-anime-team-rocket-ep014",
+          "cssClass": ".pokesprite.pokemon.meowth-anime-team-rocket-ep014",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Meowth-Bonus-Anime-TeamRocket-EP014-★",
+          "slug": "meowth-anime-team-rocket-ep014",
+          "cssClass": ".pokesprite.pokemon.meowth-anime-team-rocket-ep014.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
           "name": "Meowth-Bonus-Anime-TeamRocket-EP050",
           "slug": "meowth-anime-team-rocket-ep050",
           "cssClass": ".pokesprite.pokemon.meowth-anime-team-rocket-ep050",
@@ -36279,6 +36321,69 @@
           "name": "Meowth-Bonus-Anime-TeamRocket-EP050-★",
           "slug": "meowth-anime-team-rocket-ep050",
           "cssClass": ".pokesprite.pokemon.meowth-anime-team-rocket-ep050.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Meowth-Bonus-Anime-TeamRocket-EP055",
+          "slug": "meowth-anime-team-rocket-ep055",
+          "cssClass": ".pokesprite.pokemon.meowth-anime-team-rocket-ep055",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Meowth-Bonus-Anime-TeamRocket-EP055-★",
+          "slug": "meowth-anime-team-rocket-ep055",
+          "cssClass": ".pokesprite.pokemon.meowth-anime-team-rocket-ep055.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Meowth-Bonus-Anime-TeamRocket-EP061",
+          "slug": "meowth-anime-team-rocket-ep061",
+          "cssClass": ".pokesprite.pokemon.meowth-anime-team-rocket-ep061",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Meowth-Bonus-Anime-TeamRocket-EP061-★",
+          "slug": "meowth-anime-team-rocket-ep061",
+          "cssClass": ".pokesprite.pokemon.meowth-anime-team-rocket-ep061.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Meowth-Bonus-Anime-TeamRocket-EP071",
+          "slug": "meowth-anime-team-rocket-ep071",
+          "cssClass": ".pokesprite.pokemon.meowth-anime-team-rocket-ep071",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Meowth-Bonus-Anime-TeamRocket-EP071-★",
+          "slug": "meowth-anime-team-rocket-ep071",
+          "cssClass": ".pokesprite.pokemon.meowth-anime-team-rocket-ep071.shiny",
           "modifiers": [
             "shiny"
           ],
