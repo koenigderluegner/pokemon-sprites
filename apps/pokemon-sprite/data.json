@@ -40075,6 +40075,31 @@
       },
       {
         "regular": {
+          "name": "Weepinbell-Bonus-Anime-DP033",
+          "slug": "weepinbell-anime-dp033",
+          "cssClass": ".pokesprite.pokemon.weepinbell-anime-dp033",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": null
+      },
+      {
+        "regular": {
+          "name": "Weepinbell-Bonus-Anime-DP033-3DS",
+          "slug": "weepinbell-anime-dp033",
+          "cssClass": ".pokesprite.pokemon.weepinbell-anime-dp033.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": null
+      },
+      {
+        "regular": {
           "name": "Weepinbell-Bonus-Anime-Valencian",
           "slug": "weepinbell-anime-valencian",
           "cssClass": ".pokesprite.pokemon.weepinbell-anime-valencian",
@@ -48896,6 +48921,17 @@
             "shiny"
           ]
         }
+      },
+      {
+        "regular": {
+          "name": "Koffing-Bonus-Anime-DP033",
+          "slug": "koffing-anime-dp033",
+          "cssClass": ".pokesprite.pokemon.koffing-anime-dp033",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": null
       }
     ]
   },
@@ -120216,6 +120252,17 @@
             "bonus"
           ]
         }
+      },
+      {
+        "regular": {
+          "name": "Trapinch-Bonus-Anime-DP033",
+          "slug": "trapinch-anime-dp033",
+          "cssClass": ".pokesprite.pokemon.trapinch-anime-dp033",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": null
       }
     ]
   },
@@ -135681,6 +135728,27 @@
       },
       {
         "regular": {
+          "name": "Piplup-Bonus-Anime-Dawn-DP033",
+          "slug": "piplup-anime-dawn-dp033",
+          "cssClass": ".pokesprite.pokemon.piplup-anime-dawn-dp033",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Piplup-Bonus-Anime-Dawn-DP033-★",
+          "slug": "piplup-anime-dawn-dp033",
+          "cssClass": ".pokesprite.pokemon.piplup-anime-dawn-dp033.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
           "name": "Piplup-Bonus-Anime-Dawn-DP062",
           "slug": "piplup-anime-dawn-dp062",
           "cssClass": ".pokesprite.pokemon.piplup-anime-dawn-dp062",
@@ -148862,6 +148930,17 @@
             "go"
           ]
         }
+      },
+      {
+        "regular": {
+          "name": "Croagunk-Bonus-Anime-Brock-DP033",
+          "slug": "croagunk-anime-brock-dp033",
+          "cssClass": ".pokesprite.pokemon.croagunk-anime-brock-dp033",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": null
       },
       {
         "regular": {
