@@ -167555,6 +167555,38 @@
             "bonus"
           ]
         }
+      },
+      {
+        "regular": {
+          "name": "Ducklett-Bonus-Anime-BW020-Bowl",
+          "slug": "ducklett-anime-bw020-bowl",
+          "cssClass": ".pokesprite.pokemon.ducklett-anime-bw020-bowl",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Ducklett-Bonus-Anime-BW020-Bowl-★",
+          "slug": "ducklett-anime-bw020-bowl",
+          "cssClass": ".pokesprite.pokemon.ducklett-anime-bw020-bowl.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Ducklett-Bonus-Anime-BW020-Hat",
+          "slug": "ducklett-anime-bw020-hat",
+          "cssClass": ".pokesprite.pokemon.ducklett-anime-bw020-hat",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": null
       }
     ]
   },
