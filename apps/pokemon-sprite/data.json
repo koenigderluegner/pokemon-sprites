@@ -10009,6 +10009,98 @@
       },
       {
         "regular": {
+          "name": "Butterfree-Bonus-Anime-EP008",
+          "slug": "butterfree-anime-ep008",
+          "cssClass": ".pokesprite.pokemon.butterfree-anime-ep008",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Butterfree-Bonus-Anime-EP008-★",
+          "slug": "butterfree-anime-ep008",
+          "cssClass": ".pokesprite.pokemon.butterfree-anime-ep008.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Butterfree-Bonus-Anime-EP008-3DS",
+          "slug": "butterfree-anime-ep008",
+          "cssClass": ".pokesprite.pokemon.butterfree-anime-ep008.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Butterfree-Bonus-Anime-EP008-3DS-★",
+          "slug": "butterfree-anime-ep008",
+          "cssClass": ".pokesprite.pokemon.butterfree-anime-ep008.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Butterfree-Bonus-Anime-EP008-F",
+          "slug": "butterfree-anime-ep008-f",
+          "cssClass": ".pokesprite.pokemon.butterfree-anime-ep008-f",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Butterfree-Bonus-Anime-EP008-F-★",
+          "slug": "butterfree-anime-ep008-f",
+          "cssClass": ".pokesprite.pokemon.butterfree-anime-ep008-f.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Butterfree-Bonus-Anime-EP008-F-3DS",
+          "slug": "butterfree-anime-ep008-f",
+          "cssClass": ".pokesprite.pokemon.butterfree-anime-ep008-f.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Butterfree-Bonus-Anime-EP008-F-3DS-★",
+          "slug": "butterfree-anime-ep008-f",
+          "cssClass": ".pokesprite.pokemon.butterfree-anime-ep008-f.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
           "name": "Butterfree-Bonus-Anime-Pink",
           "slug": "butterfree-anime-pink",
           "cssClass": ".pokesprite.pokemon.butterfree-anime-pink",
@@ -10316,6 +10408,31 @@
             "shiny"
           ]
         }
+      },
+      {
+        "regular": {
+          "name": "Kakuna-Bonus-Anime-DP086",
+          "slug": "kakuna-anime-dp086",
+          "cssClass": ".pokesprite.pokemon.kakuna-anime-dp086",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": null
+      },
+      {
+        "regular": {
+          "name": "Kakuna-Bonus-Anime-DP086-3DS",
+          "slug": "kakuna-anime-dp086",
+          "cssClass": ".pokesprite.pokemon.kakuna-anime-dp086.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": null
       }
     ]
   },
@@ -10426,6 +10543,48 @@
           "modifiers": [
             "shiny",
             "switch"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Beedrill-Bonus-Anime-EP008",
+          "slug": "beedrill-anime-ep008",
+          "cssClass": ".pokesprite.pokemon.beedrill-anime-ep008",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Beedrill-Bonus-Anime-EP008-★",
+          "slug": "beedrill-anime-ep008",
+          "cssClass": ".pokesprite.pokemon.beedrill-anime-ep008.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Beedrill-Bonus-Anime-EP008-3DS ",
+          "slug": "beedrill-anime-ep008-3-ds ",
+          "cssClass": ".pokesprite.pokemon.beedrill-anime-ep008-3-ds ",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Beedrill-Bonus-Anime-EP008-3DS -★",
+          "slug": "beedrill-anime-ep008-3-ds ",
+          "cssClass": ".pokesprite.pokemon.beedrill-anime-ep008-3-ds .shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
           ]
         }
       }
@@ -11009,6 +11168,48 @@
           "name": "Rattata-Bonus-Anime-AG015-F-★",
           "slug": "rattata-anime-ag015-f",
           "cssClass": ".pokesprite.pokemon.rattata-anime-ag015-f.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Rattata-Bonus-Anime-EP008",
+          "slug": "rattata-anime-ep008",
+          "cssClass": ".pokesprite.pokemon.rattata-anime-ep008",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Rattata-Bonus-Anime-EP008-★",
+          "slug": "rattata-anime-ep008",
+          "cssClass": ".pokesprite.pokemon.rattata-anime-ep008.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Rattata-Bonus-Anime-EP008-F",
+          "slug": "rattata-anime-ep008-f",
+          "cssClass": ".pokesprite.pokemon.rattata-anime-ep008-f",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Rattata-Bonus-Anime-EP008-F-★",
+          "slug": "rattata-anime-ep008-f",
+          "cssClass": ".pokesprite.pokemon.rattata-anime-ep008-f.shiny",
           "modifiers": [
             "shiny"
           ],
