@@ -13485,6 +13485,98 @@
       },
       {
         "regular": {
+          "name": "Pikachu-GO-Cosmog",
+          "slug": "pikachu-cosmog",
+          "cssClass": ".pokesprite.pokemon.pikachu-cosmog",
+          "categories": [
+            "go"
+          ]
+        },
+        "shiny": {
+          "name": "Pikachu-GO-Cosmog-★",
+          "slug": "pikachu-cosmog",
+          "cssClass": ".pokesprite.pokemon.pikachu-cosmog.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "go"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Pikachu-GO-Cosmog-3DS",
+          "slug": "pikachu-cosmog",
+          "cssClass": ".pokesprite.pokemon.pikachu-cosmog.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "go"
+          ]
+        },
+        "shiny": {
+          "name": "Pikachu-GO-Cosmog-3DS-★",
+          "slug": "pikachu-cosmog",
+          "cssClass": ".pokesprite.pokemon.pikachu-cosmog.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "go"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Pikachu-GO-Cosmog-F",
+          "slug": "pikachu-cosmog-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-cosmog-f",
+          "categories": [
+            "go"
+          ]
+        },
+        "shiny": {
+          "name": "Pikachu-GO-Cosmog-F-★",
+          "slug": "pikachu-cosmog-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-cosmog-f.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "go"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Pikachu-GO-Cosmog-F-3DS",
+          "slug": "pikachu-cosmog-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-cosmog-f.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "go"
+          ]
+        },
+        "shiny": {
+          "name": "Pikachu-GO-Cosmog-F-3DS-★",
+          "slug": "pikachu-cosmog-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-cosmog-f.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "go"
+          ]
+        }
+      },
+      {
+        "regular": {
           "name": "Pikachu-GO-Crown-Amethyst",
           "slug": "pikachu-crown-amethyst",
           "cssClass": ".pokesprite.pokemon.pikachu-crown-amethyst",
@@ -17367,6 +17459,98 @@
       },
       {
         "regular": {
+          "name": "Pikachu-GO-IndigoWig",
+          "slug": "pikachu-indigo-wig",
+          "cssClass": ".pokesprite.pokemon.pikachu-indigo-wig",
+          "categories": [
+            "go"
+          ]
+        },
+        "shiny": {
+          "name": "Pikachu-GO-IndigoWig-★",
+          "slug": "pikachu-indigo-wig",
+          "cssClass": ".pokesprite.pokemon.pikachu-indigo-wig.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "go"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Pikachu-GO-IndigoWig-3DS",
+          "slug": "pikachu-indigo-wig",
+          "cssClass": ".pokesprite.pokemon.pikachu-indigo-wig.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "go"
+          ]
+        },
+        "shiny": {
+          "name": "Pikachu-GO-IndigoWig-3DS-★",
+          "slug": "pikachu-indigo-wig",
+          "cssClass": ".pokesprite.pokemon.pikachu-indigo-wig.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "go"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Pikachu-GO-IndigoWig-F",
+          "slug": "pikachu-indigo-wig-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-indigo-wig-f",
+          "categories": [
+            "go"
+          ]
+        },
+        "shiny": {
+          "name": "Pikachu-GO-IndigoWig-F-★",
+          "slug": "pikachu-indigo-wig-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-indigo-wig-f.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "go"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Pikachu-GO-IndigoWig-F-3DS",
+          "slug": "pikachu-indigo-wig-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-indigo-wig-f.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "go"
+          ]
+        },
+        "shiny": {
+          "name": "Pikachu-GO-IndigoWig-F-3DS-★",
+          "slug": "pikachu-indigo-wig-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-indigo-wig-f.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "go"
+          ]
+        }
+      },
+      {
+        "regular": {
           "name": "Pikachu-GO-Indonesian",
           "slug": "pikachu-indonesian",
           "cssClass": ".pokesprite.pokemon.pikachu-indonesian",
@@ -18839,6 +19023,190 @@
       },
       {
         "regular": {
+          "name": "Pikachu-GO-PinkWig",
+          "slug": "pikachu-pink-wig",
+          "cssClass": ".pokesprite.pokemon.pikachu-pink-wig",
+          "categories": [
+            "go"
+          ]
+        },
+        "shiny": {
+          "name": "Pikachu-GO-PinkWig-★",
+          "slug": "pikachu-pink-wig",
+          "cssClass": ".pokesprite.pokemon.pikachu-pink-wig.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "go"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Pikachu-GO-PinkWig-3DS",
+          "slug": "pikachu-pink-wig",
+          "cssClass": ".pokesprite.pokemon.pikachu-pink-wig.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "go"
+          ]
+        },
+        "shiny": {
+          "name": "Pikachu-GO-PinkWig-3DS-★",
+          "slug": "pikachu-pink-wig",
+          "cssClass": ".pokesprite.pokemon.pikachu-pink-wig.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "go"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Pikachu-GO-PinkWig-F",
+          "slug": "pikachu-pink-wig-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-pink-wig-f",
+          "categories": [
+            "go"
+          ]
+        },
+        "shiny": {
+          "name": "Pikachu-GO-PinkWig-F-★",
+          "slug": "pikachu-pink-wig-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-pink-wig-f.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "go"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Pikachu-GO-PinkWig-F-3DS",
+          "slug": "pikachu-pink-wig-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-pink-wig-f.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "go"
+          ]
+        },
+        "shiny": {
+          "name": "Pikachu-GO-PinkWig-F-3DS-★",
+          "slug": "pikachu-pink-wig-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-pink-wig-f.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "go"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Pikachu-GO-RedWig",
+          "slug": "pikachu-red-wig",
+          "cssClass": ".pokesprite.pokemon.pikachu-red-wig",
+          "categories": [
+            "go"
+          ]
+        },
+        "shiny": {
+          "name": "Pikachu-GO-RedWig-★",
+          "slug": "pikachu-red-wig",
+          "cssClass": ".pokesprite.pokemon.pikachu-red-wig.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "go"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Pikachu-GO-RedWig-3DS",
+          "slug": "pikachu-red-wig",
+          "cssClass": ".pokesprite.pokemon.pikachu-red-wig.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "go"
+          ]
+        },
+        "shiny": {
+          "name": "Pikachu-GO-RedWig-3DS-★",
+          "slug": "pikachu-red-wig",
+          "cssClass": ".pokesprite.pokemon.pikachu-red-wig.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "go"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Pikachu-GO-RedWig-F",
+          "slug": "pikachu-red-wig-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-red-wig-f",
+          "categories": [
+            "go"
+          ]
+        },
+        "shiny": {
+          "name": "Pikachu-GO-RedWig-F-★",
+          "slug": "pikachu-red-wig-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-red-wig-f.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "go"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Pikachu-GO-RedWig-F-3DS",
+          "slug": "pikachu-red-wig-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-red-wig-f.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "go"
+          ]
+        },
+        "shiny": {
+          "name": "Pikachu-GO-RedWig-F-3DS-★",
+          "slug": "pikachu-red-wig-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-red-wig-f.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "go"
+          ]
+        }
+      },
+      {
+        "regular": {
           "name": "Pikachu-GO-Safari",
           "slug": "pikachu-safari",
           "cssClass": ".pokesprite.pokemon.pikachu-safari",
@@ -19759,6 +20127,98 @@
       },
       {
         "regular": {
+          "name": "Pikachu-GO-TurquioseWig",
+          "slug": "pikachu-turquiose-wig",
+          "cssClass": ".pokesprite.pokemon.pikachu-turquiose-wig",
+          "categories": [
+            "go"
+          ]
+        },
+        "shiny": {
+          "name": "Pikachu-GO-TurquioseWig-★",
+          "slug": "pikachu-turquiose-wig",
+          "cssClass": ".pokesprite.pokemon.pikachu-turquiose-wig.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "go"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Pikachu-GO-TurquioseWig-3DS",
+          "slug": "pikachu-turquiose-wig",
+          "cssClass": ".pokesprite.pokemon.pikachu-turquiose-wig.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "go"
+          ]
+        },
+        "shiny": {
+          "name": "Pikachu-GO-TurquioseWig-3DS-★",
+          "slug": "pikachu-turquiose-wig",
+          "cssClass": ".pokesprite.pokemon.pikachu-turquiose-wig.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "go"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Pikachu-GO-TurquioseWig-F",
+          "slug": "pikachu-turquiose-wig-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-turquiose-wig-f",
+          "categories": [
+            "go"
+          ]
+        },
+        "shiny": {
+          "name": "Pikachu-GO-TurquioseWig-F-★",
+          "slug": "pikachu-turquiose-wig-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-turquiose-wig-f.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "go"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Pikachu-GO-TurquioseWig-F-3DS",
+          "slug": "pikachu-turquiose-wig-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-turquiose-wig-f.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "go"
+          ]
+        },
+        "shiny": {
+          "name": "Pikachu-GO-TurquioseWig-F-3DS-★",
+          "slug": "pikachu-turquiose-wig-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-turquiose-wig-f.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "go"
+          ]
+        }
+      },
+      {
+        "regular": {
           "name": "Pikachu-GO-ValorHat",
           "slug": "pikachu-valor-hat",
           "cssClass": ".pokesprite.pokemon.pikachu-valor-hat",
@@ -20208,6 +20668,98 @@
           "name": "Pikachu-GO-WCS2025-F-3DS-★",
           "slug": "pikachu-wcs2025-f",
           "cssClass": ".pokesprite.pokemon.pikachu-wcs2025-f.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "go"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Pikachu-GO-WCS2026",
+          "slug": "pikachu-wcs2026",
+          "cssClass": ".pokesprite.pokemon.pikachu-wcs2026",
+          "categories": [
+            "go"
+          ]
+        },
+        "shiny": {
+          "name": "Pikachu-GO-WCS2026-★",
+          "slug": "pikachu-wcs2026",
+          "cssClass": ".pokesprite.pokemon.pikachu-wcs2026.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "go"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Pikachu-GO-WCS2026-3DS",
+          "slug": "pikachu-wcs2026",
+          "cssClass": ".pokesprite.pokemon.pikachu-wcs2026.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "go"
+          ]
+        },
+        "shiny": {
+          "name": "Pikachu-GO-WCS2026-3DS-★",
+          "slug": "pikachu-wcs2026",
+          "cssClass": ".pokesprite.pokemon.pikachu-wcs2026.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "go"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Pikachu-GO-WCS2026-F",
+          "slug": "pikachu-wcs2026-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-wcs2026-f",
+          "categories": [
+            "go"
+          ]
+        },
+        "shiny": {
+          "name": "Pikachu-GO-WCS2026-F-★",
+          "slug": "pikachu-wcs2026-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-wcs2026-f.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "go"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Pikachu-GO-WCS2026-F-3DS",
+          "slug": "pikachu-wcs2026-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-wcs2026-f.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "go"
+          ]
+        },
+        "shiny": {
+          "name": "Pikachu-GO-WCS2026-F-3DS-★",
+          "slug": "pikachu-wcs2026-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-wcs2026-f.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
