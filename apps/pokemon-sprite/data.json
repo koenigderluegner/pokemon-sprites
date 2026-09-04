@@ -164050,6 +164050,300 @@
       },
       {
         "regular": {
+          "name": "Snivy-Bonus-CaféRemix-BulbasaurGreen",
+          "slug": "snivy-cafe-remix-bulbasaur-green",
+          "cssClass": ".pokesprite.pokemon.snivy-cafe-remix-bulbasaur-green",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Snivy-Bonus-CaféRemix-BulbasaurGreen-★",
+          "slug": "snivy-cafe-remix-bulbasaur-green",
+          "cssClass": ".pokesprite.pokemon.snivy-cafe-remix-bulbasaur-green.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Snivy-Bonus-CaféRemix-CharmanderRed",
+          "slug": "snivy-cafe-remix-charmander-red",
+          "cssClass": ".pokesprite.pokemon.snivy-cafe-remix-charmander-red",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Snivy-Bonus-CaféRemix-CharmanderRed-★",
+          "slug": "snivy-cafe-remix-charmander-red",
+          "cssClass": ".pokesprite.pokemon.snivy-cafe-remix-charmander-red.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Snivy-Bonus-CaféRemix-CommemorativeBrooch",
+          "slug": "snivy-cafe-remix-commemorative-brooch",
+          "cssClass": ".pokesprite.pokemon.snivy-cafe-remix-commemorative-brooch",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Snivy-Bonus-CaféRemix-CommemorativeBrooch-★",
+          "slug": "snivy-cafe-remix-commemorative-brooch",
+          "cssClass": ".pokesprite.pokemon.snivy-cafe-remix-commemorative-brooch.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Snivy-Bonus-CaféRemix-DragoniteOrange",
+          "slug": "snivy-cafe-remix-dragonite-orange",
+          "cssClass": ".pokesprite.pokemon.snivy-cafe-remix-dragonite-orange",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Snivy-Bonus-CaféRemix-DragoniteOrange-★",
+          "slug": "snivy-cafe-remix-dragonite-orange",
+          "cssClass": ".pokesprite.pokemon.snivy-cafe-remix-dragonite-orange.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Snivy-Bonus-CaféRemix-EeveeBrown",
+          "slug": "snivy-cafe-remix-eevee-brown",
+          "cssClass": ".pokesprite.pokemon.snivy-cafe-remix-eevee-brown",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Snivy-Bonus-CaféRemix-EeveeBrown-★",
+          "slug": "snivy-cafe-remix-eevee-brown",
+          "cssClass": ".pokesprite.pokemon.snivy-cafe-remix-eevee-brown.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Snivy-Bonus-CaféRemix-GengarPurple",
+          "slug": "snivy-cafe-remix-gengar-purple",
+          "cssClass": ".pokesprite.pokemon.snivy-cafe-remix-gengar-purple",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Snivy-Bonus-CaféRemix-GengarPurple-★",
+          "slug": "snivy-cafe-remix-gengar-purple",
+          "cssClass": ".pokesprite.pokemon.snivy-cafe-remix-gengar-purple.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Snivy-Bonus-CaféRemix-GothoritaBlack",
+          "slug": "snivy-cafe-remix-gothorita-black",
+          "cssClass": ".pokesprite.pokemon.snivy-cafe-remix-gothorita-black",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Snivy-Bonus-CaféRemix-GothoritaBlack-★",
+          "slug": "snivy-cafe-remix-gothorita-black",
+          "cssClass": ".pokesprite.pokemon.snivy-cafe-remix-gothorita-black.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Snivy-Bonus-CaféRemix-JigglypuffPink",
+          "slug": "snivy-cafe-remix-jigglypuff-pink",
+          "cssClass": ".pokesprite.pokemon.snivy-cafe-remix-jigglypuff-pink",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Snivy-Bonus-CaféRemix-JigglypuffPink-★",
+          "slug": "snivy-cafe-remix-jigglypuff-pink",
+          "cssClass": ".pokesprite.pokemon.snivy-cafe-remix-jigglypuff-pink.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Snivy-Bonus-CaféRemix-LucarioBlue",
+          "slug": "snivy-cafe-remix-lucario-blue",
+          "cssClass": ".pokesprite.pokemon.snivy-cafe-remix-lucario-blue",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Snivy-Bonus-CaféRemix-LucarioBlue-★",
+          "slug": "snivy-cafe-remix-lucario-blue",
+          "cssClass": ".pokesprite.pokemon.snivy-cafe-remix-lucario-blue.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Snivy-Bonus-CaféRemix-MinccinoGray",
+          "slug": "snivy-cafe-remix-minccino-gray",
+          "cssClass": ".pokesprite.pokemon.snivy-cafe-remix-minccino-gray",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Snivy-Bonus-CaféRemix-MinccinoGray-★",
+          "slug": "snivy-cafe-remix-minccino-gray",
+          "cssClass": ".pokesprite.pokemon.snivy-cafe-remix-minccino-gray.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Snivy-Bonus-CaféRemix-Picnic",
+          "slug": "snivy-cafe-remix-picnic",
+          "cssClass": ".pokesprite.pokemon.snivy-cafe-remix-picnic",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Snivy-Bonus-CaféRemix-Picnic-★",
+          "slug": "snivy-cafe-remix-picnic",
+          "cssClass": ".pokesprite.pokemon.snivy-cafe-remix-picnic.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Snivy-Bonus-CaféRemix-PikachuYellow",
+          "slug": "snivy-cafe-remix-pikachu-yellow",
+          "cssClass": ".pokesprite.pokemon.snivy-cafe-remix-pikachu-yellow",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Snivy-Bonus-CaféRemix-PikachuYellow-★",
+          "slug": "snivy-cafe-remix-pikachu-yellow",
+          "cssClass": ".pokesprite.pokemon.snivy-cafe-remix-pikachu-yellow.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Snivy-Bonus-CaféRemix-SlowpokePink",
+          "slug": "snivy-cafe-remix-slowpoke-pink",
+          "cssClass": ".pokesprite.pokemon.snivy-cafe-remix-slowpoke-pink",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Snivy-Bonus-CaféRemix-SlowpokePink-★",
+          "slug": "snivy-cafe-remix-slowpoke-pink",
+          "cssClass": ".pokesprite.pokemon.snivy-cafe-remix-slowpoke-pink.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Snivy-Bonus-CaféRemix-SquirtleBlue",
+          "slug": "snivy-cafe-remix-squirtle-blue",
+          "cssClass": ".pokesprite.pokemon.snivy-cafe-remix-squirtle-blue",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Snivy-Bonus-CaféRemix-SquirtleBlue-★",
+          "slug": "snivy-cafe-remix-squirtle-blue",
+          "cssClass": ".pokesprite.pokemon.snivy-cafe-remix-squirtle-blue.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
           "name": "Snivy-Bonus-MysteryDungeon-GatesToInfinity",
           "slug": "snivy-mystery-dungeon-gates-to-infinity",
           "cssClass": ".pokesprite.pokemon.snivy-mystery-dungeon-gates-to-infinity",
@@ -164167,6 +164461,558 @@
           "modifiers": [
             "n3ds",
             "shiny"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Serperior-Bonus-CaféRemix-BulbasaurGreen",
+          "slug": "serperior-cafe-remix-bulbasaur-green",
+          "cssClass": ".pokesprite.pokemon.serperior-cafe-remix-bulbasaur-green",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Serperior-Bonus-CaféRemix-BulbasaurGreen-★",
+          "slug": "serperior-cafe-remix-bulbasaur-green",
+          "cssClass": ".pokesprite.pokemon.serperior-cafe-remix-bulbasaur-green.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Serperior-Bonus-CaféRemix-BulbasaurGreen-3DS",
+          "slug": "serperior-cafe-remix-bulbasaur-green",
+          "cssClass": ".pokesprite.pokemon.serperior-cafe-remix-bulbasaur-green.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Serperior-Bonus-CaféRemix-BulbasaurGreen-3DS-★",
+          "slug": "serperior-cafe-remix-bulbasaur-green",
+          "cssClass": ".pokesprite.pokemon.serperior-cafe-remix-bulbasaur-green.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Serperior-Bonus-CaféRemix-CharmanderRed",
+          "slug": "serperior-cafe-remix-charmander-red",
+          "cssClass": ".pokesprite.pokemon.serperior-cafe-remix-charmander-red",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Serperior-Bonus-CaféRemix-CharmanderRed-★",
+          "slug": "serperior-cafe-remix-charmander-red",
+          "cssClass": ".pokesprite.pokemon.serperior-cafe-remix-charmander-red.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Serperior-Bonus-CaféRemix-CharmanderRed-3DS",
+          "slug": "serperior-cafe-remix-charmander-red",
+          "cssClass": ".pokesprite.pokemon.serperior-cafe-remix-charmander-red.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Serperior-Bonus-CaféRemix-CharmanderRed-3DS-★",
+          "slug": "serperior-cafe-remix-charmander-red",
+          "cssClass": ".pokesprite.pokemon.serperior-cafe-remix-charmander-red.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Serperior-Bonus-CaféRemix-DragoniteOrange",
+          "slug": "serperior-cafe-remix-dragonite-orange",
+          "cssClass": ".pokesprite.pokemon.serperior-cafe-remix-dragonite-orange",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Serperior-Bonus-CaféRemix-DragoniteOrange-★",
+          "slug": "serperior-cafe-remix-dragonite-orange",
+          "cssClass": ".pokesprite.pokemon.serperior-cafe-remix-dragonite-orange.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Serperior-Bonus-CaféRemix-DragoniteOrange-3DS",
+          "slug": "serperior-cafe-remix-dragonite-orange",
+          "cssClass": ".pokesprite.pokemon.serperior-cafe-remix-dragonite-orange.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Serperior-Bonus-CaféRemix-DragoniteOrange-3DS-★",
+          "slug": "serperior-cafe-remix-dragonite-orange",
+          "cssClass": ".pokesprite.pokemon.serperior-cafe-remix-dragonite-orange.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Serperior-Bonus-CaféRemix-EeveeBrown",
+          "slug": "serperior-cafe-remix-eevee-brown",
+          "cssClass": ".pokesprite.pokemon.serperior-cafe-remix-eevee-brown",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Serperior-Bonus-CaféRemix-EeveeBrown-★",
+          "slug": "serperior-cafe-remix-eevee-brown",
+          "cssClass": ".pokesprite.pokemon.serperior-cafe-remix-eevee-brown.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Serperior-Bonus-CaféRemix-EeveeBrown-3DS",
+          "slug": "serperior-cafe-remix-eevee-brown",
+          "cssClass": ".pokesprite.pokemon.serperior-cafe-remix-eevee-brown.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Serperior-Bonus-CaféRemix-EeveeBrown-3DS-★",
+          "slug": "serperior-cafe-remix-eevee-brown",
+          "cssClass": ".pokesprite.pokemon.serperior-cafe-remix-eevee-brown.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Serperior-Bonus-CaféRemix-GengarPurple",
+          "slug": "serperior-cafe-remix-gengar-purple",
+          "cssClass": ".pokesprite.pokemon.serperior-cafe-remix-gengar-purple",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Serperior-Bonus-CaféRemix-GengarPurple-★",
+          "slug": "serperior-cafe-remix-gengar-purple",
+          "cssClass": ".pokesprite.pokemon.serperior-cafe-remix-gengar-purple.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Serperior-Bonus-CaféRemix-GengarPurple-3DS",
+          "slug": "serperior-cafe-remix-gengar-purple",
+          "cssClass": ".pokesprite.pokemon.serperior-cafe-remix-gengar-purple.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Serperior-Bonus-CaféRemix-GengarPurple-3DS-★",
+          "slug": "serperior-cafe-remix-gengar-purple",
+          "cssClass": ".pokesprite.pokemon.serperior-cafe-remix-gengar-purple.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Serperior-Bonus-CaféRemix-GothoritaBlack",
+          "slug": "serperior-cafe-remix-gothorita-black",
+          "cssClass": ".pokesprite.pokemon.serperior-cafe-remix-gothorita-black",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Serperior-Bonus-CaféRemix-GothoritaBlack-★",
+          "slug": "serperior-cafe-remix-gothorita-black",
+          "cssClass": ".pokesprite.pokemon.serperior-cafe-remix-gothorita-black.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Serperior-Bonus-CaféRemix-GothoritaBlack-3DS",
+          "slug": "serperior-cafe-remix-gothorita-black",
+          "cssClass": ".pokesprite.pokemon.serperior-cafe-remix-gothorita-black.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Serperior-Bonus-CaféRemix-GothoritaBlack-3DS-★",
+          "slug": "serperior-cafe-remix-gothorita-black",
+          "cssClass": ".pokesprite.pokemon.serperior-cafe-remix-gothorita-black.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Serperior-Bonus-CaféRemix-JigglypuffPink",
+          "slug": "serperior-cafe-remix-jigglypuff-pink",
+          "cssClass": ".pokesprite.pokemon.serperior-cafe-remix-jigglypuff-pink",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Serperior-Bonus-CaféRemix-JigglypuffPink-★",
+          "slug": "serperior-cafe-remix-jigglypuff-pink",
+          "cssClass": ".pokesprite.pokemon.serperior-cafe-remix-jigglypuff-pink.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Serperior-Bonus-CaféRemix-JigglypuffPink-3DS",
+          "slug": "serperior-cafe-remix-jigglypuff-pink",
+          "cssClass": ".pokesprite.pokemon.serperior-cafe-remix-jigglypuff-pink.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Serperior-Bonus-CaféRemix-JigglypuffPink-3DS-★",
+          "slug": "serperior-cafe-remix-jigglypuff-pink",
+          "cssClass": ".pokesprite.pokemon.serperior-cafe-remix-jigglypuff-pink.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Serperior-Bonus-CaféRemix-LucarioBlue",
+          "slug": "serperior-cafe-remix-lucario-blue",
+          "cssClass": ".pokesprite.pokemon.serperior-cafe-remix-lucario-blue",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Serperior-Bonus-CaféRemix-LucarioBlue-★",
+          "slug": "serperior-cafe-remix-lucario-blue",
+          "cssClass": ".pokesprite.pokemon.serperior-cafe-remix-lucario-blue.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Serperior-Bonus-CaféRemix-LucarioBlue-3DS",
+          "slug": "serperior-cafe-remix-lucario-blue",
+          "cssClass": ".pokesprite.pokemon.serperior-cafe-remix-lucario-blue.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Serperior-Bonus-CaféRemix-LucarioBlue-3DS-★",
+          "slug": "serperior-cafe-remix-lucario-blue",
+          "cssClass": ".pokesprite.pokemon.serperior-cafe-remix-lucario-blue.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Serperior-Bonus-CaféRemix-MinccinoGray",
+          "slug": "serperior-cafe-remix-minccino-gray",
+          "cssClass": ".pokesprite.pokemon.serperior-cafe-remix-minccino-gray",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Serperior-Bonus-CaféRemix-MinccinoGray-★",
+          "slug": "serperior-cafe-remix-minccino-gray",
+          "cssClass": ".pokesprite.pokemon.serperior-cafe-remix-minccino-gray.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Serperior-Bonus-CaféRemix-MinccinoGray-3DS",
+          "slug": "serperior-cafe-remix-minccino-gray",
+          "cssClass": ".pokesprite.pokemon.serperior-cafe-remix-minccino-gray.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Serperior-Bonus-CaféRemix-MinccinoGray-3DS-★",
+          "slug": "serperior-cafe-remix-minccino-gray",
+          "cssClass": ".pokesprite.pokemon.serperior-cafe-remix-minccino-gray.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Serperior-Bonus-CaféRemix-PikachuYellow",
+          "slug": "serperior-cafe-remix-pikachu-yellow",
+          "cssClass": ".pokesprite.pokemon.serperior-cafe-remix-pikachu-yellow",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Serperior-Bonus-CaféRemix-PikachuYellow-★",
+          "slug": "serperior-cafe-remix-pikachu-yellow",
+          "cssClass": ".pokesprite.pokemon.serperior-cafe-remix-pikachu-yellow.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Serperior-Bonus-CaféRemix-PikachuYellow-3DS",
+          "slug": "serperior-cafe-remix-pikachu-yellow",
+          "cssClass": ".pokesprite.pokemon.serperior-cafe-remix-pikachu-yellow.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Serperior-Bonus-CaféRemix-PikachuYellow-3DS-★",
+          "slug": "serperior-cafe-remix-pikachu-yellow",
+          "cssClass": ".pokesprite.pokemon.serperior-cafe-remix-pikachu-yellow.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Serperior-Bonus-CaféRemix-SlowpokePink",
+          "slug": "serperior-cafe-remix-slowpoke-pink",
+          "cssClass": ".pokesprite.pokemon.serperior-cafe-remix-slowpoke-pink",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Serperior-Bonus-CaféRemix-SlowpokePink-★",
+          "slug": "serperior-cafe-remix-slowpoke-pink",
+          "cssClass": ".pokesprite.pokemon.serperior-cafe-remix-slowpoke-pink.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Serperior-Bonus-CaféRemix-SlowpokePink-3DS",
+          "slug": "serperior-cafe-remix-slowpoke-pink",
+          "cssClass": ".pokesprite.pokemon.serperior-cafe-remix-slowpoke-pink.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Serperior-Bonus-CaféRemix-SlowpokePink-3DS-★",
+          "slug": "serperior-cafe-remix-slowpoke-pink",
+          "cssClass": ".pokesprite.pokemon.serperior-cafe-remix-slowpoke-pink.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Serperior-Bonus-CaféRemix-SquirtleBlue",
+          "slug": "serperior-cafe-remix-squirtle-blue",
+          "cssClass": ".pokesprite.pokemon.serperior-cafe-remix-squirtle-blue",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Serperior-Bonus-CaféRemix-SquirtleBlue-★",
+          "slug": "serperior-cafe-remix-squirtle-blue",
+          "cssClass": ".pokesprite.pokemon.serperior-cafe-remix-squirtle-blue.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Serperior-Bonus-CaféRemix-SquirtleBlue-3DS",
+          "slug": "serperior-cafe-remix-squirtle-blue",
+          "cssClass": ".pokesprite.pokemon.serperior-cafe-remix-squirtle-blue.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Serperior-Bonus-CaféRemix-SquirtleBlue-3DS-★",
+          "slug": "serperior-cafe-remix-squirtle-blue",
+          "cssClass": ".pokesprite.pokemon.serperior-cafe-remix-squirtle-blue.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
           ]
         }
       }
