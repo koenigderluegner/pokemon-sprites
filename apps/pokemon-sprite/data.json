@@ -3130,6 +3130,52 @@
       },
       {
         "regular": {
+          "name": "Charmander-GO-Friede",
+          "slug": "charmander-friede",
+          "cssClass": ".pokesprite.pokemon.charmander-friede",
+          "categories": [
+            "go"
+          ]
+        },
+        "shiny": {
+          "name": "Charmander-GO-Friede-★",
+          "slug": "charmander-friede",
+          "cssClass": ".pokesprite.pokemon.charmander-friede.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "go"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Charmander-GO-Friede-3DS",
+          "slug": "charmander-friede",
+          "cssClass": ".pokesprite.pokemon.charmander-friede.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "go"
+          ]
+        },
+        "shiny": {
+          "name": "Charmander-GO-Friede-3DS-★",
+          "slug": "charmander-friede",
+          "cssClass": ".pokesprite.pokemon.charmander-friede.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "go"
+          ]
+        }
+      },
+      {
+        "regular": {
           "name": "Charmander-GO-Jan2020",
           "slug": "charmander-jan2020",
           "cssClass": ".pokesprite.pokemon.charmander-jan2020",
@@ -4182,6 +4228,52 @@
       },
       {
         "regular": {
+          "name": "Charmeleon-GO-Friede",
+          "slug": "charmeleon-friede",
+          "cssClass": ".pokesprite.pokemon.charmeleon-friede",
+          "categories": [
+            "go"
+          ]
+        },
+        "shiny": {
+          "name": "Charmeleon-GO-Friede-★",
+          "slug": "charmeleon-friede",
+          "cssClass": ".pokesprite.pokemon.charmeleon-friede.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "go"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Charmeleon-GO-Friede-3DS",
+          "slug": "charmeleon-friede",
+          "cssClass": ".pokesprite.pokemon.charmeleon-friede.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "go"
+          ]
+        },
+        "shiny": {
+          "name": "Charmeleon-GO-Friede-3DS-★",
+          "slug": "charmeleon-friede",
+          "cssClass": ".pokesprite.pokemon.charmeleon-friede.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "go"
+          ]
+        }
+      },
+      {
+        "regular": {
           "name": "Charmeleon-GO-Jan2020",
           "slug": "charmeleon-jan2020",
           "cssClass": ".pokesprite.pokemon.charmeleon-jan2020",
@@ -5041,6 +5133,52 @@
           "name": "Charizard-GO-Clone-3DS-★",
           "slug": "charizard-clone",
           "cssClass": ".pokesprite.pokemon.charizard-clone.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "go"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Charizard-GO-Friede",
+          "slug": "charizard-friede",
+          "cssClass": ".pokesprite.pokemon.charizard-friede",
+          "categories": [
+            "go"
+          ]
+        },
+        "shiny": {
+          "name": "Charizard-GO-Friede-★",
+          "slug": "charizard-friede",
+          "cssClass": ".pokesprite.pokemon.charizard-friede.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "go"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Charizard-GO-Friede-3DS",
+          "slug": "charizard-friede",
+          "cssClass": ".pokesprite.pokemon.charizard-friede.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "go"
+          ]
+        },
+        "shiny": {
+          "name": "Charizard-GO-Friede-3DS-★",
+          "slug": "charizard-friede",
+          "cssClass": ".pokesprite.pokemon.charizard-friede.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -18184,6 +18322,98 @@
           "name": "Pikachu-GO-Kariyushi-F-3DS-★",
           "slug": "pikachu-kariyushi-f",
           "cssClass": ".pokesprite.pokemon.pikachu-kariyushi-f.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "go"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Pikachu-GO-Korea2026",
+          "slug": "pikachu-korea2026",
+          "cssClass": ".pokesprite.pokemon.pikachu-korea2026",
+          "categories": [
+            "go"
+          ]
+        },
+        "shiny": {
+          "name": "Pikachu-GO-Korea2026-★",
+          "slug": "pikachu-korea2026",
+          "cssClass": ".pokesprite.pokemon.pikachu-korea2026.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "go"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Pikachu-GO-Korea2026-3DS",
+          "slug": "pikachu-korea2026",
+          "cssClass": ".pokesprite.pokemon.pikachu-korea2026.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "go"
+          ]
+        },
+        "shiny": {
+          "name": "Pikachu-GO-Korea2026-3DS-★",
+          "slug": "pikachu-korea2026",
+          "cssClass": ".pokesprite.pokemon.pikachu-korea2026.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "go"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Pikachu-GO-Korea2026-F",
+          "slug": "pikachu-korea2026-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-korea2026-f",
+          "categories": [
+            "go"
+          ]
+        },
+        "shiny": {
+          "name": "Pikachu-GO-Korea2026-F-★",
+          "slug": "pikachu-korea2026-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-korea2026-f.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "go"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Pikachu-GO-Korea2026-F-3DS",
+          "slug": "pikachu-korea2026-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-korea2026-f.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "go"
+          ]
+        },
+        "shiny": {
+          "name": "Pikachu-GO-Korea2026-F-3DS-★",
+          "slug": "pikachu-korea2026-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-korea2026-f.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -86935,6 +87165,98 @@
           "modifiers": [
             "shiny",
             "n3ds"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Murkrow-Bonus-Pokétoon-EP17",
+          "slug": "murkrow-poketoon-ep17",
+          "cssClass": ".pokesprite.pokemon.murkrow-poketoon-ep17",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Murkrow-Bonus-Pokétoon-EP17-★",
+          "slug": "murkrow-poketoon-ep17",
+          "cssClass": ".pokesprite.pokemon.murkrow-poketoon-ep17.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Murkrow-Bonus-Pokétoon-EP17-3DS",
+          "slug": "murkrow-poketoon-ep17",
+          "cssClass": ".pokesprite.pokemon.murkrow-poketoon-ep17.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Murkrow-Bonus-Pokétoon-EP17-3DS-★",
+          "slug": "murkrow-poketoon-ep17",
+          "cssClass": ".pokesprite.pokemon.murkrow-poketoon-ep17.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Murkrow-Bonus-Pokétoon-EP17-F",
+          "slug": "murkrow-poketoon-ep17-f",
+          "cssClass": ".pokesprite.pokemon.murkrow-poketoon-ep17-f",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Murkrow-Bonus-Pokétoon-EP17-F-★",
+          "slug": "murkrow-poketoon-ep17-f",
+          "cssClass": ".pokesprite.pokemon.murkrow-poketoon-ep17-f.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Murkrow-Bonus-Pokétoon-EP17-F-3DS",
+          "slug": "murkrow-poketoon-ep17-f",
+          "cssClass": ".pokesprite.pokemon.murkrow-poketoon-ep17-f.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Murkrow-Bonus-Pokétoon-EP17-F-3DS-★",
+          "slug": "murkrow-poketoon-ep17-f",
+          "cssClass": ".pokesprite.pokemon.murkrow-poketoon-ep17-f.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
           ]
         }
       }
