@@ -13347,6 +13347,98 @@
       },
       {
         "regular": {
+          "name": "Pikachu-GO-Astronaut",
+          "slug": "pikachu-astronaut",
+          "cssClass": ".pokesprite.pokemon.pikachu-astronaut",
+          "categories": [
+            "go"
+          ]
+        },
+        "shiny": {
+          "name": "Pikachu-GO-Astronaut-★",
+          "slug": "pikachu-astronaut",
+          "cssClass": ".pokesprite.pokemon.pikachu-astronaut.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "go"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Pikachu-GO-Astronaut-3DS",
+          "slug": "pikachu-astronaut",
+          "cssClass": ".pokesprite.pokemon.pikachu-astronaut.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "go"
+          ]
+        },
+        "shiny": {
+          "name": "Pikachu-GO-Astronaut-3DS-★",
+          "slug": "pikachu-astronaut",
+          "cssClass": ".pokesprite.pokemon.pikachu-astronaut.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "go"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Pikachu-GO-Astronaut-F",
+          "slug": "pikachu-astronaut-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-astronaut-f",
+          "categories": [
+            "go"
+          ]
+        },
+        "shiny": {
+          "name": "Pikachu-GO-Astronaut-F-★",
+          "slug": "pikachu-astronaut-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-astronaut-f.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "go"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Pikachu-GO-Astronaut-F-3DS",
+          "slug": "pikachu-astronaut-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-astronaut-f.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "go"
+          ]
+        },
+        "shiny": {
+          "name": "Pikachu-GO-Astronaut-F-3DS-★",
+          "slug": "pikachu-astronaut-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-astronaut-f.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "go"
+          ]
+        }
+      },
+      {
+        "regular": {
           "name": "Pikachu-GO-BaseballJersey",
           "slug": "pikachu-baseball-jersey",
           "cssClass": ".pokesprite.pokemon.pikachu-baseball-jersey",
