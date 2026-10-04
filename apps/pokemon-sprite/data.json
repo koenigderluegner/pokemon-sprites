@@ -172241,6 +172241,21 @@
             "switch"
           ]
         }
+      },
+      {
+        "regular": {
+          "name": "Eelektross-Mega-SwSh",
+          "slug": "eelektross-mega-sw-sh",
+          "cssClass": ".pokesprite.pokemon.eelektross-mega-sw-sh"
+        },
+        "shiny": {
+          "name": "Eelektross-Mega-SwSh-★",
+          "slug": "eelektross-mega-sw-sh",
+          "cssClass": ".pokesprite.pokemon.eelektross-mega-sw-sh.shiny",
+          "modifiers": [
+            "shiny"
+          ]
+        }
       }
     ]
   },
