@@ -13531,6 +13531,98 @@
       },
       {
         "regular": {
+          "name": "Pikachu-GO-Caplet",
+          "slug": "pikachu-caplet",
+          "cssClass": ".pokesprite.pokemon.pikachu-caplet",
+          "categories": [
+            "go"
+          ]
+        },
+        "shiny": {
+          "name": "Pikachu-GO-Caplet-★",
+          "slug": "pikachu-caplet",
+          "cssClass": ".pokesprite.pokemon.pikachu-caplet.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "go"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Pikachu-GO-Caplet-3DS",
+          "slug": "pikachu-caplet",
+          "cssClass": ".pokesprite.pokemon.pikachu-caplet.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "go"
+          ]
+        },
+        "shiny": {
+          "name": "Pikachu-GO-Caplet-3DS-★",
+          "slug": "pikachu-caplet",
+          "cssClass": ".pokesprite.pokemon.pikachu-caplet.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "go"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Pikachu-GO-Caplet-F",
+          "slug": "pikachu-caplet-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-caplet-f",
+          "categories": [
+            "go"
+          ]
+        },
+        "shiny": {
+          "name": "Pikachu-GO-Caplet-F-★",
+          "slug": "pikachu-caplet-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-caplet-f.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "go"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Pikachu-GO-Caplet-F-3DS",
+          "slug": "pikachu-caplet-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-caplet-f.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "go"
+          ]
+        },
+        "shiny": {
+          "name": "Pikachu-GO-Caplet-F-3DS-★",
+          "slug": "pikachu-caplet-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-caplet-f.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "go"
+          ]
+        }
+      },
+      {
+        "regular": {
           "name": "Pikachu-GO-Captain",
           "slug": "pikachu-captain",
           "cssClass": ".pokesprite.pokemon.pikachu-captain",
@@ -35457,6 +35549,48 @@
       },
       {
         "regular": {
+          "name": "Zubat-GO-TopHat",
+          "slug": "zubat-top-hat",
+          "cssClass": ".pokesprite.pokemon.zubat-top-hat",
+          "categories": [
+            "go"
+          ]
+        },
+        "shiny": {
+          "name": "Zubat-GO-TopHat-★",
+          "slug": "zubat-top-hat",
+          "cssClass": ".pokesprite.pokemon.zubat-top-hat.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "go"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Zubat-GO-TopHat-F",
+          "slug": "zubat-top-hat-f",
+          "cssClass": ".pokesprite.pokemon.zubat-top-hat-f",
+          "categories": [
+            "go"
+          ]
+        },
+        "shiny": {
+          "name": "Zubat-GO-TopHat-F-★",
+          "slug": "zubat-top-hat-f",
+          "cssClass": ".pokesprite.pokemon.zubat-top-hat-f.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "go"
+          ]
+        }
+      },
+      {
+        "regular": {
           "name": "Zubat-Bonus-Anime-DrAnna",
           "slug": "zubat-anime-dr-anna",
           "cssClass": ".pokesprite.pokemon.zubat-anime-dr-anna",
@@ -35568,6 +35702,98 @@
           "modifiers": [
             "shiny",
             "n3ds"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Golbat-GO-TopHat",
+          "slug": "golbat-top-hat",
+          "cssClass": ".pokesprite.pokemon.golbat-top-hat",
+          "categories": [
+            "go"
+          ]
+        },
+        "shiny": {
+          "name": "Golbat-GO-TopHat-★",
+          "slug": "golbat-top-hat",
+          "cssClass": ".pokesprite.pokemon.golbat-top-hat.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "go"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Golbat-GO-TopHat-3DS",
+          "slug": "golbat-top-hat",
+          "cssClass": ".pokesprite.pokemon.golbat-top-hat.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "go"
+          ]
+        },
+        "shiny": {
+          "name": "Golbat-GO-TopHat-3DS-★",
+          "slug": "golbat-top-hat",
+          "cssClass": ".pokesprite.pokemon.golbat-top-hat.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "go"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Golbat-GO-TopHat-F",
+          "slug": "golbat-top-hat-f",
+          "cssClass": ".pokesprite.pokemon.golbat-top-hat-f",
+          "categories": [
+            "go"
+          ]
+        },
+        "shiny": {
+          "name": "Golbat-GO-TopHat-F-★",
+          "slug": "golbat-top-hat-f",
+          "cssClass": ".pokesprite.pokemon.golbat-top-hat-f.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "go"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Golbat-GO-TopHat-F-3DS",
+          "slug": "golbat-top-hat-f",
+          "cssClass": ".pokesprite.pokemon.golbat-top-hat-f.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "go"
+          ]
+        },
+        "shiny": {
+          "name": "Golbat-GO-TopHat-F-3DS-★",
+          "slug": "golbat-top-hat-f",
+          "cssClass": ".pokesprite.pokemon.golbat-top-hat-f.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "go"
           ]
         }
       },
@@ -76588,6 +76814,77 @@
           "modifiers": [
             "shiny",
             "switch"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Crobat-GO-TopHat",
+          "slug": "crobat-top-hat",
+          "cssClass": ".pokesprite.pokemon.crobat-top-hat",
+          "categories": [
+            "go"
+          ]
+        },
+        "shiny": {
+          "name": "Crobat-GO-TopHat-★",
+          "slug": "crobat-top-hat",
+          "cssClass": ".pokesprite.pokemon.crobat-top-hat.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "go"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Crobat-GO-TopHat-3DS",
+          "slug": "crobat-top-hat",
+          "cssClass": ".pokesprite.pokemon.crobat-top-hat.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "go"
+          ]
+        },
+        "shiny": {
+          "name": "Crobat-GO-TopHat-3DS-★",
+          "slug": "crobat-top-hat",
+          "cssClass": ".pokesprite.pokemon.crobat-top-hat.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "go"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Crobat-GO-TopHat-Switch-SwSh",
+          "slug": "crobat-top-hat-sw-sh",
+          "cssClass": ".pokesprite.pokemon.crobat-top-hat-sw-sh.switch",
+          "modifiers": [
+            "switch"
+          ],
+          "categories": [
+            "go"
+          ]
+        },
+        "shiny": {
+          "name": "Crobat-GO-TopHat-Switch-SwSh-★",
+          "slug": "crobat-top-hat-sw-sh",
+          "cssClass": ".pokesprite.pokemon.crobat-top-hat-sw-sh.shiny.switch",
+          "modifiers": [
+            "shiny",
+            "switch"
+          ],
+          "categories": [
+            "go"
           ]
         }
       }
@@ -196313,6 +196610,78 @@
             "shiny"
           ]
         }
+      },
+      {
+        "regular": {
+          "name": "Sinistea-Antique",
+          "slug": "sinistea-antique",
+          "cssClass": ".pokesprite.pokemon.sinistea-antique"
+        },
+        "shiny": {
+          "name": "Sinistea-Antique-★",
+          "slug": "sinistea-antique",
+          "cssClass": ".pokesprite.pokemon.sinistea-antique.shiny",
+          "modifiers": [
+            "shiny"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Sinistea-Phony",
+          "slug": "sinistea-phony",
+          "cssClass": ".pokesprite.pokemon.sinistea-phony"
+        },
+        "shiny": {
+          "name": "Sinistea-Phony-★",
+          "slug": "sinistea-phony",
+          "cssClass": ".pokesprite.pokemon.sinistea-phony.shiny",
+          "modifiers": [
+            "shiny"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Sinistea-Antique-GO-Bow",
+          "slug": "sinistea-antique-bow",
+          "cssClass": ".pokesprite.pokemon.sinistea-antique-bow",
+          "categories": [
+            "go"
+          ]
+        },
+        "shiny": {
+          "name": "Sinistea-Antique-GO-Bow-★",
+          "slug": "sinistea-antique-bow",
+          "cssClass": ".pokesprite.pokemon.sinistea-antique-bow.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "go"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Sinistea-Phony-GO-Bow",
+          "slug": "sinistea-phony-bow",
+          "cssClass": ".pokesprite.pokemon.sinistea-phony-bow",
+          "categories": [
+            "go"
+          ]
+        },
+        "shiny": {
+          "name": "Sinistea-Phony-GO-Bow-★",
+          "slug": "sinistea-phony-bow",
+          "cssClass": ".pokesprite.pokemon.sinistea-phony-bow.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "go"
+          ]
+        }
       }
     ]
   },
@@ -196351,6 +196720,166 @@
           "modifiers": [
             "n3ds",
             "shiny"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Polteageist-Antique",
+          "slug": "polteageist-antique",
+          "cssClass": ".pokesprite.pokemon.polteageist-antique"
+        },
+        "shiny": {
+          "name": "Polteageist-Antique-★",
+          "slug": "polteageist-antique",
+          "cssClass": ".pokesprite.pokemon.polteageist-antique.shiny",
+          "modifiers": [
+            "shiny"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Polteageist-Antique-3DS",
+          "slug": "polteageist-antique",
+          "cssClass": ".pokesprite.pokemon.polteageist-antique.n3ds",
+          "modifiers": [
+            "n3ds"
+          ]
+        },
+        "shiny": {
+          "name": "Polteageist-Antique-3DS-★",
+          "slug": "polteageist-antique",
+          "cssClass": ".pokesprite.pokemon.polteageist-antique.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Polteageist-Phony",
+          "slug": "polteageist-phony",
+          "cssClass": ".pokesprite.pokemon.polteageist-phony"
+        },
+        "shiny": {
+          "name": "Polteageist-Phony-★",
+          "slug": "polteageist-phony",
+          "cssClass": ".pokesprite.pokemon.polteageist-phony.shiny",
+          "modifiers": [
+            "shiny"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Polteageist-Phony-3DS",
+          "slug": "polteageist-phony",
+          "cssClass": ".pokesprite.pokemon.polteageist-phony.n3ds",
+          "modifiers": [
+            "n3ds"
+          ]
+        },
+        "shiny": {
+          "name": "Polteageist-Phony-3DS-★",
+          "slug": "polteageist-phony",
+          "cssClass": ".pokesprite.pokemon.polteageist-phony.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Polteageist-Antique-GO-Bow",
+          "slug": "polteageist-antique-bow",
+          "cssClass": ".pokesprite.pokemon.polteageist-antique-bow",
+          "categories": [
+            "go"
+          ]
+        },
+        "shiny": {
+          "name": "Polteageist-Antique-GO-Bow-★",
+          "slug": "polteageist-antique-bow",
+          "cssClass": ".pokesprite.pokemon.polteageist-antique-bow.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "go"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Polteageist-Antique-GO-Bow-3DS",
+          "slug": "polteageist-antique-bow",
+          "cssClass": ".pokesprite.pokemon.polteageist-antique-bow.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "go"
+          ]
+        },
+        "shiny": {
+          "name": "Polteageist-Antique-GO-Bow-3DS-★",
+          "slug": "polteageist-antique-bow",
+          "cssClass": ".pokesprite.pokemon.polteageist-antique-bow.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "go"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Polteageist-Phony-GO-Bow",
+          "slug": "polteageist-phony-bow",
+          "cssClass": ".pokesprite.pokemon.polteageist-phony-bow",
+          "categories": [
+            "go"
+          ]
+        },
+        "shiny": {
+          "name": "Polteageist-Phony-GO-Bow-★",
+          "slug": "polteageist-phony-bow",
+          "cssClass": ".pokesprite.pokemon.polteageist-phony-bow.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "go"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Polteageist-Phony-GO-Bow-3DS",
+          "slug": "polteageist-phony-bow",
+          "cssClass": ".pokesprite.pokemon.polteageist-phony-bow.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "go"
+          ]
+        },
+        "shiny": {
+          "name": "Polteageist-Phony-GO-Bow-3DS-★",
+          "slug": "polteageist-phony-bow",
+          "cssClass": ".pokesprite.pokemon.polteageist-phony-bow.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "go"
           ]
         }
       }
@@ -259121,6 +259650,36 @@
             "shiny"
           ]
         }
+      },
+      {
+        "regular": {
+          "name": "Poltchageist-Artisan",
+          "slug": "poltchageist-artisan",
+          "cssClass": ".pokesprite.pokemon.poltchageist-artisan"
+        },
+        "shiny": {
+          "name": "Poltchageist-Artisan-★",
+          "slug": "poltchageist-artisan",
+          "cssClass": ".pokesprite.pokemon.poltchageist-artisan.shiny",
+          "modifiers": [
+            "shiny"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Poltchageist-Counterfeit",
+          "slug": "poltchageist-counterfeit",
+          "cssClass": ".pokesprite.pokemon.poltchageist-counterfeit"
+        },
+        "shiny": {
+          "name": "Poltchageist-Counterfeit-★",
+          "slug": "poltchageist-counterfeit",
+          "cssClass": ".pokesprite.pokemon.poltchageist-counterfeit.shiny",
+          "modifiers": [
+            "shiny"
+          ]
+        }
       }
     ]
   },
@@ -259159,6 +259718,74 @@
           "modifiers": [
             "n3ds",
             "shiny"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Sinistcha-Masterpiece",
+          "slug": "sinistcha-masterpiece",
+          "cssClass": ".pokesprite.pokemon.sinistcha-masterpiece"
+        },
+        "shiny": {
+          "name": "Sinistcha-Masterpiece-★",
+          "slug": "sinistcha-masterpiece",
+          "cssClass": ".pokesprite.pokemon.sinistcha-masterpiece.shiny",
+          "modifiers": [
+            "shiny"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Sinistcha-Masterpiece-3DS",
+          "slug": "sinistcha-masterpiece",
+          "cssClass": ".pokesprite.pokemon.sinistcha-masterpiece.n3ds",
+          "modifiers": [
+            "n3ds"
+          ]
+        },
+        "shiny": {
+          "name": "Sinistcha-Masterpiece-3DS-★",
+          "slug": "sinistcha-masterpiece",
+          "cssClass": ".pokesprite.pokemon.sinistcha-masterpiece.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Sinistcha-Unremarkable",
+          "slug": "sinistcha-unremarkable",
+          "cssClass": ".pokesprite.pokemon.sinistcha-unremarkable"
+        },
+        "shiny": {
+          "name": "Sinistcha-Unremarkable-★",
+          "slug": "sinistcha-unremarkable",
+          "cssClass": ".pokesprite.pokemon.sinistcha-unremarkable.shiny",
+          "modifiers": [
+            "shiny"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Sinistcha-Unremarkable-3DS",
+          "slug": "sinistcha-unremarkable",
+          "cssClass": ".pokesprite.pokemon.sinistcha-unremarkable.n3ds",
+          "modifiers": [
+            "n3ds"
+          ]
+        },
+        "shiny": {
+          "name": "Sinistcha-Unremarkable-3DS-★",
+          "slug": "sinistcha-unremarkable",
+          "cssClass": ".pokesprite.pokemon.sinistcha-unremarkable.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
           ]
         }
       }
