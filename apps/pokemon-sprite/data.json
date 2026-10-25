@@ -119777,17 +119777,17 @@
       },
       {
         "regular": {
-          "name": "Minun-Bonus-CaféRemix-CharamanderRed",
-          "slug": "minun-cafe-remix-charamander-red",
-          "cssClass": ".pokesprite.pokemon.minun-cafe-remix-charamander-red",
+          "name": "Minun-Bonus-CaféRemix-CharmanderRed",
+          "slug": "minun-cafe-remix-charmander-red",
+          "cssClass": ".pokesprite.pokemon.minun-cafe-remix-charmander-red",
           "categories": [
             "bonus"
           ]
         },
         "shiny": {
-          "name": "Minun-Bonus-CaféRemix-CharamanderRed-★",
-          "slug": "minun-cafe-remix-charamander-red",
-          "cssClass": ".pokesprite.pokemon.minun-cafe-remix-charamander-red.shiny",
+          "name": "Minun-Bonus-CaféRemix-CharmanderRed-★",
+          "slug": "minun-cafe-remix-charmander-red",
+          "cssClass": ".pokesprite.pokemon.minun-cafe-remix-charmander-red.shiny",
           "modifiers": [
             "shiny"
           ],
@@ -119798,9 +119798,9 @@
       },
       {
         "regular": {
-          "name": "Minun-Bonus-CaféRemix-CharamanderRed-3DS",
-          "slug": "minun-cafe-remix-charamander-red",
-          "cssClass": ".pokesprite.pokemon.minun-cafe-remix-charamander-red.n3ds",
+          "name": "Minun-Bonus-CaféRemix-CharmanderRed-3DS",
+          "slug": "minun-cafe-remix-charmander-red",
+          "cssClass": ".pokesprite.pokemon.minun-cafe-remix-charmander-red.n3ds",
           "modifiers": [
             "n3ds"
           ],
@@ -119809,9 +119809,9 @@
           ]
         },
         "shiny": {
-          "name": "Minun-Bonus-CaféRemix-CharamanderRed-3DS-★",
-          "slug": "minun-cafe-remix-charamander-red",
-          "cssClass": ".pokesprite.pokemon.minun-cafe-remix-charamander-red.shiny.n3ds",
+          "name": "Minun-Bonus-CaféRemix-CharmanderRed-3DS-★",
+          "slug": "minun-cafe-remix-charmander-red",
+          "cssClass": ".pokesprite.pokemon.minun-cafe-remix-charmander-red.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
