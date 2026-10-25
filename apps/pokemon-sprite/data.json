@@ -95915,17 +95915,17 @@
       },
       {
         "regular": {
-          "name": "Sneasel-Hisui-Bonus-CaféRemix-CharamnderRed",
-          "slug": "sneasel-hisui-cafe-remix-charamnder-red",
-          "cssClass": ".pokesprite.pokemon.sneasel-hisui-cafe-remix-charamnder-red",
+          "name": "Sneasel-Hisui-Bonus-CaféRemix-CharmanderRed",
+          "slug": "sneasel-hisui-cafe-remix-charmander-red",
+          "cssClass": ".pokesprite.pokemon.sneasel-hisui-cafe-remix-charmander-red",
           "categories": [
             "bonus"
           ]
         },
         "shiny": {
-          "name": "Sneasel-Hisui-Bonus-CaféRemix-CharamnderRed-★",
-          "slug": "sneasel-hisui-cafe-remix-charamnder-red",
-          "cssClass": ".pokesprite.pokemon.sneasel-hisui-cafe-remix-charamnder-red.shiny",
+          "name": "Sneasel-Hisui-Bonus-CaféRemix-CharmanderRed-★",
+          "slug": "sneasel-hisui-cafe-remix-charmander-red",
+          "cssClass": ".pokesprite.pokemon.sneasel-hisui-cafe-remix-charmander-red.shiny",
           "modifiers": [
             "shiny"
           ],
@@ -95936,9 +95936,9 @@
       },
       {
         "regular": {
-          "name": "Sneasel-Hisui-Bonus-CaféRemix-CharamnderRed-3DS",
-          "slug": "sneasel-hisui-cafe-remix-charamnder-red",
-          "cssClass": ".pokesprite.pokemon.sneasel-hisui-cafe-remix-charamnder-red.n3ds",
+          "name": "Sneasel-Hisui-Bonus-CaféRemix-CharmanderRed-3DS",
+          "slug": "sneasel-hisui-cafe-remix-charmander-red",
+          "cssClass": ".pokesprite.pokemon.sneasel-hisui-cafe-remix-charmander-red.n3ds",
           "modifiers": [
             "n3ds"
           ],
@@ -95947,9 +95947,9 @@
           ]
         },
         "shiny": {
-          "name": "Sneasel-Hisui-Bonus-CaféRemix-CharamnderRed-3DS-★",
-          "slug": "sneasel-hisui-cafe-remix-charamnder-red",
-          "cssClass": ".pokesprite.pokemon.sneasel-hisui-cafe-remix-charamnder-red.shiny.n3ds",
+          "name": "Sneasel-Hisui-Bonus-CaféRemix-CharmanderRed-3DS-★",
+          "slug": "sneasel-hisui-cafe-remix-charmander-red",
+          "cssClass": ".pokesprite.pokemon.sneasel-hisui-cafe-remix-charmander-red.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -95961,17 +95961,17 @@
       },
       {
         "regular": {
-          "name": "Sneasel-Hisui-Bonus-CaféRemix-CharamnderRed-F",
-          "slug": "sneasel-hisui-cafe-remix-charamnder-red-f",
-          "cssClass": ".pokesprite.pokemon.sneasel-hisui-cafe-remix-charamnder-red-f",
+          "name": "Sneasel-Hisui-Bonus-CaféRemix-CharmanderRed-F",
+          "slug": "sneasel-hisui-cafe-remix-charmander-red-f",
+          "cssClass": ".pokesprite.pokemon.sneasel-hisui-cafe-remix-charmander-red-f",
           "categories": [
             "bonus"
           ]
         },
         "shiny": {
-          "name": "Sneasel-Hisui-Bonus-CaféRemix-CharamnderRed-F-★",
-          "slug": "sneasel-hisui-cafe-remix-charamnder-red-f",
-          "cssClass": ".pokesprite.pokemon.sneasel-hisui-cafe-remix-charamnder-red-f.shiny",
+          "name": "Sneasel-Hisui-Bonus-CaféRemix-CharmanderRed-F-★",
+          "slug": "sneasel-hisui-cafe-remix-charmander-red-f",
+          "cssClass": ".pokesprite.pokemon.sneasel-hisui-cafe-remix-charmander-red-f.shiny",
           "modifiers": [
             "shiny"
           ],
@@ -95982,9 +95982,9 @@
       },
       {
         "regular": {
-          "name": "Sneasel-Hisui-Bonus-CaféRemix-CharamnderRed-F-3DS",
-          "slug": "sneasel-hisui-cafe-remix-charamnder-red-f",
-          "cssClass": ".pokesprite.pokemon.sneasel-hisui-cafe-remix-charamnder-red-f.n3ds",
+          "name": "Sneasel-Hisui-Bonus-CaféRemix-CharmanderRed-F-3DS",
+          "slug": "sneasel-hisui-cafe-remix-charmander-red-f",
+          "cssClass": ".pokesprite.pokemon.sneasel-hisui-cafe-remix-charmander-red-f.n3ds",
           "modifiers": [
             "n3ds"
           ],
@@ -95993,9 +95993,9 @@
           ]
         },
         "shiny": {
-          "name": "Sneasel-Hisui-Bonus-CaféRemix-CharamnderRed-F-3DS-★",
-          "slug": "sneasel-hisui-cafe-remix-charamnder-red-f",
-          "cssClass": ".pokesprite.pokemon.sneasel-hisui-cafe-remix-charamnder-red-f.shiny.n3ds",
+          "name": "Sneasel-Hisui-Bonus-CaféRemix-CharmanderRed-F-3DS-★",
+          "slug": "sneasel-hisui-cafe-remix-charmander-red-f",
+          "cssClass": ".pokesprite.pokemon.sneasel-hisui-cafe-remix-charmander-red-f.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
