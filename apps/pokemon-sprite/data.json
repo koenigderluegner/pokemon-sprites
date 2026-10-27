@@ -21461,6 +21461,98 @@
       },
       {
         "regular": {
+          "name": "Pikachu-GO-YellowWig",
+          "slug": "pikachu-yellow-wig",
+          "cssClass": ".pokesprite.pokemon.pikachu-yellow-wig",
+          "categories": [
+            "go"
+          ]
+        },
+        "shiny": {
+          "name": "Pikachu-GO-YellowWig-★",
+          "slug": "pikachu-yellow-wig",
+          "cssClass": ".pokesprite.pokemon.pikachu-yellow-wig.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "go"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Pikachu-GO-YellowWig-3DS",
+          "slug": "pikachu-yellow-wig",
+          "cssClass": ".pokesprite.pokemon.pikachu-yellow-wig.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "go"
+          ]
+        },
+        "shiny": {
+          "name": "Pikachu-GO-YellowWig-3DS-★",
+          "slug": "pikachu-yellow-wig",
+          "cssClass": ".pokesprite.pokemon.pikachu-yellow-wig.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "go"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Pikachu-GO-YellowWig-F",
+          "slug": "pikachu-yellow-wig-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-yellow-wig-f",
+          "categories": [
+            "go"
+          ]
+        },
+        "shiny": {
+          "name": "Pikachu-GO-YellowWig-F-★",
+          "slug": "pikachu-yellow-wig-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-yellow-wig-f.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "go"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Pikachu-GO-YellowWig-F-3DS",
+          "slug": "pikachu-yellow-wig-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-yellow-wig-f.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "go"
+          ]
+        },
+        "shiny": {
+          "name": "Pikachu-GO-YellowWig-F-3DS-★",
+          "slug": "pikachu-yellow-wig-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-yellow-wig-f.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "go"
+          ]
+        }
+      },
+      {
+        "regular": {
           "name": "Pikachu-Bonus-Anime-Ash-AG097",
           "slug": "pikachu-anime-ash-ag097",
           "cssClass": ".pokesprite.pokemon.pikachu-anime-ash-ag097",
@@ -124683,6 +124775,558 @@
           "modifiers": [
             "n3ds",
             "shiny"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Feebas-Bonus-CaféRemix-BulbasaurGreen",
+          "slug": "feebas-cafe-remix-bulbasaur-green",
+          "cssClass": ".pokesprite.pokemon.feebas-cafe-remix-bulbasaur-green",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Feebas-Bonus-CaféRemix-BulbasaurGreen-★",
+          "slug": "feebas-cafe-remix-bulbasaur-green",
+          "cssClass": ".pokesprite.pokemon.feebas-cafe-remix-bulbasaur-green.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Feebas-Bonus-CaféRemix-BulbasaurGreen-3DS",
+          "slug": "feebas-cafe-remix-bulbasaur-green",
+          "cssClass": ".pokesprite.pokemon.feebas-cafe-remix-bulbasaur-green.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Feebas-Bonus-CaféRemix-BulbasaurGreen-3DS-★",
+          "slug": "feebas-cafe-remix-bulbasaur-green",
+          "cssClass": ".pokesprite.pokemon.feebas-cafe-remix-bulbasaur-green.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Feebas-Bonus-CaféRemix-CharmanderRed",
+          "slug": "feebas-cafe-remix-charmander-red",
+          "cssClass": ".pokesprite.pokemon.feebas-cafe-remix-charmander-red",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Feebas-Bonus-CaféRemix-CharmanderRed-★",
+          "slug": "feebas-cafe-remix-charmander-red",
+          "cssClass": ".pokesprite.pokemon.feebas-cafe-remix-charmander-red.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Feebas-Bonus-CaféRemix-CharmanderRed-3DS",
+          "slug": "feebas-cafe-remix-charmander-red",
+          "cssClass": ".pokesprite.pokemon.feebas-cafe-remix-charmander-red.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Feebas-Bonus-CaféRemix-CharmanderRed-3DS-★",
+          "slug": "feebas-cafe-remix-charmander-red",
+          "cssClass": ".pokesprite.pokemon.feebas-cafe-remix-charmander-red.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Feebas-Bonus-CaféRemix-DragoniteOrange",
+          "slug": "feebas-cafe-remix-dragonite-orange",
+          "cssClass": ".pokesprite.pokemon.feebas-cafe-remix-dragonite-orange",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Feebas-Bonus-CaféRemix-DragoniteOrange-★",
+          "slug": "feebas-cafe-remix-dragonite-orange",
+          "cssClass": ".pokesprite.pokemon.feebas-cafe-remix-dragonite-orange.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Feebas-Bonus-CaféRemix-DragoniteOrange-3DS",
+          "slug": "feebas-cafe-remix-dragonite-orange",
+          "cssClass": ".pokesprite.pokemon.feebas-cafe-remix-dragonite-orange.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Feebas-Bonus-CaféRemix-DragoniteOrange-3DS-★",
+          "slug": "feebas-cafe-remix-dragonite-orange",
+          "cssClass": ".pokesprite.pokemon.feebas-cafe-remix-dragonite-orange.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Feebas-Bonus-CaféRemix-EeveeBrown",
+          "slug": "feebas-cafe-remix-eevee-brown",
+          "cssClass": ".pokesprite.pokemon.feebas-cafe-remix-eevee-brown",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Feebas-Bonus-CaféRemix-EeveeBrown-★",
+          "slug": "feebas-cafe-remix-eevee-brown",
+          "cssClass": ".pokesprite.pokemon.feebas-cafe-remix-eevee-brown.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Feebas-Bonus-CaféRemix-EeveeBrown-3DS",
+          "slug": "feebas-cafe-remix-eevee-brown",
+          "cssClass": ".pokesprite.pokemon.feebas-cafe-remix-eevee-brown.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Feebas-Bonus-CaféRemix-EeveeBrown-3DS-★",
+          "slug": "feebas-cafe-remix-eevee-brown",
+          "cssClass": ".pokesprite.pokemon.feebas-cafe-remix-eevee-brown.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Feebas-Bonus-CaféRemix-GengarPurple",
+          "slug": "feebas-cafe-remix-gengar-purple",
+          "cssClass": ".pokesprite.pokemon.feebas-cafe-remix-gengar-purple",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Feebas-Bonus-CaféRemix-GengarPurple-★",
+          "slug": "feebas-cafe-remix-gengar-purple",
+          "cssClass": ".pokesprite.pokemon.feebas-cafe-remix-gengar-purple.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Feebas-Bonus-CaféRemix-GengarPurple-3DS",
+          "slug": "feebas-cafe-remix-gengar-purple",
+          "cssClass": ".pokesprite.pokemon.feebas-cafe-remix-gengar-purple.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Feebas-Bonus-CaféRemix-GengarPurple-3DS-★",
+          "slug": "feebas-cafe-remix-gengar-purple",
+          "cssClass": ".pokesprite.pokemon.feebas-cafe-remix-gengar-purple.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Feebas-Bonus-CaféRemix-GothoritaBlack",
+          "slug": "feebas-cafe-remix-gothorita-black",
+          "cssClass": ".pokesprite.pokemon.feebas-cafe-remix-gothorita-black",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Feebas-Bonus-CaféRemix-GothoritaBlack-★",
+          "slug": "feebas-cafe-remix-gothorita-black",
+          "cssClass": ".pokesprite.pokemon.feebas-cafe-remix-gothorita-black.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Feebas-Bonus-CaféRemix-GothoritaBlack-3DS",
+          "slug": "feebas-cafe-remix-gothorita-black",
+          "cssClass": ".pokesprite.pokemon.feebas-cafe-remix-gothorita-black.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Feebas-Bonus-CaféRemix-GothoritaBlack-3DS-★",
+          "slug": "feebas-cafe-remix-gothorita-black",
+          "cssClass": ".pokesprite.pokemon.feebas-cafe-remix-gothorita-black.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Feebas-Bonus-CaféRemix-JigglypuffPink",
+          "slug": "feebas-cafe-remix-jigglypuff-pink",
+          "cssClass": ".pokesprite.pokemon.feebas-cafe-remix-jigglypuff-pink",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Feebas-Bonus-CaféRemix-JigglypuffPink-★",
+          "slug": "feebas-cafe-remix-jigglypuff-pink",
+          "cssClass": ".pokesprite.pokemon.feebas-cafe-remix-jigglypuff-pink.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Feebas-Bonus-CaféRemix-JigglypuffPink-3DS",
+          "slug": "feebas-cafe-remix-jigglypuff-pink",
+          "cssClass": ".pokesprite.pokemon.feebas-cafe-remix-jigglypuff-pink.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Feebas-Bonus-CaféRemix-JigglypuffPink-3DS-★",
+          "slug": "feebas-cafe-remix-jigglypuff-pink",
+          "cssClass": ".pokesprite.pokemon.feebas-cafe-remix-jigglypuff-pink.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Feebas-Bonus-CaféRemix-LucarioBlue",
+          "slug": "feebas-cafe-remix-lucario-blue",
+          "cssClass": ".pokesprite.pokemon.feebas-cafe-remix-lucario-blue",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Feebas-Bonus-CaféRemix-LucarioBlue-★",
+          "slug": "feebas-cafe-remix-lucario-blue",
+          "cssClass": ".pokesprite.pokemon.feebas-cafe-remix-lucario-blue.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Feebas-Bonus-CaféRemix-LucarioBlue-3DS",
+          "slug": "feebas-cafe-remix-lucario-blue",
+          "cssClass": ".pokesprite.pokemon.feebas-cafe-remix-lucario-blue.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Feebas-Bonus-CaféRemix-LucarioBlue-3DS-★",
+          "slug": "feebas-cafe-remix-lucario-blue",
+          "cssClass": ".pokesprite.pokemon.feebas-cafe-remix-lucario-blue.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Feebas-Bonus-CaféRemix-MinccinoGray",
+          "slug": "feebas-cafe-remix-minccino-gray",
+          "cssClass": ".pokesprite.pokemon.feebas-cafe-remix-minccino-gray",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Feebas-Bonus-CaféRemix-MinccinoGray-★",
+          "slug": "feebas-cafe-remix-minccino-gray",
+          "cssClass": ".pokesprite.pokemon.feebas-cafe-remix-minccino-gray.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Feebas-Bonus-CaféRemix-MinccinoGray-3DS",
+          "slug": "feebas-cafe-remix-minccino-gray",
+          "cssClass": ".pokesprite.pokemon.feebas-cafe-remix-minccino-gray.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Feebas-Bonus-CaféRemix-MinccinoGray-3DS-★",
+          "slug": "feebas-cafe-remix-minccino-gray",
+          "cssClass": ".pokesprite.pokemon.feebas-cafe-remix-minccino-gray.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Feebas-Bonus-CaféRemix-PikachuYellow",
+          "slug": "feebas-cafe-remix-pikachu-yellow",
+          "cssClass": ".pokesprite.pokemon.feebas-cafe-remix-pikachu-yellow",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Feebas-Bonus-CaféRemix-PikachuYellow-★",
+          "slug": "feebas-cafe-remix-pikachu-yellow",
+          "cssClass": ".pokesprite.pokemon.feebas-cafe-remix-pikachu-yellow.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Feebas-Bonus-CaféRemix-PikachuYellow-3DS",
+          "slug": "feebas-cafe-remix-pikachu-yellow",
+          "cssClass": ".pokesprite.pokemon.feebas-cafe-remix-pikachu-yellow.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Feebas-Bonus-CaféRemix-PikachuYellow-3DS-★",
+          "slug": "feebas-cafe-remix-pikachu-yellow",
+          "cssClass": ".pokesprite.pokemon.feebas-cafe-remix-pikachu-yellow.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Feebas-Bonus-CaféRemix-SlowpokePink",
+          "slug": "feebas-cafe-remix-slowpoke-pink",
+          "cssClass": ".pokesprite.pokemon.feebas-cafe-remix-slowpoke-pink",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Feebas-Bonus-CaféRemix-SlowpokePink-★",
+          "slug": "feebas-cafe-remix-slowpoke-pink",
+          "cssClass": ".pokesprite.pokemon.feebas-cafe-remix-slowpoke-pink.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Feebas-Bonus-CaféRemix-SlowpokePink-3DS",
+          "slug": "feebas-cafe-remix-slowpoke-pink",
+          "cssClass": ".pokesprite.pokemon.feebas-cafe-remix-slowpoke-pink.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Feebas-Bonus-CaféRemix-SlowpokePink-3DS-★",
+          "slug": "feebas-cafe-remix-slowpoke-pink",
+          "cssClass": ".pokesprite.pokemon.feebas-cafe-remix-slowpoke-pink.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Feebas-Bonus-CaféRemix-SquirtleBlue",
+          "slug": "feebas-cafe-remix-squirtle-blue",
+          "cssClass": ".pokesprite.pokemon.feebas-cafe-remix-squirtle-blue",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Feebas-Bonus-CaféRemix-SquirtleBlue-★",
+          "slug": "feebas-cafe-remix-squirtle-blue",
+          "cssClass": ".pokesprite.pokemon.feebas-cafe-remix-squirtle-blue.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Feebas-Bonus-CaféRemix-SquirtleBlue-3DS",
+          "slug": "feebas-cafe-remix-squirtle-blue",
+          "cssClass": ".pokesprite.pokemon.feebas-cafe-remix-squirtle-blue.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Feebas-Bonus-CaféRemix-SquirtleBlue-3DS-★",
+          "slug": "feebas-cafe-remix-squirtle-blue",
+          "cssClass": ".pokesprite.pokemon.feebas-cafe-remix-squirtle-blue.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
           ]
         }
       }
