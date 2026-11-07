@@ -499,6 +499,52 @@
       },
       {
         "regular": {
+          "name": "Bulbasaur-Bonus-CaféRemix-Crown3rdA",
+          "slug": "bulbasaur-cafe-remix-crown3rd-a",
+          "cssClass": ".pokesprite.pokemon.bulbasaur-cafe-remix-crown3rd-a",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Bulbasaur-Bonus-CaféRemix-Crown3rdA-★",
+          "slug": "bulbasaur-cafe-remix-crown3rd-a",
+          "cssClass": ".pokesprite.pokemon.bulbasaur-cafe-remix-crown3rd-a.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Bulbasaur-Bonus-CaféRemix-Crown3rdA-3DS",
+          "slug": "bulbasaur-cafe-remix-crown3rd-a",
+          "cssClass": ".pokesprite.pokemon.bulbasaur-cafe-remix-crown3rd-a.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Bulbasaur-Bonus-CaféRemix-Crown3rdA-3DS-★",
+          "slug": "bulbasaur-cafe-remix-crown3rd-a",
+          "cssClass": ".pokesprite.pokemon.bulbasaur-cafe-remix-crown3rd-a.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
           "name": "Bulbasaur-Bonus-CaféRemix-DragoniteOrange",
           "slug": "bulbasaur-cafe-remix-dragonite-orange",
           "cssClass": ".pokesprite.pokemon.bulbasaur-cafe-remix-dragonite-orange",
