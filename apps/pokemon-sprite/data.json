@@ -25760,17 +25760,17 @@
       },
       {
         "regular": {
-          "name": "Pikachu-Bonus-CaféRemix-StylishNight",
-          "slug": "pikachu-cafe-remix-stylish-night",
-          "cssClass": ".pokesprite.pokemon.pikachu-cafe-remix-stylish-night",
+          "name": "Pikachu-Bonus-CaféRemix-StylishNightSky",
+          "slug": "pikachu-cafe-remix-stylish-night-sky",
+          "cssClass": ".pokesprite.pokemon.pikachu-cafe-remix-stylish-night-sky",
           "categories": [
             "bonus"
           ]
         },
         "shiny": {
-          "name": "Pikachu-Bonus-CaféRemix-StylishNight-★",
-          "slug": "pikachu-cafe-remix-stylish-night",
-          "cssClass": ".pokesprite.pokemon.pikachu-cafe-remix-stylish-night.shiny",
+          "name": "Pikachu-Bonus-CaféRemix-StylishNightSky-★",
+          "slug": "pikachu-cafe-remix-stylish-night-sky",
+          "cssClass": ".pokesprite.pokemon.pikachu-cafe-remix-stylish-night-sky.shiny",
           "modifiers": [
             "shiny"
           ],
@@ -25781,9 +25781,9 @@
       },
       {
         "regular": {
-          "name": "Pikachu-Bonus-CaféRemix-StylishNight-3DS",
-          "slug": "pikachu-cafe-remix-stylish-night",
-          "cssClass": ".pokesprite.pokemon.pikachu-cafe-remix-stylish-night.n3ds",
+          "name": "Pikachu-Bonus-CaféRemix-StylishNightSky-3DS",
+          "slug": "pikachu-cafe-remix-stylish-night-sky",
+          "cssClass": ".pokesprite.pokemon.pikachu-cafe-remix-stylish-night-sky.n3ds",
           "modifiers": [
             "n3ds"
           ],
@@ -25792,9 +25792,9 @@
           ]
         },
         "shiny": {
-          "name": "Pikachu-Bonus-CaféRemix-StylishNight-3DS-★",
-          "slug": "pikachu-cafe-remix-stylish-night",
-          "cssClass": ".pokesprite.pokemon.pikachu-cafe-remix-stylish-night.shiny.n3ds",
+          "name": "Pikachu-Bonus-CaféRemix-StylishNightSky-3DS-★",
+          "slug": "pikachu-cafe-remix-stylish-night-sky",
+          "cssClass": ".pokesprite.pokemon.pikachu-cafe-remix-stylish-night-sky.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -25806,17 +25806,17 @@
       },
       {
         "regular": {
-          "name": "Pikachu-Bonus-CaféRemix-StylishNight-F",
-          "slug": "pikachu-cafe-remix-stylish-night-f",
-          "cssClass": ".pokesprite.pokemon.pikachu-cafe-remix-stylish-night-f",
+          "name": "Pikachu-Bonus-CaféRemix-StylishNightSky-F",
+          "slug": "pikachu-cafe-remix-stylish-night-sky-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-cafe-remix-stylish-night-sky-f",
           "categories": [
             "bonus"
           ]
         },
         "shiny": {
-          "name": "Pikachu-Bonus-CaféRemix-StylishNight-F-★",
-          "slug": "pikachu-cafe-remix-stylish-night-f",
-          "cssClass": ".pokesprite.pokemon.pikachu-cafe-remix-stylish-night-f.shiny",
+          "name": "Pikachu-Bonus-CaféRemix-StylishNightSky-F-★",
+          "slug": "pikachu-cafe-remix-stylish-night-sky-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-cafe-remix-stylish-night-sky-f.shiny",
           "modifiers": [
             "shiny"
           ],
@@ -25827,9 +25827,9 @@
       },
       {
         "regular": {
-          "name": "Pikachu-Bonus-CaféRemix-StylishNight-F-3DS",
-          "slug": "pikachu-cafe-remix-stylish-night-f",
-          "cssClass": ".pokesprite.pokemon.pikachu-cafe-remix-stylish-night-f.n3ds",
+          "name": "Pikachu-Bonus-CaféRemix-StylishNightSky-F-3DS",
+          "slug": "pikachu-cafe-remix-stylish-night-sky-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-cafe-remix-stylish-night-sky-f.n3ds",
           "modifiers": [
             "n3ds"
           ],
@@ -25838,9 +25838,9 @@
           ]
         },
         "shiny": {
-          "name": "Pikachu-Bonus-CaféRemix-StylishNight-F-3DS-★",
-          "slug": "pikachu-cafe-remix-stylish-night-f",
-          "cssClass": ".pokesprite.pokemon.pikachu-cafe-remix-stylish-night-f.shiny.n3ds",
+          "name": "Pikachu-Bonus-CaféRemix-StylishNightSky-F-3DS-★",
+          "slug": "pikachu-cafe-remix-stylish-night-sky-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-cafe-remix-stylish-night-sky-f.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
