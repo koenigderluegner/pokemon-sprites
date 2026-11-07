@@ -123344,17 +123344,17 @@
       },
       {
         "regular": {
-          "name": "Altaria-Bonus-CaféRemix-AnitqueBlue",
-          "slug": "altaria-cafe-remix-anitque-blue",
-          "cssClass": ".pokesprite.pokemon.altaria-cafe-remix-anitque-blue",
+          "name": "Altaria-Bonus-CaféRemix-AntiqueBlue",
+          "slug": "altaria-cafe-remix-antique-blue",
+          "cssClass": ".pokesprite.pokemon.altaria-cafe-remix-antique-blue",
           "categories": [
             "bonus"
           ]
         },
         "shiny": {
-          "name": "Altaria-Bonus-CaféRemix-AnitqueBlue-★",
-          "slug": "altaria-cafe-remix-anitque-blue",
-          "cssClass": ".pokesprite.pokemon.altaria-cafe-remix-anitque-blue.shiny",
+          "name": "Altaria-Bonus-CaféRemix-AntiqueBlue-★",
+          "slug": "altaria-cafe-remix-antique-blue",
+          "cssClass": ".pokesprite.pokemon.altaria-cafe-remix-antique-blue.shiny",
           "modifiers": [
             "shiny"
           ],
@@ -123365,9 +123365,9 @@
       },
       {
         "regular": {
-          "name": "Altaria-Bonus-CaféRemix-AnitqueBlue-3DS",
-          "slug": "altaria-cafe-remix-anitque-blue",
-          "cssClass": ".pokesprite.pokemon.altaria-cafe-remix-anitque-blue.n3ds",
+          "name": "Altaria-Bonus-CaféRemix-AntiqueBlue-3DS",
+          "slug": "altaria-cafe-remix-antique-blue",
+          "cssClass": ".pokesprite.pokemon.altaria-cafe-remix-antique-blue.n3ds",
           "modifiers": [
             "n3ds"
           ],
@@ -123376,9 +123376,9 @@
           ]
         },
         "shiny": {
-          "name": "Altaria-Bonus-CaféRemix-AnitqueBlue-3DS-★",
-          "slug": "altaria-cafe-remix-anitque-blue",
-          "cssClass": ".pokesprite.pokemon.altaria-cafe-remix-anitque-blue.shiny.n3ds",
+          "name": "Altaria-Bonus-CaféRemix-AntiqueBlue-3DS-★",
+          "slug": "altaria-cafe-remix-antique-blue",
+          "cssClass": ".pokesprite.pokemon.altaria-cafe-remix-antique-blue.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
