@@ -179750,6 +179750,300 @@
       },
       {
         "regular": {
+          "name": "Froakie-Bonus-CaféRemix-BulbasaurGreen",
+          "slug": "froakie-cafe-remix-bulbasaur-green",
+          "cssClass": ".pokesprite.pokemon.froakie-cafe-remix-bulbasaur-green",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Froakie-Bonus-CaféRemix-BulbasaurGreen-★",
+          "slug": "froakie-cafe-remix-bulbasaur-green",
+          "cssClass": ".pokesprite.pokemon.froakie-cafe-remix-bulbasaur-green.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Froakie-Bonus-CaféRemix-CharmanderRed",
+          "slug": "froakie-cafe-remix-charmander-red",
+          "cssClass": ".pokesprite.pokemon.froakie-cafe-remix-charmander-red",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Froakie-Bonus-CaféRemix-CharmanderRed-★",
+          "slug": "froakie-cafe-remix-charmander-red",
+          "cssClass": ".pokesprite.pokemon.froakie-cafe-remix-charmander-red.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Froakie-Bonus-CaféRemix-CommemorativeBrooch",
+          "slug": "froakie-cafe-remix-commemorative-brooch",
+          "cssClass": ".pokesprite.pokemon.froakie-cafe-remix-commemorative-brooch",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Froakie-Bonus-CaféRemix-CommemorativeBrooch-★",
+          "slug": "froakie-cafe-remix-commemorative-brooch",
+          "cssClass": ".pokesprite.pokemon.froakie-cafe-remix-commemorative-brooch.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Froakie-Bonus-CaféRemix-DragoniteOrange",
+          "slug": "froakie-cafe-remix-dragonite-orange",
+          "cssClass": ".pokesprite.pokemon.froakie-cafe-remix-dragonite-orange",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Froakie-Bonus-CaféRemix-DragoniteOrange-★",
+          "slug": "froakie-cafe-remix-dragonite-orange",
+          "cssClass": ".pokesprite.pokemon.froakie-cafe-remix-dragonite-orange.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Froakie-Bonus-CaféRemix-EeveeBrown",
+          "slug": "froakie-cafe-remix-eevee-brown",
+          "cssClass": ".pokesprite.pokemon.froakie-cafe-remix-eevee-brown",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Froakie-Bonus-CaféRemix-EeveeBrown-★",
+          "slug": "froakie-cafe-remix-eevee-brown",
+          "cssClass": ".pokesprite.pokemon.froakie-cafe-remix-eevee-brown.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Froakie-Bonus-CaféRemix-GengarPurple",
+          "slug": "froakie-cafe-remix-gengar-purple",
+          "cssClass": ".pokesprite.pokemon.froakie-cafe-remix-gengar-purple",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Froakie-Bonus-CaféRemix-GengarPurple-★",
+          "slug": "froakie-cafe-remix-gengar-purple",
+          "cssClass": ".pokesprite.pokemon.froakie-cafe-remix-gengar-purple.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Froakie-Bonus-CaféRemix-GothoritaBlack",
+          "slug": "froakie-cafe-remix-gothorita-black",
+          "cssClass": ".pokesprite.pokemon.froakie-cafe-remix-gothorita-black",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Froakie-Bonus-CaféRemix-GothoritaBlack-★",
+          "slug": "froakie-cafe-remix-gothorita-black",
+          "cssClass": ".pokesprite.pokemon.froakie-cafe-remix-gothorita-black.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Froakie-Bonus-CaféRemix-JigglypuffPink",
+          "slug": "froakie-cafe-remix-jigglypuff-pink",
+          "cssClass": ".pokesprite.pokemon.froakie-cafe-remix-jigglypuff-pink",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Froakie-Bonus-CaféRemix-JigglypuffPink-★",
+          "slug": "froakie-cafe-remix-jigglypuff-pink",
+          "cssClass": ".pokesprite.pokemon.froakie-cafe-remix-jigglypuff-pink.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Froakie-Bonus-CaféRemix-LucarioBlue",
+          "slug": "froakie-cafe-remix-lucario-blue",
+          "cssClass": ".pokesprite.pokemon.froakie-cafe-remix-lucario-blue",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Froakie-Bonus-CaféRemix-LucarioBlue-★",
+          "slug": "froakie-cafe-remix-lucario-blue",
+          "cssClass": ".pokesprite.pokemon.froakie-cafe-remix-lucario-blue.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Froakie-Bonus-CaféRemix-MinccinoGray",
+          "slug": "froakie-cafe-remix-minccino-gray",
+          "cssClass": ".pokesprite.pokemon.froakie-cafe-remix-minccino-gray",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Froakie-Bonus-CaféRemix-MinccinoGray-★",
+          "slug": "froakie-cafe-remix-minccino-gray",
+          "cssClass": ".pokesprite.pokemon.froakie-cafe-remix-minccino-gray.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Froakie-Bonus-CaféRemix-PikachuYellow",
+          "slug": "froakie-cafe-remix-pikachu-yellow",
+          "cssClass": ".pokesprite.pokemon.froakie-cafe-remix-pikachu-yellow",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Froakie-Bonus-CaféRemix-PikachuYellow-★",
+          "slug": "froakie-cafe-remix-pikachu-yellow",
+          "cssClass": ".pokesprite.pokemon.froakie-cafe-remix-pikachu-yellow.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Froakie-Bonus-CaféRemix-SlowpokePink",
+          "slug": "froakie-cafe-remix-slowpoke-pink",
+          "cssClass": ".pokesprite.pokemon.froakie-cafe-remix-slowpoke-pink",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Froakie-Bonus-CaféRemix-SlowpokePink-★",
+          "slug": "froakie-cafe-remix-slowpoke-pink",
+          "cssClass": ".pokesprite.pokemon.froakie-cafe-remix-slowpoke-pink.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Froakie-Bonus-CaféRemix-SquirtleBlue",
+          "slug": "froakie-cafe-remix-squirtle-blue",
+          "cssClass": ".pokesprite.pokemon.froakie-cafe-remix-squirtle-blue",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Froakie-Bonus-CaféRemix-SquirtleBlue-★",
+          "slug": "froakie-cafe-remix-squirtle-blue",
+          "cssClass": ".pokesprite.pokemon.froakie-cafe-remix-squirtle-blue.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Froakie-Bonus-CaféRemix-StylishNightSky",
+          "slug": "froakie-cafe-remix-stylish-night-sky",
+          "cssClass": ".pokesprite.pokemon.froakie-cafe-remix-stylish-night-sky",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Froakie-Bonus-CaféRemix-StylishNightSky-★",
+          "slug": "froakie-cafe-remix-stylish-night-sky",
+          "cssClass": ".pokesprite.pokemon.froakie-cafe-remix-stylish-night-sky.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
           "name": "Froakie-Bonus-MysteryDungeon-Super",
           "slug": "froakie-mystery-dungeon-super",
           "cssClass": ".pokesprite.pokemon.froakie-mystery-dungeon-super",
