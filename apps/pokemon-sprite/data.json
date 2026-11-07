@@ -194113,6 +194113,300 @@
             "shiny"
           ]
         }
+      },
+      {
+        "regular": {
+          "name": "Cosmog-Bonus-CaféRemix-BulbasaurGreen",
+          "slug": "cosmog-cafe-remix-bulbasaur-green",
+          "cssClass": ".pokesprite.pokemon.cosmog-cafe-remix-bulbasaur-green",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Cosmog-Bonus-CaféRemix-BulbasaurGreen-★",
+          "slug": "cosmog-cafe-remix-bulbasaur-green",
+          "cssClass": ".pokesprite.pokemon.cosmog-cafe-remix-bulbasaur-green.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Cosmog-Bonus-CaféRemix-CharmanderRed",
+          "slug": "cosmog-cafe-remix-charmander-red",
+          "cssClass": ".pokesprite.pokemon.cosmog-cafe-remix-charmander-red",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Cosmog-Bonus-CaféRemix-CharmanderRed-★",
+          "slug": "cosmog-cafe-remix-charmander-red",
+          "cssClass": ".pokesprite.pokemon.cosmog-cafe-remix-charmander-red.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Cosmog-Bonus-CaféRemix-DragoniteOrange",
+          "slug": "cosmog-cafe-remix-dragonite-orange",
+          "cssClass": ".pokesprite.pokemon.cosmog-cafe-remix-dragonite-orange",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Cosmog-Bonus-CaféRemix-DragoniteOrange-★",
+          "slug": "cosmog-cafe-remix-dragonite-orange",
+          "cssClass": ".pokesprite.pokemon.cosmog-cafe-remix-dragonite-orange.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Cosmog-Bonus-CaféRemix-EeveeBrown",
+          "slug": "cosmog-cafe-remix-eevee-brown",
+          "cssClass": ".pokesprite.pokemon.cosmog-cafe-remix-eevee-brown",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Cosmog-Bonus-CaféRemix-EeveeBrown-★",
+          "slug": "cosmog-cafe-remix-eevee-brown",
+          "cssClass": ".pokesprite.pokemon.cosmog-cafe-remix-eevee-brown.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Cosmog-Bonus-CaféRemix-GengarPurple",
+          "slug": "cosmog-cafe-remix-gengar-purple",
+          "cssClass": ".pokesprite.pokemon.cosmog-cafe-remix-gengar-purple",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Cosmog-Bonus-CaféRemix-GengarPurple-★",
+          "slug": "cosmog-cafe-remix-gengar-purple",
+          "cssClass": ".pokesprite.pokemon.cosmog-cafe-remix-gengar-purple.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Cosmog-Bonus-CaféRemix-GothoritaBlack",
+          "slug": "cosmog-cafe-remix-gothorita-black",
+          "cssClass": ".pokesprite.pokemon.cosmog-cafe-remix-gothorita-black",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Cosmog-Bonus-CaféRemix-GothoritaBlack-★",
+          "slug": "cosmog-cafe-remix-gothorita-black",
+          "cssClass": ".pokesprite.pokemon.cosmog-cafe-remix-gothorita-black.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Cosmog-Bonus-CaféRemix-JigglypuffPink",
+          "slug": "cosmog-cafe-remix-jigglypuff-pink",
+          "cssClass": ".pokesprite.pokemon.cosmog-cafe-remix-jigglypuff-pink",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Cosmog-Bonus-CaféRemix-JigglypuffPink-★",
+          "slug": "cosmog-cafe-remix-jigglypuff-pink",
+          "cssClass": ".pokesprite.pokemon.cosmog-cafe-remix-jigglypuff-pink.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Cosmog-Bonus-CaféRemix-LucarioBlue",
+          "slug": "cosmog-cafe-remix-lucario-blue",
+          "cssClass": ".pokesprite.pokemon.cosmog-cafe-remix-lucario-blue",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Cosmog-Bonus-CaféRemix-LucarioBlue-★",
+          "slug": "cosmog-cafe-remix-lucario-blue",
+          "cssClass": ".pokesprite.pokemon.cosmog-cafe-remix-lucario-blue.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Cosmog-Bonus-CaféRemix-MinccinoGray",
+          "slug": "cosmog-cafe-remix-minccino-gray",
+          "cssClass": ".pokesprite.pokemon.cosmog-cafe-remix-minccino-gray",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Cosmog-Bonus-CaféRemix-MinccinoGray-★",
+          "slug": "cosmog-cafe-remix-minccino-gray",
+          "cssClass": ".pokesprite.pokemon.cosmog-cafe-remix-minccino-gray.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Cosmog-Bonus-CaféRemix-PikachuYellow",
+          "slug": "cosmog-cafe-remix-pikachu-yellow",
+          "cssClass": ".pokesprite.pokemon.cosmog-cafe-remix-pikachu-yellow",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Cosmog-Bonus-CaféRemix-PikachuYellow-★",
+          "slug": "cosmog-cafe-remix-pikachu-yellow",
+          "cssClass": ".pokesprite.pokemon.cosmog-cafe-remix-pikachu-yellow.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Cosmog-Bonus-CaféRemix-SlowpokePink",
+          "slug": "cosmog-cafe-remix-slowpoke-pink",
+          "cssClass": ".pokesprite.pokemon.cosmog-cafe-remix-slowpoke-pink",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Cosmog-Bonus-CaféRemix-SlowpokePink-★",
+          "slug": "cosmog-cafe-remix-slowpoke-pink",
+          "cssClass": ".pokesprite.pokemon.cosmog-cafe-remix-slowpoke-pink.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Cosmog-Bonus-CaféRemix-SquirtleBlue",
+          "slug": "cosmog-cafe-remix-squirtle-blue",
+          "cssClass": ".pokesprite.pokemon.cosmog-cafe-remix-squirtle-blue",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Cosmog-Bonus-CaféRemix-SquirtleBlue-★",
+          "slug": "cosmog-cafe-remix-squirtle-blue",
+          "cssClass": ".pokesprite.pokemon.cosmog-cafe-remix-squirtle-blue.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Cosmog-Bonus-CaféRemix-StylishOrange",
+          "slug": "cosmog-cafe-remix-stylish-orange",
+          "cssClass": ".pokesprite.pokemon.cosmog-cafe-remix-stylish-orange",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Cosmog-Bonus-CaféRemix-StylishOrange-★",
+          "slug": "cosmog-cafe-remix-stylish-orange",
+          "cssClass": ".pokesprite.pokemon.cosmog-cafe-remix-stylish-orange.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Cosmog-Bonus-CaféRemix-StylishPeriwinkle",
+          "slug": "cosmog-cafe-remix-stylish-periwinkle",
+          "cssClass": ".pokesprite.pokemon.cosmog-cafe-remix-stylish-periwinkle",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Cosmog-Bonus-CaféRemix-StylishPeriwinkle-★",
+          "slug": "cosmog-cafe-remix-stylish-periwinkle",
+          "cssClass": ".pokesprite.pokemon.cosmog-cafe-remix-stylish-periwinkle.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       }
     ]
   },
