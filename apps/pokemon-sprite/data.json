@@ -70959,6 +70959,52 @@
       },
       {
         "regular": {
+          "name": "Dragonite-Bonus-CaféRemix-StylishRoastedTea",
+          "slug": "dragonite-cafe-remix-stylish-roasted-tea",
+          "cssClass": ".pokesprite.pokemon.dragonite-cafe-remix-stylish-roasted-tea",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Dragonite-Bonus-CaféRemix-StylishRoastedTea-★",
+          "slug": "dragonite-cafe-remix-stylish-roasted-tea",
+          "cssClass": ".pokesprite.pokemon.dragonite-cafe-remix-stylish-roasted-tea.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Dragonite-Bonus-CaféRemix-StylishRoastedTea-3DS",
+          "slug": "dragonite-cafe-remix-stylish-roasted-tea",
+          "cssClass": ".pokesprite.pokemon.dragonite-cafe-remix-stylish-roasted-tea.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Dragonite-Bonus-CaféRemix-StylishRoastedTea-3DS-★",
+          "slug": "dragonite-cafe-remix-stylish-roasted-tea",
+          "cssClass": ".pokesprite.pokemon.dragonite-cafe-remix-stylish-roasted-tea.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
           "name": "Dragonite-Bonus-Nacrene",
           "slug": "dragonite-nacrene",
           "cssClass": ".pokesprite.pokemon.dragonite-nacrene",
@@ -126758,6 +126804,98 @@
             "bonus"
           ]
         }
+      },
+      {
+        "regular": {
+          "name": "Milotic-Bonus-CaféRemix-StylishRoastedTea",
+          "slug": "milotic-cafe-remix-stylish-roasted-tea",
+          "cssClass": ".pokesprite.pokemon.milotic-cafe-remix-stylish-roasted-tea",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Milotic-Bonus-CaféRemix-StylishRoastedTea-★",
+          "slug": "milotic-cafe-remix-stylish-roasted-tea",
+          "cssClass": ".pokesprite.pokemon.milotic-cafe-remix-stylish-roasted-tea.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Milotic-Bonus-CaféRemix-StylishRoastedTea-3DS",
+          "slug": "milotic-cafe-remix-stylish-roasted-tea",
+          "cssClass": ".pokesprite.pokemon.milotic-cafe-remix-stylish-roasted-tea.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Milotic-Bonus-CaféRemix-StylishRoastedTea-3DS-★",
+          "slug": "milotic-cafe-remix-stylish-roasted-tea",
+          "cssClass": ".pokesprite.pokemon.milotic-cafe-remix-stylish-roasted-tea.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Milotic-Bonus-CaféRemix-StylishRoastedTea-F",
+          "slug": "milotic-cafe-remix-stylish-roasted-tea-f",
+          "cssClass": ".pokesprite.pokemon.milotic-cafe-remix-stylish-roasted-tea-f",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Milotic-Bonus-CaféRemix-StylishRoastedTea-F-★",
+          "slug": "milotic-cafe-remix-stylish-roasted-tea-f",
+          "cssClass": ".pokesprite.pokemon.milotic-cafe-remix-stylish-roasted-tea-f.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Milotic-Bonus-CaféRemix-StylishRoastedTea-F-3DS",
+          "slug": "milotic-cafe-remix-stylish-roasted-tea-f",
+          "cssClass": ".pokesprite.pokemon.milotic-cafe-remix-stylish-roasted-tea-f.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Milotic-Bonus-CaféRemix-StylishRoastedTea-F-3DS-★",
+          "slug": "milotic-cafe-remix-stylish-roasted-tea-f",
+          "cssClass": ".pokesprite.pokemon.milotic-cafe-remix-stylish-roasted-tea-f.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       }
     ]
   },
@@ -163761,6 +163899,604 @@
           "name": "Shaymin-Sky-Bonus-Anime-Movie11-Purifying-3DS-★",
           "slug": "shaymin-sky-anime-movie11-purifying",
           "cssClass": ".pokesprite.pokemon.shaymin-sky-anime-movie11-purifying.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Shaymin-Sky-Bonus-CaféRemix-BulbasaurGreen",
+          "slug": "shaymin-sky-cafe-remix-bulbasaur-green",
+          "cssClass": ".pokesprite.pokemon.shaymin-sky-cafe-remix-bulbasaur-green",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Shaymin-Sky-Bonus-CaféRemix-BulbasaurGreen-★",
+          "slug": "shaymin-sky-cafe-remix-bulbasaur-green",
+          "cssClass": ".pokesprite.pokemon.shaymin-sky-cafe-remix-bulbasaur-green.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Shaymin-Sky-Bonus-CaféRemix-BulbasaurGreen-3DS",
+          "slug": "shaymin-sky-cafe-remix-bulbasaur-green",
+          "cssClass": ".pokesprite.pokemon.shaymin-sky-cafe-remix-bulbasaur-green.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Shaymin-Sky-Bonus-CaféRemix-BulbasaurGreen-3DS-★",
+          "slug": "shaymin-sky-cafe-remix-bulbasaur-green",
+          "cssClass": ".pokesprite.pokemon.shaymin-sky-cafe-remix-bulbasaur-green.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Shaymin-Sky-Bonus-CaféRemix-CharmanderRed",
+          "slug": "shaymin-sky-cafe-remix-charmander-red",
+          "cssClass": ".pokesprite.pokemon.shaymin-sky-cafe-remix-charmander-red",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Shaymin-Sky-Bonus-CaféRemix-CharmanderRed-★",
+          "slug": "shaymin-sky-cafe-remix-charmander-red",
+          "cssClass": ".pokesprite.pokemon.shaymin-sky-cafe-remix-charmander-red.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Shaymin-Sky-Bonus-CaféRemix-CharmanderRed-3DS",
+          "slug": "shaymin-sky-cafe-remix-charmander-red",
+          "cssClass": ".pokesprite.pokemon.shaymin-sky-cafe-remix-charmander-red.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Shaymin-Sky-Bonus-CaféRemix-CharmanderRed-3DS-★",
+          "slug": "shaymin-sky-cafe-remix-charmander-red",
+          "cssClass": ".pokesprite.pokemon.shaymin-sky-cafe-remix-charmander-red.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Shaymin-Sky-Bonus-CaféRemix-DragoniteOrange",
+          "slug": "shaymin-sky-cafe-remix-dragonite-orange",
+          "cssClass": ".pokesprite.pokemon.shaymin-sky-cafe-remix-dragonite-orange",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Shaymin-Sky-Bonus-CaféRemix-DragoniteOrange-★",
+          "slug": "shaymin-sky-cafe-remix-dragonite-orange",
+          "cssClass": ".pokesprite.pokemon.shaymin-sky-cafe-remix-dragonite-orange.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Shaymin-Sky-Bonus-CaféRemix-DragoniteOrange-3DS",
+          "slug": "shaymin-sky-cafe-remix-dragonite-orange",
+          "cssClass": ".pokesprite.pokemon.shaymin-sky-cafe-remix-dragonite-orange.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Shaymin-Sky-Bonus-CaféRemix-DragoniteOrange-3DS-★",
+          "slug": "shaymin-sky-cafe-remix-dragonite-orange",
+          "cssClass": ".pokesprite.pokemon.shaymin-sky-cafe-remix-dragonite-orange.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Shaymin-Sky-Bonus-CaféRemix-EeveeBrown",
+          "slug": "shaymin-sky-cafe-remix-eevee-brown",
+          "cssClass": ".pokesprite.pokemon.shaymin-sky-cafe-remix-eevee-brown",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Shaymin-Sky-Bonus-CaféRemix-EeveeBrown-★",
+          "slug": "shaymin-sky-cafe-remix-eevee-brown",
+          "cssClass": ".pokesprite.pokemon.shaymin-sky-cafe-remix-eevee-brown.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Shaymin-Sky-Bonus-CaféRemix-EeveeBrown-3DS",
+          "slug": "shaymin-sky-cafe-remix-eevee-brown",
+          "cssClass": ".pokesprite.pokemon.shaymin-sky-cafe-remix-eevee-brown.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Shaymin-Sky-Bonus-CaféRemix-EeveeBrown-3DS-★",
+          "slug": "shaymin-sky-cafe-remix-eevee-brown",
+          "cssClass": ".pokesprite.pokemon.shaymin-sky-cafe-remix-eevee-brown.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Shaymin-Sky-Bonus-CaféRemix-GengarPurple",
+          "slug": "shaymin-sky-cafe-remix-gengar-purple",
+          "cssClass": ".pokesprite.pokemon.shaymin-sky-cafe-remix-gengar-purple",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Shaymin-Sky-Bonus-CaféRemix-GengarPurple-★",
+          "slug": "shaymin-sky-cafe-remix-gengar-purple",
+          "cssClass": ".pokesprite.pokemon.shaymin-sky-cafe-remix-gengar-purple.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Shaymin-Sky-Bonus-CaféRemix-GengarPurple-3DS",
+          "slug": "shaymin-sky-cafe-remix-gengar-purple",
+          "cssClass": ".pokesprite.pokemon.shaymin-sky-cafe-remix-gengar-purple.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Shaymin-Sky-Bonus-CaféRemix-GengarPurple-3DS-★",
+          "slug": "shaymin-sky-cafe-remix-gengar-purple",
+          "cssClass": ".pokesprite.pokemon.shaymin-sky-cafe-remix-gengar-purple.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Shaymin-Sky-Bonus-CaféRemix-GothoritaBlack",
+          "slug": "shaymin-sky-cafe-remix-gothorita-black",
+          "cssClass": ".pokesprite.pokemon.shaymin-sky-cafe-remix-gothorita-black",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Shaymin-Sky-Bonus-CaféRemix-GothoritaBlack-★",
+          "slug": "shaymin-sky-cafe-remix-gothorita-black",
+          "cssClass": ".pokesprite.pokemon.shaymin-sky-cafe-remix-gothorita-black.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Shaymin-Sky-Bonus-CaféRemix-GothoritaBlack-3DS",
+          "slug": "shaymin-sky-cafe-remix-gothorita-black",
+          "cssClass": ".pokesprite.pokemon.shaymin-sky-cafe-remix-gothorita-black.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Shaymin-Sky-Bonus-CaféRemix-GothoritaBlack-3DS-★",
+          "slug": "shaymin-sky-cafe-remix-gothorita-black",
+          "cssClass": ".pokesprite.pokemon.shaymin-sky-cafe-remix-gothorita-black.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Shaymin-Sky-Bonus-CaféRemix-JigglypuffPink",
+          "slug": "shaymin-sky-cafe-remix-jigglypuff-pink",
+          "cssClass": ".pokesprite.pokemon.shaymin-sky-cafe-remix-jigglypuff-pink",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Shaymin-Sky-Bonus-CaféRemix-JigglypuffPink-★",
+          "slug": "shaymin-sky-cafe-remix-jigglypuff-pink",
+          "cssClass": ".pokesprite.pokemon.shaymin-sky-cafe-remix-jigglypuff-pink.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Shaymin-Sky-Bonus-CaféRemix-JigglypuffPink-3DS",
+          "slug": "shaymin-sky-cafe-remix-jigglypuff-pink",
+          "cssClass": ".pokesprite.pokemon.shaymin-sky-cafe-remix-jigglypuff-pink.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Shaymin-Sky-Bonus-CaféRemix-JigglypuffPink-3DS-★",
+          "slug": "shaymin-sky-cafe-remix-jigglypuff-pink",
+          "cssClass": ".pokesprite.pokemon.shaymin-sky-cafe-remix-jigglypuff-pink.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Shaymin-Sky-Bonus-CaféRemix-LucarioBlue",
+          "slug": "shaymin-sky-cafe-remix-lucario-blue",
+          "cssClass": ".pokesprite.pokemon.shaymin-sky-cafe-remix-lucario-blue",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Shaymin-Sky-Bonus-CaféRemix-LucarioBlue-★",
+          "slug": "shaymin-sky-cafe-remix-lucario-blue",
+          "cssClass": ".pokesprite.pokemon.shaymin-sky-cafe-remix-lucario-blue.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Shaymin-Sky-Bonus-CaféRemix-LucarioBlue-3DS",
+          "slug": "shaymin-sky-cafe-remix-lucario-blue",
+          "cssClass": ".pokesprite.pokemon.shaymin-sky-cafe-remix-lucario-blue.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Shaymin-Sky-Bonus-CaféRemix-LucarioBlue-3DS-★",
+          "slug": "shaymin-sky-cafe-remix-lucario-blue",
+          "cssClass": ".pokesprite.pokemon.shaymin-sky-cafe-remix-lucario-blue.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Shaymin-Sky-Bonus-CaféRemix-MinccinoGray",
+          "slug": "shaymin-sky-cafe-remix-minccino-gray",
+          "cssClass": ".pokesprite.pokemon.shaymin-sky-cafe-remix-minccino-gray",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Shaymin-Sky-Bonus-CaféRemix-MinccinoGray-★",
+          "slug": "shaymin-sky-cafe-remix-minccino-gray",
+          "cssClass": ".pokesprite.pokemon.shaymin-sky-cafe-remix-minccino-gray.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Shaymin-Sky-Bonus-CaféRemix-MinccinoGray-3DS",
+          "slug": "shaymin-sky-cafe-remix-minccino-gray",
+          "cssClass": ".pokesprite.pokemon.shaymin-sky-cafe-remix-minccino-gray.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Shaymin-Sky-Bonus-CaféRemix-MinccinoGray-3DS-★",
+          "slug": "shaymin-sky-cafe-remix-minccino-gray",
+          "cssClass": ".pokesprite.pokemon.shaymin-sky-cafe-remix-minccino-gray.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Shaymin-Sky-Bonus-CaféRemix-PikachuYellow",
+          "slug": "shaymin-sky-cafe-remix-pikachu-yellow",
+          "cssClass": ".pokesprite.pokemon.shaymin-sky-cafe-remix-pikachu-yellow",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Shaymin-Sky-Bonus-CaféRemix-PikachuYellow-★",
+          "slug": "shaymin-sky-cafe-remix-pikachu-yellow",
+          "cssClass": ".pokesprite.pokemon.shaymin-sky-cafe-remix-pikachu-yellow.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Shaymin-Sky-Bonus-CaféRemix-PikachuYellow-3DS",
+          "slug": "shaymin-sky-cafe-remix-pikachu-yellow",
+          "cssClass": ".pokesprite.pokemon.shaymin-sky-cafe-remix-pikachu-yellow.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Shaymin-Sky-Bonus-CaféRemix-PikachuYellow-3DS-★",
+          "slug": "shaymin-sky-cafe-remix-pikachu-yellow",
+          "cssClass": ".pokesprite.pokemon.shaymin-sky-cafe-remix-pikachu-yellow.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Shaymin-Sky-Bonus-CaféRemix-SlowpokePink",
+          "slug": "shaymin-sky-cafe-remix-slowpoke-pink",
+          "cssClass": ".pokesprite.pokemon.shaymin-sky-cafe-remix-slowpoke-pink",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Shaymin-Sky-Bonus-CaféRemix-SlowpokePink-★",
+          "slug": "shaymin-sky-cafe-remix-slowpoke-pink",
+          "cssClass": ".pokesprite.pokemon.shaymin-sky-cafe-remix-slowpoke-pink.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Shaymin-Sky-Bonus-CaféRemix-SlowpokePink-3DS",
+          "slug": "shaymin-sky-cafe-remix-slowpoke-pink",
+          "cssClass": ".pokesprite.pokemon.shaymin-sky-cafe-remix-slowpoke-pink.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Shaymin-Sky-Bonus-CaféRemix-SlowpokePink-3DS-★",
+          "slug": "shaymin-sky-cafe-remix-slowpoke-pink",
+          "cssClass": ".pokesprite.pokemon.shaymin-sky-cafe-remix-slowpoke-pink.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Shaymin-Sky-Bonus-CaféRemix-SquirtleBlue",
+          "slug": "shaymin-sky-cafe-remix-squirtle-blue",
+          "cssClass": ".pokesprite.pokemon.shaymin-sky-cafe-remix-squirtle-blue",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Shaymin-Sky-Bonus-CaféRemix-SquirtleBlue-★",
+          "slug": "shaymin-sky-cafe-remix-squirtle-blue",
+          "cssClass": ".pokesprite.pokemon.shaymin-sky-cafe-remix-squirtle-blue.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Shaymin-Sky-Bonus-CaféRemix-SquirtleBlue-3DS",
+          "slug": "shaymin-sky-cafe-remix-squirtle-blue",
+          "cssClass": ".pokesprite.pokemon.shaymin-sky-cafe-remix-squirtle-blue.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Shaymin-Sky-Bonus-CaféRemix-SquirtleBlue-3DS-★",
+          "slug": "shaymin-sky-cafe-remix-squirtle-blue",
+          "cssClass": ".pokesprite.pokemon.shaymin-sky-cafe-remix-squirtle-blue.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Shaymin-Sky-Bonus-CaféRemix-StylishRoastedTea",
+          "slug": "shaymin-sky-cafe-remix-stylish-roasted-tea",
+          "cssClass": ".pokesprite.pokemon.shaymin-sky-cafe-remix-stylish-roasted-tea",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Shaymin-Sky-Bonus-CaféRemix-StylishRoastedTea-★",
+          "slug": "shaymin-sky-cafe-remix-stylish-roasted-tea",
+          "cssClass": ".pokesprite.pokemon.shaymin-sky-cafe-remix-stylish-roasted-tea.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Shaymin-Sky-Bonus-CaféRemix-StylishRoastedTea-3DS",
+          "slug": "shaymin-sky-cafe-remix-stylish-roasted-tea",
+          "cssClass": ".pokesprite.pokemon.shaymin-sky-cafe-remix-stylish-roasted-tea.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Shaymin-Sky-Bonus-CaféRemix-StylishRoastedTea-3DS-★",
+          "slug": "shaymin-sky-cafe-remix-stylish-roasted-tea",
+          "cssClass": ".pokesprite.pokemon.shaymin-sky-cafe-remix-stylish-roasted-tea.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
