@@ -26220,6 +26220,98 @@
       },
       {
         "regular": {
+          "name": "Pikachu-Bonus-CaféRemix-StylishSunflower",
+          "slug": "pikachu-cafe-remix-stylish-sunflower",
+          "cssClass": ".pokesprite.pokemon.pikachu-cafe-remix-stylish-sunflower",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Pikachu-Bonus-CaféRemix-StylishSunflower-★",
+          "slug": "pikachu-cafe-remix-stylish-sunflower",
+          "cssClass": ".pokesprite.pokemon.pikachu-cafe-remix-stylish-sunflower.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Pikachu-Bonus-CaféRemix-StylishSunflower-3DS",
+          "slug": "pikachu-cafe-remix-stylish-sunflower",
+          "cssClass": ".pokesprite.pokemon.pikachu-cafe-remix-stylish-sunflower.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Pikachu-Bonus-CaféRemix-StylishSunflower-3DS-★",
+          "slug": "pikachu-cafe-remix-stylish-sunflower",
+          "cssClass": ".pokesprite.pokemon.pikachu-cafe-remix-stylish-sunflower.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Pikachu-Bonus-CaféRemix-StylishSunflower-F",
+          "slug": "pikachu-cafe-remix-stylish-sunflower-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-cafe-remix-stylish-sunflower-f",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Pikachu-Bonus-CaféRemix-StylishSunflower-F-★",
+          "slug": "pikachu-cafe-remix-stylish-sunflower-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-cafe-remix-stylish-sunflower-f.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Pikachu-Bonus-CaféRemix-StylishSunflower-F-3DS",
+          "slug": "pikachu-cafe-remix-stylish-sunflower-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-cafe-remix-stylish-sunflower-f.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Pikachu-Bonus-CaféRemix-StylishSunflower-F-3DS-★",
+          "slug": "pikachu-cafe-remix-stylish-sunflower-f",
+          "cssClass": ".pokesprite.pokemon.pikachu-cafe-remix-stylish-sunflower-f.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
           "name": "Pikachu-Bonus-CaféRemix-Sweets",
           "slug": "pikachu-cafe-remix-sweets",
           "cssClass": ".pokesprite.pokemon.pikachu-cafe-remix-sweets",
@@ -38239,6 +38331,27 @@
           "name": "Meowth-Bonus-CaféRemix-StylishOrange-★",
           "slug": "meowth-cafe-remix-stylish-orange",
           "cssClass": ".pokesprite.pokemon.meowth-cafe-remix-stylish-orange.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Meowth-Bonus-CaféRemix-StylishSunflower",
+          "slug": "meowth-cafe-remix-stylish-sunflower",
+          "cssClass": ".pokesprite.pokemon.meowth-cafe-remix-stylish-sunflower",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Meowth-Bonus-CaféRemix-StylishSunflower-★",
+          "slug": "meowth-cafe-remix-stylish-sunflower",
+          "cssClass": ".pokesprite.pokemon.meowth-cafe-remix-stylish-sunflower.shiny",
           "modifiers": [
             "shiny"
           ],
@@ -109008,6 +109121,27 @@
           "name": "Mudkip-Bonus-CaféRemix-SquirtleBlue-★",
           "slug": "mudkip-cafe-remix-squirtle-blue",
           "cssClass": ".pokesprite.pokemon.mudkip-cafe-remix-squirtle-blue.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Mudkip-Bonus-CaféRemix-StylishSunflower",
+          "slug": "mudkip-cafe-remix-stylish-sunflower",
+          "cssClass": ".pokesprite.pokemon.mudkip-cafe-remix-stylish-sunflower",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Mudkip-Bonus-CaféRemix-StylishSunflower-★",
+          "slug": "mudkip-cafe-remix-stylish-sunflower",
+          "cssClass": ".pokesprite.pokemon.mudkip-cafe-remix-stylish-sunflower.shiny",
           "modifiers": [
             "shiny"
           ],
@@ -182148,6 +182282,52 @@
           "name": "Gogoat-Bonus-CaféRemix-StylishRose-3DS-★",
           "slug": "gogoat-cafe-remix-stylish-rose",
           "cssClass": ".pokesprite.pokemon.gogoat-cafe-remix-stylish-rose.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Gogoat-Bonus-CaféRemix-StylishSunflower",
+          "slug": "gogoat-cafe-remix-stylish-sunflower",
+          "cssClass": ".pokesprite.pokemon.gogoat-cafe-remix-stylish-sunflower",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Gogoat-Bonus-CaféRemix-StylishSunflower-★",
+          "slug": "gogoat-cafe-remix-stylish-sunflower",
+          "cssClass": ".pokesprite.pokemon.gogoat-cafe-remix-stylish-sunflower.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Gogoat-Bonus-CaféRemix-StylishSunflower-3DS",
+          "slug": "gogoat-cafe-remix-stylish-sunflower",
+          "cssClass": ".pokesprite.pokemon.gogoat-cafe-remix-stylish-sunflower.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Gogoat-Bonus-CaféRemix-StylishSunflower-3DS-★",
+          "slug": "gogoat-cafe-remix-stylish-sunflower",
+          "cssClass": ".pokesprite.pokemon.gogoat-cafe-remix-stylish-sunflower.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
