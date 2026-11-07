@@ -33545,6 +33545,27 @@
       },
       {
         "regular": {
+          "name": "Vulpix-Bonus-CaféRemix-StylishRoastedTea",
+          "slug": "vulpix-cafe-remix-stylish-roasted-tea",
+          "cssClass": ".pokesprite.pokemon.vulpix-cafe-remix-stylish-roasted-tea",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Vulpix-Bonus-CaféRemix-StylishRoastedTea-★",
+          "slug": "vulpix-cafe-remix-stylish-roasted-tea",
+          "cssClass": ".pokesprite.pokemon.vulpix-cafe-remix-stylish-roasted-tea.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
           "name": "Vulpix-Bonus-MysteryDungeon-ExplorersOfSky",
           "slug": "vulpix-mystery-dungeon-explorers-of-sky",
           "cssClass": ".pokesprite.pokemon.vulpix-mystery-dungeon-explorers-of-sky",
@@ -177113,6 +177134,300 @@
           "cssClass": ".pokesprite.pokemon.chespin.shiny",
           "modifiers": [
             "shiny"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Chespin-Bonus-CaféRemix-BulbasaurGreen",
+          "slug": "chespin-cafe-remix-bulbasaur-green",
+          "cssClass": ".pokesprite.pokemon.chespin-cafe-remix-bulbasaur-green",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Chespin-Bonus-CaféRemix-BulbasaurGreen-★",
+          "slug": "chespin-cafe-remix-bulbasaur-green",
+          "cssClass": ".pokesprite.pokemon.chespin-cafe-remix-bulbasaur-green.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Chespin-Bonus-CaféRemix-CharmanderRed",
+          "slug": "chespin-cafe-remix-charmander-red",
+          "cssClass": ".pokesprite.pokemon.chespin-cafe-remix-charmander-red",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Chespin-Bonus-CaféRemix-CharmanderRed-★",
+          "slug": "chespin-cafe-remix-charmander-red",
+          "cssClass": ".pokesprite.pokemon.chespin-cafe-remix-charmander-red.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Chespin-Bonus-CaféRemix-CommemorativeBrooch",
+          "slug": "chespin-cafe-remix-commemorative-brooch",
+          "cssClass": ".pokesprite.pokemon.chespin-cafe-remix-commemorative-brooch",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Chespin-Bonus-CaféRemix-CommemorativeBrooch-★",
+          "slug": "chespin-cafe-remix-commemorative-brooch",
+          "cssClass": ".pokesprite.pokemon.chespin-cafe-remix-commemorative-brooch.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Chespin-Bonus-CaféRemix-DragoniteOrange",
+          "slug": "chespin-cafe-remix-dragonite-orange",
+          "cssClass": ".pokesprite.pokemon.chespin-cafe-remix-dragonite-orange",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Chespin-Bonus-CaféRemix-DragoniteOrange-★",
+          "slug": "chespin-cafe-remix-dragonite-orange",
+          "cssClass": ".pokesprite.pokemon.chespin-cafe-remix-dragonite-orange.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Chespin-Bonus-CaféRemix-EeveeBrown",
+          "slug": "chespin-cafe-remix-eevee-brown",
+          "cssClass": ".pokesprite.pokemon.chespin-cafe-remix-eevee-brown",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Chespin-Bonus-CaféRemix-EeveeBrown-★",
+          "slug": "chespin-cafe-remix-eevee-brown",
+          "cssClass": ".pokesprite.pokemon.chespin-cafe-remix-eevee-brown.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Chespin-Bonus-CaféRemix-GengarPurple",
+          "slug": "chespin-cafe-remix-gengar-purple",
+          "cssClass": ".pokesprite.pokemon.chespin-cafe-remix-gengar-purple",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Chespin-Bonus-CaféRemix-GengarPurple-★",
+          "slug": "chespin-cafe-remix-gengar-purple",
+          "cssClass": ".pokesprite.pokemon.chespin-cafe-remix-gengar-purple.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Chespin-Bonus-CaféRemix-GothoritaBlack",
+          "slug": "chespin-cafe-remix-gothorita-black",
+          "cssClass": ".pokesprite.pokemon.chespin-cafe-remix-gothorita-black",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Chespin-Bonus-CaféRemix-GothoritaBlack-★",
+          "slug": "chespin-cafe-remix-gothorita-black",
+          "cssClass": ".pokesprite.pokemon.chespin-cafe-remix-gothorita-black.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Chespin-Bonus-CaféRemix-JigglypuffPink",
+          "slug": "chespin-cafe-remix-jigglypuff-pink",
+          "cssClass": ".pokesprite.pokemon.chespin-cafe-remix-jigglypuff-pink",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Chespin-Bonus-CaféRemix-JigglypuffPink-★",
+          "slug": "chespin-cafe-remix-jigglypuff-pink",
+          "cssClass": ".pokesprite.pokemon.chespin-cafe-remix-jigglypuff-pink.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Chespin-Bonus-CaféRemix-LucarioBlue",
+          "slug": "chespin-cafe-remix-lucario-blue",
+          "cssClass": ".pokesprite.pokemon.chespin-cafe-remix-lucario-blue",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Chespin-Bonus-CaféRemix-LucarioBlue-★",
+          "slug": "chespin-cafe-remix-lucario-blue",
+          "cssClass": ".pokesprite.pokemon.chespin-cafe-remix-lucario-blue.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Chespin-Bonus-CaféRemix-MinccinoGray",
+          "slug": "chespin-cafe-remix-minccino-gray",
+          "cssClass": ".pokesprite.pokemon.chespin-cafe-remix-minccino-gray",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Chespin-Bonus-CaféRemix-MinccinoGray-★",
+          "slug": "chespin-cafe-remix-minccino-gray",
+          "cssClass": ".pokesprite.pokemon.chespin-cafe-remix-minccino-gray.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Chespin-Bonus-CaféRemix-PikachuYellow",
+          "slug": "chespin-cafe-remix-pikachu-yellow",
+          "cssClass": ".pokesprite.pokemon.chespin-cafe-remix-pikachu-yellow",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Chespin-Bonus-CaféRemix-PikachuYellow-★",
+          "slug": "chespin-cafe-remix-pikachu-yellow",
+          "cssClass": ".pokesprite.pokemon.chespin-cafe-remix-pikachu-yellow.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Chespin-Bonus-CaféRemix-SlowpokePink",
+          "slug": "chespin-cafe-remix-slowpoke-pink",
+          "cssClass": ".pokesprite.pokemon.chespin-cafe-remix-slowpoke-pink",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Chespin-Bonus-CaféRemix-SlowpokePink-★",
+          "slug": "chespin-cafe-remix-slowpoke-pink",
+          "cssClass": ".pokesprite.pokemon.chespin-cafe-remix-slowpoke-pink.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Chespin-Bonus-CaféRemix-SquirtleBlue",
+          "slug": "chespin-cafe-remix-squirtle-blue",
+          "cssClass": ".pokesprite.pokemon.chespin-cafe-remix-squirtle-blue",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Chespin-Bonus-CaféRemix-SquirtleBlue-★",
+          "slug": "chespin-cafe-remix-squirtle-blue",
+          "cssClass": ".pokesprite.pokemon.chespin-cafe-remix-squirtle-blue.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Chespin-Bonus-CaféRemix-StylishRoastedTea",
+          "slug": "chespin-cafe-remix-stylish-roasted-tea",
+          "cssClass": ".pokesprite.pokemon.chespin-cafe-remix-stylish-roasted-tea",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Chespin-Bonus-CaféRemix-StylishRoastedTea-★",
+          "slug": "chespin-cafe-remix-stylish-roasted-tea",
+          "cssClass": ".pokesprite.pokemon.chespin-cafe-remix-stylish-roasted-tea.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
           ]
         }
       },
