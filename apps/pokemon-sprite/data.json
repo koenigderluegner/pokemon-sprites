@@ -191500,6 +191500,384 @@
       },
       {
         "regular": {
+          "name": "Rowlet-Bonus-CaféRemix-BulbasaurGreen",
+          "slug": "rowlet-cafe-remix-bulbasaur-green",
+          "cssClass": ".pokesprite.pokemon.rowlet-cafe-remix-bulbasaur-green",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Rowlet-Bonus-CaféRemix-BulbasaurGreen-★",
+          "slug": "rowlet-cafe-remix-bulbasaur-green",
+          "cssClass": ".pokesprite.pokemon.rowlet-cafe-remix-bulbasaur-green.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Rowlet-Bonus-CaféRemix-CharmanderRed",
+          "slug": "rowlet-cafe-remix-charmander-red",
+          "cssClass": ".pokesprite.pokemon.rowlet-cafe-remix-charmander-red",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Rowlet-Bonus-CaféRemix-CharmanderRed-★",
+          "slug": "rowlet-cafe-remix-charmander-red",
+          "cssClass": ".pokesprite.pokemon.rowlet-cafe-remix-charmander-red.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Rowlet-Bonus-CaféRemix-CommemorativeBrooch",
+          "slug": "rowlet-cafe-remix-commemorative-brooch",
+          "cssClass": ".pokesprite.pokemon.rowlet-cafe-remix-commemorative-brooch",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Rowlet-Bonus-CaféRemix-CommemorativeBrooch-★",
+          "slug": "rowlet-cafe-remix-commemorative-brooch",
+          "cssClass": ".pokesprite.pokemon.rowlet-cafe-remix-commemorative-brooch.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Rowlet-Bonus-CaféRemix-CozyFlower",
+          "slug": "rowlet-cafe-remix-cozy-flower",
+          "cssClass": ".pokesprite.pokemon.rowlet-cafe-remix-cozy-flower",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Rowlet-Bonus-CaféRemix-CozyFlower-★",
+          "slug": "rowlet-cafe-remix-cozy-flower",
+          "cssClass": ".pokesprite.pokemon.rowlet-cafe-remix-cozy-flower.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Rowlet-Bonus-CaféRemix-DapperAttire",
+          "slug": "rowlet-cafe-remix-dapper-attire",
+          "cssClass": ".pokesprite.pokemon.rowlet-cafe-remix-dapper-attire",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Rowlet-Bonus-CaféRemix-DapperAttire-★",
+          "slug": "rowlet-cafe-remix-dapper-attire",
+          "cssClass": ".pokesprite.pokemon.rowlet-cafe-remix-dapper-attire.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Rowlet-Bonus-CaféRemix-DragoniteOrange",
+          "slug": "rowlet-cafe-remix-dragonite-orange",
+          "cssClass": ".pokesprite.pokemon.rowlet-cafe-remix-dragonite-orange",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Rowlet-Bonus-CaféRemix-DragoniteOrange-★",
+          "slug": "rowlet-cafe-remix-dragonite-orange",
+          "cssClass": ".pokesprite.pokemon.rowlet-cafe-remix-dragonite-orange.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Rowlet-Bonus-CaféRemix-EeveeBrown",
+          "slug": "rowlet-cafe-remix-eevee-brown",
+          "cssClass": ".pokesprite.pokemon.rowlet-cafe-remix-eevee-brown",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Rowlet-Bonus-CaféRemix-EeveeBrown-★",
+          "slug": "rowlet-cafe-remix-eevee-brown",
+          "cssClass": ".pokesprite.pokemon.rowlet-cafe-remix-eevee-brown.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Rowlet-Bonus-CaféRemix-GengarPurple",
+          "slug": "rowlet-cafe-remix-gengar-purple",
+          "cssClass": ".pokesprite.pokemon.rowlet-cafe-remix-gengar-purple",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Rowlet-Bonus-CaféRemix-GengarPurple-★",
+          "slug": "rowlet-cafe-remix-gengar-purple",
+          "cssClass": ".pokesprite.pokemon.rowlet-cafe-remix-gengar-purple.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Rowlet-Bonus-CaféRemix-GothoritaBlack",
+          "slug": "rowlet-cafe-remix-gothorita-black",
+          "cssClass": ".pokesprite.pokemon.rowlet-cafe-remix-gothorita-black",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Rowlet-Bonus-CaféRemix-GothoritaBlack-★",
+          "slug": "rowlet-cafe-remix-gothorita-black",
+          "cssClass": ".pokesprite.pokemon.rowlet-cafe-remix-gothorita-black.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Rowlet-Bonus-CaféRemix-GrassQuill",
+          "slug": "rowlet-cafe-remix-grass-quill",
+          "cssClass": ".pokesprite.pokemon.rowlet-cafe-remix-grass-quill",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Rowlet-Bonus-CaféRemix-GrassQuill-★",
+          "slug": "rowlet-cafe-remix-grass-quill",
+          "cssClass": ".pokesprite.pokemon.rowlet-cafe-remix-grass-quill.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Rowlet-Bonus-CaféRemix-JigglypuffPink",
+          "slug": "rowlet-cafe-remix-jigglypuff-pink",
+          "cssClass": ".pokesprite.pokemon.rowlet-cafe-remix-jigglypuff-pink",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Rowlet-Bonus-CaféRemix-JigglypuffPink-★",
+          "slug": "rowlet-cafe-remix-jigglypuff-pink",
+          "cssClass": ".pokesprite.pokemon.rowlet-cafe-remix-jigglypuff-pink.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Rowlet-Bonus-CaféRemix-LucarioBlue",
+          "slug": "rowlet-cafe-remix-lucario-blue",
+          "cssClass": ".pokesprite.pokemon.rowlet-cafe-remix-lucario-blue",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Rowlet-Bonus-CaféRemix-LucarioBlue-★",
+          "slug": "rowlet-cafe-remix-lucario-blue",
+          "cssClass": ".pokesprite.pokemon.rowlet-cafe-remix-lucario-blue.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Rowlet-Bonus-CaféRemix-MinccinoGray",
+          "slug": "rowlet-cafe-remix-minccino-gray",
+          "cssClass": ".pokesprite.pokemon.rowlet-cafe-remix-minccino-gray",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Rowlet-Bonus-CaféRemix-MinccinoGray-★",
+          "slug": "rowlet-cafe-remix-minccino-gray",
+          "cssClass": ".pokesprite.pokemon.rowlet-cafe-remix-minccino-gray.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Rowlet-Bonus-CaféRemix-PikachuYellow",
+          "slug": "rowlet-cafe-remix-pikachu-yellow",
+          "cssClass": ".pokesprite.pokemon.rowlet-cafe-remix-pikachu-yellow",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Rowlet-Bonus-CaféRemix-PikachuYellow-★",
+          "slug": "rowlet-cafe-remix-pikachu-yellow",
+          "cssClass": ".pokesprite.pokemon.rowlet-cafe-remix-pikachu-yellow.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Rowlet-Bonus-CaféRemix-SlowpokePink",
+          "slug": "rowlet-cafe-remix-slowpoke-pink",
+          "cssClass": ".pokesprite.pokemon.rowlet-cafe-remix-slowpoke-pink",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Rowlet-Bonus-CaféRemix-SlowpokePink-★",
+          "slug": "rowlet-cafe-remix-slowpoke-pink",
+          "cssClass": ".pokesprite.pokemon.rowlet-cafe-remix-slowpoke-pink.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Rowlet-Bonus-CaféRemix-SquirtleBlue",
+          "slug": "rowlet-cafe-remix-squirtle-blue",
+          "cssClass": ".pokesprite.pokemon.rowlet-cafe-remix-squirtle-blue",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Rowlet-Bonus-CaféRemix-SquirtleBlue-★",
+          "slug": "rowlet-cafe-remix-squirtle-blue",
+          "cssClass": ".pokesprite.pokemon.rowlet-cafe-remix-squirtle-blue.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Rowlet-Bonus-CaféRemix-StylishDenim",
+          "slug": "rowlet-cafe-remix-stylish-denim",
+          "cssClass": ".pokesprite.pokemon.rowlet-cafe-remix-stylish-denim",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Rowlet-Bonus-CaféRemix-StylishDenim-★",
+          "slug": "rowlet-cafe-remix-stylish-denim",
+          "cssClass": ".pokesprite.pokemon.rowlet-cafe-remix-stylish-denim.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Rowlet-Bonus-CaféRemix-StylishRoastedTea",
+          "slug": "rowlet-cafe-remix-stylish-roasted-tea",
+          "cssClass": ".pokesprite.pokemon.rowlet-cafe-remix-stylish-roasted-tea",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Rowlet-Bonus-CaféRemix-StylishRoastedTea-★",
+          "slug": "rowlet-cafe-remix-stylish-roasted-tea",
+          "cssClass": ".pokesprite.pokemon.rowlet-cafe-remix-stylish-roasted-tea.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
           "name": "Rowlet-Bonus-RumbleRush-FestiveHat",
           "slug": "rowlet-rumble-rush-festive-hat",
           "cssClass": ".pokesprite.pokemon.rowlet-rumble-rush-festive-hat",
