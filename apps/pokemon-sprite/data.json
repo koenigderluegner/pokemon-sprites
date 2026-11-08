@@ -50777,7 +50777,17 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Koffing-Bonus-Anime-DP033-★",
+          "slug": "koffing-anime-dp033",
+          "cssClass": ".pokesprite.pokemon.koffing-anime-dp033.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       }
     ]
   },
@@ -259375,6 +259385,558 @@
           "modifiers": [
             "n3ds",
             "shiny"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Armarouge-Bonus-CaféRemix-BulbasaurGreen",
+          "slug": "armarouge-cafe-remix-bulbasaur-green",
+          "cssClass": ".pokesprite.pokemon.armarouge-cafe-remix-bulbasaur-green",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Armarouge-Bonus-CaféRemix-BulbasaurGreen-★",
+          "slug": "armarouge-cafe-remix-bulbasaur-green",
+          "cssClass": ".pokesprite.pokemon.armarouge-cafe-remix-bulbasaur-green.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Armarouge-Bonus-CaféRemix-BulbasaurGreen-3DS",
+          "slug": "armarouge-cafe-remix-bulbasaur-green",
+          "cssClass": ".pokesprite.pokemon.armarouge-cafe-remix-bulbasaur-green.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Armarouge-Bonus-CaféRemix-BulbasaurGreen-3DS-★",
+          "slug": "armarouge-cafe-remix-bulbasaur-green",
+          "cssClass": ".pokesprite.pokemon.armarouge-cafe-remix-bulbasaur-green.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Armarouge-Bonus-CaféRemix-CharmanderRed",
+          "slug": "armarouge-cafe-remix-charmander-red",
+          "cssClass": ".pokesprite.pokemon.armarouge-cafe-remix-charmander-red",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Armarouge-Bonus-CaféRemix-CharmanderRed-★",
+          "slug": "armarouge-cafe-remix-charmander-red",
+          "cssClass": ".pokesprite.pokemon.armarouge-cafe-remix-charmander-red.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Armarouge-Bonus-CaféRemix-CharmanderRed-3DS",
+          "slug": "armarouge-cafe-remix-charmander-red",
+          "cssClass": ".pokesprite.pokemon.armarouge-cafe-remix-charmander-red.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Armarouge-Bonus-CaféRemix-CharmanderRed-3DS-★",
+          "slug": "armarouge-cafe-remix-charmander-red",
+          "cssClass": ".pokesprite.pokemon.armarouge-cafe-remix-charmander-red.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Armarouge-Bonus-CaféRemix-DragoniteOrange",
+          "slug": "armarouge-cafe-remix-dragonite-orange",
+          "cssClass": ".pokesprite.pokemon.armarouge-cafe-remix-dragonite-orange",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Armarouge-Bonus-CaféRemix-DragoniteOrange-★",
+          "slug": "armarouge-cafe-remix-dragonite-orange",
+          "cssClass": ".pokesprite.pokemon.armarouge-cafe-remix-dragonite-orange.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Armarouge-Bonus-CaféRemix-DragoniteOrange-3DS",
+          "slug": "armarouge-cafe-remix-dragonite-orange",
+          "cssClass": ".pokesprite.pokemon.armarouge-cafe-remix-dragonite-orange.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Armarouge-Bonus-CaféRemix-DragoniteOrange-3DS-★",
+          "slug": "armarouge-cafe-remix-dragonite-orange",
+          "cssClass": ".pokesprite.pokemon.armarouge-cafe-remix-dragonite-orange.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Armarouge-Bonus-CaféRemix-EeveeBrown",
+          "slug": "armarouge-cafe-remix-eevee-brown",
+          "cssClass": ".pokesprite.pokemon.armarouge-cafe-remix-eevee-brown",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Armarouge-Bonus-CaféRemix-EeveeBrown-★",
+          "slug": "armarouge-cafe-remix-eevee-brown",
+          "cssClass": ".pokesprite.pokemon.armarouge-cafe-remix-eevee-brown.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Armarouge-Bonus-CaféRemix-EeveeBrown-3DS",
+          "slug": "armarouge-cafe-remix-eevee-brown",
+          "cssClass": ".pokesprite.pokemon.armarouge-cafe-remix-eevee-brown.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Armarouge-Bonus-CaféRemix-EeveeBrown-3DS-★",
+          "slug": "armarouge-cafe-remix-eevee-brown",
+          "cssClass": ".pokesprite.pokemon.armarouge-cafe-remix-eevee-brown.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Armarouge-Bonus-CaféRemix-GengarPurple",
+          "slug": "armarouge-cafe-remix-gengar-purple",
+          "cssClass": ".pokesprite.pokemon.armarouge-cafe-remix-gengar-purple",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Armarouge-Bonus-CaféRemix-GengarPurple-★",
+          "slug": "armarouge-cafe-remix-gengar-purple",
+          "cssClass": ".pokesprite.pokemon.armarouge-cafe-remix-gengar-purple.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Armarouge-Bonus-CaféRemix-GengarPurple-3DS",
+          "slug": "armarouge-cafe-remix-gengar-purple",
+          "cssClass": ".pokesprite.pokemon.armarouge-cafe-remix-gengar-purple.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Armarouge-Bonus-CaféRemix-GengarPurple-3DS-★",
+          "slug": "armarouge-cafe-remix-gengar-purple",
+          "cssClass": ".pokesprite.pokemon.armarouge-cafe-remix-gengar-purple.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Armarouge-Bonus-CaféRemix-GothoritaBlack",
+          "slug": "armarouge-cafe-remix-gothorita-black",
+          "cssClass": ".pokesprite.pokemon.armarouge-cafe-remix-gothorita-black",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Armarouge-Bonus-CaféRemix-GothoritaBlack-★",
+          "slug": "armarouge-cafe-remix-gothorita-black",
+          "cssClass": ".pokesprite.pokemon.armarouge-cafe-remix-gothorita-black.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Armarouge-Bonus-CaféRemix-GothoritaBlack-3DS",
+          "slug": "armarouge-cafe-remix-gothorita-black",
+          "cssClass": ".pokesprite.pokemon.armarouge-cafe-remix-gothorita-black.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Armarouge-Bonus-CaféRemix-GothoritaBlack-3DS-★",
+          "slug": "armarouge-cafe-remix-gothorita-black",
+          "cssClass": ".pokesprite.pokemon.armarouge-cafe-remix-gothorita-black.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Armarouge-Bonus-CaféRemix-JigglypuffPink",
+          "slug": "armarouge-cafe-remix-jigglypuff-pink",
+          "cssClass": ".pokesprite.pokemon.armarouge-cafe-remix-jigglypuff-pink",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Armarouge-Bonus-CaféRemix-JigglypuffPink-★",
+          "slug": "armarouge-cafe-remix-jigglypuff-pink",
+          "cssClass": ".pokesprite.pokemon.armarouge-cafe-remix-jigglypuff-pink.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Armarouge-Bonus-CaféRemix-JigglypuffPink-3DS",
+          "slug": "armarouge-cafe-remix-jigglypuff-pink",
+          "cssClass": ".pokesprite.pokemon.armarouge-cafe-remix-jigglypuff-pink.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Armarouge-Bonus-CaféRemix-JigglypuffPink-3DS-★",
+          "slug": "armarouge-cafe-remix-jigglypuff-pink",
+          "cssClass": ".pokesprite.pokemon.armarouge-cafe-remix-jigglypuff-pink.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Armarouge-Bonus-CaféRemix-LucarioBlue",
+          "slug": "armarouge-cafe-remix-lucario-blue",
+          "cssClass": ".pokesprite.pokemon.armarouge-cafe-remix-lucario-blue",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Armarouge-Bonus-CaféRemix-LucarioBlue-★",
+          "slug": "armarouge-cafe-remix-lucario-blue",
+          "cssClass": ".pokesprite.pokemon.armarouge-cafe-remix-lucario-blue.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Armarouge-Bonus-CaféRemix-LucarioBlue-3DS",
+          "slug": "armarouge-cafe-remix-lucario-blue",
+          "cssClass": ".pokesprite.pokemon.armarouge-cafe-remix-lucario-blue.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Armarouge-Bonus-CaféRemix-LucarioBlue-3DS-★",
+          "slug": "armarouge-cafe-remix-lucario-blue",
+          "cssClass": ".pokesprite.pokemon.armarouge-cafe-remix-lucario-blue.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Armarouge-Bonus-CaféRemix-MinccinoGray",
+          "slug": "armarouge-cafe-remix-minccino-gray",
+          "cssClass": ".pokesprite.pokemon.armarouge-cafe-remix-minccino-gray",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Armarouge-Bonus-CaféRemix-MinccinoGray-★",
+          "slug": "armarouge-cafe-remix-minccino-gray",
+          "cssClass": ".pokesprite.pokemon.armarouge-cafe-remix-minccino-gray.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Armarouge-Bonus-CaféRemix-MinccinoGray-3DS",
+          "slug": "armarouge-cafe-remix-minccino-gray",
+          "cssClass": ".pokesprite.pokemon.armarouge-cafe-remix-minccino-gray.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Armarouge-Bonus-CaféRemix-MinccinoGray-3DS-★",
+          "slug": "armarouge-cafe-remix-minccino-gray",
+          "cssClass": ".pokesprite.pokemon.armarouge-cafe-remix-minccino-gray.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Armarouge-Bonus-CaféRemix-PikachuYellow",
+          "slug": "armarouge-cafe-remix-pikachu-yellow",
+          "cssClass": ".pokesprite.pokemon.armarouge-cafe-remix-pikachu-yellow",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Armarouge-Bonus-CaféRemix-PikachuYellow-★",
+          "slug": "armarouge-cafe-remix-pikachu-yellow",
+          "cssClass": ".pokesprite.pokemon.armarouge-cafe-remix-pikachu-yellow.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Armarouge-Bonus-CaféRemix-PikachuYellow-3DS",
+          "slug": "armarouge-cafe-remix-pikachu-yellow",
+          "cssClass": ".pokesprite.pokemon.armarouge-cafe-remix-pikachu-yellow.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Armarouge-Bonus-CaféRemix-PikachuYellow-3DS-★",
+          "slug": "armarouge-cafe-remix-pikachu-yellow",
+          "cssClass": ".pokesprite.pokemon.armarouge-cafe-remix-pikachu-yellow.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Armarouge-Bonus-CaféRemix-SlowpokePink",
+          "slug": "armarouge-cafe-remix-slowpoke-pink",
+          "cssClass": ".pokesprite.pokemon.armarouge-cafe-remix-slowpoke-pink",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Armarouge-Bonus-CaféRemix-SlowpokePink-★",
+          "slug": "armarouge-cafe-remix-slowpoke-pink",
+          "cssClass": ".pokesprite.pokemon.armarouge-cafe-remix-slowpoke-pink.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Armarouge-Bonus-CaféRemix-SlowpokePink-3DS",
+          "slug": "armarouge-cafe-remix-slowpoke-pink",
+          "cssClass": ".pokesprite.pokemon.armarouge-cafe-remix-slowpoke-pink.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Armarouge-Bonus-CaféRemix-SlowpokePink-3DS-★",
+          "slug": "armarouge-cafe-remix-slowpoke-pink",
+          "cssClass": ".pokesprite.pokemon.armarouge-cafe-remix-slowpoke-pink.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Armarouge-Bonus-CaféRemix-SquirtleBlue",
+          "slug": "armarouge-cafe-remix-squirtle-blue",
+          "cssClass": ".pokesprite.pokemon.armarouge-cafe-remix-squirtle-blue",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Armarouge-Bonus-CaféRemix-SquirtleBlue-★",
+          "slug": "armarouge-cafe-remix-squirtle-blue",
+          "cssClass": ".pokesprite.pokemon.armarouge-cafe-remix-squirtle-blue.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Armarouge-Bonus-CaféRemix-SquirtleBlue-3DS",
+          "slug": "armarouge-cafe-remix-squirtle-blue",
+          "cssClass": ".pokesprite.pokemon.armarouge-cafe-remix-squirtle-blue.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Armarouge-Bonus-CaféRemix-SquirtleBlue-3DS-★",
+          "slug": "armarouge-cafe-remix-squirtle-blue",
+          "cssClass": ".pokesprite.pokemon.armarouge-cafe-remix-squirtle-blue.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
           ]
         }
       }
