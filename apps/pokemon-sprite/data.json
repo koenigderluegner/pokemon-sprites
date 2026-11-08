@@ -33301,6 +33301,27 @@
       },
       {
         "regular": {
+          "name": "Vulpix-Alola-Bonus-CaféRemix-StylishPeriwinkle",
+          "slug": "vulpix-alola-cafe-remix-stylish-periwinkle",
+          "cssClass": ".pokesprite.pokemon.vulpix-alola-cafe-remix-stylish-periwinkle",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Vulpix-Alola-Bonus-CaféRemix-StylishPeriwinkle-★",
+          "slug": "vulpix-alola-cafe-remix-stylish-periwinkle",
+          "cssClass": ".pokesprite.pokemon.vulpix-alola-cafe-remix-stylish-periwinkle.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
           "name": "Vulpix-Alola-Bonus-CaféRemix-StylishSunflower",
           "slug": "vulpix-alola-cafe-remix-stylish-sunflower",
           "cssClass": ".pokesprite.pokemon.vulpix-alola-cafe-remix-stylish-sunflower",
@@ -78595,6 +78616,27 @@
       },
       {
         "regular": {
+          "name": "Togepi-Bonus-CaféRemix-StylishNightSky",
+          "slug": "togepi-cafe-remix-stylish-night-sky",
+          "cssClass": ".pokesprite.pokemon.togepi-cafe-remix-stylish-night-sky",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Togepi-Bonus-CaféRemix-StylishNightSky-★",
+          "slug": "togepi-cafe-remix-stylish-night-sky",
+          "cssClass": ".pokesprite.pokemon.togepi-cafe-remix-stylish-night-sky.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
           "name": "Togepi-Bonus-CaféRemix-StylishPlum",
           "slug": "togepi-cafe-remix-stylish-plum",
           "cssClass": ".pokesprite.pokemon.togepi-cafe-remix-stylish-plum",
@@ -81885,6 +81927,27 @@
           "name": "Marill-Bonus-CaféRemix-SquirtleBlue-★",
           "slug": "marill-cafe-remix-squirtle-blue",
           "cssClass": ".pokesprite.pokemon.marill-cafe-remix-squirtle-blue.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Marill-Bonus-CaféRemix-StylishPeriwinkle",
+          "slug": "marill-cafe-remix-stylish-periwinkle",
+          "cssClass": ".pokesprite.pokemon.marill-cafe-remix-stylish-periwinkle",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Marill-Bonus-CaféRemix-StylishPeriwinkle-★",
+          "slug": "marill-cafe-remix-stylish-periwinkle",
+          "cssClass": ".pokesprite.pokemon.marill-cafe-remix-stylish-periwinkle.shiny",
           "modifiers": [
             "shiny"
           ],
@@ -96002,6 +96065,98 @@
           "name": "Sneasel-Bonus-CaféRemix-SquirtleBlue-F-3DS-★",
           "slug": "sneasel-cafe-remix-squirtle-blue-f",
           "cssClass": ".pokesprite.pokemon.sneasel-cafe-remix-squirtle-blue-f.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Sneasel-Bonus-CaféRemix-StylishNightSky",
+          "slug": "sneasel-cafe-remix-stylish-night-sky",
+          "cssClass": ".pokesprite.pokemon.sneasel-cafe-remix-stylish-night-sky",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Sneasel-Bonus-CaféRemix-StylishNightSky-★",
+          "slug": "sneasel-cafe-remix-stylish-night-sky",
+          "cssClass": ".pokesprite.pokemon.sneasel-cafe-remix-stylish-night-sky.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Sneasel-Bonus-CaféRemix-StylishNightSky-3DS",
+          "slug": "sneasel-cafe-remix-stylish-night-sky",
+          "cssClass": ".pokesprite.pokemon.sneasel-cafe-remix-stylish-night-sky.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Sneasel-Bonus-CaféRemix-StylishNightSky-3DS-★",
+          "slug": "sneasel-cafe-remix-stylish-night-sky",
+          "cssClass": ".pokesprite.pokemon.sneasel-cafe-remix-stylish-night-sky.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Sneasel-Bonus-CaféRemix-StylishNightSky-F",
+          "slug": "sneasel-cafe-remix-stylish-night-sky-f",
+          "cssClass": ".pokesprite.pokemon.sneasel-cafe-remix-stylish-night-sky-f",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Sneasel-Bonus-CaféRemix-StylishNightSky-F-★",
+          "slug": "sneasel-cafe-remix-stylish-night-sky-f",
+          "cssClass": ".pokesprite.pokemon.sneasel-cafe-remix-stylish-night-sky-f.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Sneasel-Bonus-CaféRemix-StylishNightSky-F-3DS",
+          "slug": "sneasel-cafe-remix-stylish-night-sky-f",
+          "cssClass": ".pokesprite.pokemon.sneasel-cafe-remix-stylish-night-sky-f.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Sneasel-Bonus-CaféRemix-StylishNightSky-F-3DS-★",
+          "slug": "sneasel-cafe-remix-stylish-night-sky-f",
+          "cssClass": ".pokesprite.pokemon.sneasel-cafe-remix-stylish-night-sky-f.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -113060,6 +113215,198 @@
           "name": "Ludicolo-Bonus-CaféRemix-SquirtleBlue-F-3DS-XY-★",
           "slug": "ludicolo-cafe-remix-squirtle-blue-f-xy",
           "cssClass": ".pokesprite.pokemon.ludicolo-cafe-remix-squirtle-blue-f-xy.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Ludicolo-Bonus-CaféRemix-StylishNightSky",
+          "slug": "ludicolo-cafe-remix-stylish-night-sky",
+          "cssClass": ".pokesprite.pokemon.ludicolo-cafe-remix-stylish-night-sky",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Ludicolo-Bonus-CaféRemix-StylishNightSky-★",
+          "slug": "ludicolo-cafe-remix-stylish-night-sky",
+          "cssClass": ".pokesprite.pokemon.ludicolo-cafe-remix-stylish-night-sky.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Ludicolo-Bonus-CaféRemix-StylishNightSky-3DS-Optional",
+          "slug": "ludicolo-cafe-remix-stylish-night-sky-optional",
+          "cssClass": ".pokesprite.pokemon.ludicolo-cafe-remix-stylish-night-sky-optional.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Ludicolo-Bonus-CaféRemix-StylishNightSky-3DS-Optional-★",
+          "slug": "ludicolo-cafe-remix-stylish-night-sky-optional",
+          "cssClass": ".pokesprite.pokemon.ludicolo-cafe-remix-stylish-night-sky-optional.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Ludicolo-Bonus-CaféRemix-StylishNightSky-3DS-ORAS",
+          "slug": "ludicolo-cafe-remix-stylish-night-sky-oras",
+          "cssClass": ".pokesprite.pokemon.ludicolo-cafe-remix-stylish-night-sky-oras.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Ludicolo-Bonus-CaféRemix-StylishNightSky-3DS-ORAS-★",
+          "slug": "ludicolo-cafe-remix-stylish-night-sky-oras",
+          "cssClass": ".pokesprite.pokemon.ludicolo-cafe-remix-stylish-night-sky-oras.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Ludicolo-Bonus-CaféRemix-StylishNightSky-3DS-XY",
+          "slug": "ludicolo-cafe-remix-stylish-night-sky-xy",
+          "cssClass": ".pokesprite.pokemon.ludicolo-cafe-remix-stylish-night-sky-xy.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Ludicolo-Bonus-CaféRemix-StylishNightSky-3DS-XY-★",
+          "slug": "ludicolo-cafe-remix-stylish-night-sky-xy",
+          "cssClass": ".pokesprite.pokemon.ludicolo-cafe-remix-stylish-night-sky-xy.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Ludicolo-Bonus-CaféRemix-StylishNightSky-F",
+          "slug": "ludicolo-cafe-remix-stylish-night-sky-f",
+          "cssClass": ".pokesprite.pokemon.ludicolo-cafe-remix-stylish-night-sky-f",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Ludicolo-Bonus-CaféRemix-StylishNightSky-F-★",
+          "slug": "ludicolo-cafe-remix-stylish-night-sky-f",
+          "cssClass": ".pokesprite.pokemon.ludicolo-cafe-remix-stylish-night-sky-f.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Ludicolo-Bonus-CaféRemix-StylishNightSky-F-3DS-Optional",
+          "slug": "ludicolo-cafe-remix-stylish-night-sky-f-optional",
+          "cssClass": ".pokesprite.pokemon.ludicolo-cafe-remix-stylish-night-sky-f-optional.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Ludicolo-Bonus-CaféRemix-StylishNightSky-F-3DS-Optional-★",
+          "slug": "ludicolo-cafe-remix-stylish-night-sky-f-optional",
+          "cssClass": ".pokesprite.pokemon.ludicolo-cafe-remix-stylish-night-sky-f-optional.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Ludicolo-Bonus-CaféRemix-StylishNightSky-F-3DS-ORAS",
+          "slug": "ludicolo-cafe-remix-stylish-night-sky-f-oras",
+          "cssClass": ".pokesprite.pokemon.ludicolo-cafe-remix-stylish-night-sky-f-oras.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Ludicolo-Bonus-CaféRemix-StylishNightSky-F-3DS-ORAS-★",
+          "slug": "ludicolo-cafe-remix-stylish-night-sky-f-oras",
+          "cssClass": ".pokesprite.pokemon.ludicolo-cafe-remix-stylish-night-sky-f-oras.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Ludicolo-Bonus-CaféRemix-StylishNightSky-F-3DS-XY",
+          "slug": "ludicolo-cafe-remix-stylish-night-sky-f-xy",
+          "cssClass": ".pokesprite.pokemon.ludicolo-cafe-remix-stylish-night-sky-f-xy.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Ludicolo-Bonus-CaféRemix-StylishNightSky-F-3DS-XY-★",
+          "slug": "ludicolo-cafe-remix-stylish-night-sky-f-xy",
+          "cssClass": ".pokesprite.pokemon.ludicolo-cafe-remix-stylish-night-sky-f-xy.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
