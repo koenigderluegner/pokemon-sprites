@@ -172812,7 +172812,17 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Ducklett-Bonus-Anime-BW020-Hat-★",
+          "slug": "ducklett-anime-bw020-hat",
+          "cssClass": ".pokesprite.pokemon.ducklett-anime-bw020-hat.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       }
     ]
   },
@@ -175283,6 +175293,279 @@
           "name": "Axew-Bonus-Anime-Iris-BW066-Plants-★",
           "slug": "axew-anime-iris-bw066-plants",
           "cssClass": ".pokesprite.pokemon.axew-anime-iris-bw066-plants.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Axew-Bonus-CaféRemix-BulbasaurGreen",
+          "slug": "axew-cafe-remix-bulbasaur-green",
+          "cssClass": ".pokesprite.pokemon.axew-cafe-remix-bulbasaur-green",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Axew-Bonus-CaféRemix-BulbasaurGreen-★",
+          "slug": "axew-cafe-remix-bulbasaur-green",
+          "cssClass": ".pokesprite.pokemon.axew-cafe-remix-bulbasaur-green.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Axew-Bonus-CaféRemix-CharmanderRed",
+          "slug": "axew-cafe-remix-charmander-red",
+          "cssClass": ".pokesprite.pokemon.axew-cafe-remix-charmander-red",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Axew-Bonus-CaféRemix-CharmanderRed-★",
+          "slug": "axew-cafe-remix-charmander-red",
+          "cssClass": ".pokesprite.pokemon.axew-cafe-remix-charmander-red.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Axew-Bonus-CaféRemix-DragoniteOrange",
+          "slug": "axew-cafe-remix-dragonite-orange",
+          "cssClass": ".pokesprite.pokemon.axew-cafe-remix-dragonite-orange",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Axew-Bonus-CaféRemix-DragoniteOrange-★",
+          "slug": "axew-cafe-remix-dragonite-orange",
+          "cssClass": ".pokesprite.pokemon.axew-cafe-remix-dragonite-orange.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Axew-Bonus-CaféRemix-EeveeBrown",
+          "slug": "axew-cafe-remix-eevee-brown",
+          "cssClass": ".pokesprite.pokemon.axew-cafe-remix-eevee-brown",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Axew-Bonus-CaféRemix-EeveeBrown-★",
+          "slug": "axew-cafe-remix-eevee-brown",
+          "cssClass": ".pokesprite.pokemon.axew-cafe-remix-eevee-brown.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Axew-Bonus-CaféRemix-GengarPurple",
+          "slug": "axew-cafe-remix-gengar-purple",
+          "cssClass": ".pokesprite.pokemon.axew-cafe-remix-gengar-purple",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Axew-Bonus-CaféRemix-GengarPurple-★",
+          "slug": "axew-cafe-remix-gengar-purple",
+          "cssClass": ".pokesprite.pokemon.axew-cafe-remix-gengar-purple.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Axew-Bonus-CaféRemix-GothoritaBlack",
+          "slug": "axew-cafe-remix-gothorita-black",
+          "cssClass": ".pokesprite.pokemon.axew-cafe-remix-gothorita-black",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Axew-Bonus-CaféRemix-GothoritaBlack-★",
+          "slug": "axew-cafe-remix-gothorita-black",
+          "cssClass": ".pokesprite.pokemon.axew-cafe-remix-gothorita-black.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Axew-Bonus-CaféRemix-JigglypuffPink",
+          "slug": "axew-cafe-remix-jigglypuff-pink",
+          "cssClass": ".pokesprite.pokemon.axew-cafe-remix-jigglypuff-pink",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Axew-Bonus-CaféRemix-JigglypuffPink-★",
+          "slug": "axew-cafe-remix-jigglypuff-pink",
+          "cssClass": ".pokesprite.pokemon.axew-cafe-remix-jigglypuff-pink.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Axew-Bonus-CaféRemix-LucarioBlue",
+          "slug": "axew-cafe-remix-lucario-blue",
+          "cssClass": ".pokesprite.pokemon.axew-cafe-remix-lucario-blue",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Axew-Bonus-CaféRemix-LucarioBlue-★",
+          "slug": "axew-cafe-remix-lucario-blue",
+          "cssClass": ".pokesprite.pokemon.axew-cafe-remix-lucario-blue.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Axew-Bonus-CaféRemix-MinccinoGray",
+          "slug": "axew-cafe-remix-minccino-gray",
+          "cssClass": ".pokesprite.pokemon.axew-cafe-remix-minccino-gray",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Axew-Bonus-CaféRemix-MinccinoGray-★",
+          "slug": "axew-cafe-remix-minccino-gray",
+          "cssClass": ".pokesprite.pokemon.axew-cafe-remix-minccino-gray.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Axew-Bonus-CaféRemix-PikachuYellow",
+          "slug": "axew-cafe-remix-pikachu-yellow",
+          "cssClass": ".pokesprite.pokemon.axew-cafe-remix-pikachu-yellow",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Axew-Bonus-CaféRemix-PikachuYellow-★",
+          "slug": "axew-cafe-remix-pikachu-yellow",
+          "cssClass": ".pokesprite.pokemon.axew-cafe-remix-pikachu-yellow.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Axew-Bonus-CaféRemix-SlowpokePink",
+          "slug": "axew-cafe-remix-slowpoke-pink",
+          "cssClass": ".pokesprite.pokemon.axew-cafe-remix-slowpoke-pink",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Axew-Bonus-CaféRemix-SlowpokePink-★",
+          "slug": "axew-cafe-remix-slowpoke-pink",
+          "cssClass": ".pokesprite.pokemon.axew-cafe-remix-slowpoke-pink.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Axew-Bonus-CaféRemix-SquirtleBlue",
+          "slug": "axew-cafe-remix-squirtle-blue",
+          "cssClass": ".pokesprite.pokemon.axew-cafe-remix-squirtle-blue",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Axew-Bonus-CaféRemix-SquirtleBlue-★",
+          "slug": "axew-cafe-remix-squirtle-blue",
+          "cssClass": ".pokesprite.pokemon.axew-cafe-remix-squirtle-blue.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Axew-Bonus-CaféRemix-StylishRoastedTea",
+          "slug": "axew-cafe-remix-stylish-roasted-tea",
+          "cssClass": ".pokesprite.pokemon.axew-cafe-remix-stylish-roasted-tea",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Axew-Bonus-CaféRemix-StylishRoastedTea-★",
+          "slug": "axew-cafe-remix-stylish-roasted-tea",
+          "cssClass": ".pokesprite.pokemon.axew-cafe-remix-stylish-roasted-tea.shiny",
           "modifiers": [
             "shiny"
           ],
