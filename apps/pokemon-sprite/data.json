@@ -260323,6 +260323,604 @@
             "shiny"
           ]
         }
+      },
+      {
+        "regular": {
+          "name": "Bellibolt-Bonus-CaféRemix-BulbasaurGreen",
+          "slug": "bellibolt-cafe-remix-bulbasaur-green",
+          "cssClass": ".pokesprite.pokemon.bellibolt-cafe-remix-bulbasaur-green",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Bellibolt-Bonus-CaféRemix-BulbasaurGreen-★",
+          "slug": "bellibolt-cafe-remix-bulbasaur-green",
+          "cssClass": ".pokesprite.pokemon.bellibolt-cafe-remix-bulbasaur-green.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Bellibolt-Bonus-CaféRemix-BulbasaurGreen-3DS",
+          "slug": "bellibolt-cafe-remix-bulbasaur-green",
+          "cssClass": ".pokesprite.pokemon.bellibolt-cafe-remix-bulbasaur-green.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Bellibolt-Bonus-CaféRemix-BulbasaurGreen-3DS-★",
+          "slug": "bellibolt-cafe-remix-bulbasaur-green",
+          "cssClass": ".pokesprite.pokemon.bellibolt-cafe-remix-bulbasaur-green.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Bellibolt-Bonus-CaféRemix-CharmanderRed",
+          "slug": "bellibolt-cafe-remix-charmander-red",
+          "cssClass": ".pokesprite.pokemon.bellibolt-cafe-remix-charmander-red",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Bellibolt-Bonus-CaféRemix-CharmanderRed-★",
+          "slug": "bellibolt-cafe-remix-charmander-red",
+          "cssClass": ".pokesprite.pokemon.bellibolt-cafe-remix-charmander-red.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Bellibolt-Bonus-CaféRemix-CharmanderRed-3DS",
+          "slug": "bellibolt-cafe-remix-charmander-red",
+          "cssClass": ".pokesprite.pokemon.bellibolt-cafe-remix-charmander-red.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Bellibolt-Bonus-CaféRemix-CharmanderRed-3DS-★",
+          "slug": "bellibolt-cafe-remix-charmander-red",
+          "cssClass": ".pokesprite.pokemon.bellibolt-cafe-remix-charmander-red.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Bellibolt-Bonus-CaféRemix-DragoniteOrange",
+          "slug": "bellibolt-cafe-remix-dragonite-orange",
+          "cssClass": ".pokesprite.pokemon.bellibolt-cafe-remix-dragonite-orange",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Bellibolt-Bonus-CaféRemix-DragoniteOrange-★",
+          "slug": "bellibolt-cafe-remix-dragonite-orange",
+          "cssClass": ".pokesprite.pokemon.bellibolt-cafe-remix-dragonite-orange.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Bellibolt-Bonus-CaféRemix-DragoniteOrange-3DS",
+          "slug": "bellibolt-cafe-remix-dragonite-orange",
+          "cssClass": ".pokesprite.pokemon.bellibolt-cafe-remix-dragonite-orange.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Bellibolt-Bonus-CaféRemix-DragoniteOrange-3DS-★",
+          "slug": "bellibolt-cafe-remix-dragonite-orange",
+          "cssClass": ".pokesprite.pokemon.bellibolt-cafe-remix-dragonite-orange.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Bellibolt-Bonus-CaféRemix-EeveeBrown",
+          "slug": "bellibolt-cafe-remix-eevee-brown",
+          "cssClass": ".pokesprite.pokemon.bellibolt-cafe-remix-eevee-brown",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Bellibolt-Bonus-CaféRemix-EeveeBrown-★",
+          "slug": "bellibolt-cafe-remix-eevee-brown",
+          "cssClass": ".pokesprite.pokemon.bellibolt-cafe-remix-eevee-brown.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Bellibolt-Bonus-CaféRemix-EeveeBrown-3DS",
+          "slug": "bellibolt-cafe-remix-eevee-brown",
+          "cssClass": ".pokesprite.pokemon.bellibolt-cafe-remix-eevee-brown.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Bellibolt-Bonus-CaféRemix-EeveeBrown-3DS-★",
+          "slug": "bellibolt-cafe-remix-eevee-brown",
+          "cssClass": ".pokesprite.pokemon.bellibolt-cafe-remix-eevee-brown.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Bellibolt-Bonus-CaféRemix-GengarPurple",
+          "slug": "bellibolt-cafe-remix-gengar-purple",
+          "cssClass": ".pokesprite.pokemon.bellibolt-cafe-remix-gengar-purple",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Bellibolt-Bonus-CaféRemix-GengarPurple-★",
+          "slug": "bellibolt-cafe-remix-gengar-purple",
+          "cssClass": ".pokesprite.pokemon.bellibolt-cafe-remix-gengar-purple.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Bellibolt-Bonus-CaféRemix-GengarPurple-3DS",
+          "slug": "bellibolt-cafe-remix-gengar-purple",
+          "cssClass": ".pokesprite.pokemon.bellibolt-cafe-remix-gengar-purple.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Bellibolt-Bonus-CaféRemix-GengarPurple-3DS-★",
+          "slug": "bellibolt-cafe-remix-gengar-purple",
+          "cssClass": ".pokesprite.pokemon.bellibolt-cafe-remix-gengar-purple.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Bellibolt-Bonus-CaféRemix-GothoritaBlack",
+          "slug": "bellibolt-cafe-remix-gothorita-black",
+          "cssClass": ".pokesprite.pokemon.bellibolt-cafe-remix-gothorita-black",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Bellibolt-Bonus-CaféRemix-GothoritaBlack-★",
+          "slug": "bellibolt-cafe-remix-gothorita-black",
+          "cssClass": ".pokesprite.pokemon.bellibolt-cafe-remix-gothorita-black.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Bellibolt-Bonus-CaféRemix-GothoritaBlack-3DS",
+          "slug": "bellibolt-cafe-remix-gothorita-black",
+          "cssClass": ".pokesprite.pokemon.bellibolt-cafe-remix-gothorita-black.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Bellibolt-Bonus-CaféRemix-GothoritaBlack-3DS-★",
+          "slug": "bellibolt-cafe-remix-gothorita-black",
+          "cssClass": ".pokesprite.pokemon.bellibolt-cafe-remix-gothorita-black.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Bellibolt-Bonus-CaféRemix-JigglypuffPink",
+          "slug": "bellibolt-cafe-remix-jigglypuff-pink",
+          "cssClass": ".pokesprite.pokemon.bellibolt-cafe-remix-jigglypuff-pink",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Bellibolt-Bonus-CaféRemix-JigglypuffPink-★",
+          "slug": "bellibolt-cafe-remix-jigglypuff-pink",
+          "cssClass": ".pokesprite.pokemon.bellibolt-cafe-remix-jigglypuff-pink.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Bellibolt-Bonus-CaféRemix-JigglypuffPink-3DS",
+          "slug": "bellibolt-cafe-remix-jigglypuff-pink",
+          "cssClass": ".pokesprite.pokemon.bellibolt-cafe-remix-jigglypuff-pink.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Bellibolt-Bonus-CaféRemix-JigglypuffPink-3DS-★",
+          "slug": "bellibolt-cafe-remix-jigglypuff-pink",
+          "cssClass": ".pokesprite.pokemon.bellibolt-cafe-remix-jigglypuff-pink.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Bellibolt-Bonus-CaféRemix-LucarioBlue",
+          "slug": "bellibolt-cafe-remix-lucario-blue",
+          "cssClass": ".pokesprite.pokemon.bellibolt-cafe-remix-lucario-blue",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Bellibolt-Bonus-CaféRemix-LucarioBlue-★",
+          "slug": "bellibolt-cafe-remix-lucario-blue",
+          "cssClass": ".pokesprite.pokemon.bellibolt-cafe-remix-lucario-blue.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Bellibolt-Bonus-CaféRemix-LucarioBlue-3DS",
+          "slug": "bellibolt-cafe-remix-lucario-blue",
+          "cssClass": ".pokesprite.pokemon.bellibolt-cafe-remix-lucario-blue.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Bellibolt-Bonus-CaféRemix-LucarioBlue-3DS-★",
+          "slug": "bellibolt-cafe-remix-lucario-blue",
+          "cssClass": ".pokesprite.pokemon.bellibolt-cafe-remix-lucario-blue.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Bellibolt-Bonus-CaféRemix-MinccinoGray",
+          "slug": "bellibolt-cafe-remix-minccino-gray",
+          "cssClass": ".pokesprite.pokemon.bellibolt-cafe-remix-minccino-gray",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Bellibolt-Bonus-CaféRemix-MinccinoGray-★",
+          "slug": "bellibolt-cafe-remix-minccino-gray",
+          "cssClass": ".pokesprite.pokemon.bellibolt-cafe-remix-minccino-gray.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Bellibolt-Bonus-CaféRemix-MinccinoGray-3DS",
+          "slug": "bellibolt-cafe-remix-minccino-gray",
+          "cssClass": ".pokesprite.pokemon.bellibolt-cafe-remix-minccino-gray.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Bellibolt-Bonus-CaféRemix-MinccinoGray-3DS-★",
+          "slug": "bellibolt-cafe-remix-minccino-gray",
+          "cssClass": ".pokesprite.pokemon.bellibolt-cafe-remix-minccino-gray.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Bellibolt-Bonus-CaféRemix-PikachuYellow",
+          "slug": "bellibolt-cafe-remix-pikachu-yellow",
+          "cssClass": ".pokesprite.pokemon.bellibolt-cafe-remix-pikachu-yellow",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Bellibolt-Bonus-CaféRemix-PikachuYellow-★",
+          "slug": "bellibolt-cafe-remix-pikachu-yellow",
+          "cssClass": ".pokesprite.pokemon.bellibolt-cafe-remix-pikachu-yellow.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Bellibolt-Bonus-CaféRemix-PikachuYellow-3DS",
+          "slug": "bellibolt-cafe-remix-pikachu-yellow",
+          "cssClass": ".pokesprite.pokemon.bellibolt-cafe-remix-pikachu-yellow.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Bellibolt-Bonus-CaféRemix-PikachuYellow-3DS-★",
+          "slug": "bellibolt-cafe-remix-pikachu-yellow",
+          "cssClass": ".pokesprite.pokemon.bellibolt-cafe-remix-pikachu-yellow.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Bellibolt-Bonus-CaféRemix-SlowpokePink",
+          "slug": "bellibolt-cafe-remix-slowpoke-pink",
+          "cssClass": ".pokesprite.pokemon.bellibolt-cafe-remix-slowpoke-pink",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Bellibolt-Bonus-CaféRemix-SlowpokePink-★",
+          "slug": "bellibolt-cafe-remix-slowpoke-pink",
+          "cssClass": ".pokesprite.pokemon.bellibolt-cafe-remix-slowpoke-pink.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Bellibolt-Bonus-CaféRemix-SlowpokePink-3DS",
+          "slug": "bellibolt-cafe-remix-slowpoke-pink",
+          "cssClass": ".pokesprite.pokemon.bellibolt-cafe-remix-slowpoke-pink.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Bellibolt-Bonus-CaféRemix-SlowpokePink-3DS-★",
+          "slug": "bellibolt-cafe-remix-slowpoke-pink",
+          "cssClass": ".pokesprite.pokemon.bellibolt-cafe-remix-slowpoke-pink.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Bellibolt-Bonus-CaféRemix-SquirtleBlue",
+          "slug": "bellibolt-cafe-remix-squirtle-blue",
+          "cssClass": ".pokesprite.pokemon.bellibolt-cafe-remix-squirtle-blue",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Bellibolt-Bonus-CaféRemix-SquirtleBlue-★",
+          "slug": "bellibolt-cafe-remix-squirtle-blue",
+          "cssClass": ".pokesprite.pokemon.bellibolt-cafe-remix-squirtle-blue.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Bellibolt-Bonus-CaféRemix-SquirtleBlue-3DS",
+          "slug": "bellibolt-cafe-remix-squirtle-blue",
+          "cssClass": ".pokesprite.pokemon.bellibolt-cafe-remix-squirtle-blue.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Bellibolt-Bonus-CaféRemix-SquirtleBlue-3DS-★",
+          "slug": "bellibolt-cafe-remix-squirtle-blue",
+          "cssClass": ".pokesprite.pokemon.bellibolt-cafe-remix-squirtle-blue.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Bellibolt-Bonus-CaféRemix-StylishNightSky",
+          "slug": "bellibolt-cafe-remix-stylish-night-sky",
+          "cssClass": ".pokesprite.pokemon.bellibolt-cafe-remix-stylish-night-sky",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Bellibolt-Bonus-CaféRemix-StylishNightSky-★",
+          "slug": "bellibolt-cafe-remix-stylish-night-sky",
+          "cssClass": ".pokesprite.pokemon.bellibolt-cafe-remix-stylish-night-sky.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Bellibolt-Bonus-CaféRemix-StylishNightSky-3DS",
+          "slug": "bellibolt-cafe-remix-stylish-night-sky",
+          "cssClass": ".pokesprite.pokemon.bellibolt-cafe-remix-stylish-night-sky.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Bellibolt-Bonus-CaféRemix-StylishNightSky-3DS-★",
+          "slug": "bellibolt-cafe-remix-stylish-night-sky",
+          "cssClass": ".pokesprite.pokemon.bellibolt-cafe-remix-stylish-night-sky.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       }
     ]
   },
