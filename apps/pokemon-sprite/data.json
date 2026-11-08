@@ -192216,6 +192216,650 @@
       },
       {
         "regular": {
+          "name": "Litten-Bonus-CaféRemix-BulbasaurGreen",
+          "slug": "litten-cafe-remix-bulbasaur-green",
+          "cssClass": ".pokesprite.pokemon.litten-cafe-remix-bulbasaur-green",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Litten-Bonus-CaféRemix-BulbasaurGreen-★",
+          "slug": "litten-cafe-remix-bulbasaur-green",
+          "cssClass": ".pokesprite.pokemon.litten-cafe-remix-bulbasaur-green.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Litten-Bonus-CaféRemix-BulbasaurGreen-3DS",
+          "slug": "litten-cafe-remix-bulbasaur-green",
+          "cssClass": ".pokesprite.pokemon.litten-cafe-remix-bulbasaur-green.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Litten-Bonus-CaféRemix-BulbasaurGreen-3DS-★",
+          "slug": "litten-cafe-remix-bulbasaur-green",
+          "cssClass": ".pokesprite.pokemon.litten-cafe-remix-bulbasaur-green.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Litten-Bonus-CaféRemix-CharmanderRed",
+          "slug": "litten-cafe-remix-charmander-red",
+          "cssClass": ".pokesprite.pokemon.litten-cafe-remix-charmander-red",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Litten-Bonus-CaféRemix-CharmanderRed-★",
+          "slug": "litten-cafe-remix-charmander-red",
+          "cssClass": ".pokesprite.pokemon.litten-cafe-remix-charmander-red.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Litten-Bonus-CaféRemix-CharmanderRed-3DS",
+          "slug": "litten-cafe-remix-charmander-red",
+          "cssClass": ".pokesprite.pokemon.litten-cafe-remix-charmander-red.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Litten-Bonus-CaféRemix-CharmanderRed-3DS-★",
+          "slug": "litten-cafe-remix-charmander-red",
+          "cssClass": ".pokesprite.pokemon.litten-cafe-remix-charmander-red.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Litten-Bonus-CaféRemix-CommemorativeBrooch",
+          "slug": "litten-cafe-remix-commemorative-brooch",
+          "cssClass": ".pokesprite.pokemon.litten-cafe-remix-commemorative-brooch",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Litten-Bonus-CaféRemix-CommemorativeBrooch-★",
+          "slug": "litten-cafe-remix-commemorative-brooch",
+          "cssClass": ".pokesprite.pokemon.litten-cafe-remix-commemorative-brooch.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Litten-Bonus-CaféRemix-CommemorativeBrooch-3DS",
+          "slug": "litten-cafe-remix-commemorative-brooch",
+          "cssClass": ".pokesprite.pokemon.litten-cafe-remix-commemorative-brooch.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Litten-Bonus-CaféRemix-CommemorativeBrooch-3DS-★",
+          "slug": "litten-cafe-remix-commemorative-brooch",
+          "cssClass": ".pokesprite.pokemon.litten-cafe-remix-commemorative-brooch.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Litten-Bonus-CaféRemix-DragoniteOrange",
+          "slug": "litten-cafe-remix-dragonite-orange",
+          "cssClass": ".pokesprite.pokemon.litten-cafe-remix-dragonite-orange",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Litten-Bonus-CaféRemix-DragoniteOrange-★",
+          "slug": "litten-cafe-remix-dragonite-orange",
+          "cssClass": ".pokesprite.pokemon.litten-cafe-remix-dragonite-orange.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Litten-Bonus-CaféRemix-DragoniteOrange-3DS",
+          "slug": "litten-cafe-remix-dragonite-orange",
+          "cssClass": ".pokesprite.pokemon.litten-cafe-remix-dragonite-orange.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Litten-Bonus-CaféRemix-DragoniteOrange-3DS-★",
+          "slug": "litten-cafe-remix-dragonite-orange",
+          "cssClass": ".pokesprite.pokemon.litten-cafe-remix-dragonite-orange.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Litten-Bonus-CaféRemix-EeveeBrown",
+          "slug": "litten-cafe-remix-eevee-brown",
+          "cssClass": ".pokesprite.pokemon.litten-cafe-remix-eevee-brown",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Litten-Bonus-CaféRemix-EeveeBrown-★",
+          "slug": "litten-cafe-remix-eevee-brown",
+          "cssClass": ".pokesprite.pokemon.litten-cafe-remix-eevee-brown.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Litten-Bonus-CaféRemix-EeveeBrown-3DS",
+          "slug": "litten-cafe-remix-eevee-brown",
+          "cssClass": ".pokesprite.pokemon.litten-cafe-remix-eevee-brown.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Litten-Bonus-CaféRemix-EeveeBrown-3DS-★",
+          "slug": "litten-cafe-remix-eevee-brown",
+          "cssClass": ".pokesprite.pokemon.litten-cafe-remix-eevee-brown.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Litten-Bonus-CaféRemix-GengarPurple",
+          "slug": "litten-cafe-remix-gengar-purple",
+          "cssClass": ".pokesprite.pokemon.litten-cafe-remix-gengar-purple",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Litten-Bonus-CaféRemix-GengarPurple-★",
+          "slug": "litten-cafe-remix-gengar-purple",
+          "cssClass": ".pokesprite.pokemon.litten-cafe-remix-gengar-purple.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Litten-Bonus-CaféRemix-GengarPurple-3DS",
+          "slug": "litten-cafe-remix-gengar-purple",
+          "cssClass": ".pokesprite.pokemon.litten-cafe-remix-gengar-purple.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Litten-Bonus-CaféRemix-GengarPurple-3DS-★",
+          "slug": "litten-cafe-remix-gengar-purple",
+          "cssClass": ".pokesprite.pokemon.litten-cafe-remix-gengar-purple.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Litten-Bonus-CaféRemix-GothoritaBlack",
+          "slug": "litten-cafe-remix-gothorita-black",
+          "cssClass": ".pokesprite.pokemon.litten-cafe-remix-gothorita-black",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Litten-Bonus-CaféRemix-GothoritaBlack-★",
+          "slug": "litten-cafe-remix-gothorita-black",
+          "cssClass": ".pokesprite.pokemon.litten-cafe-remix-gothorita-black.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Litten-Bonus-CaféRemix-GothoritaBlack-3DS",
+          "slug": "litten-cafe-remix-gothorita-black",
+          "cssClass": ".pokesprite.pokemon.litten-cafe-remix-gothorita-black.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Litten-Bonus-CaféRemix-GothoritaBlack-3DS-★",
+          "slug": "litten-cafe-remix-gothorita-black",
+          "cssClass": ".pokesprite.pokemon.litten-cafe-remix-gothorita-black.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Litten-Bonus-CaféRemix-Halloween",
+          "slug": "litten-cafe-remix-halloween",
+          "cssClass": ".pokesprite.pokemon.litten-cafe-remix-halloween",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Litten-Bonus-CaféRemix-Halloween-★",
+          "slug": "litten-cafe-remix-halloween",
+          "cssClass": ".pokesprite.pokemon.litten-cafe-remix-halloween.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Litten-Bonus-CaféRemix-Halloween-3DS",
+          "slug": "litten-cafe-remix-halloween",
+          "cssClass": ".pokesprite.pokemon.litten-cafe-remix-halloween.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Litten-Bonus-CaféRemix-Halloween-3DS-★",
+          "slug": "litten-cafe-remix-halloween",
+          "cssClass": ".pokesprite.pokemon.litten-cafe-remix-halloween.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Litten-Bonus-CaféRemix-JigglypuffPink",
+          "slug": "litten-cafe-remix-jigglypuff-pink",
+          "cssClass": ".pokesprite.pokemon.litten-cafe-remix-jigglypuff-pink",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Litten-Bonus-CaféRemix-JigglypuffPink-★",
+          "slug": "litten-cafe-remix-jigglypuff-pink",
+          "cssClass": ".pokesprite.pokemon.litten-cafe-remix-jigglypuff-pink.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Litten-Bonus-CaféRemix-JigglypuffPink-3DS",
+          "slug": "litten-cafe-remix-jigglypuff-pink",
+          "cssClass": ".pokesprite.pokemon.litten-cafe-remix-jigglypuff-pink.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Litten-Bonus-CaféRemix-JigglypuffPink-3DS-★",
+          "slug": "litten-cafe-remix-jigglypuff-pink",
+          "cssClass": ".pokesprite.pokemon.litten-cafe-remix-jigglypuff-pink.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Litten-Bonus-CaféRemix-LucarioBlue",
+          "slug": "litten-cafe-remix-lucario-blue",
+          "cssClass": ".pokesprite.pokemon.litten-cafe-remix-lucario-blue",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Litten-Bonus-CaféRemix-LucarioBlue-★",
+          "slug": "litten-cafe-remix-lucario-blue",
+          "cssClass": ".pokesprite.pokemon.litten-cafe-remix-lucario-blue.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Litten-Bonus-CaféRemix-LucarioBlue-3DS",
+          "slug": "litten-cafe-remix-lucario-blue",
+          "cssClass": ".pokesprite.pokemon.litten-cafe-remix-lucario-blue.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Litten-Bonus-CaféRemix-LucarioBlue-3DS-★",
+          "slug": "litten-cafe-remix-lucario-blue",
+          "cssClass": ".pokesprite.pokemon.litten-cafe-remix-lucario-blue.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Litten-Bonus-CaféRemix-MinccinoGray",
+          "slug": "litten-cafe-remix-minccino-gray",
+          "cssClass": ".pokesprite.pokemon.litten-cafe-remix-minccino-gray",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Litten-Bonus-CaféRemix-MinccinoGray-★",
+          "slug": "litten-cafe-remix-minccino-gray",
+          "cssClass": ".pokesprite.pokemon.litten-cafe-remix-minccino-gray.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Litten-Bonus-CaféRemix-MinccinoGray-3DS",
+          "slug": "litten-cafe-remix-minccino-gray",
+          "cssClass": ".pokesprite.pokemon.litten-cafe-remix-minccino-gray.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Litten-Bonus-CaféRemix-MinccinoGray-3DS-★",
+          "slug": "litten-cafe-remix-minccino-gray",
+          "cssClass": ".pokesprite.pokemon.litten-cafe-remix-minccino-gray.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Litten-Bonus-CaféRemix-PikachuYellow",
+          "slug": "litten-cafe-remix-pikachu-yellow",
+          "cssClass": ".pokesprite.pokemon.litten-cafe-remix-pikachu-yellow",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Litten-Bonus-CaféRemix-PikachuYellow-★",
+          "slug": "litten-cafe-remix-pikachu-yellow",
+          "cssClass": ".pokesprite.pokemon.litten-cafe-remix-pikachu-yellow.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Litten-Bonus-CaféRemix-PikachuYellow-3DS",
+          "slug": "litten-cafe-remix-pikachu-yellow",
+          "cssClass": ".pokesprite.pokemon.litten-cafe-remix-pikachu-yellow.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Litten-Bonus-CaféRemix-PikachuYellow-3DS-★",
+          "slug": "litten-cafe-remix-pikachu-yellow",
+          "cssClass": ".pokesprite.pokemon.litten-cafe-remix-pikachu-yellow.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Litten-Bonus-CaféRemix-SlowpokePink",
+          "slug": "litten-cafe-remix-slowpoke-pink",
+          "cssClass": ".pokesprite.pokemon.litten-cafe-remix-slowpoke-pink",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Litten-Bonus-CaféRemix-SlowpokePink-★",
+          "slug": "litten-cafe-remix-slowpoke-pink",
+          "cssClass": ".pokesprite.pokemon.litten-cafe-remix-slowpoke-pink.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Litten-Bonus-CaféRemix-SlowpokePink-3DS",
+          "slug": "litten-cafe-remix-slowpoke-pink",
+          "cssClass": ".pokesprite.pokemon.litten-cafe-remix-slowpoke-pink.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Litten-Bonus-CaféRemix-SlowpokePink-3DS-★",
+          "slug": "litten-cafe-remix-slowpoke-pink",
+          "cssClass": ".pokesprite.pokemon.litten-cafe-remix-slowpoke-pink.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Litten-Bonus-CaféRemix-SquirtleBlue",
+          "slug": "litten-cafe-remix-squirtle-blue",
+          "cssClass": ".pokesprite.pokemon.litten-cafe-remix-squirtle-blue",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Litten-Bonus-CaféRemix-SquirtleBlue-★",
+          "slug": "litten-cafe-remix-squirtle-blue",
+          "cssClass": ".pokesprite.pokemon.litten-cafe-remix-squirtle-blue.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Litten-Bonus-CaféRemix-SquirtleBlue-3DS",
+          "slug": "litten-cafe-remix-squirtle-blue",
+          "cssClass": ".pokesprite.pokemon.litten-cafe-remix-squirtle-blue.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Litten-Bonus-CaféRemix-SquirtleBlue-3DS-★",
+          "slug": "litten-cafe-remix-squirtle-blue",
+          "cssClass": ".pokesprite.pokemon.litten-cafe-remix-squirtle-blue.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
           "name": "Litten-Bonus-RumbleRush-FestiveHat",
           "slug": "litten-rumble-rush-festive-hat",
           "cssClass": ".pokesprite.pokemon.litten-rumble-rush-festive-hat",
