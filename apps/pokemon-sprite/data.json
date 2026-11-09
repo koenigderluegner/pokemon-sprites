@@ -30306,6 +30306,52 @@
       },
       {
         "regular": {
+          "name": "Raichu-Alola-Bonus-CaféRemix-StylishSpooky",
+          "slug": "raichu-alola-cafe-remix-stylish-spooky",
+          "cssClass": ".pokesprite.pokemon.raichu-alola-cafe-remix-stylish-spooky",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Raichu-Alola-Bonus-CaféRemix-StylishSpooky-★",
+          "slug": "raichu-alola-cafe-remix-stylish-spooky",
+          "cssClass": ".pokesprite.pokemon.raichu-alola-cafe-remix-stylish-spooky.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Raichu-Alola-Bonus-CaféRemix-StylishSpooky-3DS",
+          "slug": "raichu-alola-cafe-remix-stylish-spooky",
+          "cssClass": ".pokesprite.pokemon.raichu-alola-cafe-remix-stylish-spooky.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Raichu-Alola-Bonus-CaféRemix-StylishSpooky-3DS-★",
+          "slug": "raichu-alola-cafe-remix-stylish-spooky",
+          "cssClass": ".pokesprite.pokemon.raichu-alola-cafe-remix-stylish-spooky.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
           "name": "Raichu-Bonus-Anime-Kay",
           "slug": "raichu-anime-kay",
           "cssClass": ".pokesprite.pokemon.raichu-anime-kay",
@@ -38938,6 +38984,27 @@
           "name": "Psyduck-Bonus-CaféRemix-StylishRose-★",
           "slug": "psyduck-cafe-remix-stylish-rose",
           "cssClass": ".pokesprite.pokemon.psyduck-cafe-remix-stylish-rose.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Psyduck-Bonus-CaféRemix-StylishSpooky",
+          "slug": "psyduck-cafe-remix-stylish-spooky",
+          "cssClass": ".pokesprite.pokemon.psyduck-cafe-remix-stylish-spooky",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Psyduck-Bonus-CaféRemix-StylishSpooky-★",
+          "slug": "psyduck-cafe-remix-stylish-spooky",
+          "cssClass": ".pokesprite.pokemon.psyduck-cafe-remix-stylish-spooky.shiny",
           "modifiers": [
             "shiny"
           ],
@@ -269360,6 +269427,52 @@
           "name": "Clodsire-Bonus-CaféRemix-StylishPlum-3DS-★",
           "slug": "clodsire-cafe-remix-stylish-plum",
           "cssClass": ".pokesprite.pokemon.clodsire-cafe-remix-stylish-plum.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Clodsire-Bonus-CaféRemix-StylishSpooky",
+          "slug": "clodsire-cafe-remix-stylish-spooky",
+          "cssClass": ".pokesprite.pokemon.clodsire-cafe-remix-stylish-spooky",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Clodsire-Bonus-CaféRemix-StylishSpooky-★",
+          "slug": "clodsire-cafe-remix-stylish-spooky",
+          "cssClass": ".pokesprite.pokemon.clodsire-cafe-remix-stylish-spooky.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Clodsire-Bonus-CaféRemix-StylishSpooky-3DS",
+          "slug": "clodsire-cafe-remix-stylish-spooky",
+          "cssClass": ".pokesprite.pokemon.clodsire-cafe-remix-stylish-spooky.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Clodsire-Bonus-CaféRemix-StylishSpooky-3DS-★",
+          "slug": "clodsire-cafe-remix-stylish-spooky",
+          "cssClass": ".pokesprite.pokemon.clodsire-cafe-remix-stylish-spooky.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
