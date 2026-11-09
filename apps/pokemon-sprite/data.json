@@ -195671,6 +195671,604 @@
             "go"
           ]
         }
+      },
+      {
+        "regular": {
+          "name": "Bewear-Bonus-CaféRemix-BulbasaurGreen",
+          "slug": "bewear-cafe-remix-bulbasaur-green",
+          "cssClass": ".pokesprite.pokemon.bewear-cafe-remix-bulbasaur-green",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Bewear-Bonus-CaféRemix-BulbasaurGreen-★",
+          "slug": "bewear-cafe-remix-bulbasaur-green",
+          "cssClass": ".pokesprite.pokemon.bewear-cafe-remix-bulbasaur-green.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Bewear-Bonus-CaféRemix-BulbasaurGreen-3DS",
+          "slug": "bewear-cafe-remix-bulbasaur-green",
+          "cssClass": ".pokesprite.pokemon.bewear-cafe-remix-bulbasaur-green.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Bewear-Bonus-CaféRemix-BulbasaurGreen-3DS-★",
+          "slug": "bewear-cafe-remix-bulbasaur-green",
+          "cssClass": ".pokesprite.pokemon.bewear-cafe-remix-bulbasaur-green.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Bewear-Bonus-CaféRemix-CharmanderRed",
+          "slug": "bewear-cafe-remix-charmander-red",
+          "cssClass": ".pokesprite.pokemon.bewear-cafe-remix-charmander-red",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Bewear-Bonus-CaféRemix-CharmanderRed-★",
+          "slug": "bewear-cafe-remix-charmander-red",
+          "cssClass": ".pokesprite.pokemon.bewear-cafe-remix-charmander-red.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Bewear-Bonus-CaféRemix-CharmanderRed-3DS",
+          "slug": "bewear-cafe-remix-charmander-red",
+          "cssClass": ".pokesprite.pokemon.bewear-cafe-remix-charmander-red.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Bewear-Bonus-CaféRemix-CharmanderRed-3DS-★",
+          "slug": "bewear-cafe-remix-charmander-red",
+          "cssClass": ".pokesprite.pokemon.bewear-cafe-remix-charmander-red.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Bewear-Bonus-CaféRemix-DragoniteOrange",
+          "slug": "bewear-cafe-remix-dragonite-orange",
+          "cssClass": ".pokesprite.pokemon.bewear-cafe-remix-dragonite-orange",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Bewear-Bonus-CaféRemix-DragoniteOrange-★",
+          "slug": "bewear-cafe-remix-dragonite-orange",
+          "cssClass": ".pokesprite.pokemon.bewear-cafe-remix-dragonite-orange.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Bewear-Bonus-CaféRemix-DragoniteOrange-3DS",
+          "slug": "bewear-cafe-remix-dragonite-orange",
+          "cssClass": ".pokesprite.pokemon.bewear-cafe-remix-dragonite-orange.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Bewear-Bonus-CaféRemix-DragoniteOrange-3DS-★",
+          "slug": "bewear-cafe-remix-dragonite-orange",
+          "cssClass": ".pokesprite.pokemon.bewear-cafe-remix-dragonite-orange.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Bewear-Bonus-CaféRemix-EeveeBrown",
+          "slug": "bewear-cafe-remix-eevee-brown",
+          "cssClass": ".pokesprite.pokemon.bewear-cafe-remix-eevee-brown",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Bewear-Bonus-CaféRemix-EeveeBrown-★",
+          "slug": "bewear-cafe-remix-eevee-brown",
+          "cssClass": ".pokesprite.pokemon.bewear-cafe-remix-eevee-brown.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Bewear-Bonus-CaféRemix-EeveeBrown-3DS",
+          "slug": "bewear-cafe-remix-eevee-brown",
+          "cssClass": ".pokesprite.pokemon.bewear-cafe-remix-eevee-brown.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Bewear-Bonus-CaféRemix-EeveeBrown-3DS-★",
+          "slug": "bewear-cafe-remix-eevee-brown",
+          "cssClass": ".pokesprite.pokemon.bewear-cafe-remix-eevee-brown.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Bewear-Bonus-CaféRemix-GengarPurple",
+          "slug": "bewear-cafe-remix-gengar-purple",
+          "cssClass": ".pokesprite.pokemon.bewear-cafe-remix-gengar-purple",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Bewear-Bonus-CaféRemix-GengarPurple-★",
+          "slug": "bewear-cafe-remix-gengar-purple",
+          "cssClass": ".pokesprite.pokemon.bewear-cafe-remix-gengar-purple.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Bewear-Bonus-CaféRemix-GengarPurple-3DS",
+          "slug": "bewear-cafe-remix-gengar-purple",
+          "cssClass": ".pokesprite.pokemon.bewear-cafe-remix-gengar-purple.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Bewear-Bonus-CaféRemix-GengarPurple-3DS-★",
+          "slug": "bewear-cafe-remix-gengar-purple",
+          "cssClass": ".pokesprite.pokemon.bewear-cafe-remix-gengar-purple.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Bewear-Bonus-CaféRemix-GothoritaBlack",
+          "slug": "bewear-cafe-remix-gothorita-black",
+          "cssClass": ".pokesprite.pokemon.bewear-cafe-remix-gothorita-black",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Bewear-Bonus-CaféRemix-GothoritaBlack-★",
+          "slug": "bewear-cafe-remix-gothorita-black",
+          "cssClass": ".pokesprite.pokemon.bewear-cafe-remix-gothorita-black.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Bewear-Bonus-CaféRemix-GothoritaBlack-3DS",
+          "slug": "bewear-cafe-remix-gothorita-black",
+          "cssClass": ".pokesprite.pokemon.bewear-cafe-remix-gothorita-black.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Bewear-Bonus-CaféRemix-GothoritaBlack-3DS-★",
+          "slug": "bewear-cafe-remix-gothorita-black",
+          "cssClass": ".pokesprite.pokemon.bewear-cafe-remix-gothorita-black.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Bewear-Bonus-CaféRemix-JigglypuffPink",
+          "slug": "bewear-cafe-remix-jigglypuff-pink",
+          "cssClass": ".pokesprite.pokemon.bewear-cafe-remix-jigglypuff-pink",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Bewear-Bonus-CaféRemix-JigglypuffPink-★",
+          "slug": "bewear-cafe-remix-jigglypuff-pink",
+          "cssClass": ".pokesprite.pokemon.bewear-cafe-remix-jigglypuff-pink.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Bewear-Bonus-CaféRemix-JigglypuffPink-3DS",
+          "slug": "bewear-cafe-remix-jigglypuff-pink",
+          "cssClass": ".pokesprite.pokemon.bewear-cafe-remix-jigglypuff-pink.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Bewear-Bonus-CaféRemix-JigglypuffPink-3DS-★",
+          "slug": "bewear-cafe-remix-jigglypuff-pink",
+          "cssClass": ".pokesprite.pokemon.bewear-cafe-remix-jigglypuff-pink.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Bewear-Bonus-CaféRemix-LucarioBlue",
+          "slug": "bewear-cafe-remix-lucario-blue",
+          "cssClass": ".pokesprite.pokemon.bewear-cafe-remix-lucario-blue",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Bewear-Bonus-CaféRemix-LucarioBlue-★",
+          "slug": "bewear-cafe-remix-lucario-blue",
+          "cssClass": ".pokesprite.pokemon.bewear-cafe-remix-lucario-blue.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Bewear-Bonus-CaféRemix-LucarioBlue-3DS",
+          "slug": "bewear-cafe-remix-lucario-blue",
+          "cssClass": ".pokesprite.pokemon.bewear-cafe-remix-lucario-blue.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Bewear-Bonus-CaféRemix-LucarioBlue-3DS-★",
+          "slug": "bewear-cafe-remix-lucario-blue",
+          "cssClass": ".pokesprite.pokemon.bewear-cafe-remix-lucario-blue.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Bewear-Bonus-CaféRemix-MinccinoGray",
+          "slug": "bewear-cafe-remix-minccino-gray",
+          "cssClass": ".pokesprite.pokemon.bewear-cafe-remix-minccino-gray",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Bewear-Bonus-CaféRemix-MinccinoGray-★",
+          "slug": "bewear-cafe-remix-minccino-gray",
+          "cssClass": ".pokesprite.pokemon.bewear-cafe-remix-minccino-gray.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Bewear-Bonus-CaféRemix-MinccinoGray-3DS",
+          "slug": "bewear-cafe-remix-minccino-gray",
+          "cssClass": ".pokesprite.pokemon.bewear-cafe-remix-minccino-gray.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Bewear-Bonus-CaféRemix-MinccinoGray-3DS-★",
+          "slug": "bewear-cafe-remix-minccino-gray",
+          "cssClass": ".pokesprite.pokemon.bewear-cafe-remix-minccino-gray.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Bewear-Bonus-CaféRemix-PikachuYellow",
+          "slug": "bewear-cafe-remix-pikachu-yellow",
+          "cssClass": ".pokesprite.pokemon.bewear-cafe-remix-pikachu-yellow",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Bewear-Bonus-CaféRemix-PikachuYellow-★",
+          "slug": "bewear-cafe-remix-pikachu-yellow",
+          "cssClass": ".pokesprite.pokemon.bewear-cafe-remix-pikachu-yellow.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Bewear-Bonus-CaféRemix-PikachuYellow-3DS",
+          "slug": "bewear-cafe-remix-pikachu-yellow",
+          "cssClass": ".pokesprite.pokemon.bewear-cafe-remix-pikachu-yellow.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Bewear-Bonus-CaféRemix-PikachuYellow-3DS-★",
+          "slug": "bewear-cafe-remix-pikachu-yellow",
+          "cssClass": ".pokesprite.pokemon.bewear-cafe-remix-pikachu-yellow.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Bewear-Bonus-CaféRemix-SlowpokePink",
+          "slug": "bewear-cafe-remix-slowpoke-pink",
+          "cssClass": ".pokesprite.pokemon.bewear-cafe-remix-slowpoke-pink",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Bewear-Bonus-CaféRemix-SlowpokePink-★",
+          "slug": "bewear-cafe-remix-slowpoke-pink",
+          "cssClass": ".pokesprite.pokemon.bewear-cafe-remix-slowpoke-pink.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Bewear-Bonus-CaféRemix-SlowpokePink-3DS",
+          "slug": "bewear-cafe-remix-slowpoke-pink",
+          "cssClass": ".pokesprite.pokemon.bewear-cafe-remix-slowpoke-pink.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Bewear-Bonus-CaféRemix-SlowpokePink-3DS-★",
+          "slug": "bewear-cafe-remix-slowpoke-pink",
+          "cssClass": ".pokesprite.pokemon.bewear-cafe-remix-slowpoke-pink.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Bewear-Bonus-CaféRemix-SquirtleBlue",
+          "slug": "bewear-cafe-remix-squirtle-blue",
+          "cssClass": ".pokesprite.pokemon.bewear-cafe-remix-squirtle-blue",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Bewear-Bonus-CaféRemix-SquirtleBlue-★",
+          "slug": "bewear-cafe-remix-squirtle-blue",
+          "cssClass": ".pokesprite.pokemon.bewear-cafe-remix-squirtle-blue.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Bewear-Bonus-CaféRemix-SquirtleBlue-3DS",
+          "slug": "bewear-cafe-remix-squirtle-blue",
+          "cssClass": ".pokesprite.pokemon.bewear-cafe-remix-squirtle-blue.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Bewear-Bonus-CaféRemix-SquirtleBlue-3DS-★",
+          "slug": "bewear-cafe-remix-squirtle-blue",
+          "cssClass": ".pokesprite.pokemon.bewear-cafe-remix-squirtle-blue.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Bewear-Bonus-CaféRemix-StylishSunflower",
+          "slug": "bewear-cafe-remix-stylish-sunflower",
+          "cssClass": ".pokesprite.pokemon.bewear-cafe-remix-stylish-sunflower",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Bewear-Bonus-CaféRemix-StylishSunflower-★",
+          "slug": "bewear-cafe-remix-stylish-sunflower",
+          "cssClass": ".pokesprite.pokemon.bewear-cafe-remix-stylish-sunflower.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Bewear-Bonus-CaféRemix-StylishSunflower-3DS",
+          "slug": "bewear-cafe-remix-stylish-sunflower",
+          "cssClass": ".pokesprite.pokemon.bewear-cafe-remix-stylish-sunflower.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Bewear-Bonus-CaféRemix-StylishSunflower-3DS-★",
+          "slug": "bewear-cafe-remix-stylish-sunflower",
+          "cssClass": ".pokesprite.pokemon.bewear-cafe-remix-stylish-sunflower.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       }
     ]
   },
