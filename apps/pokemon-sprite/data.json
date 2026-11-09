@@ -170279,6 +170279,279 @@
             "shiny"
           ]
         }
+      },
+      {
+        "regular": {
+          "name": "Munna-Bonus-CaféRemix-BulbasaurGreen",
+          "slug": "munna-cafe-remix-bulbasaur-green",
+          "cssClass": ".pokesprite.pokemon.munna-cafe-remix-bulbasaur-green",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Munna-Bonus-CaféRemix-BulbasaurGreen-★",
+          "slug": "munna-cafe-remix-bulbasaur-green",
+          "cssClass": ".pokesprite.pokemon.munna-cafe-remix-bulbasaur-green.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Munna-Bonus-CaféRemix-CharmanderRed",
+          "slug": "munna-cafe-remix-charmander-red",
+          "cssClass": ".pokesprite.pokemon.munna-cafe-remix-charmander-red",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Munna-Bonus-CaféRemix-CharmanderRed-★",
+          "slug": "munna-cafe-remix-charmander-red",
+          "cssClass": ".pokesprite.pokemon.munna-cafe-remix-charmander-red.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Munna-Bonus-CaféRemix-DragoniteOrange",
+          "slug": "munna-cafe-remix-dragonite-orange",
+          "cssClass": ".pokesprite.pokemon.munna-cafe-remix-dragonite-orange",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Munna-Bonus-CaféRemix-DragoniteOrange-★",
+          "slug": "munna-cafe-remix-dragonite-orange",
+          "cssClass": ".pokesprite.pokemon.munna-cafe-remix-dragonite-orange.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Munna-Bonus-CaféRemix-EeveeBrown",
+          "slug": "munna-cafe-remix-eevee-brown",
+          "cssClass": ".pokesprite.pokemon.munna-cafe-remix-eevee-brown",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Munna-Bonus-CaféRemix-EeveeBrown-★",
+          "slug": "munna-cafe-remix-eevee-brown",
+          "cssClass": ".pokesprite.pokemon.munna-cafe-remix-eevee-brown.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Munna-Bonus-CaféRemix-GengarPurple",
+          "slug": "munna-cafe-remix-gengar-purple",
+          "cssClass": ".pokesprite.pokemon.munna-cafe-remix-gengar-purple",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Munna-Bonus-CaféRemix-GengarPurple-★",
+          "slug": "munna-cafe-remix-gengar-purple",
+          "cssClass": ".pokesprite.pokemon.munna-cafe-remix-gengar-purple.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Munna-Bonus-CaféRemix-GothoritaBlack",
+          "slug": "munna-cafe-remix-gothorita-black",
+          "cssClass": ".pokesprite.pokemon.munna-cafe-remix-gothorita-black",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Munna-Bonus-CaféRemix-GothoritaBlack-★",
+          "slug": "munna-cafe-remix-gothorita-black",
+          "cssClass": ".pokesprite.pokemon.munna-cafe-remix-gothorita-black.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Munna-Bonus-CaféRemix-JigglypuffPink",
+          "slug": "munna-cafe-remix-jigglypuff-pink",
+          "cssClass": ".pokesprite.pokemon.munna-cafe-remix-jigglypuff-pink",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Munna-Bonus-CaféRemix-JigglypuffPink-★",
+          "slug": "munna-cafe-remix-jigglypuff-pink",
+          "cssClass": ".pokesprite.pokemon.munna-cafe-remix-jigglypuff-pink.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Munna-Bonus-CaféRemix-LucarioBlue",
+          "slug": "munna-cafe-remix-lucario-blue",
+          "cssClass": ".pokesprite.pokemon.munna-cafe-remix-lucario-blue",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Munna-Bonus-CaféRemix-LucarioBlue-★",
+          "slug": "munna-cafe-remix-lucario-blue",
+          "cssClass": ".pokesprite.pokemon.munna-cafe-remix-lucario-blue.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Munna-Bonus-CaféRemix-MinccinoGray",
+          "slug": "munna-cafe-remix-minccino-gray",
+          "cssClass": ".pokesprite.pokemon.munna-cafe-remix-minccino-gray",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Munna-Bonus-CaféRemix-MinccinoGray-★",
+          "slug": "munna-cafe-remix-minccino-gray",
+          "cssClass": ".pokesprite.pokemon.munna-cafe-remix-minccino-gray.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Munna-Bonus-CaféRemix-PikachuYellow",
+          "slug": "munna-cafe-remix-pikachu-yellow",
+          "cssClass": ".pokesprite.pokemon.munna-cafe-remix-pikachu-yellow",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Munna-Bonus-CaféRemix-PikachuYellow-★",
+          "slug": "munna-cafe-remix-pikachu-yellow",
+          "cssClass": ".pokesprite.pokemon.munna-cafe-remix-pikachu-yellow.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Munna-Bonus-CaféRemix-SlowpokePink",
+          "slug": "munna-cafe-remix-slowpoke-pink",
+          "cssClass": ".pokesprite.pokemon.munna-cafe-remix-slowpoke-pink",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Munna-Bonus-CaféRemix-SlowpokePink-★",
+          "slug": "munna-cafe-remix-slowpoke-pink",
+          "cssClass": ".pokesprite.pokemon.munna-cafe-remix-slowpoke-pink.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Munna-Bonus-CaféRemix-SquirtleBlue",
+          "slug": "munna-cafe-remix-squirtle-blue",
+          "cssClass": ".pokesprite.pokemon.munna-cafe-remix-squirtle-blue",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Munna-Bonus-CaféRemix-SquirtleBlue-★",
+          "slug": "munna-cafe-remix-squirtle-blue",
+          "cssClass": ".pokesprite.pokemon.munna-cafe-remix-squirtle-blue.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Munna-Bonus-CaféRemix-StylishSpring",
+          "slug": "munna-cafe-remix-stylish-spring",
+          "cssClass": ".pokesprite.pokemon.munna-cafe-remix-stylish-spring",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Munna-Bonus-CaféRemix-StylishSpring-★",
+          "slug": "munna-cafe-remix-stylish-spring",
+          "cssClass": ".pokesprite.pokemon.munna-cafe-remix-stylish-spring.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       }
     ]
   },
