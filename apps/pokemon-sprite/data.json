@@ -39776,6 +39776,27 @@
             "bonus"
           ]
         }
+      },
+      {
+        "regular": {
+          "name": "Growlithe-Bonus-CaféRemix-StylishPlum",
+          "slug": "growlithe-cafe-remix-stylish-plum",
+          "cssClass": ".pokesprite.pokemon.growlithe-cafe-remix-stylish-plum",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Growlithe-Bonus-CaféRemix-StylishPlum-★",
+          "slug": "growlithe-cafe-remix-stylish-plum",
+          "cssClass": ".pokesprite.pokemon.growlithe-cafe-remix-stylish-plum.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       }
     ]
   },
@@ -46866,6 +46887,52 @@
           "name": "Gengar-Bonus-CaféRemix-SquirtleBlue-3DS-★",
           "slug": "gengar-cafe-remix-squirtle-blue",
           "cssClass": ".pokesprite.pokemon.gengar-cafe-remix-squirtle-blue.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Gengar-Bonus-CaféRemix-StylishPlum",
+          "slug": "gengar-cafe-remix-stylish-plum",
+          "cssClass": ".pokesprite.pokemon.gengar-cafe-remix-stylish-plum",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Gengar-Bonus-CaféRemix-StylishPlum-★",
+          "slug": "gengar-cafe-remix-stylish-plum",
+          "cssClass": ".pokesprite.pokemon.gengar-cafe-remix-stylish-plum.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Gengar-Bonus-CaféRemix-StylishPlum-3DS",
+          "slug": "gengar-cafe-remix-stylish-plum",
+          "cssClass": ".pokesprite.pokemon.gengar-cafe-remix-stylish-plum.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Gengar-Bonus-CaféRemix-StylishPlum-3DS-★",
+          "slug": "gengar-cafe-remix-stylish-plum",
+          "cssClass": ".pokesprite.pokemon.gengar-cafe-remix-stylish-plum.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -92803,6 +92870,27 @@
             "bonus"
           ]
         }
+      },
+      {
+        "regular": {
+          "name": "Snubbull-Bonus-CaféRemix-StylishPlum",
+          "slug": "snubbull-cafe-remix-stylish-plum",
+          "cssClass": ".pokesprite.pokemon.snubbull-cafe-remix-stylish-plum",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Snubbull-Bonus-CaféRemix-StylishPlum-★",
+          "slug": "snubbull-cafe-remix-stylish-plum",
+          "cssClass": ".pokesprite.pokemon.snubbull-cafe-remix-stylish-plum.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       }
     ]
   },
@@ -115461,6 +115549,52 @@
           "name": "Kirlia-Bonus-CaféRemix-SquirtleBlue-3DS-★",
           "slug": "kirlia-cafe-remix-squirtle-blue",
           "cssClass": ".pokesprite.pokemon.kirlia-cafe-remix-squirtle-blue.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Kirlia-Bonus-CaféRemix-StylishPlum",
+          "slug": "kirlia-cafe-remix-stylish-plum",
+          "cssClass": ".pokesprite.pokemon.kirlia-cafe-remix-stylish-plum",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Kirlia-Bonus-CaféRemix-StylishPlum-★",
+          "slug": "kirlia-cafe-remix-stylish-plum",
+          "cssClass": ".pokesprite.pokemon.kirlia-cafe-remix-stylish-plum.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Kirlia-Bonus-CaféRemix-StylishPlum-3DS",
+          "slug": "kirlia-cafe-remix-stylish-plum",
+          "cssClass": ".pokesprite.pokemon.kirlia-cafe-remix-stylish-plum.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Kirlia-Bonus-CaféRemix-StylishPlum-3DS-★",
+          "slug": "kirlia-cafe-remix-stylish-plum",
+          "cssClass": ".pokesprite.pokemon.kirlia-cafe-remix-stylish-plum.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -145871,6 +146005,27 @@
             "bonus"
           ]
         }
+      },
+      {
+        "regular": {
+          "name": "Drifloon-Bonus-CaféRemix-StylishPlum",
+          "slug": "drifloon-cafe-remix-stylish-plum",
+          "cssClass": ".pokesprite.pokemon.drifloon-cafe-remix-stylish-plum",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Drifloon-Bonus-CaféRemix-StylishPlum-★",
+          "slug": "drifloon-cafe-remix-stylish-plum",
+          "cssClass": ".pokesprite.pokemon.drifloon-cafe-remix-stylish-plum.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       }
     ]
   },
@@ -150739,6 +150894,52 @@
           "name": "Munchlax-Bonus-CaféRemix-SquirtleBlue-3DS-★",
           "slug": "munchlax-cafe-remix-squirtle-blue",
           "cssClass": ".pokesprite.pokemon.munchlax-cafe-remix-squirtle-blue.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Munchlax-Bonus-CaféRemix-StylishPlum",
+          "slug": "munchlax-cafe-remix-stylish-plum",
+          "cssClass": ".pokesprite.pokemon.munchlax-cafe-remix-stylish-plum",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Munchlax-Bonus-CaféRemix-StylishPlum-★",
+          "slug": "munchlax-cafe-remix-stylish-plum",
+          "cssClass": ".pokesprite.pokemon.munchlax-cafe-remix-stylish-plum.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Munchlax-Bonus-CaféRemix-StylishPlum-3DS",
+          "slug": "munchlax-cafe-remix-stylish-plum",
+          "cssClass": ".pokesprite.pokemon.munchlax-cafe-remix-stylish-plum.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Munchlax-Bonus-CaféRemix-StylishPlum-3DS-★",
+          "slug": "munchlax-cafe-remix-stylish-plum",
+          "cssClass": ".pokesprite.pokemon.munchlax-cafe-remix-stylish-plum.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -198919,6 +199120,742 @@
           "name": "Steenee-Bonus-Anime-Mallow-UltraGuardians-3DS-★",
           "slug": "steenee-anime-mallow-ultra-guardians",
           "cssClass": ".pokesprite.pokemon.steenee-anime-mallow-ultra-guardians.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Steenee-Bonus-CaféRemix-BulbasaurGreen",
+          "slug": "steenee-cafe-remix-bulbasaur-green",
+          "cssClass": ".pokesprite.pokemon.steenee-cafe-remix-bulbasaur-green",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Steenee-Bonus-CaféRemix-BulbasaurGreen-★",
+          "slug": "steenee-cafe-remix-bulbasaur-green",
+          "cssClass": ".pokesprite.pokemon.steenee-cafe-remix-bulbasaur-green.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Steenee-Bonus-CaféRemix-BulbasaurGreen-3DS",
+          "slug": "steenee-cafe-remix-bulbasaur-green",
+          "cssClass": ".pokesprite.pokemon.steenee-cafe-remix-bulbasaur-green.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Steenee-Bonus-CaféRemix-BulbasaurGreen-3DS-★",
+          "slug": "steenee-cafe-remix-bulbasaur-green",
+          "cssClass": ".pokesprite.pokemon.steenee-cafe-remix-bulbasaur-green.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Steenee-Bonus-CaféRemix-CharmanderRed",
+          "slug": "steenee-cafe-remix-charmander-red",
+          "cssClass": ".pokesprite.pokemon.steenee-cafe-remix-charmander-red",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Steenee-Bonus-CaféRemix-CharmanderRed-★",
+          "slug": "steenee-cafe-remix-charmander-red",
+          "cssClass": ".pokesprite.pokemon.steenee-cafe-remix-charmander-red.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Steenee-Bonus-CaféRemix-CharmanderRed-3DS",
+          "slug": "steenee-cafe-remix-charmander-red",
+          "cssClass": ".pokesprite.pokemon.steenee-cafe-remix-charmander-red.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Steenee-Bonus-CaféRemix-CharmanderRed-3DS-★",
+          "slug": "steenee-cafe-remix-charmander-red",
+          "cssClass": ".pokesprite.pokemon.steenee-cafe-remix-charmander-red.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Steenee-Bonus-CaféRemix-DragoniteOrange",
+          "slug": "steenee-cafe-remix-dragonite-orange",
+          "cssClass": ".pokesprite.pokemon.steenee-cafe-remix-dragonite-orange",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Steenee-Bonus-CaféRemix-DragoniteOrange-★",
+          "slug": "steenee-cafe-remix-dragonite-orange",
+          "cssClass": ".pokesprite.pokemon.steenee-cafe-remix-dragonite-orange.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Steenee-Bonus-CaféRemix-DragoniteOrange-3DS",
+          "slug": "steenee-cafe-remix-dragonite-orange",
+          "cssClass": ".pokesprite.pokemon.steenee-cafe-remix-dragonite-orange.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Steenee-Bonus-CaféRemix-DragoniteOrange-3DS-★",
+          "slug": "steenee-cafe-remix-dragonite-orange",
+          "cssClass": ".pokesprite.pokemon.steenee-cafe-remix-dragonite-orange.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Steenee-Bonus-CaféRemix-EeveeBrown",
+          "slug": "steenee-cafe-remix-eevee-brown",
+          "cssClass": ".pokesprite.pokemon.steenee-cafe-remix-eevee-brown",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Steenee-Bonus-CaféRemix-EeveeBrown-★",
+          "slug": "steenee-cafe-remix-eevee-brown",
+          "cssClass": ".pokesprite.pokemon.steenee-cafe-remix-eevee-brown.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Steenee-Bonus-CaféRemix-EeveeBrown-3DS",
+          "slug": "steenee-cafe-remix-eevee-brown",
+          "cssClass": ".pokesprite.pokemon.steenee-cafe-remix-eevee-brown.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Steenee-Bonus-CaféRemix-EeveeBrown-3DS-★",
+          "slug": "steenee-cafe-remix-eevee-brown",
+          "cssClass": ".pokesprite.pokemon.steenee-cafe-remix-eevee-brown.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Steenee-Bonus-CaféRemix-GengarPurple",
+          "slug": "steenee-cafe-remix-gengar-purple",
+          "cssClass": ".pokesprite.pokemon.steenee-cafe-remix-gengar-purple",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Steenee-Bonus-CaféRemix-GengarPurple-★",
+          "slug": "steenee-cafe-remix-gengar-purple",
+          "cssClass": ".pokesprite.pokemon.steenee-cafe-remix-gengar-purple.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Steenee-Bonus-CaféRemix-GengarPurple-3DS",
+          "slug": "steenee-cafe-remix-gengar-purple",
+          "cssClass": ".pokesprite.pokemon.steenee-cafe-remix-gengar-purple.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Steenee-Bonus-CaféRemix-GengarPurple-3DS-★",
+          "slug": "steenee-cafe-remix-gengar-purple",
+          "cssClass": ".pokesprite.pokemon.steenee-cafe-remix-gengar-purple.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Steenee-Bonus-CaféRemix-GothoritaBlack",
+          "slug": "steenee-cafe-remix-gothorita-black",
+          "cssClass": ".pokesprite.pokemon.steenee-cafe-remix-gothorita-black",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Steenee-Bonus-CaféRemix-GothoritaBlack-★",
+          "slug": "steenee-cafe-remix-gothorita-black",
+          "cssClass": ".pokesprite.pokemon.steenee-cafe-remix-gothorita-black.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Steenee-Bonus-CaféRemix-GothoritaBlack-3DS",
+          "slug": "steenee-cafe-remix-gothorita-black",
+          "cssClass": ".pokesprite.pokemon.steenee-cafe-remix-gothorita-black.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Steenee-Bonus-CaféRemix-GothoritaBlack-3DS-★",
+          "slug": "steenee-cafe-remix-gothorita-black",
+          "cssClass": ".pokesprite.pokemon.steenee-cafe-remix-gothorita-black.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Steenee-Bonus-CaféRemix-Holiday",
+          "slug": "steenee-cafe-remix-holiday",
+          "cssClass": ".pokesprite.pokemon.steenee-cafe-remix-holiday",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Steenee-Bonus-CaféRemix-Holiday-★",
+          "slug": "steenee-cafe-remix-holiday",
+          "cssClass": ".pokesprite.pokemon.steenee-cafe-remix-holiday.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Steenee-Bonus-CaféRemix-Holiday-3DS",
+          "slug": "steenee-cafe-remix-holiday",
+          "cssClass": ".pokesprite.pokemon.steenee-cafe-remix-holiday.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Steenee-Bonus-CaféRemix-Holiday-3DS-★",
+          "slug": "steenee-cafe-remix-holiday",
+          "cssClass": ".pokesprite.pokemon.steenee-cafe-remix-holiday.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Steenee-Bonus-CaféRemix-JigglypuffPink",
+          "slug": "steenee-cafe-remix-jigglypuff-pink",
+          "cssClass": ".pokesprite.pokemon.steenee-cafe-remix-jigglypuff-pink",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Steenee-Bonus-CaféRemix-JigglypuffPink-★",
+          "slug": "steenee-cafe-remix-jigglypuff-pink",
+          "cssClass": ".pokesprite.pokemon.steenee-cafe-remix-jigglypuff-pink.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Steenee-Bonus-CaféRemix-JigglypuffPink-3DS",
+          "slug": "steenee-cafe-remix-jigglypuff-pink",
+          "cssClass": ".pokesprite.pokemon.steenee-cafe-remix-jigglypuff-pink.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Steenee-Bonus-CaféRemix-JigglypuffPink-3DS-★",
+          "slug": "steenee-cafe-remix-jigglypuff-pink",
+          "cssClass": ".pokesprite.pokemon.steenee-cafe-remix-jigglypuff-pink.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Steenee-Bonus-CaféRemix-LucarioBlue",
+          "slug": "steenee-cafe-remix-lucario-blue",
+          "cssClass": ".pokesprite.pokemon.steenee-cafe-remix-lucario-blue",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Steenee-Bonus-CaféRemix-LucarioBlue-★",
+          "slug": "steenee-cafe-remix-lucario-blue",
+          "cssClass": ".pokesprite.pokemon.steenee-cafe-remix-lucario-blue.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Steenee-Bonus-CaféRemix-LucarioBlue-3DS",
+          "slug": "steenee-cafe-remix-lucario-blue",
+          "cssClass": ".pokesprite.pokemon.steenee-cafe-remix-lucario-blue.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Steenee-Bonus-CaféRemix-LucarioBlue-3DS-★",
+          "slug": "steenee-cafe-remix-lucario-blue",
+          "cssClass": ".pokesprite.pokemon.steenee-cafe-remix-lucario-blue.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Steenee-Bonus-CaféRemix-MagicalStar",
+          "slug": "steenee-cafe-remix-magical-star",
+          "cssClass": ".pokesprite.pokemon.steenee-cafe-remix-magical-star",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Steenee-Bonus-CaféRemix-MagicalStar-★",
+          "slug": "steenee-cafe-remix-magical-star",
+          "cssClass": ".pokesprite.pokemon.steenee-cafe-remix-magical-star.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Steenee-Bonus-CaféRemix-MagicalStar-3DS",
+          "slug": "steenee-cafe-remix-magical-star",
+          "cssClass": ".pokesprite.pokemon.steenee-cafe-remix-magical-star.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Steenee-Bonus-CaféRemix-MagicalStar-3DS-★",
+          "slug": "steenee-cafe-remix-magical-star",
+          "cssClass": ".pokesprite.pokemon.steenee-cafe-remix-magical-star.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Steenee-Bonus-CaféRemix-MinccinoGray",
+          "slug": "steenee-cafe-remix-minccino-gray",
+          "cssClass": ".pokesprite.pokemon.steenee-cafe-remix-minccino-gray",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Steenee-Bonus-CaféRemix-MinccinoGray-★",
+          "slug": "steenee-cafe-remix-minccino-gray",
+          "cssClass": ".pokesprite.pokemon.steenee-cafe-remix-minccino-gray.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Steenee-Bonus-CaféRemix-MinccinoGray-3DS",
+          "slug": "steenee-cafe-remix-minccino-gray",
+          "cssClass": ".pokesprite.pokemon.steenee-cafe-remix-minccino-gray.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Steenee-Bonus-CaféRemix-MinccinoGray-3DS-★",
+          "slug": "steenee-cafe-remix-minccino-gray",
+          "cssClass": ".pokesprite.pokemon.steenee-cafe-remix-minccino-gray.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Steenee-Bonus-CaféRemix-PikachuYellow",
+          "slug": "steenee-cafe-remix-pikachu-yellow",
+          "cssClass": ".pokesprite.pokemon.steenee-cafe-remix-pikachu-yellow",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Steenee-Bonus-CaféRemix-PikachuYellow-★",
+          "slug": "steenee-cafe-remix-pikachu-yellow",
+          "cssClass": ".pokesprite.pokemon.steenee-cafe-remix-pikachu-yellow.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Steenee-Bonus-CaféRemix-PikachuYellow-3DS",
+          "slug": "steenee-cafe-remix-pikachu-yellow",
+          "cssClass": ".pokesprite.pokemon.steenee-cafe-remix-pikachu-yellow.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Steenee-Bonus-CaféRemix-PikachuYellow-3DS-★",
+          "slug": "steenee-cafe-remix-pikachu-yellow",
+          "cssClass": ".pokesprite.pokemon.steenee-cafe-remix-pikachu-yellow.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Steenee-Bonus-CaféRemix-SlowpokePink",
+          "slug": "steenee-cafe-remix-slowpoke-pink",
+          "cssClass": ".pokesprite.pokemon.steenee-cafe-remix-slowpoke-pink",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Steenee-Bonus-CaféRemix-SlowpokePink-★",
+          "slug": "steenee-cafe-remix-slowpoke-pink",
+          "cssClass": ".pokesprite.pokemon.steenee-cafe-remix-slowpoke-pink.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Steenee-Bonus-CaféRemix-SlowpokePink-3DS",
+          "slug": "steenee-cafe-remix-slowpoke-pink",
+          "cssClass": ".pokesprite.pokemon.steenee-cafe-remix-slowpoke-pink.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Steenee-Bonus-CaféRemix-SlowpokePink-3DS-★",
+          "slug": "steenee-cafe-remix-slowpoke-pink",
+          "cssClass": ".pokesprite.pokemon.steenee-cafe-remix-slowpoke-pink.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Steenee-Bonus-CaféRemix-SquirtleBlue",
+          "slug": "steenee-cafe-remix-squirtle-blue",
+          "cssClass": ".pokesprite.pokemon.steenee-cafe-remix-squirtle-blue",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Steenee-Bonus-CaféRemix-SquirtleBlue-★",
+          "slug": "steenee-cafe-remix-squirtle-blue",
+          "cssClass": ".pokesprite.pokemon.steenee-cafe-remix-squirtle-blue.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Steenee-Bonus-CaféRemix-SquirtleBlue-3DS",
+          "slug": "steenee-cafe-remix-squirtle-blue",
+          "cssClass": ".pokesprite.pokemon.steenee-cafe-remix-squirtle-blue.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Steenee-Bonus-CaféRemix-SquirtleBlue-3DS-★",
+          "slug": "steenee-cafe-remix-squirtle-blue",
+          "cssClass": ".pokesprite.pokemon.steenee-cafe-remix-squirtle-blue.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Steenee-Bonus-CaféRemix-StylishDenim",
+          "slug": "steenee-cafe-remix-stylish-denim",
+          "cssClass": ".pokesprite.pokemon.steenee-cafe-remix-stylish-denim",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Steenee-Bonus-CaféRemix-StylishDenim-★",
+          "slug": "steenee-cafe-remix-stylish-denim",
+          "cssClass": ".pokesprite.pokemon.steenee-cafe-remix-stylish-denim.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Steenee-Bonus-CaféRemix-StylishDenim-3DS",
+          "slug": "steenee-cafe-remix-stylish-denim",
+          "cssClass": ".pokesprite.pokemon.steenee-cafe-remix-stylish-denim.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Steenee-Bonus-CaféRemix-StylishDenim-3DS-★",
+          "slug": "steenee-cafe-remix-stylish-denim",
+          "cssClass": ".pokesprite.pokemon.steenee-cafe-remix-stylish-denim.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Steenee-Bonus-CaféRemix-StylishPlum",
+          "slug": "steenee-cafe-remix-stylish-plum",
+          "cssClass": ".pokesprite.pokemon.steenee-cafe-remix-stylish-plum",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Steenee-Bonus-CaféRemix-StylishPlum-★",
+          "slug": "steenee-cafe-remix-stylish-plum",
+          "cssClass": ".pokesprite.pokemon.steenee-cafe-remix-stylish-plum.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Steenee-Bonus-CaféRemix-StylishPlum-3DS",
+          "slug": "steenee-cafe-remix-stylish-plum",
+          "cssClass": ".pokesprite.pokemon.steenee-cafe-remix-stylish-plum.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Steenee-Bonus-CaféRemix-StylishPlum-3DS-★",
+          "slug": "steenee-cafe-remix-stylish-plum",
+          "cssClass": ".pokesprite.pokemon.steenee-cafe-remix-stylish-plum.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
