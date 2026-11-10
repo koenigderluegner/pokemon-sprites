@@ -108080,7 +108080,17 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Sceptile-Bonus-Pokken-★",
+          "slug": "sceptile-pokken",
+          "cssClass": ".pokesprite.pokemon.sceptile-pokken.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -108094,7 +108104,18 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Sceptile-Bonus-Pokken-3DS-★",
+          "slug": "sceptile-pokken",
+          "cssClass": ".pokesprite.pokemon.sceptile-pokken.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -108105,7 +108126,17 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Sceptile-Mega-Bonus-Pokken-★",
+          "slug": "sceptile-mega-pokken",
+          "cssClass": ".pokesprite.pokemon.sceptile-mega-pokken.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -108119,7 +108150,18 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Sceptile-Mega-Bonus-Pokken-3DS-★",
+          "slug": "sceptile-mega-pokken",
+          "cssClass": ".pokesprite.pokemon.sceptile-mega-pokken.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -108133,7 +108175,18 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Sceptile-Mega-Bonus-Pokken-Switch-Optional-★",
+          "slug": "sceptile-mega-pokken-optional",
+          "cssClass": ".pokesprite.pokemon.sceptile-mega-pokken-optional.shiny.switch",
+          "modifiers": [
+            "shiny",
+            "switch"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       }
     ]
   },
