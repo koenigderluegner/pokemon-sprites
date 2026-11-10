@@ -76724,6 +76724,52 @@
       },
       {
         "regular": {
+          "name": "Furret-Bonus-CaféRemix-StylishNewYear",
+          "slug": "furret-cafe-remix-stylish-new-year",
+          "cssClass": ".pokesprite.pokemon.furret-cafe-remix-stylish-new-year",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Furret-Bonus-CaféRemix-StylishNewYear-★",
+          "slug": "furret-cafe-remix-stylish-new-year",
+          "cssClass": ".pokesprite.pokemon.furret-cafe-remix-stylish-new-year.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Furret-Bonus-CaféRemix-StylishNewYear-3DS",
+          "slug": "furret-cafe-remix-stylish-new-year",
+          "cssClass": ".pokesprite.pokemon.furret-cafe-remix-stylish-new-year.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Furret-Bonus-CaféRemix-StylishNewYear-3DS-★",
+          "slug": "furret-cafe-remix-stylish-new-year",
+          "cssClass": ".pokesprite.pokemon.furret-cafe-remix-stylish-new-year.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
           "name": "Furret-Bonus-CaféRemix-StylishRoastedTea",
           "slug": "furret-cafe-remix-stylish-roasted-tea",
           "cssClass": ".pokesprite.pokemon.furret-cafe-remix-stylish-roasted-tea",
@@ -113374,6 +113420,198 @@
           "name": "Ludicolo-Bonus-CaféRemix-SquirtleBlue-F-3DS-XY-★",
           "slug": "ludicolo-cafe-remix-squirtle-blue-f-xy",
           "cssClass": ".pokesprite.pokemon.ludicolo-cafe-remix-squirtle-blue-f-xy.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Ludicolo-Bonus-CaféRemix-StylishNewYear",
+          "slug": "ludicolo-cafe-remix-stylish-new-year",
+          "cssClass": ".pokesprite.pokemon.ludicolo-cafe-remix-stylish-new-year",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Ludicolo-Bonus-CaféRemix-StylishNewYear-★",
+          "slug": "ludicolo-cafe-remix-stylish-new-year",
+          "cssClass": ".pokesprite.pokemon.ludicolo-cafe-remix-stylish-new-year.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Ludicolo-Bonus-CaféRemix-StylishNewYear-3DS-Optional",
+          "slug": "ludicolo-cafe-remix-stylish-new-year-optional",
+          "cssClass": ".pokesprite.pokemon.ludicolo-cafe-remix-stylish-new-year-optional.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Ludicolo-Bonus-CaféRemix-StylishNewYear-3DS-Optional-★",
+          "slug": "ludicolo-cafe-remix-stylish-new-year-optional",
+          "cssClass": ".pokesprite.pokemon.ludicolo-cafe-remix-stylish-new-year-optional.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Ludicolo-Bonus-CaféRemix-StylishNewYear-3DS-ORAS",
+          "slug": "ludicolo-cafe-remix-stylish-new-year-oras",
+          "cssClass": ".pokesprite.pokemon.ludicolo-cafe-remix-stylish-new-year-oras.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Ludicolo-Bonus-CaféRemix-StylishNewYear-3DS-ORAS-★",
+          "slug": "ludicolo-cafe-remix-stylish-new-year-oras",
+          "cssClass": ".pokesprite.pokemon.ludicolo-cafe-remix-stylish-new-year-oras.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Ludicolo-Bonus-CaféRemix-StylishNewYear-3DS-XY",
+          "slug": "ludicolo-cafe-remix-stylish-new-year-xy",
+          "cssClass": ".pokesprite.pokemon.ludicolo-cafe-remix-stylish-new-year-xy.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Ludicolo-Bonus-CaféRemix-StylishNewYear-3DS-XY-★",
+          "slug": "ludicolo-cafe-remix-stylish-new-year-xy",
+          "cssClass": ".pokesprite.pokemon.ludicolo-cafe-remix-stylish-new-year-xy.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Ludicolo-Bonus-CaféRemix-StylishNewYear-F",
+          "slug": "ludicolo-cafe-remix-stylish-new-year-f",
+          "cssClass": ".pokesprite.pokemon.ludicolo-cafe-remix-stylish-new-year-f",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Ludicolo-Bonus-CaféRemix-StylishNewYear-F-★",
+          "slug": "ludicolo-cafe-remix-stylish-new-year-f",
+          "cssClass": ".pokesprite.pokemon.ludicolo-cafe-remix-stylish-new-year-f.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Ludicolo-Bonus-CaféRemix-StylishNewYear-F-3DS-Optional",
+          "slug": "ludicolo-cafe-remix-stylish-new-year-f-optional",
+          "cssClass": ".pokesprite.pokemon.ludicolo-cafe-remix-stylish-new-year-f-optional.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Ludicolo-Bonus-CaféRemix-StylishNewYear-F-3DS-Optional-★",
+          "slug": "ludicolo-cafe-remix-stylish-new-year-f-optional",
+          "cssClass": ".pokesprite.pokemon.ludicolo-cafe-remix-stylish-new-year-f-optional.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Ludicolo-Bonus-CaféRemix-StylishNewYear-F-3DS-ORAS",
+          "slug": "ludicolo-cafe-remix-stylish-new-year-f-oras",
+          "cssClass": ".pokesprite.pokemon.ludicolo-cafe-remix-stylish-new-year-f-oras.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Ludicolo-Bonus-CaféRemix-StylishNewYear-F-3DS-ORAS-★",
+          "slug": "ludicolo-cafe-remix-stylish-new-year-f-oras",
+          "cssClass": ".pokesprite.pokemon.ludicolo-cafe-remix-stylish-new-year-f-oras.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Ludicolo-Bonus-CaféRemix-StylishNewYear-F-3DS-XY",
+          "slug": "ludicolo-cafe-remix-stylish-new-year-f-xy",
+          "cssClass": ".pokesprite.pokemon.ludicolo-cafe-remix-stylish-new-year-f-xy.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Ludicolo-Bonus-CaféRemix-StylishNewYear-F-3DS-XY-★",
+          "slug": "ludicolo-cafe-remix-stylish-new-year-f-xy",
+          "cssClass": ".pokesprite.pokemon.ludicolo-cafe-remix-stylish-new-year-f-xy.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -178791,6 +179029,279 @@
           ],
           "categories": [
             "go"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Cubchoo-Bonus-CaféRemix-BulbasaurGreen",
+          "slug": "cubchoo-cafe-remix-bulbasaur-green",
+          "cssClass": ".pokesprite.pokemon.cubchoo-cafe-remix-bulbasaur-green",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Cubchoo-Bonus-CaféRemix-BulbasaurGreen-★",
+          "slug": "cubchoo-cafe-remix-bulbasaur-green",
+          "cssClass": ".pokesprite.pokemon.cubchoo-cafe-remix-bulbasaur-green.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Cubchoo-Bonus-CaféRemix-CharmanderRed",
+          "slug": "cubchoo-cafe-remix-charmander-red",
+          "cssClass": ".pokesprite.pokemon.cubchoo-cafe-remix-charmander-red",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Cubchoo-Bonus-CaféRemix-CharmanderRed-★",
+          "slug": "cubchoo-cafe-remix-charmander-red",
+          "cssClass": ".pokesprite.pokemon.cubchoo-cafe-remix-charmander-red.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Cubchoo-Bonus-CaféRemix-DragoniteOrange",
+          "slug": "cubchoo-cafe-remix-dragonite-orange",
+          "cssClass": ".pokesprite.pokemon.cubchoo-cafe-remix-dragonite-orange",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Cubchoo-Bonus-CaféRemix-DragoniteOrange-★",
+          "slug": "cubchoo-cafe-remix-dragonite-orange",
+          "cssClass": ".pokesprite.pokemon.cubchoo-cafe-remix-dragonite-orange.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Cubchoo-Bonus-CaféRemix-EeveeBrown",
+          "slug": "cubchoo-cafe-remix-eevee-brown",
+          "cssClass": ".pokesprite.pokemon.cubchoo-cafe-remix-eevee-brown",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Cubchoo-Bonus-CaféRemix-EeveeBrown-★",
+          "slug": "cubchoo-cafe-remix-eevee-brown",
+          "cssClass": ".pokesprite.pokemon.cubchoo-cafe-remix-eevee-brown.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Cubchoo-Bonus-CaféRemix-GengarPurple",
+          "slug": "cubchoo-cafe-remix-gengar-purple",
+          "cssClass": ".pokesprite.pokemon.cubchoo-cafe-remix-gengar-purple",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Cubchoo-Bonus-CaféRemix-GengarPurple-★",
+          "slug": "cubchoo-cafe-remix-gengar-purple",
+          "cssClass": ".pokesprite.pokemon.cubchoo-cafe-remix-gengar-purple.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Cubchoo-Bonus-CaféRemix-GothoritaBlack",
+          "slug": "cubchoo-cafe-remix-gothorita-black",
+          "cssClass": ".pokesprite.pokemon.cubchoo-cafe-remix-gothorita-black",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Cubchoo-Bonus-CaféRemix-GothoritaBlack-★",
+          "slug": "cubchoo-cafe-remix-gothorita-black",
+          "cssClass": ".pokesprite.pokemon.cubchoo-cafe-remix-gothorita-black.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Cubchoo-Bonus-CaféRemix-JigglypuffPink",
+          "slug": "cubchoo-cafe-remix-jigglypuff-pink",
+          "cssClass": ".pokesprite.pokemon.cubchoo-cafe-remix-jigglypuff-pink",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Cubchoo-Bonus-CaféRemix-JigglypuffPink-★",
+          "slug": "cubchoo-cafe-remix-jigglypuff-pink",
+          "cssClass": ".pokesprite.pokemon.cubchoo-cafe-remix-jigglypuff-pink.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Cubchoo-Bonus-CaféRemix-LucarioBlue",
+          "slug": "cubchoo-cafe-remix-lucario-blue",
+          "cssClass": ".pokesprite.pokemon.cubchoo-cafe-remix-lucario-blue",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Cubchoo-Bonus-CaféRemix-LucarioBlue-★",
+          "slug": "cubchoo-cafe-remix-lucario-blue",
+          "cssClass": ".pokesprite.pokemon.cubchoo-cafe-remix-lucario-blue.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Cubchoo-Bonus-CaféRemix-MinccinoGray",
+          "slug": "cubchoo-cafe-remix-minccino-gray",
+          "cssClass": ".pokesprite.pokemon.cubchoo-cafe-remix-minccino-gray",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Cubchoo-Bonus-CaféRemix-MinccinoGray-★",
+          "slug": "cubchoo-cafe-remix-minccino-gray",
+          "cssClass": ".pokesprite.pokemon.cubchoo-cafe-remix-minccino-gray.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Cubchoo-Bonus-CaféRemix-PikachuYellow",
+          "slug": "cubchoo-cafe-remix-pikachu-yellow",
+          "cssClass": ".pokesprite.pokemon.cubchoo-cafe-remix-pikachu-yellow",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Cubchoo-Bonus-CaféRemix-PikachuYellow-★",
+          "slug": "cubchoo-cafe-remix-pikachu-yellow",
+          "cssClass": ".pokesprite.pokemon.cubchoo-cafe-remix-pikachu-yellow.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Cubchoo-Bonus-CaféRemix-SlowpokePink",
+          "slug": "cubchoo-cafe-remix-slowpoke-pink",
+          "cssClass": ".pokesprite.pokemon.cubchoo-cafe-remix-slowpoke-pink",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Cubchoo-Bonus-CaféRemix-SlowpokePink-★",
+          "slug": "cubchoo-cafe-remix-slowpoke-pink",
+          "cssClass": ".pokesprite.pokemon.cubchoo-cafe-remix-slowpoke-pink.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Cubchoo-Bonus-CaféRemix-SquirtleBlue",
+          "slug": "cubchoo-cafe-remix-squirtle-blue",
+          "cssClass": ".pokesprite.pokemon.cubchoo-cafe-remix-squirtle-blue",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Cubchoo-Bonus-CaféRemix-SquirtleBlue-★",
+          "slug": "cubchoo-cafe-remix-squirtle-blue",
+          "cssClass": ".pokesprite.pokemon.cubchoo-cafe-remix-squirtle-blue.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Cubchoo-Bonus-CaféRemix-StylishNewYear",
+          "slug": "cubchoo-cafe-remix-stylish-new-year",
+          "cssClass": ".pokesprite.pokemon.cubchoo-cafe-remix-stylish-new-year",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Cubchoo-Bonus-CaféRemix-StylishNewYear-★",
+          "slug": "cubchoo-cafe-remix-stylish-new-year",
+          "cssClass": ".pokesprite.pokemon.cubchoo-cafe-remix-stylish-new-year.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
           ]
         }
       }
