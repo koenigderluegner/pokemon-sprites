@@ -109419,7 +109419,17 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Blaziken-Mega-Bonus-Pokken-★",
+          "slug": "blaziken-mega-pokken",
+          "cssClass": ".pokesprite.pokemon.blaziken-mega-pokken.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
