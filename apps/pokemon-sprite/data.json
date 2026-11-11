@@ -164221,7 +164221,17 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Darkrai-Bonus-Pokken-★",
+          "slug": "darkrai-pokken",
+          "cssClass": ".pokesprite.pokemon.darkrai-pokken.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -164235,7 +164245,64 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Darkrai-Bonus-Pokken-3DS-★",
+          "slug": "darkrai-pokken",
+          "cssClass": ".pokesprite.pokemon.darkrai-pokken.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Darkrai-Mega-Bonus-Pokken",
+          "slug": "darkrai-mega-pokken",
+          "cssClass": ".pokesprite.pokemon.darkrai-mega-pokken",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Darkrai-Mega-Bonus-Pokken-★",
+          "slug": "darkrai-mega-pokken",
+          "cssClass": ".pokesprite.pokemon.darkrai-mega-pokken.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Darkrai-Mega-Bonus-Pokken-3DS",
+          "slug": "darkrai-mega-pokken",
+          "cssClass": ".pokesprite.pokemon.darkrai-mega-pokken.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Darkrai-Mega-Bonus-Pokken-3DS-★",
+          "slug": "darkrai-mega-pokken",
+          "cssClass": ".pokesprite.pokemon.darkrai-mega-pokken.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       }
     ]
   },
