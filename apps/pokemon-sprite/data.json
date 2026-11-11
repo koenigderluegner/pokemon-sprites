@@ -123622,7 +123622,17 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Trapinch-Bonus-Anime-DP033-★",
+          "slug": "trapinch-anime-dp033",
+          "cssClass": ".pokesprite.pokemon.trapinch-anime-dp033.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       }
     ]
   },
