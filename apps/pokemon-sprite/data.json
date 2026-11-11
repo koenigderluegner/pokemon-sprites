@@ -109277,7 +109277,17 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Blaziken-Bonus-Pokken-★",
+          "slug": "blaziken-pokken",
+          "cssClass": ".pokesprite.pokemon.blaziken-pokken.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -109291,7 +109301,18 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Blaziken-Bonus-Pokken-3DS-ORAS-★",
+          "slug": "blaziken-pokken-oras",
+          "cssClass": ".pokesprite.pokemon.blaziken-pokken-oras.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -109305,7 +109326,18 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Blaziken-Bonus-Pokken-3DS-XY-★",
+          "slug": "blaziken-pokken-xy",
+          "cssClass": ".pokesprite.pokemon.blaziken-pokken-xy.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -109316,7 +109348,17 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Blaziken-Bonus-Pokken-F-★",
+          "slug": "blaziken-pokken-f",
+          "cssClass": ".pokesprite.pokemon.blaziken-pokken-f.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -109330,7 +109372,18 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Blaziken-Bonus-Pokken-F-3DS-ORAS-★",
+          "slug": "blaziken-pokken-f-oras",
+          "cssClass": ".pokesprite.pokemon.blaziken-pokken-f-oras.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -109344,7 +109397,18 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Blaziken-Bonus-Pokken-F-3DS-XY-★",
+          "slug": "blaziken-pokken-f-xy",
+          "cssClass": ".pokesprite.pokemon.blaziken-pokken-f-xy.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -109369,7 +109433,18 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Blaziken-Mega-Bonus-Pokken-3DS-★",
+          "slug": "blaziken-mega-pokken",
+          "cssClass": ".pokesprite.pokemon.blaziken-mega-pokken.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       }
     ]
   },
@@ -114461,7 +114536,17 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Swellow-Bonus-Anime-Ash-AG100-★",
+          "slug": "swellow-anime-ash-ag100",
+          "cssClass": ".pokesprite.pokemon.swellow-anime-ash-ag100.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -114475,7 +114560,18 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Swellow-Bonus-Anime-Ash-AG100-3DS-★",
+          "slug": "swellow-anime-ash-ag100",
+          "cssClass": ".pokesprite.pokemon.swellow-anime-ash-ag100.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       }
     ]
   },
@@ -116914,7 +117010,17 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Gardevoir-Bonus-Pokken-★",
+          "slug": "gardevoir-pokken",
+          "cssClass": ".pokesprite.pokemon.gardevoir-pokken.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -116928,7 +117034,18 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Gardevoir-Bonus-Pokken-3DS-Optional-★",
+          "slug": "gardevoir-pokken-optional",
+          "cssClass": ".pokesprite.pokemon.gardevoir-pokken-optional.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -116942,7 +117059,18 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Gardevoir-Bonus-Pokken-3DS-XY-★",
+          "slug": "gardevoir-pokken-xy",
+          "cssClass": ".pokesprite.pokemon.gardevoir-pokken-xy.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -116999,7 +117127,17 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Gardevoir-Mega-Bonus-Pokken-★",
+          "slug": "gardevoir-mega-pokken",
+          "cssClass": ".pokesprite.pokemon.gardevoir-mega-pokken.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -117013,7 +117151,18 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Gardevoir-Mega-Bonus-Pokken-3DS-★",
+          "slug": "gardevoir-mega-pokken",
+          "cssClass": ".pokesprite.pokemon.gardevoir-mega-pokken.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       }
     ]
   },
@@ -140164,7 +140313,17 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Empoleon-Bonus-Pokken-★",
+          "slug": "empoleon-pokken",
+          "cssClass": ".pokesprite.pokemon.empoleon-pokken.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -140178,7 +140337,18 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Empoleon-Bonus-Pokken-3DS-★",
+          "slug": "empoleon-pokken",
+          "cssClass": ".pokesprite.pokemon.empoleon-pokken.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       }
     ]
   },
