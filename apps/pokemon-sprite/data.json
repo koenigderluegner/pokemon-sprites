@@ -195808,7 +195808,17 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Incineroar-Bonus-SmashUltimate-Player2-★",
+          "slug": "incineroar-smash-ultimate-player2",
+          "cssClass": ".pokesprite.pokemon.incineroar-smash-ultimate-player2.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -195822,7 +195832,18 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Incineroar-Bonus-SmashUltimate-Player2-3DS-★",
+          "slug": "incineroar-smash-ultimate-player2",
+          "cssClass": ".pokesprite.pokemon.incineroar-smash-ultimate-player2.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -195833,7 +195854,17 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Incineroar-Bonus-SmashUltimate-Player3-★",
+          "slug": "incineroar-smash-ultimate-player3",
+          "cssClass": ".pokesprite.pokemon.incineroar-smash-ultimate-player3.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -195847,7 +195878,18 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Incineroar-Bonus-SmashUltimate-Player3-3DS-★",
+          "slug": "incineroar-smash-ultimate-player3",
+          "cssClass": ".pokesprite.pokemon.incineroar-smash-ultimate-player3.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -195858,7 +195900,17 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Incineroar-Bonus-SmashUltimate-Player4-★",
+          "slug": "incineroar-smash-ultimate-player4",
+          "cssClass": ".pokesprite.pokemon.incineroar-smash-ultimate-player4.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -195872,7 +195924,18 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Incineroar-Bonus-SmashUltimate-Player4-3DS-★",
+          "slug": "incineroar-smash-ultimate-player4",
+          "cssClass": ".pokesprite.pokemon.incineroar-smash-ultimate-player4.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -195883,7 +195946,17 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Incineroar-Bonus-SmashUltimate-Player5-★",
+          "slug": "incineroar-smash-ultimate-player5",
+          "cssClass": ".pokesprite.pokemon.incineroar-smash-ultimate-player5.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -195897,7 +195970,18 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Incineroar-Bonus-SmashUltimate-Player5-3DS-★",
+          "slug": "incineroar-smash-ultimate-player5",
+          "cssClass": ".pokesprite.pokemon.incineroar-smash-ultimate-player5.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -195908,7 +195992,17 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Incineroar-Bonus-SmashUltimate-Player6-★",
+          "slug": "incineroar-smash-ultimate-player6",
+          "cssClass": ".pokesprite.pokemon.incineroar-smash-ultimate-player6.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -195922,7 +196016,18 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Incineroar-Bonus-SmashUltimate-Player6-3DS-★",
+          "slug": "incineroar-smash-ultimate-player6",
+          "cssClass": ".pokesprite.pokemon.incineroar-smash-ultimate-player6.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -195933,7 +196038,17 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Incineroar-Bonus-SmashUltimate-Player7-★",
+          "slug": "incineroar-smash-ultimate-player7",
+          "cssClass": ".pokesprite.pokemon.incineroar-smash-ultimate-player7.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -195947,7 +196062,18 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Incineroar-Bonus-SmashUltimate-Player7-3DS-★",
+          "slug": "incineroar-smash-ultimate-player7",
+          "cssClass": ".pokesprite.pokemon.incineroar-smash-ultimate-player7.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       }
     ]
   },
