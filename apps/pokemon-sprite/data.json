@@ -153566,7 +153566,17 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Croagunk-Bonus-Pokken-★",
+          "slug": "croagunk-pokken",
+          "cssClass": ".pokesprite.pokemon.croagunk-pokken.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -153577,7 +153587,17 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Croagunk-Bonus-Pokken-F-★",
+          "slug": "croagunk-pokken-f",
+          "cssClass": ".pokesprite.pokemon.croagunk-pokken-f.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       }
     ]
   },
@@ -154399,7 +154419,17 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Weavile-Bonus-Pokken-★",
+          "slug": "weavile-pokken",
+          "cssClass": ".pokesprite.pokemon.weavile-pokken.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -154413,7 +154443,18 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Weavile-Bonus-Pokken-3DS-★",
+          "slug": "weavile-pokken",
+          "cssClass": ".pokesprite.pokemon.weavile-pokken.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -154438,7 +154479,18 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Weavile-Bonus-Pokken-F-3DS-★",
+          "slug": "weavile-pokken-f",
+          "cssClass": ".pokesprite.pokemon.weavile-pokken-f.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       }
     ]
   },
@@ -159088,7 +159140,17 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Rotom-Bonus-Pokédex-★",
+          "slug": "rotom-pokedex",
+          "cssClass": ".pokesprite.pokemon.rotom-pokedex.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -159102,7 +159164,18 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Rotom-Bonus-Pokédex-3DS-★",
+          "slug": "rotom-pokedex",
+          "cssClass": ".pokesprite.pokemon.rotom-pokedex.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -159113,7 +159186,17 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Rotom-Bonus-Pokédex-Anime-UltraGuardians-★",
+          "slug": "rotom-pokedex-anime-ultra-guardians",
+          "cssClass": ".pokesprite.pokemon.rotom-pokedex-anime-ultra-guardians.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -159127,7 +159210,18 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Rotom-Bonus-Pokédex-Anime-UltraGuardians-3DS-★",
+          "slug": "rotom-pokedex-anime-ultra-guardians",
+          "cssClass": ".pokesprite.pokemon.rotom-pokedex-anime-ultra-guardians.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -159184,7 +159278,17 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Rotom-Bonus-Rotomi-★",
+          "slug": "rotom-rotomi",
+          "cssClass": ".pokesprite.pokemon.rotom-rotomi.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -159198,7 +159302,18 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Rotom-Bonus-Rotomi-3DS-★",
+          "slug": "rotom-rotomi",
+          "cssClass": ".pokesprite.pokemon.rotom-rotomi.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
