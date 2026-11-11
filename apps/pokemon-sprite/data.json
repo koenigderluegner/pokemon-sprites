@@ -150317,6 +150317,52 @@
           ]
         },
         "shiny": null
+      },
+      {
+        "regular": {
+          "name": "Garchomp-Megaz-Bonus-Poikken",
+          "slug": "garchomp-megaz-poikken",
+          "cssClass": ".pokesprite.pokemon.garchomp-megaz-poikken",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Garchomp-Megaz-Bonus-Poikken-★",
+          "slug": "garchomp-megaz-poikken",
+          "cssClass": ".pokesprite.pokemon.garchomp-megaz-poikken.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Garchomp-Megaz-Bonus-Poikken-3DS",
+          "slug": "garchomp-megaz-poikken",
+          "cssClass": ".pokesprite.pokemon.garchomp-megaz-poikken.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Garchomp-Megaz-Bonus-Poikken-3DS-★",
+          "slug": "garchomp-megaz-poikken",
+          "cssClass": ".pokesprite.pokemon.garchomp-megaz-poikken.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       }
     ]
   },
@@ -152174,7 +152220,17 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Lucario-Bonus-Pokken-★",
+          "slug": "lucario-pokken",
+          "cssClass": ".pokesprite.pokemon.lucario-pokken.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -152188,7 +152244,18 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Lucario-Bonus-Pokken-3DS-★",
+          "slug": "lucario-pokken",
+          "cssClass": ".pokesprite.pokemon.lucario-pokken.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -152199,7 +152266,17 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Lucario-Bonus-SmashBrawl-Player2-★",
+          "slug": "lucario-smash-brawl-player2",
+          "cssClass": ".pokesprite.pokemon.lucario-smash-brawl-player2.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -152213,7 +152290,18 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Lucario-Bonus-SmashBrawl-Player2-3DS-★",
+          "slug": "lucario-smash-brawl-player2",
+          "cssClass": ".pokesprite.pokemon.lucario-smash-brawl-player2.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -152224,7 +152312,17 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Lucario-Bonus-SmashBrawl-Player3-★",
+          "slug": "lucario-smash-brawl-player3",
+          "cssClass": ".pokesprite.pokemon.lucario-smash-brawl-player3.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -152238,7 +152336,18 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Lucario-Bonus-SmashBrawl-Player3-3DS-★",
+          "slug": "lucario-smash-brawl-player3",
+          "cssClass": ".pokesprite.pokemon.lucario-smash-brawl-player3.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -152249,7 +152358,17 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Lucario-Bonus-SmashBrawl-Player4-★",
+          "slug": "lucario-smash-brawl-player4",
+          "cssClass": ".pokesprite.pokemon.lucario-smash-brawl-player4.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -152263,7 +152382,18 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Lucario-Bonus-SmashBrawl-Player4-3DS-★",
+          "slug": "lucario-smash-brawl-player4",
+          "cssClass": ".pokesprite.pokemon.lucario-smash-brawl-player4.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -152274,7 +152404,17 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Lucario-Bonus-SmashWiiU3DS-Player5-★",
+          "slug": "lucario-smash-wii-u3-ds-player5",
+          "cssClass": ".pokesprite.pokemon.lucario-smash-wii-u3-ds-player5.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -152288,7 +152428,18 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Lucario-Bonus-SmashWiiU3DS-Player5-3DS-★",
+          "slug": "lucario-smash-wii-u3-ds-player5",
+          "cssClass": ".pokesprite.pokemon.lucario-smash-wii-u3-ds-player5.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -152299,7 +152450,17 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Lucario-Bonus-SmashWiiU3DS-Player6-★",
+          "slug": "lucario-smash-wii-u3-ds-player6",
+          "cssClass": ".pokesprite.pokemon.lucario-smash-wii-u3-ds-player6.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -152313,7 +152474,18 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Lucario-Bonus-SmashWiiU3DS-Player6-3DS-★",
+          "slug": "lucario-smash-wii-u3-ds-player6",
+          "cssClass": ".pokesprite.pokemon.lucario-smash-wii-u3-ds-player6.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -152324,7 +152496,17 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Lucario-Bonus-SmashWiiU3DS-Player7-★",
+          "slug": "lucario-smash-wii-u3-ds-player7",
+          "cssClass": ".pokesprite.pokemon.lucario-smash-wii-u3-ds-player7.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -152338,7 +152520,18 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Lucario-Bonus-SmashWiiU3DS-Player7-3DS-★",
+          "slug": "lucario-smash-wii-u3-ds-player7",
+          "cssClass": ".pokesprite.pokemon.lucario-smash-wii-u3-ds-player7.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -152349,7 +152542,17 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Lucario-Bonus-SmashWiiU3DS-Player8-★",
+          "slug": "lucario-smash-wii-u3-ds-player8",
+          "cssClass": ".pokesprite.pokemon.lucario-smash-wii-u3-ds-player8.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -152363,7 +152566,18 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Lucario-Bonus-SmashWiiU3DS-Player8-3DS-★",
+          "slug": "lucario-smash-wii-u3-ds-player8",
+          "cssClass": ".pokesprite.pokemon.lucario-smash-wii-u3-ds-player8.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -152374,7 +152588,17 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Lucario-Bonus-SmashWiiU3DS-Player9-★",
+          "slug": "lucario-smash-wii-u3-ds-player9",
+          "cssClass": ".pokesprite.pokemon.lucario-smash-wii-u3-ds-player9.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -152388,7 +152612,18 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Lucario-Bonus-SmashWiiU3DS-Player9-3DS-★",
+          "slug": "lucario-smash-wii-u3-ds-player9",
+          "cssClass": ".pokesprite.pokemon.lucario-smash-wii-u3-ds-player9.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -152399,7 +152634,17 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Lucario-Mega-Bonus-Pokken-★",
+          "slug": "lucario-mega-pokken",
+          "cssClass": ".pokesprite.pokemon.lucario-mega-pokken.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -152413,7 +152658,18 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Lucario-Mega-Bonus-Pokken-3DS-★",
+          "slug": "lucario-mega-pokken",
+          "cssClass": ".pokesprite.pokemon.lucario-mega-pokken.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -152424,7 +152680,17 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Lucario-Mega-Bonus-SmashWiiU3DS-Player2-★",
+          "slug": "lucario-mega-smash-wii-u3-ds-player2",
+          "cssClass": ".pokesprite.pokemon.lucario-mega-smash-wii-u3-ds-player2.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -152438,7 +152704,18 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Lucario-Mega-Bonus-SmashWiiU3DS-Player2-3DS-★",
+          "slug": "lucario-mega-smash-wii-u3-ds-player2",
+          "cssClass": ".pokesprite.pokemon.lucario-mega-smash-wii-u3-ds-player2.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -152449,7 +152726,17 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Lucario-Mega-Bonus-SmashWiiU3DS-Player3-★",
+          "slug": "lucario-mega-smash-wii-u3-ds-player3",
+          "cssClass": ".pokesprite.pokemon.lucario-mega-smash-wii-u3-ds-player3.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -152463,7 +152750,18 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Lucario-Mega-Bonus-SmashWiiU3DS-Player3-3DS-★",
+          "slug": "lucario-mega-smash-wii-u3-ds-player3",
+          "cssClass": ".pokesprite.pokemon.lucario-mega-smash-wii-u3-ds-player3.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -152474,7 +152772,17 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Lucario-Mega-Bonus-SmashWiiU3DS-Player4-★",
+          "slug": "lucario-mega-smash-wii-u3-ds-player4",
+          "cssClass": ".pokesprite.pokemon.lucario-mega-smash-wii-u3-ds-player4.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -152488,7 +152796,18 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Lucario-Mega-Bonus-SmashWiiU3DS-Player4-3DS-★",
+          "slug": "lucario-mega-smash-wii-u3-ds-player4",
+          "cssClass": ".pokesprite.pokemon.lucario-mega-smash-wii-u3-ds-player4.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -152499,7 +152818,17 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Lucario-Mega-Bonus-SmashWiiU3DS-Player5-★",
+          "slug": "lucario-mega-smash-wii-u3-ds-player5",
+          "cssClass": ".pokesprite.pokemon.lucario-mega-smash-wii-u3-ds-player5.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -152513,7 +152842,18 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Lucario-Mega-Bonus-SmashWiiU3DS-Player5-3DS-★",
+          "slug": "lucario-mega-smash-wii-u3-ds-player5",
+          "cssClass": ".pokesprite.pokemon.lucario-mega-smash-wii-u3-ds-player5.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -152524,7 +152864,17 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Lucario-Mega-Bonus-SmashWiiU3DS-Player6-★",
+          "slug": "lucario-mega-smash-wii-u3-ds-player6",
+          "cssClass": ".pokesprite.pokemon.lucario-mega-smash-wii-u3-ds-player6.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -152538,7 +152888,18 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Lucario-Mega-Bonus-SmashWiiU3DS-Player6-3DS-★",
+          "slug": "lucario-mega-smash-wii-u3-ds-player6",
+          "cssClass": ".pokesprite.pokemon.lucario-mega-smash-wii-u3-ds-player6.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -152549,7 +152910,17 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Lucario-Mega-Bonus-SmashWiiU3DS-Player7-★",
+          "slug": "lucario-mega-smash-wii-u3-ds-player7",
+          "cssClass": ".pokesprite.pokemon.lucario-mega-smash-wii-u3-ds-player7.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -152563,7 +152934,18 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Lucario-Mega-Bonus-SmashWiiU3DS-Player7-3DS-★",
+          "slug": "lucario-mega-smash-wii-u3-ds-player7",
+          "cssClass": ".pokesprite.pokemon.lucario-mega-smash-wii-u3-ds-player7.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -152574,7 +152956,17 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Lucario-Mega-Bonus-SmashWiiU3DS-Player8-★",
+          "slug": "lucario-mega-smash-wii-u3-ds-player8",
+          "cssClass": ".pokesprite.pokemon.lucario-mega-smash-wii-u3-ds-player8.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -152588,7 +152980,18 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Lucario-Mega-Bonus-SmashWiiU3DS-Player8-3DS-★",
+          "slug": "lucario-mega-smash-wii-u3-ds-player8",
+          "cssClass": ".pokesprite.pokemon.lucario-mega-smash-wii-u3-ds-player8.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -152599,7 +153002,17 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Lucario-Mega-Bonus-SmashWiiU3DS-Player9-★",
+          "slug": "lucario-mega-smash-wii-u3-ds-player9",
+          "cssClass": ".pokesprite.pokemon.lucario-mega-smash-wii-u3-ds-player9.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -152613,7 +153026,432 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Lucario-Mega-Bonus-SmashWiiU3DS-Player9-3DS-★",
+          "slug": "lucario-mega-smash-wii-u3-ds-player9",
+          "cssClass": ".pokesprite.pokemon.lucario-mega-smash-wii-u3-ds-player9.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Lucario-Megaz-Bonus-Pokken",
+          "slug": "lucario-megaz-pokken",
+          "cssClass": ".pokesprite.pokemon.lucario-megaz-pokken",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Lucario-Megaz-Bonus-Pokken-★",
+          "slug": "lucario-megaz-pokken",
+          "cssClass": ".pokesprite.pokemon.lucario-megaz-pokken.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Lucario-Megaz-Bonus-Pokken-3DS",
+          "slug": "lucario-megaz-pokken",
+          "cssClass": ".pokesprite.pokemon.lucario-megaz-pokken.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Lucario-Megaz-Bonus-Pokken-3DS-★",
+          "slug": "lucario-megaz-pokken",
+          "cssClass": ".pokesprite.pokemon.lucario-megaz-pokken.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Lucario-Megaz-Bonus-SmashWiiU3DS-Player2",
+          "slug": "lucario-megaz-smash-wii-u3-ds-player2",
+          "cssClass": ".pokesprite.pokemon.lucario-megaz-smash-wii-u3-ds-player2",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Lucario-Megaz-Bonus-SmashWiiU3DS-Player2-★",
+          "slug": "lucario-megaz-smash-wii-u3-ds-player2",
+          "cssClass": ".pokesprite.pokemon.lucario-megaz-smash-wii-u3-ds-player2.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Lucario-Megaz-Bonus-SmashWiiU3DS-Player2-3DS",
+          "slug": "lucario-megaz-smash-wii-u3-ds-player2",
+          "cssClass": ".pokesprite.pokemon.lucario-megaz-smash-wii-u3-ds-player2.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Lucario-Megaz-Bonus-SmashWiiU3DS-Player2-3DS-★",
+          "slug": "lucario-megaz-smash-wii-u3-ds-player2",
+          "cssClass": ".pokesprite.pokemon.lucario-megaz-smash-wii-u3-ds-player2.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Lucario-Megaz-Bonus-SmashWiiU3DS-Player3",
+          "slug": "lucario-megaz-smash-wii-u3-ds-player3",
+          "cssClass": ".pokesprite.pokemon.lucario-megaz-smash-wii-u3-ds-player3",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Lucario-Megaz-Bonus-SmashWiiU3DS-Player3-★",
+          "slug": "lucario-megaz-smash-wii-u3-ds-player3",
+          "cssClass": ".pokesprite.pokemon.lucario-megaz-smash-wii-u3-ds-player3.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Lucario-Megaz-Bonus-SmashWiiU3DS-Player3-3DS",
+          "slug": "lucario-megaz-smash-wii-u3-ds-player3",
+          "cssClass": ".pokesprite.pokemon.lucario-megaz-smash-wii-u3-ds-player3.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Lucario-Megaz-Bonus-SmashWiiU3DS-Player3-3DS-★",
+          "slug": "lucario-megaz-smash-wii-u3-ds-player3",
+          "cssClass": ".pokesprite.pokemon.lucario-megaz-smash-wii-u3-ds-player3.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Lucario-Megaz-Bonus-SmashWiiU3DS-Player4",
+          "slug": "lucario-megaz-smash-wii-u3-ds-player4",
+          "cssClass": ".pokesprite.pokemon.lucario-megaz-smash-wii-u3-ds-player4",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Lucario-Megaz-Bonus-SmashWiiU3DS-Player4-★",
+          "slug": "lucario-megaz-smash-wii-u3-ds-player4",
+          "cssClass": ".pokesprite.pokemon.lucario-megaz-smash-wii-u3-ds-player4.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Lucario-Megaz-Bonus-SmashWiiU3DS-Player4-3DS",
+          "slug": "lucario-megaz-smash-wii-u3-ds-player4",
+          "cssClass": ".pokesprite.pokemon.lucario-megaz-smash-wii-u3-ds-player4.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Lucario-Megaz-Bonus-SmashWiiU3DS-Player4-3DS-★",
+          "slug": "lucario-megaz-smash-wii-u3-ds-player4",
+          "cssClass": ".pokesprite.pokemon.lucario-megaz-smash-wii-u3-ds-player4.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Lucario-Megaz-Bonus-SmashWiiU3DS-Player5",
+          "slug": "lucario-megaz-smash-wii-u3-ds-player5",
+          "cssClass": ".pokesprite.pokemon.lucario-megaz-smash-wii-u3-ds-player5",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Lucario-Megaz-Bonus-SmashWiiU3DS-Player5-★",
+          "slug": "lucario-megaz-smash-wii-u3-ds-player5",
+          "cssClass": ".pokesprite.pokemon.lucario-megaz-smash-wii-u3-ds-player5.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Lucario-Megaz-Bonus-SmashWiiU3DS-Player5-3DS",
+          "slug": "lucario-megaz-smash-wii-u3-ds-player5",
+          "cssClass": ".pokesprite.pokemon.lucario-megaz-smash-wii-u3-ds-player5.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Lucario-Megaz-Bonus-SmashWiiU3DS-Player5-3DS-★",
+          "slug": "lucario-megaz-smash-wii-u3-ds-player5",
+          "cssClass": ".pokesprite.pokemon.lucario-megaz-smash-wii-u3-ds-player5.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Lucario-Megaz-Bonus-SmashWiiU3DS-Player6",
+          "slug": "lucario-megaz-smash-wii-u3-ds-player6",
+          "cssClass": ".pokesprite.pokemon.lucario-megaz-smash-wii-u3-ds-player6",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Lucario-Megaz-Bonus-SmashWiiU3DS-Player6-★",
+          "slug": "lucario-megaz-smash-wii-u3-ds-player6",
+          "cssClass": ".pokesprite.pokemon.lucario-megaz-smash-wii-u3-ds-player6.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Lucario-Megaz-Bonus-SmashWiiU3DS-Player6-3DS",
+          "slug": "lucario-megaz-smash-wii-u3-ds-player6",
+          "cssClass": ".pokesprite.pokemon.lucario-megaz-smash-wii-u3-ds-player6.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Lucario-Megaz-Bonus-SmashWiiU3DS-Player6-3DS-★",
+          "slug": "lucario-megaz-smash-wii-u3-ds-player6",
+          "cssClass": ".pokesprite.pokemon.lucario-megaz-smash-wii-u3-ds-player6.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Lucario-Megaz-Bonus-SmashWiiU3DS-Player7",
+          "slug": "lucario-megaz-smash-wii-u3-ds-player7",
+          "cssClass": ".pokesprite.pokemon.lucario-megaz-smash-wii-u3-ds-player7",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Lucario-Megaz-Bonus-SmashWiiU3DS-Player7-★",
+          "slug": "lucario-megaz-smash-wii-u3-ds-player7",
+          "cssClass": ".pokesprite.pokemon.lucario-megaz-smash-wii-u3-ds-player7.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Lucario-Megaz-Bonus-SmashWiiU3DS-Player7-3DS",
+          "slug": "lucario-megaz-smash-wii-u3-ds-player7",
+          "cssClass": ".pokesprite.pokemon.lucario-megaz-smash-wii-u3-ds-player7.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Lucario-Megaz-Bonus-SmashWiiU3DS-Player7-3DS-★",
+          "slug": "lucario-megaz-smash-wii-u3-ds-player7",
+          "cssClass": ".pokesprite.pokemon.lucario-megaz-smash-wii-u3-ds-player7.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Lucario-Megaz-Bonus-SmashWiiU3DS-Player8",
+          "slug": "lucario-megaz-smash-wii-u3-ds-player8",
+          "cssClass": ".pokesprite.pokemon.lucario-megaz-smash-wii-u3-ds-player8",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Lucario-Megaz-Bonus-SmashWiiU3DS-Player8-★",
+          "slug": "lucario-megaz-smash-wii-u3-ds-player8",
+          "cssClass": ".pokesprite.pokemon.lucario-megaz-smash-wii-u3-ds-player8.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Lucario-Megaz-Bonus-SmashWiiU3DS-Player8-3DS",
+          "slug": "lucario-megaz-smash-wii-u3-ds-player8",
+          "cssClass": ".pokesprite.pokemon.lucario-megaz-smash-wii-u3-ds-player8.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Lucario-Megaz-Bonus-SmashWiiU3DS-Player8-3DS-★",
+          "slug": "lucario-megaz-smash-wii-u3-ds-player8",
+          "cssClass": ".pokesprite.pokemon.lucario-megaz-smash-wii-u3-ds-player8.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Lucario-Megaz-Bonus-SmashWiiU3DS-Player9",
+          "slug": "lucario-megaz-smash-wii-u3-ds-player9",
+          "cssClass": ".pokesprite.pokemon.lucario-megaz-smash-wii-u3-ds-player9",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Lucario-Megaz-Bonus-SmashWiiU3DS-Player9-★",
+          "slug": "lucario-megaz-smash-wii-u3-ds-player9",
+          "cssClass": ".pokesprite.pokemon.lucario-megaz-smash-wii-u3-ds-player9.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Lucario-Megaz-Bonus-SmashWiiU3DS-Player9-3DS",
+          "slug": "lucario-megaz-smash-wii-u3-ds-player9",
+          "cssClass": ".pokesprite.pokemon.lucario-megaz-smash-wii-u3-ds-player9.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Lucario-Megaz-Bonus-SmashWiiU3DS-Player9-3DS-★",
+          "slug": "lucario-megaz-smash-wii-u3-ds-player9",
+          "cssClass": ".pokesprite.pokemon.lucario-megaz-smash-wii-u3-ds-player9.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       }
     ]
   },
