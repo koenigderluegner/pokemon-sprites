@@ -211640,6 +211640,258 @@
             "go"
           ]
         }
+      },
+      {
+        "regular": {
+          "name": "Sinistea-Bonus-CaféRemix-BulbasaurGreen",
+          "slug": "sinistea-cafe-remix-bulbasaur-green",
+          "cssClass": ".pokesprite.pokemon.sinistea-cafe-remix-bulbasaur-green",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Sinistea-Bonus-CaféRemix-BulbasaurGreen-★",
+          "slug": "sinistea-cafe-remix-bulbasaur-green",
+          "cssClass": ".pokesprite.pokemon.sinistea-cafe-remix-bulbasaur-green.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Sinistea-Bonus-CaféRemix-CharmanderRed",
+          "slug": "sinistea-cafe-remix-charmander-red",
+          "cssClass": ".pokesprite.pokemon.sinistea-cafe-remix-charmander-red",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Sinistea-Bonus-CaféRemix-CharmanderRed-★",
+          "slug": "sinistea-cafe-remix-charmander-red",
+          "cssClass": ".pokesprite.pokemon.sinistea-cafe-remix-charmander-red.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Sinistea-Bonus-CaféRemix-DragoniteOrange",
+          "slug": "sinistea-cafe-remix-dragonite-orange",
+          "cssClass": ".pokesprite.pokemon.sinistea-cafe-remix-dragonite-orange",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Sinistea-Bonus-CaféRemix-DragoniteOrange-★",
+          "slug": "sinistea-cafe-remix-dragonite-orange",
+          "cssClass": ".pokesprite.pokemon.sinistea-cafe-remix-dragonite-orange.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Sinistea-Bonus-CaféRemix-EeveeBrown",
+          "slug": "sinistea-cafe-remix-eevee-brown",
+          "cssClass": ".pokesprite.pokemon.sinistea-cafe-remix-eevee-brown",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Sinistea-Bonus-CaféRemix-EeveeBrown-★",
+          "slug": "sinistea-cafe-remix-eevee-brown",
+          "cssClass": ".pokesprite.pokemon.sinistea-cafe-remix-eevee-brown.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Sinistea-Bonus-CaféRemix-GengarPurple",
+          "slug": "sinistea-cafe-remix-gengar-purple",
+          "cssClass": ".pokesprite.pokemon.sinistea-cafe-remix-gengar-purple",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Sinistea-Bonus-CaféRemix-GengarPurple-★",
+          "slug": "sinistea-cafe-remix-gengar-purple",
+          "cssClass": ".pokesprite.pokemon.sinistea-cafe-remix-gengar-purple.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Sinistea-Bonus-CaféRemix-GothoritaBlack",
+          "slug": "sinistea-cafe-remix-gothorita-black",
+          "cssClass": ".pokesprite.pokemon.sinistea-cafe-remix-gothorita-black",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Sinistea-Bonus-CaféRemix-GothoritaBlack-★",
+          "slug": "sinistea-cafe-remix-gothorita-black",
+          "cssClass": ".pokesprite.pokemon.sinistea-cafe-remix-gothorita-black.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Sinistea-Bonus-CaféRemix-JigglypuffPink",
+          "slug": "sinistea-cafe-remix-jigglypuff-pink",
+          "cssClass": ".pokesprite.pokemon.sinistea-cafe-remix-jigglypuff-pink",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Sinistea-Bonus-CaféRemix-JigglypuffPink-★",
+          "slug": "sinistea-cafe-remix-jigglypuff-pink",
+          "cssClass": ".pokesprite.pokemon.sinistea-cafe-remix-jigglypuff-pink.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Sinistea-Bonus-CaféRemix-LucarioBlue",
+          "slug": "sinistea-cafe-remix-lucario-blue",
+          "cssClass": ".pokesprite.pokemon.sinistea-cafe-remix-lucario-blue",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Sinistea-Bonus-CaféRemix-LucarioBlue-★",
+          "slug": "sinistea-cafe-remix-lucario-blue",
+          "cssClass": ".pokesprite.pokemon.sinistea-cafe-remix-lucario-blue.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Sinistea-Bonus-CaféRemix-MinccinoGray",
+          "slug": "sinistea-cafe-remix-minccino-gray",
+          "cssClass": ".pokesprite.pokemon.sinistea-cafe-remix-minccino-gray",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Sinistea-Bonus-CaféRemix-MinccinoGray-★",
+          "slug": "sinistea-cafe-remix-minccino-gray",
+          "cssClass": ".pokesprite.pokemon.sinistea-cafe-remix-minccino-gray.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Sinistea-Bonus-CaféRemix-PikachuYellow",
+          "slug": "sinistea-cafe-remix-pikachu-yellow",
+          "cssClass": ".pokesprite.pokemon.sinistea-cafe-remix-pikachu-yellow",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Sinistea-Bonus-CaféRemix-PikachuYellow-★",
+          "slug": "sinistea-cafe-remix-pikachu-yellow",
+          "cssClass": ".pokesprite.pokemon.sinistea-cafe-remix-pikachu-yellow.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Sinistea-Bonus-CaféRemix-SlowpokePink",
+          "slug": "sinistea-cafe-remix-slowpoke-pink",
+          "cssClass": ".pokesprite.pokemon.sinistea-cafe-remix-slowpoke-pink",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Sinistea-Bonus-CaféRemix-SlowpokePink-★",
+          "slug": "sinistea-cafe-remix-slowpoke-pink",
+          "cssClass": ".pokesprite.pokemon.sinistea-cafe-remix-slowpoke-pink.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Sinistea-Bonus-CaféRemix-SquirtleBlue",
+          "slug": "sinistea-cafe-remix-squirtle-blue",
+          "cssClass": ".pokesprite.pokemon.sinistea-cafe-remix-squirtle-blue",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Sinistea-Bonus-CaféRemix-SquirtleBlue-★",
+          "slug": "sinistea-cafe-remix-squirtle-blue",
+          "cssClass": ".pokesprite.pokemon.sinistea-cafe-remix-squirtle-blue.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       }
     ]
   },
