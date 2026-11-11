@@ -53829,7 +53829,17 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "MrMime-Bonus-Stadium-Player2-★",
+          "slug": "mr-mime-stadium-player2",
+          "cssClass": ".pokesprite.pokemon.mr-mime-stadium-player2.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -53843,7 +53853,18 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "MrMime-Bonus-Stadium-Player2-3DS-★",
+          "slug": "mr-mime-stadium-player2",
+          "cssClass": ".pokesprite.pokemon.mr-mime-stadium-player2.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -53857,7 +53878,18 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "MrMime-Bonus-Stadium-Player2-Switch-LGPE-★",
+          "slug": "mr-mime-stadium-player2-lgpe",
+          "cssClass": ".pokesprite.pokemon.mr-mime-stadium-player2-lgpe.shiny.switch",
+          "modifiers": [
+            "shiny",
+            "switch"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -53868,7 +53900,17 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "MrMime-Bonus-Stadium-Player3-★",
+          "slug": "mr-mime-stadium-player3",
+          "cssClass": ".pokesprite.pokemon.mr-mime-stadium-player3.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -53882,7 +53924,18 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "MrMime-Bonus-Stadium-Player3-3DS-★",
+          "slug": "mr-mime-stadium-player3",
+          "cssClass": ".pokesprite.pokemon.mr-mime-stadium-player3.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -53896,7 +53949,18 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "MrMime-Bonus-Stadium-Player3-Switch-LGPE-★",
+          "slug": "mr-mime-stadium-player3-lgpe",
+          "cssClass": ".pokesprite.pokemon.mr-mime-stadium-player3-lgpe.shiny.switch",
+          "modifiers": [
+            "shiny",
+            "switch"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -53907,7 +53971,17 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "MrMime-Bonus-Stadium-Player4-★",
+          "slug": "mr-mime-stadium-player4",
+          "cssClass": ".pokesprite.pokemon.mr-mime-stadium-player4.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -53921,7 +53995,18 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "MrMime-Bonus-Stadium-Player4-3DS-★",
+          "slug": "mr-mime-stadium-player4",
+          "cssClass": ".pokesprite.pokemon.mr-mime-stadium-player4.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -53935,7 +54020,18 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "MrMime-Bonus-Stadium-Player4-Switch-LGPE-★",
+          "slug": "mr-mime-stadium-player4-lgpe",
+          "cssClass": ".pokesprite.pokemon.mr-mime-stadium-player4-lgpe.shiny.switch",
+          "modifiers": [
+            "shiny",
+            "switch"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       }
     ]
   },
