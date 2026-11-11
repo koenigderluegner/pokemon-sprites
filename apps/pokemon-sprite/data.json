@@ -72218,7 +72218,17 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Mewtwo-Bonus-Pokken-★",
+          "slug": "mewtwo-pokken",
+          "cssClass": ".pokesprite.pokemon.mewtwo-pokken.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -72232,7 +72242,18 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Mewtwo-Bonus-Pokken-3DS-★",
+          "slug": "mewtwo-pokken",
+          "cssClass": ".pokesprite.pokemon.mewtwo-pokken.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -72243,7 +72264,17 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Mewtwo-Bonus-Pokken-Dark-★",
+          "slug": "mewtwo-pokken-dark",
+          "cssClass": ".pokesprite.pokemon.mewtwo-pokken-dark.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -72257,7 +72288,18 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Mewtwo-Bonus-Pokken-Dark-3DS-★",
+          "slug": "mewtwo-pokken-dark",
+          "cssClass": ".pokesprite.pokemon.mewtwo-pokken-dark.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -72268,7 +72310,17 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Mewtwo-Bonus-Pokken-Dark-Player2-★",
+          "slug": "mewtwo-pokken-dark-player2",
+          "cssClass": ".pokesprite.pokemon.mewtwo-pokken-dark-player2.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -72282,7 +72334,18 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Mewtwo-Bonus-Pokken-Dark-Player2-3DS-★",
+          "slug": "mewtwo-pokken-dark-player2",
+          "cssClass": ".pokesprite.pokemon.mewtwo-pokken-dark-player2.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -72293,7 +72356,17 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Mewtwo-Bonus-SmashMelee-Player2-★",
+          "slug": "mewtwo-smash-melee-player2",
+          "cssClass": ".pokesprite.pokemon.mewtwo-smash-melee-player2.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -72307,7 +72380,18 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Mewtwo-Bonus-SmashMelee-Player2-3DS-★",
+          "slug": "mewtwo-smash-melee-player2",
+          "cssClass": ".pokesprite.pokemon.mewtwo-smash-melee-player2.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -72318,7 +72402,17 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Mewtwo-Bonus-SmashMelee-Player3-★",
+          "slug": "mewtwo-smash-melee-player3",
+          "cssClass": ".pokesprite.pokemon.mewtwo-smash-melee-player3.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -72332,7 +72426,18 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Mewtwo-Bonus-SmashMelee-Player3-3DS-★",
+          "slug": "mewtwo-smash-melee-player3",
+          "cssClass": ".pokesprite.pokemon.mewtwo-smash-melee-player3.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -72343,7 +72448,17 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Mewtwo-Bonus-SmashMelee-Player4-★",
+          "slug": "mewtwo-smash-melee-player4",
+          "cssClass": ".pokesprite.pokemon.mewtwo-smash-melee-player4.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -72357,7 +72472,18 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Mewtwo-Bonus-SmashMelee-Player4-3DS-★",
+          "slug": "mewtwo-smash-melee-player4",
+          "cssClass": ".pokesprite.pokemon.mewtwo-smash-melee-player4.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -72368,7 +72494,17 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Mewtwo-Bonus-SmashWiiU3DS-Player5-★",
+          "slug": "mewtwo-smash-wii-u3-ds-player5",
+          "cssClass": ".pokesprite.pokemon.mewtwo-smash-wii-u3-ds-player5.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -72382,7 +72518,18 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Mewtwo-Bonus-SmashWiiU3DS-Player5-3DS-★",
+          "slug": "mewtwo-smash-wii-u3-ds-player5",
+          "cssClass": ".pokesprite.pokemon.mewtwo-smash-wii-u3-ds-player5.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -72393,7 +72540,17 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Mewtwo-Bonus-SmashWiiU3DS-Player6-★",
+          "slug": "mewtwo-smash-wii-u3-ds-player6",
+          "cssClass": ".pokesprite.pokemon.mewtwo-smash-wii-u3-ds-player6.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -72407,7 +72564,18 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Mewtwo-Bonus-SmashWiiU3DS-Player6-3DS-★",
+          "slug": "mewtwo-smash-wii-u3-ds-player6",
+          "cssClass": ".pokesprite.pokemon.mewtwo-smash-wii-u3-ds-player6.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -72418,7 +72586,17 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Mewtwo-Bonus-SmashWiiU3DS-Player7-★",
+          "slug": "mewtwo-smash-wii-u3-ds-player7",
+          "cssClass": ".pokesprite.pokemon.mewtwo-smash-wii-u3-ds-player7.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -72432,7 +72610,18 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Mewtwo-Bonus-SmashWiiU3DS-Player7-3DS-★",
+          "slug": "mewtwo-smash-wii-u3-ds-player7",
+          "cssClass": ".pokesprite.pokemon.mewtwo-smash-wii-u3-ds-player7.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -72443,7 +72632,17 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Mewtwo-Bonus-SmashWiiU3DS-Player8-★",
+          "slug": "mewtwo-smash-wii-u3-ds-player8",
+          "cssClass": ".pokesprite.pokemon.mewtwo-smash-wii-u3-ds-player8.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -72457,7 +72656,18 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Mewtwo-Bonus-SmashWiiU3DS-Player8-3DS-★",
+          "slug": "mewtwo-smash-wii-u3-ds-player8",
+          "cssClass": ".pokesprite.pokemon.mewtwo-smash-wii-u3-ds-player8.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -72468,7 +72678,17 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Mewtwo-Bonus-SmashWiiU3DS-Player9-★",
+          "slug": "mewtwo-smash-wii-u3-ds-player9",
+          "cssClass": ".pokesprite.pokemon.mewtwo-smash-wii-u3-ds-player9.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -72482,7 +72702,18 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Mewtwo-Bonus-SmashWiiU3DS-Player9-3DS-★",
+          "slug": "mewtwo-smash-wii-u3-ds-player9",
+          "cssClass": ".pokesprite.pokemon.mewtwo-smash-wii-u3-ds-player9.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -72493,7 +72724,17 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Mewtwo-Megax-Bonus-Pokken-★",
+          "slug": "mewtwo-megax-pokken",
+          "cssClass": ".pokesprite.pokemon.mewtwo-megax-pokken.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -72507,7 +72748,18 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Mewtwo-Megax-Bonus-Pokken-3DS-★",
+          "slug": "mewtwo-megax-pokken",
+          "cssClass": ".pokesprite.pokemon.mewtwo-megax-pokken.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -72518,7 +72770,17 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Mewtwo-Megax-Bonus-Pokken-Dark-★",
+          "slug": "mewtwo-megax-pokken-dark",
+          "cssClass": ".pokesprite.pokemon.mewtwo-megax-pokken-dark.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -72532,7 +72794,18 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Mewtwo-Megax-Bonus-Pokken-Dark-3DS-★",
+          "slug": "mewtwo-megax-pokken-dark",
+          "cssClass": ".pokesprite.pokemon.mewtwo-megax-pokken-dark.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -72543,7 +72816,17 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Mewtwo-Megax-Bonus-Pokken-Dark-Player2-★",
+          "slug": "mewtwo-megax-pokken-dark-player2",
+          "cssClass": ".pokesprite.pokemon.mewtwo-megax-pokken-dark-player2.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -72557,7 +72840,461 @@
             "bonus"
           ]
         },
+        "shiny": {
+          "name": "Mewtwo-Megax-Bonus-Pokken-Dark-Player2-3DS-★",
+          "slug": "mewtwo-megax-pokken-dark-player2",
+          "cssClass": ".pokesprite.pokemon.mewtwo-megax-pokken-dark-player2.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Mewtwo-Megax-Bonus-SmashWiiU3DS-Player2",
+          "slug": "mewtwo-megax-smash-wii-u3-ds-player2",
+          "cssClass": ".pokesprite.pokemon.mewtwo-megax-smash-wii-u3-ds-player2",
+          "categories": [
+            "bonus"
+          ]
+        },
         "shiny": null
+      },
+      {
+        "regular": {
+          "name": "Mewtwo-Megax-Bonus-SmashWiiU3DS-Player2-3DS",
+          "slug": "mewtwo-megax-smash-wii-u3-ds-player2",
+          "cssClass": ".pokesprite.pokemon.mewtwo-megax-smash-wii-u3-ds-player2.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": null
+      },
+      {
+        "regular": {
+          "name": "Mewtwo-Megax-Bonus-SmashWiiU3DS-Player3",
+          "slug": "mewtwo-megax-smash-wii-u3-ds-player3",
+          "cssClass": ".pokesprite.pokemon.mewtwo-megax-smash-wii-u3-ds-player3",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": null
+      },
+      {
+        "regular": {
+          "name": "Mewtwo-Megax-Bonus-SmashWiiU3DS-Player3-3DS",
+          "slug": "mewtwo-megax-smash-wii-u3-ds-player3",
+          "cssClass": ".pokesprite.pokemon.mewtwo-megax-smash-wii-u3-ds-player3.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": null
+      },
+      {
+        "regular": {
+          "name": "Mewtwo-Megax-Bonus-SmashWiiU3DS-Player4",
+          "slug": "mewtwo-megax-smash-wii-u3-ds-player4",
+          "cssClass": ".pokesprite.pokemon.mewtwo-megax-smash-wii-u3-ds-player4",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": null
+      },
+      {
+        "regular": {
+          "name": "Mewtwo-Megax-Bonus-SmashWiiU3DS-Player4-3DS",
+          "slug": "mewtwo-megax-smash-wii-u3-ds-player4",
+          "cssClass": ".pokesprite.pokemon.mewtwo-megax-smash-wii-u3-ds-player4.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": null
+      },
+      {
+        "regular": {
+          "name": "Mewtwo-Megax-Bonus-SmashWiiU3DS-Player5",
+          "slug": "mewtwo-megax-smash-wii-u3-ds-player5",
+          "cssClass": ".pokesprite.pokemon.mewtwo-megax-smash-wii-u3-ds-player5",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Mewtwo-Megax-Bonus-SmashWiiU3DS-Player5-★",
+          "slug": "mewtwo-megax-smash-wii-u3-ds-player5",
+          "cssClass": ".pokesprite.pokemon.mewtwo-megax-smash-wii-u3-ds-player5.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Mewtwo-Megax-Bonus-SmashWiiU3DS-Player5-3DS",
+          "slug": "mewtwo-megax-smash-wii-u3-ds-player5",
+          "cssClass": ".pokesprite.pokemon.mewtwo-megax-smash-wii-u3-ds-player5.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Mewtwo-Megax-Bonus-SmashWiiU3DS-Player5-3DS-★",
+          "slug": "mewtwo-megax-smash-wii-u3-ds-player5",
+          "cssClass": ".pokesprite.pokemon.mewtwo-megax-smash-wii-u3-ds-player5.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Mewtwo-Megax-Bonus-SmashWiiU3DS-Player6",
+          "slug": "mewtwo-megax-smash-wii-u3-ds-player6",
+          "cssClass": ".pokesprite.pokemon.mewtwo-megax-smash-wii-u3-ds-player6",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Mewtwo-Megax-Bonus-SmashWiiU3DS-Player6-★",
+          "slug": "mewtwo-megax-smash-wii-u3-ds-player6",
+          "cssClass": ".pokesprite.pokemon.mewtwo-megax-smash-wii-u3-ds-player6.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Mewtwo-Megax-Bonus-SmashWiiU3DS-Player6-3DS",
+          "slug": "mewtwo-megax-smash-wii-u3-ds-player6",
+          "cssClass": ".pokesprite.pokemon.mewtwo-megax-smash-wii-u3-ds-player6.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Mewtwo-Megax-Bonus-SmashWiiU3DS-Player6-3DS-★",
+          "slug": "mewtwo-megax-smash-wii-u3-ds-player6",
+          "cssClass": ".pokesprite.pokemon.mewtwo-megax-smash-wii-u3-ds-player6.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Mewtwo-Megax-Bonus-SmashWiiU3DS-Player7",
+          "slug": "mewtwo-megax-smash-wii-u3-ds-player7",
+          "cssClass": ".pokesprite.pokemon.mewtwo-megax-smash-wii-u3-ds-player7",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Mewtwo-Megax-Bonus-SmashWiiU3DS-Player7-★",
+          "slug": "mewtwo-megax-smash-wii-u3-ds-player7",
+          "cssClass": ".pokesprite.pokemon.mewtwo-megax-smash-wii-u3-ds-player7.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Mewtwo-Megax-Bonus-SmashWiiU3DS-Player7-3DS",
+          "slug": "mewtwo-megax-smash-wii-u3-ds-player7",
+          "cssClass": ".pokesprite.pokemon.mewtwo-megax-smash-wii-u3-ds-player7.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Mewtwo-Megax-Bonus-SmashWiiU3DS-Player7-3DS-★",
+          "slug": "mewtwo-megax-smash-wii-u3-ds-player7",
+          "cssClass": ".pokesprite.pokemon.mewtwo-megax-smash-wii-u3-ds-player7.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Mewtwo-Megax-Bonus-SmashWiiU3DS-Player8",
+          "slug": "mewtwo-megax-smash-wii-u3-ds-player8",
+          "cssClass": ".pokesprite.pokemon.mewtwo-megax-smash-wii-u3-ds-player8",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Mewtwo-Megax-Bonus-SmashWiiU3DS-Player8-★",
+          "slug": "mewtwo-megax-smash-wii-u3-ds-player8",
+          "cssClass": ".pokesprite.pokemon.mewtwo-megax-smash-wii-u3-ds-player8.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Mewtwo-Megax-Bonus-SmashWiiU3DS-Player8-3DS",
+          "slug": "mewtwo-megax-smash-wii-u3-ds-player8",
+          "cssClass": ".pokesprite.pokemon.mewtwo-megax-smash-wii-u3-ds-player8.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Mewtwo-Megax-Bonus-SmashWiiU3DS-Player8-3DS-★",
+          "slug": "mewtwo-megax-smash-wii-u3-ds-player8",
+          "cssClass": ".pokesprite.pokemon.mewtwo-megax-smash-wii-u3-ds-player8.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Mewtwo-Megax-Bonus-SmashWiiU3DS-Player9",
+          "slug": "mewtwo-megax-smash-wii-u3-ds-player9",
+          "cssClass": ".pokesprite.pokemon.mewtwo-megax-smash-wii-u3-ds-player9",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Mewtwo-Megax-Bonus-SmashWiiU3DS-Player9-★",
+          "slug": "mewtwo-megax-smash-wii-u3-ds-player9",
+          "cssClass": ".pokesprite.pokemon.mewtwo-megax-smash-wii-u3-ds-player9.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Mewtwo-Megax-Bonus-SmashWiiU3DS-Player9-3DS",
+          "slug": "mewtwo-megax-smash-wii-u3-ds-player9",
+          "cssClass": ".pokesprite.pokemon.mewtwo-megax-smash-wii-u3-ds-player9.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Mewtwo-Megax-Bonus-SmashWiiU3DS-Player9-3DS-★",
+          "slug": "mewtwo-megax-smash-wii-u3-ds-player9",
+          "cssClass": ".pokesprite.pokemon.mewtwo-megax-smash-wii-u3-ds-player9.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Mewtwo-Megay-Bonus-Pokken",
+          "slug": "mewtwo-megay-pokken",
+          "cssClass": ".pokesprite.pokemon.mewtwo-megay-pokken",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Mewtwo-Megay-Bonus-Pokken-★",
+          "slug": "mewtwo-megay-pokken",
+          "cssClass": ".pokesprite.pokemon.mewtwo-megay-pokken.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Mewtwo-Megay-Bonus-Pokken-3DS",
+          "slug": "mewtwo-megay-pokken",
+          "cssClass": ".pokesprite.pokemon.mewtwo-megay-pokken.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Mewtwo-Megay-Bonus-Pokken-3DS-★",
+          "slug": "mewtwo-megay-pokken",
+          "cssClass": ".pokesprite.pokemon.mewtwo-megay-pokken.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Mewtwo-Megay-Bonus-Pokken-Dark",
+          "slug": "mewtwo-megay-pokken-dark",
+          "cssClass": ".pokesprite.pokemon.mewtwo-megay-pokken-dark",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Mewtwo-Megay-Bonus-Pokken-Dark-★",
+          "slug": "mewtwo-megay-pokken-dark",
+          "cssClass": ".pokesprite.pokemon.mewtwo-megay-pokken-dark.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Mewtwo-Megay-Bonus-Pokken-Dark-3DS",
+          "slug": "mewtwo-megay-pokken-dark",
+          "cssClass": ".pokesprite.pokemon.mewtwo-megay-pokken-dark.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Mewtwo-Megay-Bonus-Pokken-Dark-3DS-★",
+          "slug": "mewtwo-megay-pokken-dark",
+          "cssClass": ".pokesprite.pokemon.mewtwo-megay-pokken-dark.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Mewtwo-Megay-Bonus-Pokken-Dark-Player2",
+          "slug": "mewtwo-megay-pokken-dark-player2",
+          "cssClass": ".pokesprite.pokemon.mewtwo-megay-pokken-dark-player2",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Mewtwo-Megay-Bonus-Pokken-Dark-Player2-★",
+          "slug": "mewtwo-megay-pokken-dark-player2",
+          "cssClass": ".pokesprite.pokemon.mewtwo-megay-pokken-dark-player2.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Mewtwo-Megay-Bonus-Pokken-Dark-Player2-3DS",
+          "slug": "mewtwo-megay-pokken-dark-player2",
+          "cssClass": ".pokesprite.pokemon.mewtwo-megay-pokken-dark-player2.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Mewtwo-Megay-Bonus-Pokken-Dark-Player2-3DS-★",
+          "slug": "mewtwo-megay-pokken-dark-player2",
+          "cssClass": ".pokesprite.pokemon.mewtwo-megay-pokken-dark-player2.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
