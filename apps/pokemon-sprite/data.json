@@ -61488,7 +61488,17 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Ditto-Bonus-Sleep-★",
+          "slug": "ditto-sleep",
+          "cssClass": ".pokesprite.pokemon.ditto-sleep.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -61502,7 +61512,18 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Ditto-Bonus-Sleep-3DS-★",
+          "slug": "ditto-sleep",
+          "cssClass": ".pokesprite.pokemon.ditto-sleep.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -65336,7 +65357,17 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Eevee-Bonus-StadiumPlayer2-★",
+          "slug": "eevee-stadium-player2",
+          "cssClass": ".pokesprite.pokemon.eevee-stadium-player2.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -65350,7 +65381,18 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Eevee-Bonus-StadiumPlayer2-3DS-★",
+          "slug": "eevee-stadium-player2",
+          "cssClass": ".pokesprite.pokemon.eevee-stadium-player2.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -65361,7 +65403,17 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Eevee-Bonus-StadiumPlayer2-F-★",
+          "slug": "eevee-stadium-player2-f",
+          "cssClass": ".pokesprite.pokemon.eevee-stadium-player2-f.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -65375,7 +65427,18 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Eevee-Bonus-StadiumPlayer2-F-3DS-★",
+          "slug": "eevee-stadium-player2-f",
+          "cssClass": ".pokesprite.pokemon.eevee-stadium-player2-f.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -65386,7 +65449,17 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Eevee-Bonus-StadiumPlayer3-★",
+          "slug": "eevee-stadium-player3",
+          "cssClass": ".pokesprite.pokemon.eevee-stadium-player3.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -65400,7 +65473,18 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Eevee-Bonus-StadiumPlayer3-3DS-★",
+          "slug": "eevee-stadium-player3",
+          "cssClass": ".pokesprite.pokemon.eevee-stadium-player3.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -65411,7 +65495,17 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Eevee-Bonus-StadiumPlayer3-F-★",
+          "slug": "eevee-stadium-player3-f",
+          "cssClass": ".pokesprite.pokemon.eevee-stadium-player3-f.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -65425,7 +65519,18 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Eevee-Bonus-StadiumPlayer3-F-3DS-★",
+          "slug": "eevee-stadium-player3-f",
+          "cssClass": ".pokesprite.pokemon.eevee-stadium-player3-f.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -65436,7 +65541,17 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Eevee-Bonus-StadiumPlayer4-★",
+          "slug": "eevee-stadium-player4",
+          "cssClass": ".pokesprite.pokemon.eevee-stadium-player4.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -65450,7 +65565,18 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Eevee-Bonus-StadiumPlayer4-3DS-★",
+          "slug": "eevee-stadium-player4",
+          "cssClass": ".pokesprite.pokemon.eevee-stadium-player4.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -65461,7 +65587,17 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Eevee-Bonus-StadiumPlayer4-F-★",
+          "slug": "eevee-stadium-player4-f",
+          "cssClass": ".pokesprite.pokemon.eevee-stadium-player4-f.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -65475,7 +65611,156 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Eevee-Bonus-StadiumPlayer4-F-3DS-★",
+          "slug": "eevee-stadium-player4-f",
+          "cssClass": ".pokesprite.pokemon.eevee-stadium-player4-f.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Eevee-Gmax-Bonus-StadiumPlayer2",
+          "slug": "eevee-gmax-stadium-player2",
+          "cssClass": ".pokesprite.pokemon.eevee-gmax-stadium-player2",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Eevee-Gmax-Bonus-StadiumPlayer2-★",
+          "slug": "eevee-gmax-stadium-player2",
+          "cssClass": ".pokesprite.pokemon.eevee-gmax-stadium-player2.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Eevee-Gmax-Bonus-StadiumPlayer2-3DS",
+          "slug": "eevee-gmax-stadium-player2",
+          "cssClass": ".pokesprite.pokemon.eevee-gmax-stadium-player2.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Eevee-Gmax-Bonus-StadiumPlayer2-3DS-★",
+          "slug": "eevee-gmax-stadium-player2",
+          "cssClass": ".pokesprite.pokemon.eevee-gmax-stadium-player2.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Eevee-Gmax-Bonus-StadiumPlayer3",
+          "slug": "eevee-gmax-stadium-player3",
+          "cssClass": ".pokesprite.pokemon.eevee-gmax-stadium-player3",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Eevee-Gmax-Bonus-StadiumPlayer3-★",
+          "slug": "eevee-gmax-stadium-player3",
+          "cssClass": ".pokesprite.pokemon.eevee-gmax-stadium-player3.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Eevee-Gmax-Bonus-StadiumPlayer3-3DS",
+          "slug": "eevee-gmax-stadium-player3",
+          "cssClass": ".pokesprite.pokemon.eevee-gmax-stadium-player3.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Eevee-Gmax-Bonus-StadiumPlayer3-3DS-★",
+          "slug": "eevee-gmax-stadium-player3",
+          "cssClass": ".pokesprite.pokemon.eevee-gmax-stadium-player3.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Eevee-Gmax-Bonus-StadiumPlayer4",
+          "slug": "eevee-gmax-stadium-player4",
+          "cssClass": ".pokesprite.pokemon.eevee-gmax-stadium-player4",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Eevee-Gmax-Bonus-StadiumPlayer4-★",
+          "slug": "eevee-gmax-stadium-player4",
+          "cssClass": ".pokesprite.pokemon.eevee-gmax-stadium-player4.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Eevee-Gmax-Bonus-StadiumPlayer4-3DS",
+          "slug": "eevee-gmax-stadium-player4",
+          "cssClass": ".pokesprite.pokemon.eevee-gmax-stadium-player4.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Eevee-Gmax-Bonus-StadiumPlayer4-3DS-★",
+          "slug": "eevee-gmax-stadium-player4",
+          "cssClass": ".pokesprite.pokemon.eevee-gmax-stadium-player4.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       }
     ]
   },
@@ -68406,7 +68691,17 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Porygon-Bonus-Snap-Grass-★",
+          "slug": "porygon-snap-grass",
+          "cssClass": ".pokesprite.pokemon.porygon-snap-grass.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -68420,7 +68715,18 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Porygon-Bonus-Snap-Grass-3DS-★",
+          "slug": "porygon-snap-grass",
+          "cssClass": ".pokesprite.pokemon.porygon-snap-grass.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -68431,7 +68737,17 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Porygon-Bonus-Snap-Rock-★",
+          "slug": "porygon-snap-rock",
+          "cssClass": ".pokesprite.pokemon.porygon-snap-rock.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -68445,7 +68761,18 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Porygon-Bonus-Snap-Rock-3DS-★",
+          "slug": "porygon-snap-rock",
+          "cssClass": ".pokesprite.pokemon.porygon-snap-rock.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       }
     ]
   },
@@ -70142,7 +70469,17 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Snorlax-Bonus-Sleep-AmberCanyon-★",
+          "slug": "snorlax-sleep-amber-canyon",
+          "cssClass": ".pokesprite.pokemon.snorlax-sleep-amber-canyon.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -70156,7 +70493,18 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Snorlax-Bonus-Sleep-AmberCanyon-3DS-★",
+          "slug": "snorlax-sleep-amber-canyon",
+          "cssClass": ".pokesprite.pokemon.snorlax-sleep-amber-canyon.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -70167,7 +70515,17 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Snorlax-Bonus-Sleep-CyanBeach-★",
+          "slug": "snorlax-sleep-cyan-beach",
+          "cssClass": ".pokesprite.pokemon.snorlax-sleep-cyan-beach.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -70181,7 +70539,18 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Snorlax-Bonus-Sleep-CyanBeach-3DS-★",
+          "slug": "snorlax-sleep-cyan-beach",
+          "cssClass": ".pokesprite.pokemon.snorlax-sleep-cyan-beach.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -70192,7 +70561,17 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Snorlax-Bonus-Sleep-LapisLakeside-★",
+          "slug": "snorlax-sleep-lapis-lakeside",
+          "cssClass": ".pokesprite.pokemon.snorlax-sleep-lapis-lakeside.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -70206,7 +70585,18 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Snorlax-Bonus-Sleep-LapisLakeside-3DS-★",
+          "slug": "snorlax-sleep-lapis-lakeside",
+          "cssClass": ".pokesprite.pokemon.snorlax-sleep-lapis-lakeside.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -70217,7 +70607,17 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Snorlax-Bonus-Sleep-OldGoldPowerPlant-★",
+          "slug": "snorlax-sleep-old-gold-power-plant",
+          "cssClass": ".pokesprite.pokemon.snorlax-sleep-old-gold-power-plant.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -70231,7 +70631,18 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Snorlax-Bonus-Sleep-OldGoldPowerPlant-3DS-★",
+          "slug": "snorlax-sleep-old-gold-power-plant",
+          "cssClass": ".pokesprite.pokemon.snorlax-sleep-old-gold-power-plant.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -70242,7 +70653,17 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Snorlax-Bonus-Sleep-SnowdropTundra-★",
+          "slug": "snorlax-sleep-snowdrop-tundra",
+          "cssClass": ".pokesprite.pokemon.snorlax-sleep-snowdrop-tundra.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -70256,7 +70677,18 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Snorlax-Bonus-Sleep-SnowdropTundra-3DS-★",
+          "slug": "snorlax-sleep-snowdrop-tundra",
+          "cssClass": ".pokesprite.pokemon.snorlax-sleep-snowdrop-tundra.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -70267,7 +70699,17 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Snorlax-Bonus-Sleep-TaupeHollow-★",
+          "slug": "snorlax-sleep-taupe-hollow",
+          "cssClass": ".pokesprite.pokemon.snorlax-sleep-taupe-hollow.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -70281,7 +70723,284 @@
             "bonus"
           ]
         },
+        "shiny": {
+          "name": "Snorlax-Bonus-Sleep-TaupeHollow-3DS-★",
+          "slug": "snorlax-sleep-taupe-hollow",
+          "cssClass": ".pokesprite.pokemon.snorlax-sleep-taupe-hollow.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Snorlax-Gmax-Bonus-Sleep-AmberCanyon",
+          "slug": "snorlax-gmax-sleep-amber-canyon",
+          "cssClass": ".pokesprite.pokemon.snorlax-gmax-sleep-amber-canyon",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Snorlax-Gmax-Bonus-Sleep-AmberCanyon-★",
+          "slug": "snorlax-gmax-sleep-amber-canyon",
+          "cssClass": ".pokesprite.pokemon.snorlax-gmax-sleep-amber-canyon.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Snorlax-Gmax-Bonus-Sleep-AmberCanyon-3DS",
+          "slug": "snorlax-gmax-sleep-amber-canyon",
+          "cssClass": ".pokesprite.pokemon.snorlax-gmax-sleep-amber-canyon.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Snorlax-Gmax-Bonus-Sleep-AmberCanyon-3DS-★",
+          "slug": "snorlax-gmax-sleep-amber-canyon",
+          "cssClass": ".pokesprite.pokemon.snorlax-gmax-sleep-amber-canyon.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Snorlax-Gmax-Bonus-Sleep-CyanBeach",
+          "slug": "snorlax-gmax-sleep-cyan-beach",
+          "cssClass": ".pokesprite.pokemon.snorlax-gmax-sleep-cyan-beach",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Snorlax-Gmax-Bonus-Sleep-CyanBeach-★",
+          "slug": "snorlax-gmax-sleep-cyan-beach",
+          "cssClass": ".pokesprite.pokemon.snorlax-gmax-sleep-cyan-beach.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Snorlax-Gmax-Bonus-Sleep-CyanBeach-3DS",
+          "slug": "snorlax-gmax-sleep-cyan-beach",
+          "cssClass": ".pokesprite.pokemon.snorlax-gmax-sleep-cyan-beach.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Snorlax-Gmax-Bonus-Sleep-CyanBeach-3DS-★",
+          "slug": "snorlax-gmax-sleep-cyan-beach",
+          "cssClass": ".pokesprite.pokemon.snorlax-gmax-sleep-cyan-beach.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Snorlax-Gmax-Bonus-Sleep-LapisLakeside",
+          "slug": "snorlax-gmax-sleep-lapis-lakeside",
+          "cssClass": ".pokesprite.pokemon.snorlax-gmax-sleep-lapis-lakeside",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Snorlax-Gmax-Bonus-Sleep-LapisLakeside-★",
+          "slug": "snorlax-gmax-sleep-lapis-lakeside",
+          "cssClass": ".pokesprite.pokemon.snorlax-gmax-sleep-lapis-lakeside.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Snorlax-Gmax-Bonus-Sleep-LapisLakeside-3DS",
+          "slug": "snorlax-gmax-sleep-lapis-lakeside",
+          "cssClass": ".pokesprite.pokemon.snorlax-gmax-sleep-lapis-lakeside.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Snorlax-Gmax-Bonus-Sleep-LapisLakeside-3DS-★",
+          "slug": "snorlax-gmax-sleep-lapis-lakeside",
+          "cssClass": ".pokesprite.pokemon.snorlax-gmax-sleep-lapis-lakeside.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Snorlax-Gmax-Bonus-Sleep-OldGoldPowerPlant",
+          "slug": "snorlax-gmax-sleep-old-gold-power-plant",
+          "cssClass": ".pokesprite.pokemon.snorlax-gmax-sleep-old-gold-power-plant",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Snorlax-Gmax-Bonus-Sleep-OldGoldPowerPlant-★",
+          "slug": "snorlax-gmax-sleep-old-gold-power-plant",
+          "cssClass": ".pokesprite.pokemon.snorlax-gmax-sleep-old-gold-power-plant.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Snorlax-Gmax-Bonus-Sleep-OldGoldPowerPlant-3DS",
+          "slug": "snorlax-gmax-sleep-old-gold-power-plant",
+          "cssClass": ".pokesprite.pokemon.snorlax-gmax-sleep-old-gold-power-plant.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Snorlax-Gmax-Bonus-Sleep-OldGoldPowerPlant-3DS-★",
+          "slug": "snorlax-gmax-sleep-old-gold-power-plant",
+          "cssClass": ".pokesprite.pokemon.snorlax-gmax-sleep-old-gold-power-plant.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Snorlax-Gmax-Bonus-Sleep-SnowdropTundra",
+          "slug": "snorlax-gmax-sleep-snowdrop-tundra",
+          "cssClass": ".pokesprite.pokemon.snorlax-gmax-sleep-snowdrop-tundra",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Snorlax-Gmax-Bonus-Sleep-SnowdropTundra-★",
+          "slug": "snorlax-gmax-sleep-snowdrop-tundra",
+          "cssClass": ".pokesprite.pokemon.snorlax-gmax-sleep-snowdrop-tundra.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Snorlax-Gmax-Bonus-Sleep-SnowdropTundra-3DS",
+          "slug": "snorlax-gmax-sleep-snowdrop-tundra",
+          "cssClass": ".pokesprite.pokemon.snorlax-gmax-sleep-snowdrop-tundra.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Snorlax-Gmax-Bonus-Sleep-SnowdropTundra-3DS-★",
+          "slug": "snorlax-gmax-sleep-snowdrop-tundra",
+          "cssClass": ".pokesprite.pokemon.snorlax-gmax-sleep-snowdrop-tundra.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Snorlax-Gmax-Bonus-Sleep-TaupeHollow",
+          "slug": "snorlax-gmax-sleep-taupe-hollow",
+          "cssClass": ".pokesprite.pokemon.snorlax-gmax-sleep-taupe-hollow",
+          "categories": [
+            "bonus"
+          ]
+        },
         "shiny": null
+      },
+      {
+        "regular": {
+          "name": "Snorlax-Gmax-Bonus-Sleep-TaupeHollow-3DS",
+          "slug": "snorlax-gmax-sleep-taupe-hollow",
+          "cssClass": ".pokesprite.pokemon.snorlax-gmax-sleep-taupe-hollow.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Snorlax-Gmax-Bonus-Sleep-TaupeHollow-3DS-★",
+          "slug": "snorlax-gmax-sleep-taupe-hollow",
+          "cssClass": ".pokesprite.pokemon.snorlax-gmax-sleep-taupe-hollow.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       }
     ]
   },
