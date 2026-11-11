@@ -78134,7 +78134,17 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Pichu-Bonus-RangerGuardianSigns-★",
+          "slug": "pichu-ranger-guardian-signs",
+          "cssClass": ".pokesprite.pokemon.pichu-ranger-guardian-signs.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -78145,7 +78155,17 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Pichu-Bonus-SmashMelee-Player2-★",
+          "slug": "pichu-smash-melee-player2",
+          "cssClass": ".pokesprite.pokemon.pichu-smash-melee-player2.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -78156,7 +78176,17 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Pichu-Bonus-SmashMelee-Player3-★",
+          "slug": "pichu-smash-melee-player3",
+          "cssClass": ".pokesprite.pokemon.pichu-smash-melee-player3.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -78167,7 +78197,17 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Pichu-Bonus-SmashMelee-Player4-★",
+          "slug": "pichu-smash-melee-player4",
+          "cssClass": ".pokesprite.pokemon.pichu-smash-melee-player4.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -78178,7 +78218,17 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Pichu-Bonus-SmashUltimate-Player2-★",
+          "slug": "pichu-smash-ultimate-player2",
+          "cssClass": ".pokesprite.pokemon.pichu-smash-ultimate-player2.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -78189,7 +78239,17 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Pichu-Bonus-SmashUltimate-Player3-★",
+          "slug": "pichu-smash-ultimate-player3",
+          "cssClass": ".pokesprite.pokemon.pichu-smash-ultimate-player3.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -78200,7 +78260,17 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Pichu-Bonus-SmashUltimate-Player4-★",
+          "slug": "pichu-smash-ultimate-player4",
+          "cssClass": ".pokesprite.pokemon.pichu-smash-ultimate-player4.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -78211,7 +78281,17 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Pichu-Bonus-SmashUltimate-Player5-★",
+          "slug": "pichu-smash-ultimate-player5",
+          "cssClass": ".pokesprite.pokemon.pichu-smash-ultimate-player5.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -78222,7 +78302,17 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Pichu-Bonus-SmashUltimate-Player6-★",
+          "slug": "pichu-smash-ultimate-player6",
+          "cssClass": ".pokesprite.pokemon.pichu-smash-ultimate-player6.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -78233,7 +78323,17 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Pichu-Bonus-SmashUltimate-Player7-★",
+          "slug": "pichu-smash-ultimate-player7",
+          "cssClass": ".pokesprite.pokemon.pichu-smash-ultimate-player7.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       }
     ]
   },
@@ -94391,7 +94491,17 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Scizor-Bonus-Pokken-★",
+          "slug": "scizor-pokken",
+          "cssClass": ".pokesprite.pokemon.scizor-pokken.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -94405,7 +94515,18 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Scizor-Bonus-Pokken-3DS-★",
+          "slug": "scizor-pokken",
+          "cssClass": ".pokesprite.pokemon.scizor-pokken.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -94416,7 +94537,17 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Scizor-Bonus-Pokken-F-★",
+          "slug": "scizor-pokken-f",
+          "cssClass": ".pokesprite.pokemon.scizor-pokken-f.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -94430,7 +94561,18 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Scizor-Bonus-Pokken-F-3DS-★",
+          "slug": "scizor-pokken-f",
+          "cssClass": ".pokesprite.pokemon.scizor-pokken-f.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -94441,7 +94583,17 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Scizor-Mega-Bonus-Pokken-★",
+          "slug": "scizor-mega-pokken",
+          "cssClass": ".pokesprite.pokemon.scizor-mega-pokken.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -94455,7 +94607,18 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Scizor-Mega-Bonus-Pokken-3DS-★",
+          "slug": "scizor-mega-pokken",
+          "cssClass": ".pokesprite.pokemon.scizor-mega-pokken.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       }
     ]
   },
@@ -102760,7 +102923,17 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Hitmontop-Bonus-Stadium-Player2-★",
+          "slug": "hitmontop-stadium-player2",
+          "cssClass": ".pokesprite.pokemon.hitmontop-stadium-player2.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -102774,7 +102947,18 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Hitmontop-Bonus-Stadium-Player2-3DS-★",
+          "slug": "hitmontop-stadium-player2",
+          "cssClass": ".pokesprite.pokemon.hitmontop-stadium-player2.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -102785,7 +102969,17 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Hitmontop-Bonus-Stadium-Player3-★",
+          "slug": "hitmontop-stadium-player3",
+          "cssClass": ".pokesprite.pokemon.hitmontop-stadium-player3.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -102799,7 +102993,18 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Hitmontop-Bonus-Stadium-Player3-3DS-★",
+          "slug": "hitmontop-stadium-player3",
+          "cssClass": ".pokesprite.pokemon.hitmontop-stadium-player3.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -102810,7 +103015,17 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Hitmontop-Bonus-Stadium-Player4-★",
+          "slug": "hitmontop-stadium-player4",
+          "cssClass": ".pokesprite.pokemon.hitmontop-stadium-player4.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -102824,7 +103039,18 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Hitmontop-Bonus-Stadium-Player4-3DS-★",
+          "slug": "hitmontop-stadium-player4",
+          "cssClass": ".pokesprite.pokemon.hitmontop-stadium-player4.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       }
     ]
   },
@@ -103525,7 +103751,17 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Suicune-Bonus-Pokken-★",
+          "slug": "suicune-pokken",
+          "cssClass": ".pokesprite.pokemon.suicune-pokken.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -103539,7 +103775,18 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Suicune-Bonus-Pokken-3DS-★",
+          "slug": "suicune-pokken",
+          "cssClass": ".pokesprite.pokemon.suicune-pokken.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       }
     ]
   },
