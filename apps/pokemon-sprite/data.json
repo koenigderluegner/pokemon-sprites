@@ -184294,7 +184294,17 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Braixen-Bonus-Pokken-★",
+          "slug": "braixen-pokken",
+          "cssClass": ".pokesprite.pokemon.braixen-pokken.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -184308,7 +184318,18 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Braixen-Bonus-Pokken-3DS-★",
+          "slug": "braixen-pokken",
+          "cssClass": ".pokesprite.pokemon.braixen-pokken.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       }
     ]
   },
@@ -185047,7 +185068,17 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Greninja-Ash-Bonus-SmashUltimate-Player2-★",
+          "slug": "greninja-ash-smash-ultimate-player2",
+          "cssClass": ".pokesprite.pokemon.greninja-ash-smash-ultimate-player2.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -185061,7 +185092,18 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Greninja-Ash-Bonus-SmashUltimate-Player2-3DS-★",
+          "slug": "greninja-ash-smash-ultimate-player2",
+          "cssClass": ".pokesprite.pokemon.greninja-ash-smash-ultimate-player2.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -185072,7 +185114,17 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Greninja-Ash-Bonus-SmashUltimate-Player3-★",
+          "slug": "greninja-ash-smash-ultimate-player3",
+          "cssClass": ".pokesprite.pokemon.greninja-ash-smash-ultimate-player3.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -185086,7 +185138,18 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Greninja-Ash-Bonus-SmashUltimate-Player3-3DS-★",
+          "slug": "greninja-ash-smash-ultimate-player3",
+          "cssClass": ".pokesprite.pokemon.greninja-ash-smash-ultimate-player3.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -185097,7 +185160,17 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Greninja-Ash-Bonus-SmashUltimate-Player4-★",
+          "slug": "greninja-ash-smash-ultimate-player4",
+          "cssClass": ".pokesprite.pokemon.greninja-ash-smash-ultimate-player4.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -185111,7 +185184,18 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Greninja-Ash-Bonus-SmashUltimate-Player4-3DS-★",
+          "slug": "greninja-ash-smash-ultimate-player4",
+          "cssClass": ".pokesprite.pokemon.greninja-ash-smash-ultimate-player4.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -185122,7 +185206,17 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Greninja-Ash-Bonus-SmashUltimate-Player5-★",
+          "slug": "greninja-ash-smash-ultimate-player5",
+          "cssClass": ".pokesprite.pokemon.greninja-ash-smash-ultimate-player5.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -185136,7 +185230,18 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Greninja-Ash-Bonus-SmashUltimate-Player5-3DS-★",
+          "slug": "greninja-ash-smash-ultimate-player5",
+          "cssClass": ".pokesprite.pokemon.greninja-ash-smash-ultimate-player5.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -185147,7 +185252,17 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Greninja-Ash-Bonus-SmashUltimate-Player6-★",
+          "slug": "greninja-ash-smash-ultimate-player6",
+          "cssClass": ".pokesprite.pokemon.greninja-ash-smash-ultimate-player6.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -185161,7 +185276,18 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Greninja-Ash-Bonus-SmashUltimate-Player6-3DS-★",
+          "slug": "greninja-ash-smash-ultimate-player6",
+          "cssClass": ".pokesprite.pokemon.greninja-ash-smash-ultimate-player6.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -185172,7 +185298,17 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Greninja-Ash-Bonus-SmashUltimate-Player7-★",
+          "slug": "greninja-ash-smash-ultimate-player7",
+          "cssClass": ".pokesprite.pokemon.greninja-ash-smash-ultimate-player7.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -185186,7 +185322,18 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Greninja-Ash-Bonus-SmashUltimate-Player7-3DS-★",
+          "slug": "greninja-ash-smash-ultimate-player7",
+          "cssClass": ".pokesprite.pokemon.greninja-ash-smash-ultimate-player7.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -185197,7 +185344,17 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Greninja-Ash-Bonus-SmashUltimate-Player8-★",
+          "slug": "greninja-ash-smash-ultimate-player8",
+          "cssClass": ".pokesprite.pokemon.greninja-ash-smash-ultimate-player8.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -185211,7 +185368,18 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Greninja-Ash-Bonus-SmashUltimate-Player8-3DS-★",
+          "slug": "greninja-ash-smash-ultimate-player8",
+          "cssClass": ".pokesprite.pokemon.greninja-ash-smash-ultimate-player8.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -185222,7 +185390,17 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Greninja-Bonus-SmashWiiU3DS-Player2-★",
+          "slug": "greninja-smash-wii-u3-ds-player2",
+          "cssClass": ".pokesprite.pokemon.greninja-smash-wii-u3-ds-player2.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -185236,7 +185414,18 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Greninja-Bonus-SmashWiiU3DS-Player2-3DS-★",
+          "slug": "greninja-smash-wii-u3-ds-player2",
+          "cssClass": ".pokesprite.pokemon.greninja-smash-wii-u3-ds-player2.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -185247,7 +185436,17 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Greninja-Bonus-SmashWiiU3DS-Player3-★",
+          "slug": "greninja-smash-wii-u3-ds-player3",
+          "cssClass": ".pokesprite.pokemon.greninja-smash-wii-u3-ds-player3.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -185261,7 +185460,18 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Greninja-Bonus-SmashWiiU3DS-Player3-3DS-★",
+          "slug": "greninja-smash-wii-u3-ds-player3",
+          "cssClass": ".pokesprite.pokemon.greninja-smash-wii-u3-ds-player3.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -185272,7 +185482,17 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Greninja-Bonus-SmashWiiU3DS-Player4-★",
+          "slug": "greninja-smash-wii-u3-ds-player4",
+          "cssClass": ".pokesprite.pokemon.greninja-smash-wii-u3-ds-player4.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -185286,7 +185506,18 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Greninja-Bonus-SmashWiiU3DS-Player4-3DS-★",
+          "slug": "greninja-smash-wii-u3-ds-player4",
+          "cssClass": ".pokesprite.pokemon.greninja-smash-wii-u3-ds-player4.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -185297,7 +185528,17 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Greninja-Bonus-SmashWiiU3DS-Player5-★",
+          "slug": "greninja-smash-wii-u3-ds-player5",
+          "cssClass": ".pokesprite.pokemon.greninja-smash-wii-u3-ds-player5.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -185311,7 +185552,18 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Greninja-Bonus-SmashWiiU3DS-Player5-3DS-★",
+          "slug": "greninja-smash-wii-u3-ds-player5",
+          "cssClass": ".pokesprite.pokemon.greninja-smash-wii-u3-ds-player5.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -185322,7 +185574,17 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Greninja-Bonus-SmashWiiU3DS-Player6-★",
+          "slug": "greninja-smash-wii-u3-ds-player6",
+          "cssClass": ".pokesprite.pokemon.greninja-smash-wii-u3-ds-player6.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -185336,7 +185598,18 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Greninja-Bonus-SmashWiiU3DS-Player6-3DS-★",
+          "slug": "greninja-smash-wii-u3-ds-player6",
+          "cssClass": ".pokesprite.pokemon.greninja-smash-wii-u3-ds-player6.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -185347,7 +185620,17 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Greninja-Bonus-SmashWiiU3DS-Player7-★",
+          "slug": "greninja-smash-wii-u3-ds-player7",
+          "cssClass": ".pokesprite.pokemon.greninja-smash-wii-u3-ds-player7.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -185361,7 +185644,18 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Greninja-Bonus-SmashWiiU3DS-Player7-3DS-★",
+          "slug": "greninja-smash-wii-u3-ds-player7",
+          "cssClass": ".pokesprite.pokemon.greninja-smash-wii-u3-ds-player7.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -185372,7 +185666,17 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Greninja-Bonus-SmashWiiU3DS-Player8-★",
+          "slug": "greninja-smash-wii-u3-ds-player8",
+          "cssClass": ".pokesprite.pokemon.greninja-smash-wii-u3-ds-player8.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -185386,7 +185690,18 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Greninja-Bonus-SmashWiiU3DS-Player8-3DS-★",
+          "slug": "greninja-smash-wii-u3-ds-player8",
+          "cssClass": ".pokesprite.pokemon.greninja-smash-wii-u3-ds-player8.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       }
     ]
   },
@@ -189239,7 +189554,17 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Aegislash-Blade-Bonus-Pokken-★",
+          "slug": "aegislash-blade-pokken",
+          "cssClass": ".pokesprite.pokemon.aegislash-blade-pokken.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -189253,7 +189578,18 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Aegislash-Blade-Bonus-Pokken-3DS-★",
+          "slug": "aegislash-blade-pokken",
+          "cssClass": ".pokesprite.pokemon.aegislash-blade-pokken.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -189264,7 +189600,17 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Aegislash-Bonus-Pokken-★",
+          "slug": "aegislash-pokken",
+          "cssClass": ".pokesprite.pokemon.aegislash-pokken.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -189278,7 +189624,18 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Aegislash-Bonus-Pokken-3DS-★",
+          "slug": "aegislash-pokken",
+          "cssClass": ".pokesprite.pokemon.aegislash-pokken.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       }
     ]
   },
@@ -194881,7 +195238,17 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Decidueye-Bonus-Pokken-★",
+          "slug": "decidueye-pokken",
+          "cssClass": ".pokesprite.pokemon.decidueye-pokken.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -194895,7 +195262,18 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Decidueye-Bonus-Pokken-3DS-★",
+          "slug": "decidueye-pokken",
+          "cssClass": ".pokesprite.pokemon.decidueye-pokken.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       }
     ]
   },
