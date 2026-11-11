@@ -154465,7 +154465,17 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Weavile-Bonus-Pokken-F-★",
+          "slug": "weavile-pokken-f",
+          "cssClass": ".pokesprite.pokemon.weavile-pokken-f.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
