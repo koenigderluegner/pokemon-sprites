@@ -178801,7 +178801,17 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Chandelure-Bonus-Pokken-★",
+          "slug": "chandelure-pokken",
+          "cssClass": ".pokesprite.pokemon.chandelure-pokken.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -178815,7 +178825,64 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Chandelure-Bonus-Pokken-3DS-★",
+          "slug": "chandelure-pokken",
+          "cssClass": ".pokesprite.pokemon.chandelure-pokken.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Chandelure-Mega-Bonus-Pokken",
+          "slug": "chandelure-mega-pokken",
+          "cssClass": ".pokesprite.pokemon.chandelure-mega-pokken",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Chandelure-Mega-Bonus-Pokken-★",
+          "slug": "chandelure-mega-pokken",
+          "cssClass": ".pokesprite.pokemon.chandelure-mega-pokken.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Chandelure-Mega-Bonus-Pokken-3DS",
+          "slug": "chandelure-mega-pokken",
+          "cssClass": ".pokesprite.pokemon.chandelure-mega-pokken.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Chandelure-Mega-Bonus-Pokken-3DS-★",
+          "slug": "chandelure-mega-pokken",
+          "cssClass": ".pokesprite.pokemon.chandelure-mega-pokken.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       }
     ]
   },
@@ -185697,6 +185764,503 @@
           "modifiers": [
             "shiny",
             "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Greninja-Mega-Bonus-SmashUltimate-Player2",
+          "slug": "greninja-mega-smash-ultimate-player2",
+          "cssClass": ".pokesprite.pokemon.greninja-mega-smash-ultimate-player2",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Greninja-Mega-Bonus-SmashUltimate-Player2-★",
+          "slug": "greninja-mega-smash-ultimate-player2",
+          "cssClass": ".pokesprite.pokemon.greninja-mega-smash-ultimate-player2.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Greninja-Mega-Bonus-SmashUltimate-Player2-3DS",
+          "slug": "greninja-mega-smash-ultimate-player2",
+          "cssClass": ".pokesprite.pokemon.greninja-mega-smash-ultimate-player2.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Greninja-Mega-Bonus-SmashUltimate-Player2-3DS-★",
+          "slug": "greninja-mega-smash-ultimate-player2",
+          "cssClass": ".pokesprite.pokemon.greninja-mega-smash-ultimate-player2.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Greninja-Mega-Bonus-SmashUltimate-Player2-Switch-Optional",
+          "slug": "greninja-mega-smash-ultimate-player2-optional",
+          "cssClass": ".pokesprite.pokemon.greninja-mega-smash-ultimate-player2-optional.switch",
+          "modifiers": [
+            "switch"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Greninja-Mega-Bonus-SmashUltimate-Player2-Switch-Optional-★",
+          "slug": "greninja-mega-smash-ultimate-player2-optional",
+          "cssClass": ".pokesprite.pokemon.greninja-mega-smash-ultimate-player2-optional.shiny.switch",
+          "modifiers": [
+            "shiny",
+            "switch"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Greninja-Mega-Bonus-SmashUltimate-Player3",
+          "slug": "greninja-mega-smash-ultimate-player3",
+          "cssClass": ".pokesprite.pokemon.greninja-mega-smash-ultimate-player3",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Greninja-Mega-Bonus-SmashUltimate-Player3-★",
+          "slug": "greninja-mega-smash-ultimate-player3",
+          "cssClass": ".pokesprite.pokemon.greninja-mega-smash-ultimate-player3.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Greninja-Mega-Bonus-SmashUltimate-Player3-3DS",
+          "slug": "greninja-mega-smash-ultimate-player3",
+          "cssClass": ".pokesprite.pokemon.greninja-mega-smash-ultimate-player3.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Greninja-Mega-Bonus-SmashUltimate-Player3-3DS-★",
+          "slug": "greninja-mega-smash-ultimate-player3",
+          "cssClass": ".pokesprite.pokemon.greninja-mega-smash-ultimate-player3.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Greninja-Mega-Bonus-SmashUltimate-Player3-Switch-Optional",
+          "slug": "greninja-mega-smash-ultimate-player3-optional",
+          "cssClass": ".pokesprite.pokemon.greninja-mega-smash-ultimate-player3-optional.switch",
+          "modifiers": [
+            "switch"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Greninja-Mega-Bonus-SmashUltimate-Player3-Switch-Optional-★",
+          "slug": "greninja-mega-smash-ultimate-player3-optional",
+          "cssClass": ".pokesprite.pokemon.greninja-mega-smash-ultimate-player3-optional.shiny.switch",
+          "modifiers": [
+            "shiny",
+            "switch"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Greninja-Mega-Bonus-SmashUltimate-Player4",
+          "slug": "greninja-mega-smash-ultimate-player4",
+          "cssClass": ".pokesprite.pokemon.greninja-mega-smash-ultimate-player4",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Greninja-Mega-Bonus-SmashUltimate-Player4-★",
+          "slug": "greninja-mega-smash-ultimate-player4",
+          "cssClass": ".pokesprite.pokemon.greninja-mega-smash-ultimate-player4.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Greninja-Mega-Bonus-SmashUltimate-Player4-3DS",
+          "slug": "greninja-mega-smash-ultimate-player4",
+          "cssClass": ".pokesprite.pokemon.greninja-mega-smash-ultimate-player4.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Greninja-Mega-Bonus-SmashUltimate-Player4-3DS-★",
+          "slug": "greninja-mega-smash-ultimate-player4",
+          "cssClass": ".pokesprite.pokemon.greninja-mega-smash-ultimate-player4.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Greninja-Mega-Bonus-SmashUltimate-Player4-Switch-Optional",
+          "slug": "greninja-mega-smash-ultimate-player4-optional",
+          "cssClass": ".pokesprite.pokemon.greninja-mega-smash-ultimate-player4-optional.switch",
+          "modifiers": [
+            "switch"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Greninja-Mega-Bonus-SmashUltimate-Player4-Switch-Optional-★",
+          "slug": "greninja-mega-smash-ultimate-player4-optional",
+          "cssClass": ".pokesprite.pokemon.greninja-mega-smash-ultimate-player4-optional.shiny.switch",
+          "modifiers": [
+            "shiny",
+            "switch"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Greninja-Mega-Bonus-SmashUltimate-Player5",
+          "slug": "greninja-mega-smash-ultimate-player5",
+          "cssClass": ".pokesprite.pokemon.greninja-mega-smash-ultimate-player5",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Greninja-Mega-Bonus-SmashUltimate-Player5-★",
+          "slug": "greninja-mega-smash-ultimate-player5",
+          "cssClass": ".pokesprite.pokemon.greninja-mega-smash-ultimate-player5.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Greninja-Mega-Bonus-SmashUltimate-Player5-3DS",
+          "slug": "greninja-mega-smash-ultimate-player5",
+          "cssClass": ".pokesprite.pokemon.greninja-mega-smash-ultimate-player5.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Greninja-Mega-Bonus-SmashUltimate-Player5-3DS-★",
+          "slug": "greninja-mega-smash-ultimate-player5",
+          "cssClass": ".pokesprite.pokemon.greninja-mega-smash-ultimate-player5.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Greninja-Mega-Bonus-SmashUltimate-Player5-Switch-Optional",
+          "slug": "greninja-mega-smash-ultimate-player5-optional",
+          "cssClass": ".pokesprite.pokemon.greninja-mega-smash-ultimate-player5-optional.switch",
+          "modifiers": [
+            "switch"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Greninja-Mega-Bonus-SmashUltimate-Player5-Switch-Optional-★",
+          "slug": "greninja-mega-smash-ultimate-player5-optional",
+          "cssClass": ".pokesprite.pokemon.greninja-mega-smash-ultimate-player5-optional.shiny.switch",
+          "modifiers": [
+            "shiny",
+            "switch"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Greninja-Mega-Bonus-SmashUltimate-Player6",
+          "slug": "greninja-mega-smash-ultimate-player6",
+          "cssClass": ".pokesprite.pokemon.greninja-mega-smash-ultimate-player6",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Greninja-Mega-Bonus-SmashUltimate-Player6-★",
+          "slug": "greninja-mega-smash-ultimate-player6",
+          "cssClass": ".pokesprite.pokemon.greninja-mega-smash-ultimate-player6.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Greninja-Mega-Bonus-SmashUltimate-Player6-3DS",
+          "slug": "greninja-mega-smash-ultimate-player6",
+          "cssClass": ".pokesprite.pokemon.greninja-mega-smash-ultimate-player6.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Greninja-Mega-Bonus-SmashUltimate-Player6-3DS-★",
+          "slug": "greninja-mega-smash-ultimate-player6",
+          "cssClass": ".pokesprite.pokemon.greninja-mega-smash-ultimate-player6.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Greninja-Mega-Bonus-SmashUltimate-Player6-Switch-Optional",
+          "slug": "greninja-mega-smash-ultimate-player6-optional",
+          "cssClass": ".pokesprite.pokemon.greninja-mega-smash-ultimate-player6-optional.switch",
+          "modifiers": [
+            "switch"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Greninja-Mega-Bonus-SmashUltimate-Player6-Switch-Optional-★",
+          "slug": "greninja-mega-smash-ultimate-player6-optional",
+          "cssClass": ".pokesprite.pokemon.greninja-mega-smash-ultimate-player6-optional.shiny.switch",
+          "modifiers": [
+            "shiny",
+            "switch"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Greninja-Mega-Bonus-SmashUltimate-Player7",
+          "slug": "greninja-mega-smash-ultimate-player7",
+          "cssClass": ".pokesprite.pokemon.greninja-mega-smash-ultimate-player7",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Greninja-Mega-Bonus-SmashUltimate-Player7-★",
+          "slug": "greninja-mega-smash-ultimate-player7",
+          "cssClass": ".pokesprite.pokemon.greninja-mega-smash-ultimate-player7.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Greninja-Mega-Bonus-SmashUltimate-Player7-3DS",
+          "slug": "greninja-mega-smash-ultimate-player7",
+          "cssClass": ".pokesprite.pokemon.greninja-mega-smash-ultimate-player7.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Greninja-Mega-Bonus-SmashUltimate-Player7-3DS-★",
+          "slug": "greninja-mega-smash-ultimate-player7",
+          "cssClass": ".pokesprite.pokemon.greninja-mega-smash-ultimate-player7.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Greninja-Mega-Bonus-SmashUltimate-Player7-Switch-Optional",
+          "slug": "greninja-mega-smash-ultimate-player7-optional",
+          "cssClass": ".pokesprite.pokemon.greninja-mega-smash-ultimate-player7-optional.switch",
+          "modifiers": [
+            "switch"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Greninja-Mega-Bonus-SmashUltimate-Player7-Switch-Optional-★",
+          "slug": "greninja-mega-smash-ultimate-player7-optional",
+          "cssClass": ".pokesprite.pokemon.greninja-mega-smash-ultimate-player7-optional.shiny.switch",
+          "modifiers": [
+            "shiny",
+            "switch"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Greninja-Mega-Bonus-SmashUltimate-Player8",
+          "slug": "greninja-mega-smash-ultimate-player8",
+          "cssClass": ".pokesprite.pokemon.greninja-mega-smash-ultimate-player8",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Greninja-Mega-Bonus-SmashUltimate-Player8-★",
+          "slug": "greninja-mega-smash-ultimate-player8",
+          "cssClass": ".pokesprite.pokemon.greninja-mega-smash-ultimate-player8.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Greninja-Mega-Bonus-SmashUltimate-Player8-3DS",
+          "slug": "greninja-mega-smash-ultimate-player8",
+          "cssClass": ".pokesprite.pokemon.greninja-mega-smash-ultimate-player8.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Greninja-Mega-Bonus-SmashUltimate-Player8-3DS-★",
+          "slug": "greninja-mega-smash-ultimate-player8",
+          "cssClass": ".pokesprite.pokemon.greninja-mega-smash-ultimate-player8.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Greninja-Mega-Bonus-SmashUltimate-Player8-Switch-Optional",
+          "slug": "greninja-mega-smash-ultimate-player8-optional",
+          "cssClass": ".pokesprite.pokemon.greninja-mega-smash-ultimate-player8-optional.switch",
+          "modifiers": [
+            "switch"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Greninja-Mega-Bonus-SmashUltimate-Player8-Switch-Optional-★",
+          "slug": "greninja-mega-smash-ultimate-player8-optional",
+          "cssClass": ".pokesprite.pokemon.greninja-mega-smash-ultimate-player8-optional.shiny.switch",
+          "modifiers": [
+            "shiny",
+            "switch"
           ],
           "categories": [
             "bonus"
