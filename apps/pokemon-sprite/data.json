@@ -6669,7 +6669,17 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Charizard-Megax-Bonus-Pokken-★",
+          "slug": "charizard-megax-pokken",
+          "cssClass": ".pokesprite.pokemon.charizard-megax-pokken.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -6683,7 +6693,18 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Charizard-Megax-Bonus-Pokken-3DS-★",
+          "slug": "charizard-megax-pokken",
+          "cssClass": ".pokesprite.pokemon.charizard-megax-pokken.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
