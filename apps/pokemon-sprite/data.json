@@ -6163,7 +6163,17 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Charizard-Bonus-Pokken-★",
+          "slug": "charizard-pokken",
+          "cssClass": ".pokesprite.pokemon.charizard-pokken.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -6177,7 +6187,18 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Charizard-Bonus-Pokken-3DS-★",
+          "slug": "charizard-pokken",
+          "cssClass": ".pokesprite.pokemon.charizard-pokken.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -6234,7 +6255,17 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Charizard-Bonus-SmashBrawl-Player2-★",
+          "slug": "charizard-smash-brawl-player2",
+          "cssClass": ".pokesprite.pokemon.charizard-smash-brawl-player2.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -6248,7 +6279,18 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Charizard-Bonus-SmashBrawl-Player2-3DS-★",
+          "slug": "charizard-smash-brawl-player2",
+          "cssClass": ".pokesprite.pokemon.charizard-smash-brawl-player2.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -6259,7 +6301,17 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Charizard-Bonus-SmashBrawl-Player3-★",
+          "slug": "charizard-smash-brawl-player3",
+          "cssClass": ".pokesprite.pokemon.charizard-smash-brawl-player3.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -6273,7 +6325,18 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Charizard-Bonus-SmashBrawl-Player3-3DS-★",
+          "slug": "charizard-smash-brawl-player3",
+          "cssClass": ".pokesprite.pokemon.charizard-smash-brawl-player3.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -6284,7 +6347,17 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Charizard-Bonus-SmashBrawl-Player4-★",
+          "slug": "charizard-smash-brawl-player4",
+          "cssClass": ".pokesprite.pokemon.charizard-smash-brawl-player4.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -6298,7 +6371,18 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Charizard-Bonus-SmashBrawl-Player4-3DS-★",
+          "slug": "charizard-smash-brawl-player4",
+          "cssClass": ".pokesprite.pokemon.charizard-smash-brawl-player4.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -6309,7 +6393,17 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Charizard-Bonus-SmashBrawl-Player5-★",
+          "slug": "charizard-smash-brawl-player5",
+          "cssClass": ".pokesprite.pokemon.charizard-smash-brawl-player5.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -6323,7 +6417,18 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Charizard-Bonus-SmashBrawl-Player5-3DS-★",
+          "slug": "charizard-smash-brawl-player5",
+          "cssClass": ".pokesprite.pokemon.charizard-smash-brawl-player5.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -6334,7 +6439,17 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Charizard-Bonus-SmashUltimate-Player10-★",
+          "slug": "charizard-smash-ultimate-player10",
+          "cssClass": ".pokesprite.pokemon.charizard-smash-ultimate-player10.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -6348,7 +6463,18 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Charizard-Bonus-SmashUltimate-Player10-3DS-★",
+          "slug": "charizard-smash-ultimate-player10",
+          "cssClass": ".pokesprite.pokemon.charizard-smash-ultimate-player10.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -6359,7 +6485,17 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Charizard-Bonus-SmashUltimate-Player6-★",
+          "slug": "charizard-smash-ultimate-player6",
+          "cssClass": ".pokesprite.pokemon.charizard-smash-ultimate-player6.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -6373,7 +6509,18 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Charizard-Bonus-SmashUltimate-Player6-3DS-★",
+          "slug": "charizard-smash-ultimate-player6",
+          "cssClass": ".pokesprite.pokemon.charizard-smash-ultimate-player6.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -6384,7 +6531,17 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Charizard-Bonus-SmashUltimate-Player7-★",
+          "slug": "charizard-smash-ultimate-player7",
+          "cssClass": ".pokesprite.pokemon.charizard-smash-ultimate-player7.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -6398,7 +6555,18 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Charizard-Bonus-SmashUltimate-Player7-3DS-★",
+          "slug": "charizard-smash-ultimate-player7",
+          "cssClass": ".pokesprite.pokemon.charizard-smash-ultimate-player7.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -6409,7 +6577,17 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Charizard-Bonus-SmashUltimate-Player8-★",
+          "slug": "charizard-smash-ultimate-player8",
+          "cssClass": ".pokesprite.pokemon.charizard-smash-ultimate-player8.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -6423,7 +6601,18 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Charizard-Bonus-SmashUltimate-Player8-3DS-★",
+          "slug": "charizard-smash-ultimate-player8",
+          "cssClass": ".pokesprite.pokemon.charizard-smash-ultimate-player8.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -6434,7 +6623,17 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Charizard-Bonus-SmashUltimate-Player9-★",
+          "slug": "charizard-smash-ultimate-player9",
+          "cssClass": ".pokesprite.pokemon.charizard-smash-ultimate-player9.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -6448,7 +6647,18 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Charizard-Bonus-SmashUltimate-Player9-3DS-★",
+          "slug": "charizard-smash-ultimate-player9",
+          "cssClass": ".pokesprite.pokemon.charizard-smash-ultimate-player9.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -26595,7 +26805,17 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Pikachu-Bonus-Mechachu-★",
+          "slug": "pikachu-mechachu",
+          "cssClass": ".pokesprite.pokemon.pikachu-mechachu.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -26609,7 +26829,18 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Pikachu-Bonus-Mechachu-3DS-★",
+          "slug": "pikachu-mechachu",
+          "cssClass": ".pokesprite.pokemon.pikachu-mechachu.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
