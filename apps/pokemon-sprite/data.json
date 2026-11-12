@@ -41888,7 +41888,17 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Machamp-Bonus-Pokken-★",
+          "slug": "machamp-pokken",
+          "cssClass": ".pokesprite.pokemon.machamp-pokken.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -41902,7 +41912,18 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Machamp-Bonus-Pokken-3DS-★",
+          "slug": "machamp-pokken",
+          "cssClass": ".pokesprite.pokemon.machamp-pokken.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -41941,6 +41962,52 @@
           "name": "Machamp-Bonus-RidePager-3DS-★",
           "slug": "machamp-ride-pager",
           "cssClass": ".pokesprite.pokemon.machamp-ride-pager.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Machamp-Gmax-Bonus-Pokken",
+          "slug": "machamp-gmax-pokken",
+          "cssClass": ".pokesprite.pokemon.machamp-gmax-pokken",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Machamp-Gmax-Bonus-Pokken-★",
+          "slug": "machamp-gmax-pokken",
+          "cssClass": ".pokesprite.pokemon.machamp-gmax-pokken.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Machamp-Gmax-Bonus-Pokken-3DS",
+          "slug": "machamp-gmax-pokken",
+          "cssClass": ".pokesprite.pokemon.machamp-gmax-pokken.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Machamp-Gmax-Bonus-Pokken-3DS-★",
+          "slug": "machamp-gmax-pokken",
+          "cssClass": ".pokesprite.pokemon.machamp-gmax-pokken.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -44150,7 +44217,17 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Magnemite-Bonus-Channel-★",
+          "slug": "magnemite-channel",
+          "cssClass": ".pokesprite.pokemon.magnemite-channel.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -44164,7 +44241,18 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Magnemite-Bonus-Channel-3DS-★",
+          "slug": "magnemite-channel",
+          "cssClass": ".pokesprite.pokemon.magnemite-channel.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       }
     ]
   },
@@ -47043,7 +47131,17 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Gengar-Bonus-Pokken-★",
+          "slug": "gengar-pokken",
+          "cssClass": ".pokesprite.pokemon.gengar-pokken.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -47057,7 +47155,64 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Gengar-Bonus-Pokken-3DS-★",
+          "slug": "gengar-pokken",
+          "cssClass": ".pokesprite.pokemon.gengar-pokken.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Gengar-Gmax-Bonus-Pokken",
+          "slug": "gengar-gmax-pokken",
+          "cssClass": ".pokesprite.pokemon.gengar-gmax-pokken",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Gengar-Gmax-Bonus-Pokken-★",
+          "slug": "gengar-gmax-pokken",
+          "cssClass": ".pokesprite.pokemon.gengar-gmax-pokken.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Gengar-Gmax-Bonus-Pokken-3DS",
+          "slug": "gengar-gmax-pokken",
+          "cssClass": ".pokesprite.pokemon.gengar-gmax-pokken.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Gengar-Gmax-Bonus-Pokken-3DS-★",
+          "slug": "gengar-gmax-pokken",
+          "cssClass": ".pokesprite.pokemon.gengar-gmax-pokken.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -47068,7 +47223,17 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Gengar-Mega-Bonus-Pokken-★",
+          "slug": "gengar-mega-pokken",
+          "cssClass": ".pokesprite.pokemon.gengar-mega-pokken.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -47082,7 +47247,18 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Gengar-Mega-Bonus-Pokken-3DS-★",
+          "slug": "gengar-mega-pokken",
+          "cssClass": ".pokesprite.pokemon.gengar-mega-pokken.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       }
     ]
   },
@@ -52827,7 +53003,17 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Chansey-Bonus-Stadium-Player2-★",
+          "slug": "chansey-stadium-player2",
+          "cssClass": ".pokesprite.pokemon.chansey-stadium-player2.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -52841,7 +53027,18 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Chansey-Bonus-Stadium-Player2-3DS-★",
+          "slug": "chansey-stadium-player2",
+          "cssClass": ".pokesprite.pokemon.chansey-stadium-player2.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -52852,7 +53049,17 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Chansey-Bonus-Stadium-Player3-★",
+          "slug": "chansey-stadium-player3",
+          "cssClass": ".pokesprite.pokemon.chansey-stadium-player3.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -52866,7 +53073,18 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Chansey-Bonus-Stadium-Player3-3DS-★",
+          "slug": "chansey-stadium-player3",
+          "cssClass": ".pokesprite.pokemon.chansey-stadium-player3.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -52877,7 +53095,17 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Chansey-Bonus-Stadium-Player4-★",
+          "slug": "chansey-stadium-player4",
+          "cssClass": ".pokesprite.pokemon.chansey-stadium-player4.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -52891,7 +53119,18 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Chansey-Bonus-Stadium-Player4-3DS-★",
+          "slug": "chansey-stadium-player4",
+          "cssClass": ".pokesprite.pokemon.chansey-stadium-player4.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       }
     ]
   },
