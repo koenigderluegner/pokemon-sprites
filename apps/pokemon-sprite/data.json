@@ -6740,7 +6740,17 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Charizard-Megax-Bonus-SmashWiiU3DS-Player2-★",
+          "slug": "charizard-megax-smash-wii-u3-ds-player2",
+          "cssClass": ".pokesprite.pokemon.charizard-megax-smash-wii-u3-ds-player2.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
