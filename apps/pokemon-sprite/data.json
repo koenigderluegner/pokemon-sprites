@@ -35498,7 +35498,17 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Jigglypuff-Bonus-Smash64-Player2-★",
+          "slug": "jigglypuff-smash64-player2",
+          "cssClass": ".pokesprite.pokemon.jigglypuff-smash64-player2.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -35512,7 +35522,18 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Jigglypuff-Bonus-Smash64-Player2-3DS-★",
+          "slug": "jigglypuff-smash64-player2",
+          "cssClass": ".pokesprite.pokemon.jigglypuff-smash64-player2.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -35523,7 +35544,17 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Jigglypuff-Bonus-Smash64-Player3-★",
+          "slug": "jigglypuff-smash64-player3",
+          "cssClass": ".pokesprite.pokemon.jigglypuff-smash64-player3.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -35537,7 +35568,18 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Jigglypuff-Bonus-Smash64-Player3-3DS-★",
+          "slug": "jigglypuff-smash64-player3",
+          "cssClass": ".pokesprite.pokemon.jigglypuff-smash64-player3.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -35548,7 +35590,17 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Jigglypuff-Bonus-Smash64-Player4-★",
+          "slug": "jigglypuff-smash64-player4",
+          "cssClass": ".pokesprite.pokemon.jigglypuff-smash64-player4.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -35562,7 +35614,18 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Jigglypuff-Bonus-Smash64-Player4-3DS-★",
+          "slug": "jigglypuff-smash64-player4",
+          "cssClass": ".pokesprite.pokemon.jigglypuff-smash64-player4.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -35573,7 +35636,17 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Jigglypuff-Bonus-SmashBrawl-Player2-★",
+          "slug": "jigglypuff-smash-brawl-player2",
+          "cssClass": ".pokesprite.pokemon.jigglypuff-smash-brawl-player2.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -35587,7 +35660,18 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Jigglypuff-Bonus-SmashBrawl-Player2-3DS-★",
+          "slug": "jigglypuff-smash-brawl-player2",
+          "cssClass": ".pokesprite.pokemon.jigglypuff-smash-brawl-player2.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -35598,7 +35682,17 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Jigglypuff-Bonus-SmashBrawl-Player3-★",
+          "slug": "jigglypuff-smash-brawl-player3",
+          "cssClass": ".pokesprite.pokemon.jigglypuff-smash-brawl-player3.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -35612,7 +35706,18 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Jigglypuff-Bonus-SmashBrawl-Player3-3DS-★",
+          "slug": "jigglypuff-smash-brawl-player3",
+          "cssClass": ".pokesprite.pokemon.jigglypuff-smash-brawl-player3.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -35623,7 +35728,17 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Jigglypuff-Bonus-SmashBrawl-Player4-★",
+          "slug": "jigglypuff-smash-brawl-player4",
+          "cssClass": ".pokesprite.pokemon.jigglypuff-smash-brawl-player4.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -35637,7 +35752,18 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Jigglypuff-Bonus-SmashBrawl-Player4-3DS-★",
+          "slug": "jigglypuff-smash-brawl-player4",
+          "cssClass": ".pokesprite.pokemon.jigglypuff-smash-brawl-player4.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -35648,7 +35774,17 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Jigglypuff-Bonus-SmashMelee-Player2-★",
+          "slug": "jigglypuff-smash-melee-player2",
+          "cssClass": ".pokesprite.pokemon.jigglypuff-smash-melee-player2.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -35662,7 +35798,18 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Jigglypuff-Bonus-SmashMelee-Player2-3DS-★",
+          "slug": "jigglypuff-smash-melee-player2",
+          "cssClass": ".pokesprite.pokemon.jigglypuff-smash-melee-player2.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -35673,7 +35820,17 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Jigglypuff-Bonus-SmashMelee-Player3-★",
+          "slug": "jigglypuff-smash-melee-player3",
+          "cssClass": ".pokesprite.pokemon.jigglypuff-smash-melee-player3.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -35687,7 +35844,18 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Jigglypuff-Bonus-SmashMelee-Player3-3DS-★",
+          "slug": "jigglypuff-smash-melee-player3",
+          "cssClass": ".pokesprite.pokemon.jigglypuff-smash-melee-player3.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -35698,7 +35866,17 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Jigglypuff-Bonus-SmashMelee-Player4-★",
+          "slug": "jigglypuff-smash-melee-player4",
+          "cssClass": ".pokesprite.pokemon.jigglypuff-smash-melee-player4.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -35712,7 +35890,18 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Jigglypuff-Bonus-SmashMelee-Player4-3DS-★",
+          "slug": "jigglypuff-smash-melee-player4",
+          "cssClass": ".pokesprite.pokemon.jigglypuff-smash-melee-player4.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -35723,7 +35912,17 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Jigglypuff-Bonus-SmashMelee-Player5-★",
+          "slug": "jigglypuff-smash-melee-player5",
+          "cssClass": ".pokesprite.pokemon.jigglypuff-smash-melee-player5.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -35737,7 +35936,18 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Jigglypuff-Bonus-SmashMelee-Player5-3DS-★",
+          "slug": "jigglypuff-smash-melee-player5",
+          "cssClass": ".pokesprite.pokemon.jigglypuff-smash-melee-player5.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -35748,7 +35958,17 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Jigglypuff-Bonus-SmashWiiU3DS-Player5-★",
+          "slug": "jigglypuff-smash-wii-u3-ds-player5",
+          "cssClass": ".pokesprite.pokemon.jigglypuff-smash-wii-u3-ds-player5.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -35762,7 +35982,18 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Jigglypuff-Bonus-SmashWiiU3DS-Player5-3DS-★",
+          "slug": "jigglypuff-smash-wii-u3-ds-player5",
+          "cssClass": ".pokesprite.pokemon.jigglypuff-smash-wii-u3-ds-player5.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -35773,7 +36004,17 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Jigglypuff-Bonus-SmashWiiU3DS-Player6-★",
+          "slug": "jigglypuff-smash-wii-u3-ds-player6",
+          "cssClass": ".pokesprite.pokemon.jigglypuff-smash-wii-u3-ds-player6.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -35787,7 +36028,18 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Jigglypuff-Bonus-SmashWiiU3DS-Player6-3DS-★",
+          "slug": "jigglypuff-smash-wii-u3-ds-player6",
+          "cssClass": ".pokesprite.pokemon.jigglypuff-smash-wii-u3-ds-player6.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       }
     ]
   },
@@ -36216,7 +36468,17 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Golbat-Bonus-Stadium-Player2-★",
+          "slug": "golbat-stadium-player2",
+          "cssClass": ".pokesprite.pokemon.golbat-stadium-player2.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -36230,7 +36492,18 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Golbat-Bonus-Stadium-Player2-3DS-★",
+          "slug": "golbat-stadium-player2",
+          "cssClass": ".pokesprite.pokemon.golbat-stadium-player2.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -36241,7 +36514,17 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Golbat-Bonus-Stadium-Player2-F-★",
+          "slug": "golbat-stadium-player2-f",
+          "cssClass": ".pokesprite.pokemon.golbat-stadium-player2-f.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -36255,7 +36538,18 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Golbat-Bonus-Stadium-Player2-F-3DS-★",
+          "slug": "golbat-stadium-player2-f",
+          "cssClass": ".pokesprite.pokemon.golbat-stadium-player2-f.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -36266,7 +36560,17 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Golbat-Bonus-Stadium-Player3-★",
+          "slug": "golbat-stadium-player3",
+          "cssClass": ".pokesprite.pokemon.golbat-stadium-player3.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -36280,7 +36584,18 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Golbat-Bonus-Stadium-Player3-3DS-★",
+          "slug": "golbat-stadium-player3",
+          "cssClass": ".pokesprite.pokemon.golbat-stadium-player3.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -36291,7 +36606,17 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Golbat-Bonus-Stadium-Player3-F-★",
+          "slug": "golbat-stadium-player3-f",
+          "cssClass": ".pokesprite.pokemon.golbat-stadium-player3-f.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -36305,7 +36630,18 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Golbat-Bonus-Stadium-Player3-F-3DS-★",
+          "slug": "golbat-stadium-player3-f",
+          "cssClass": ".pokesprite.pokemon.golbat-stadium-player3-f.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -36316,7 +36652,17 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Golbat-Bonus-Stadium-Player4-★",
+          "slug": "golbat-stadium-player4",
+          "cssClass": ".pokesprite.pokemon.golbat-stadium-player4.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -36330,7 +36676,18 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Golbat-Bonus-Stadium-Player4-3DS-★",
+          "slug": "golbat-stadium-player4",
+          "cssClass": ".pokesprite.pokemon.golbat-stadium-player4.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -36341,7 +36698,17 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Golbat-Bonus-Stadium-Player4-F-★",
+          "slug": "golbat-stadium-player4-f",
+          "cssClass": ".pokesprite.pokemon.golbat-stadium-player4-f.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -36355,7 +36722,18 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Golbat-Bonus-Stadium-Player4-F-3DS-★",
+          "slug": "golbat-stadium-player4-f",
+          "cssClass": ".pokesprite.pokemon.golbat-stadium-player4-f.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       }
     ]
   },
@@ -37269,7 +37647,17 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Diglett-Bonus-StadiumMinigame-★",
+          "slug": "diglett-stadium-minigame",
+          "cssClass": ".pokesprite.pokemon.diglett-stadium-minigame.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -37283,7 +37671,18 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Diglett-Bonus-StadiumMinigame-3DS-★",
+          "slug": "diglett-stadium-minigame",
+          "cssClass": ".pokesprite.pokemon.diglett-stadium-minigame.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       }
     ]
   },
