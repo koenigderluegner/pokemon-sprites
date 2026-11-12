@@ -36209,7 +36209,7 @@
       },
       {
         "regular": {
-          "name": "Golbat-Bonus-StadiumPlayer2",
+          "name": "Golbat-Bonus-Stadium-Player2",
           "slug": "golbat-stadium-player2",
           "cssClass": ".pokesprite.pokemon.golbat-stadium-player2",
           "categories": [
@@ -36220,7 +36220,7 @@
       },
       {
         "regular": {
-          "name": "Golbat-Bonus-StadiumPlayer2-3DS",
+          "name": "Golbat-Bonus-Stadium-Player2-3DS",
           "slug": "golbat-stadium-player2",
           "cssClass": ".pokesprite.pokemon.golbat-stadium-player2.n3ds",
           "modifiers": [
@@ -36234,7 +36234,7 @@
       },
       {
         "regular": {
-          "name": "Golbat-Bonus-StadiumPlayer2-F",
+          "name": "Golbat-Bonus-Stadium-Player2-F",
           "slug": "golbat-stadium-player2-f",
           "cssClass": ".pokesprite.pokemon.golbat-stadium-player2-f",
           "categories": [
@@ -36245,7 +36245,7 @@
       },
       {
         "regular": {
-          "name": "Golbat-Bonus-StadiumPlayer2-F-3DS",
+          "name": "Golbat-Bonus-Stadium-Player2-F-3DS",
           "slug": "golbat-stadium-player2-f",
           "cssClass": ".pokesprite.pokemon.golbat-stadium-player2-f.n3ds",
           "modifiers": [
@@ -36259,7 +36259,7 @@
       },
       {
         "regular": {
-          "name": "Golbat-Bonus-StadiumPlayer3",
+          "name": "Golbat-Bonus-Stadium-Player3",
           "slug": "golbat-stadium-player3",
           "cssClass": ".pokesprite.pokemon.golbat-stadium-player3",
           "categories": [
@@ -36270,7 +36270,7 @@
       },
       {
         "regular": {
-          "name": "Golbat-Bonus-StadiumPlayer3-3DS",
+          "name": "Golbat-Bonus-Stadium-Player3-3DS",
           "slug": "golbat-stadium-player3",
           "cssClass": ".pokesprite.pokemon.golbat-stadium-player3.n3ds",
           "modifiers": [
@@ -36284,7 +36284,7 @@
       },
       {
         "regular": {
-          "name": "Golbat-Bonus-StadiumPlayer3-F",
+          "name": "Golbat-Bonus-Stadium-Player3-F",
           "slug": "golbat-stadium-player3-f",
           "cssClass": ".pokesprite.pokemon.golbat-stadium-player3-f",
           "categories": [
@@ -36295,7 +36295,7 @@
       },
       {
         "regular": {
-          "name": "Golbat-Bonus-StadiumPlayer3-F-3DS",
+          "name": "Golbat-Bonus-Stadium-Player3-F-3DS",
           "slug": "golbat-stadium-player3-f",
           "cssClass": ".pokesprite.pokemon.golbat-stadium-player3-f.n3ds",
           "modifiers": [
@@ -36309,7 +36309,7 @@
       },
       {
         "regular": {
-          "name": "Golbat-Bonus-StadiumPlayer4",
+          "name": "Golbat-Bonus-Stadium-Player4",
           "slug": "golbat-stadium-player4",
           "cssClass": ".pokesprite.pokemon.golbat-stadium-player4",
           "categories": [
@@ -36320,7 +36320,7 @@
       },
       {
         "regular": {
-          "name": "Golbat-Bonus-StadiumPlayer4-3DS",
+          "name": "Golbat-Bonus-Stadium-Player4-3DS",
           "slug": "golbat-stadium-player4",
           "cssClass": ".pokesprite.pokemon.golbat-stadium-player4.n3ds",
           "modifiers": [
@@ -36334,7 +36334,7 @@
       },
       {
         "regular": {
-          "name": "Golbat-Bonus-StadiumPlayer4-F",
+          "name": "Golbat-Bonus-Stadium-Player4-F",
           "slug": "golbat-stadium-player4-f",
           "cssClass": ".pokesprite.pokemon.golbat-stadium-player4-f",
           "categories": [
@@ -36345,7 +36345,7 @@
       },
       {
         "regular": {
-          "name": "Golbat-Bonus-StadiumPlayer4-F-3DS",
+          "name": "Golbat-Bonus-Stadium-Player4-F-3DS",
           "slug": "golbat-stadium-player4-f",
           "cssClass": ".pokesprite.pokemon.golbat-stadium-player4-f.n3ds",
           "modifiers": [
@@ -52820,7 +52820,7 @@
       },
       {
         "regular": {
-          "name": "Chansey-Bonus-StadiumPlayer2",
+          "name": "Chansey-Bonus-Stadium-Player2",
           "slug": "chansey-stadium-player2",
           "cssClass": ".pokesprite.pokemon.chansey-stadium-player2",
           "categories": [
@@ -52831,7 +52831,7 @@
       },
       {
         "regular": {
-          "name": "Chansey-Bonus-StadiumPlayer2-3DS",
+          "name": "Chansey-Bonus-Stadium-Player2-3DS",
           "slug": "chansey-stadium-player2",
           "cssClass": ".pokesprite.pokemon.chansey-stadium-player2.n3ds",
           "modifiers": [
@@ -52845,7 +52845,7 @@
       },
       {
         "regular": {
-          "name": "Chansey-Bonus-StadiumPlayer3",
+          "name": "Chansey-Bonus-Stadium-Player3",
           "slug": "chansey-stadium-player3",
           "cssClass": ".pokesprite.pokemon.chansey-stadium-player3",
           "categories": [
@@ -52856,7 +52856,7 @@
       },
       {
         "regular": {
-          "name": "Chansey-Bonus-StadiumPlayer3-3DS",
+          "name": "Chansey-Bonus-Stadium-Player3-3DS",
           "slug": "chansey-stadium-player3",
           "cssClass": ".pokesprite.pokemon.chansey-stadium-player3.n3ds",
           "modifiers": [
@@ -52870,7 +52870,7 @@
       },
       {
         "regular": {
-          "name": "Chansey-Bonus-StadiumPlayer4",
+          "name": "Chansey-Bonus-Stadium-Player4",
           "slug": "chansey-stadium-player4",
           "cssClass": ".pokesprite.pokemon.chansey-stadium-player4",
           "categories": [
@@ -52881,7 +52881,7 @@
       },
       {
         "regular": {
-          "name": "Chansey-Bonus-StadiumPlayer4-3DS",
+          "name": "Chansey-Bonus-Stadium-Player4-3DS",
           "slug": "chansey-stadium-player4",
           "cssClass": ".pokesprite.pokemon.chansey-stadium-player4.n3ds",
           "modifiers": [
@@ -65446,7 +65446,7 @@
       },
       {
         "regular": {
-          "name": "Eevee-Bonus-StadiumPlayer2",
+          "name": "Eevee-Bonus-Stadium-Player2",
           "slug": "eevee-stadium-player2",
           "cssClass": ".pokesprite.pokemon.eevee-stadium-player2",
           "categories": [
@@ -65454,7 +65454,7 @@
           ]
         },
         "shiny": {
-          "name": "Eevee-Bonus-StadiumPlayer2-★",
+          "name": "Eevee-Bonus-Stadium-Player2-★",
           "slug": "eevee-stadium-player2",
           "cssClass": ".pokesprite.pokemon.eevee-stadium-player2.shiny",
           "modifiers": [
@@ -65467,7 +65467,7 @@
       },
       {
         "regular": {
-          "name": "Eevee-Bonus-StadiumPlayer2-3DS",
+          "name": "Eevee-Bonus-Stadium-Player2-3DS",
           "slug": "eevee-stadium-player2",
           "cssClass": ".pokesprite.pokemon.eevee-stadium-player2.n3ds",
           "modifiers": [
@@ -65478,7 +65478,7 @@
           ]
         },
         "shiny": {
-          "name": "Eevee-Bonus-StadiumPlayer2-3DS-★",
+          "name": "Eevee-Bonus-Stadium-Player2-3DS-★",
           "slug": "eevee-stadium-player2",
           "cssClass": ".pokesprite.pokemon.eevee-stadium-player2.shiny.n3ds",
           "modifiers": [
@@ -65492,7 +65492,7 @@
       },
       {
         "regular": {
-          "name": "Eevee-Bonus-StadiumPlayer2-F",
+          "name": "Eevee-Bonus-Stadium-Player2-F",
           "slug": "eevee-stadium-player2-f",
           "cssClass": ".pokesprite.pokemon.eevee-stadium-player2-f",
           "categories": [
@@ -65500,7 +65500,7 @@
           ]
         },
         "shiny": {
-          "name": "Eevee-Bonus-StadiumPlayer2-F-★",
+          "name": "Eevee-Bonus-Stadium-Player2-F-★",
           "slug": "eevee-stadium-player2-f",
           "cssClass": ".pokesprite.pokemon.eevee-stadium-player2-f.shiny",
           "modifiers": [
@@ -65513,7 +65513,7 @@
       },
       {
         "regular": {
-          "name": "Eevee-Bonus-StadiumPlayer2-F-3DS",
+          "name": "Eevee-Bonus-Stadium-Player2-F-3DS",
           "slug": "eevee-stadium-player2-f",
           "cssClass": ".pokesprite.pokemon.eevee-stadium-player2-f.n3ds",
           "modifiers": [
@@ -65524,7 +65524,7 @@
           ]
         },
         "shiny": {
-          "name": "Eevee-Bonus-StadiumPlayer2-F-3DS-★",
+          "name": "Eevee-Bonus-Stadium-Player2-F-3DS-★",
           "slug": "eevee-stadium-player2-f",
           "cssClass": ".pokesprite.pokemon.eevee-stadium-player2-f.shiny.n3ds",
           "modifiers": [
@@ -65538,7 +65538,7 @@
       },
       {
         "regular": {
-          "name": "Eevee-Bonus-StadiumPlayer3",
+          "name": "Eevee-Bonus-Stadium-Player3",
           "slug": "eevee-stadium-player3",
           "cssClass": ".pokesprite.pokemon.eevee-stadium-player3",
           "categories": [
@@ -65546,7 +65546,7 @@
           ]
         },
         "shiny": {
-          "name": "Eevee-Bonus-StadiumPlayer3-★",
+          "name": "Eevee-Bonus-Stadium-Player3-★",
           "slug": "eevee-stadium-player3",
           "cssClass": ".pokesprite.pokemon.eevee-stadium-player3.shiny",
           "modifiers": [
@@ -65559,7 +65559,7 @@
       },
       {
         "regular": {
-          "name": "Eevee-Bonus-StadiumPlayer3-3DS",
+          "name": "Eevee-Bonus-Stadium-Player3-3DS",
           "slug": "eevee-stadium-player3",
           "cssClass": ".pokesprite.pokemon.eevee-stadium-player3.n3ds",
           "modifiers": [
@@ -65570,7 +65570,7 @@
           ]
         },
         "shiny": {
-          "name": "Eevee-Bonus-StadiumPlayer3-3DS-★",
+          "name": "Eevee-Bonus-Stadium-Player3-3DS-★",
           "slug": "eevee-stadium-player3",
           "cssClass": ".pokesprite.pokemon.eevee-stadium-player3.shiny.n3ds",
           "modifiers": [
@@ -65584,7 +65584,7 @@
       },
       {
         "regular": {
-          "name": "Eevee-Bonus-StadiumPlayer3-F",
+          "name": "Eevee-Bonus-Stadium-Player3-F",
           "slug": "eevee-stadium-player3-f",
           "cssClass": ".pokesprite.pokemon.eevee-stadium-player3-f",
           "categories": [
@@ -65592,7 +65592,7 @@
           ]
         },
         "shiny": {
-          "name": "Eevee-Bonus-StadiumPlayer3-F-★",
+          "name": "Eevee-Bonus-Stadium-Player3-F-★",
           "slug": "eevee-stadium-player3-f",
           "cssClass": ".pokesprite.pokemon.eevee-stadium-player3-f.shiny",
           "modifiers": [
@@ -65605,7 +65605,7 @@
       },
       {
         "regular": {
-          "name": "Eevee-Bonus-StadiumPlayer3-F-3DS",
+          "name": "Eevee-Bonus-Stadium-Player3-F-3DS",
           "slug": "eevee-stadium-player3-f",
           "cssClass": ".pokesprite.pokemon.eevee-stadium-player3-f.n3ds",
           "modifiers": [
@@ -65616,7 +65616,7 @@
           ]
         },
         "shiny": {
-          "name": "Eevee-Bonus-StadiumPlayer3-F-3DS-★",
+          "name": "Eevee-Bonus-Stadium-Player3-F-3DS-★",
           "slug": "eevee-stadium-player3-f",
           "cssClass": ".pokesprite.pokemon.eevee-stadium-player3-f.shiny.n3ds",
           "modifiers": [
@@ -65630,7 +65630,7 @@
       },
       {
         "regular": {
-          "name": "Eevee-Bonus-StadiumPlayer4",
+          "name": "Eevee-Bonus-Stadium-Player4",
           "slug": "eevee-stadium-player4",
           "cssClass": ".pokesprite.pokemon.eevee-stadium-player4",
           "categories": [
@@ -65638,7 +65638,7 @@
           ]
         },
         "shiny": {
-          "name": "Eevee-Bonus-StadiumPlayer4-★",
+          "name": "Eevee-Bonus-Stadium-Player4-★",
           "slug": "eevee-stadium-player4",
           "cssClass": ".pokesprite.pokemon.eevee-stadium-player4.shiny",
           "modifiers": [
@@ -65651,7 +65651,7 @@
       },
       {
         "regular": {
-          "name": "Eevee-Bonus-StadiumPlayer4-3DS",
+          "name": "Eevee-Bonus-Stadium-Player4-3DS",
           "slug": "eevee-stadium-player4",
           "cssClass": ".pokesprite.pokemon.eevee-stadium-player4.n3ds",
           "modifiers": [
@@ -65662,7 +65662,7 @@
           ]
         },
         "shiny": {
-          "name": "Eevee-Bonus-StadiumPlayer4-3DS-★",
+          "name": "Eevee-Bonus-Stadium-Player4-3DS-★",
           "slug": "eevee-stadium-player4",
           "cssClass": ".pokesprite.pokemon.eevee-stadium-player4.shiny.n3ds",
           "modifiers": [
@@ -65676,7 +65676,7 @@
       },
       {
         "regular": {
-          "name": "Eevee-Bonus-StadiumPlayer4-F",
+          "name": "Eevee-Bonus-Stadium-Player4-F",
           "slug": "eevee-stadium-player4-f",
           "cssClass": ".pokesprite.pokemon.eevee-stadium-player4-f",
           "categories": [
@@ -65684,7 +65684,7 @@
           ]
         },
         "shiny": {
-          "name": "Eevee-Bonus-StadiumPlayer4-F-★",
+          "name": "Eevee-Bonus-Stadium-Player4-F-★",
           "slug": "eevee-stadium-player4-f",
           "cssClass": ".pokesprite.pokemon.eevee-stadium-player4-f.shiny",
           "modifiers": [
@@ -65697,7 +65697,7 @@
       },
       {
         "regular": {
-          "name": "Eevee-Bonus-StadiumPlayer4-F-3DS",
+          "name": "Eevee-Bonus-Stadium-Player4-F-3DS",
           "slug": "eevee-stadium-player4-f",
           "cssClass": ".pokesprite.pokemon.eevee-stadium-player4-f.n3ds",
           "modifiers": [
@@ -65708,7 +65708,7 @@
           ]
         },
         "shiny": {
-          "name": "Eevee-Bonus-StadiumPlayer4-F-3DS-★",
+          "name": "Eevee-Bonus-Stadium-Player4-F-3DS-★",
           "slug": "eevee-stadium-player4-f",
           "cssClass": ".pokesprite.pokemon.eevee-stadium-player4-f.shiny.n3ds",
           "modifiers": [
@@ -65722,7 +65722,7 @@
       },
       {
         "regular": {
-          "name": "Eevee-Gmax-Bonus-StadiumPlayer2",
+          "name": "Eevee-Gmax-Bonus-Stadium-Player2",
           "slug": "eevee-gmax-stadium-player2",
           "cssClass": ".pokesprite.pokemon.eevee-gmax-stadium-player2",
           "categories": [
@@ -65730,7 +65730,7 @@
           ]
         },
         "shiny": {
-          "name": "Eevee-Gmax-Bonus-StadiumPlayer2-★",
+          "name": "Eevee-Gmax-Bonus-Stadium-Player2-★",
           "slug": "eevee-gmax-stadium-player2",
           "cssClass": ".pokesprite.pokemon.eevee-gmax-stadium-player2.shiny",
           "modifiers": [
@@ -65743,7 +65743,7 @@
       },
       {
         "regular": {
-          "name": "Eevee-Gmax-Bonus-StadiumPlayer2-3DS",
+          "name": "Eevee-Gmax-Bonus-Stadium-Player2-3DS",
           "slug": "eevee-gmax-stadium-player2",
           "cssClass": ".pokesprite.pokemon.eevee-gmax-stadium-player2.n3ds",
           "modifiers": [
@@ -65754,7 +65754,7 @@
           ]
         },
         "shiny": {
-          "name": "Eevee-Gmax-Bonus-StadiumPlayer2-3DS-★",
+          "name": "Eevee-Gmax-Bonus-Stadium-Player2-3DS-★",
           "slug": "eevee-gmax-stadium-player2",
           "cssClass": ".pokesprite.pokemon.eevee-gmax-stadium-player2.shiny.n3ds",
           "modifiers": [
@@ -65768,7 +65768,7 @@
       },
       {
         "regular": {
-          "name": "Eevee-Gmax-Bonus-StadiumPlayer3",
+          "name": "Eevee-Gmax-Bonus-Stadium-Player3",
           "slug": "eevee-gmax-stadium-player3",
           "cssClass": ".pokesprite.pokemon.eevee-gmax-stadium-player3",
           "categories": [
@@ -65776,7 +65776,7 @@
           ]
         },
         "shiny": {
-          "name": "Eevee-Gmax-Bonus-StadiumPlayer3-★",
+          "name": "Eevee-Gmax-Bonus-Stadium-Player3-★",
           "slug": "eevee-gmax-stadium-player3",
           "cssClass": ".pokesprite.pokemon.eevee-gmax-stadium-player3.shiny",
           "modifiers": [
@@ -65789,7 +65789,7 @@
       },
       {
         "regular": {
-          "name": "Eevee-Gmax-Bonus-StadiumPlayer3-3DS",
+          "name": "Eevee-Gmax-Bonus-Stadium-Player3-3DS",
           "slug": "eevee-gmax-stadium-player3",
           "cssClass": ".pokesprite.pokemon.eevee-gmax-stadium-player3.n3ds",
           "modifiers": [
@@ -65800,7 +65800,7 @@
           ]
         },
         "shiny": {
-          "name": "Eevee-Gmax-Bonus-StadiumPlayer3-3DS-★",
+          "name": "Eevee-Gmax-Bonus-Stadium-Player3-3DS-★",
           "slug": "eevee-gmax-stadium-player3",
           "cssClass": ".pokesprite.pokemon.eevee-gmax-stadium-player3.shiny.n3ds",
           "modifiers": [
@@ -65814,7 +65814,7 @@
       },
       {
         "regular": {
-          "name": "Eevee-Gmax-Bonus-StadiumPlayer4",
+          "name": "Eevee-Gmax-Bonus-Stadium-Player4",
           "slug": "eevee-gmax-stadium-player4",
           "cssClass": ".pokesprite.pokemon.eevee-gmax-stadium-player4",
           "categories": [
@@ -65822,7 +65822,7 @@
           ]
         },
         "shiny": {
-          "name": "Eevee-Gmax-Bonus-StadiumPlayer4-★",
+          "name": "Eevee-Gmax-Bonus-Stadium-Player4-★",
           "slug": "eevee-gmax-stadium-player4",
           "cssClass": ".pokesprite.pokemon.eevee-gmax-stadium-player4.shiny",
           "modifiers": [
@@ -65835,7 +65835,7 @@
       },
       {
         "regular": {
-          "name": "Eevee-Gmax-Bonus-StadiumPlayer4-3DS",
+          "name": "Eevee-Gmax-Bonus-Stadium-Player4-3DS",
           "slug": "eevee-gmax-stadium-player4",
           "cssClass": ".pokesprite.pokemon.eevee-gmax-stadium-player4.n3ds",
           "modifiers": [
@@ -65846,7 +65846,7 @@
           ]
         },
         "shiny": {
-          "name": "Eevee-Gmax-Bonus-StadiumPlayer4-3DS-★",
+          "name": "Eevee-Gmax-Bonus-Stadium-Player4-3DS-★",
           "slug": "eevee-gmax-stadium-player4",
           "cssClass": ".pokesprite.pokemon.eevee-gmax-stadium-player4.shiny.n3ds",
           "modifiers": [
