@@ -6715,7 +6715,17 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Charizard-Megax-Bonus-SmashWiiU3DS-Player10-★",
+          "slug": "charizard-megax-smash-wii-u3-ds-player10",
+          "cssClass": ".pokesprite.pokemon.charizard-megax-smash-wii-u3-ds-player10.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -6729,7 +6739,18 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Charizard-Megax-Bonus-SmashWiiU3DS-Player10-3DS-★",
+          "slug": "charizard-megax-smash-wii-u3-ds-player10",
+          "cssClass": ".pokesprite.pokemon.charizard-megax-smash-wii-u3-ds-player10.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -6764,7 +6785,18 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Charizard-Megax-Bonus-SmashWiiU3DS-Player2-3DS-★",
+          "slug": "charizard-megax-smash-wii-u3-ds-player2",
+          "cssClass": ".pokesprite.pokemon.charizard-megax-smash-wii-u3-ds-player2.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -6799,7 +6831,18 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Charizard-Megax-Bonus-SmashWiiU3DS-Player3-3DS-★",
+          "slug": "charizard-megax-smash-wii-u3-ds-player3",
+          "cssClass": ".pokesprite.pokemon.charizard-megax-smash-wii-u3-ds-player3.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -6834,7 +6877,18 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Charizard-Megax-Bonus-SmashWiiU3DS-Player4-3DS-★",
+          "slug": "charizard-megax-smash-wii-u3-ds-player4",
+          "cssClass": ".pokesprite.pokemon.charizard-megax-smash-wii-u3-ds-player4.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -6845,7 +6899,17 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Charizard-Megax-Bonus-SmashWiiU3DS-Player5-★",
+          "slug": "charizard-megax-smash-wii-u3-ds-player5",
+          "cssClass": ".pokesprite.pokemon.charizard-megax-smash-wii-u3-ds-player5.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -6859,7 +6923,18 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Charizard-Megax-Bonus-SmashWiiU3DS-Player5-3DS-★",
+          "slug": "charizard-megax-smash-wii-u3-ds-player5",
+          "cssClass": ".pokesprite.pokemon.charizard-megax-smash-wii-u3-ds-player5.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -6870,7 +6945,17 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Charizard-Megax-Bonus-SmashWiiU3DS-Player6-★",
+          "slug": "charizard-megax-smash-wii-u3-ds-player6",
+          "cssClass": ".pokesprite.pokemon.charizard-megax-smash-wii-u3-ds-player6.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -6884,7 +6969,18 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Charizard-Megax-Bonus-SmashWiiU3DS-Player6-3DS-★",
+          "slug": "charizard-megax-smash-wii-u3-ds-player6",
+          "cssClass": ".pokesprite.pokemon.charizard-megax-smash-wii-u3-ds-player6.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -6895,7 +6991,17 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Charizard-Megax-Bonus-SmashWiiU3DS-Player7-★",
+          "slug": "charizard-megax-smash-wii-u3-ds-player7",
+          "cssClass": ".pokesprite.pokemon.charizard-megax-smash-wii-u3-ds-player7.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -6909,7 +7015,18 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Charizard-Megax-Bonus-SmashWiiU3DS-Player7-3DS-★",
+          "slug": "charizard-megax-smash-wii-u3-ds-player7",
+          "cssClass": ".pokesprite.pokemon.charizard-megax-smash-wii-u3-ds-player7.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -6920,7 +7037,17 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Charizard-Megax-Bonus-SmashWiiU3DS-Player8-★",
+          "slug": "charizard-megax-smash-wii-u3-ds-player8",
+          "cssClass": ".pokesprite.pokemon.charizard-megax-smash-wii-u3-ds-player8.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -6934,7 +7061,18 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Charizard-Megax-Bonus-SmashWiiU3DS-Player8-3DS-★",
+          "slug": "charizard-megax-smash-wii-u3-ds-player8",
+          "cssClass": ".pokesprite.pokemon.charizard-megax-smash-wii-u3-ds-player8.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -6945,7 +7083,17 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Charizard-Megax-Bonus-SmashWiiU3DS-Player9-★",
+          "slug": "charizard-megax-smash-wii-u3-ds-player9",
+          "cssClass": ".pokesprite.pokemon.charizard-megax-smash-wii-u3-ds-player9.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -6959,7 +7107,18 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Charizard-Megax-Bonus-SmashWiiU3DS-Player9-3DS-★",
+          "slug": "charizard-megax-smash-wii-u3-ds-player9",
+          "cssClass": ".pokesprite.pokemon.charizard-megax-smash-wii-u3-ds-player9.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       }
     ]
   },
