@@ -6775,7 +6775,17 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Charizard-Megax-Bonus-SmashWiiU3DS-Player3-★",
+          "slug": "charizard-megax-smash-wii-u3-ds-player3",
+          "cssClass": ".pokesprite.pokemon.charizard-megax-smash-wii-u3-ds-player3.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
@@ -6800,7 +6810,17 @@
             "bonus"
           ]
         },
-        "shiny": null
+        "shiny": {
+          "name": "Charizard-Megax-Bonus-SmashWiiU3DS-Player4-★",
+          "slug": "charizard-megax-smash-wii-u3-ds-player4",
+          "cssClass": ".pokesprite.pokemon.charizard-megax-smash-wii-u3-ds-player4.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       },
       {
         "regular": {
