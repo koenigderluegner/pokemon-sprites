@@ -89651,6 +89651,98 @@
       },
       {
         "regular": {
+          "name": "Quagsire-Bonus-Anime-Ludlow-HZ157",
+          "slug": "quagsire-anime-ludlow-hz157",
+          "cssClass": ".pokesprite.pokemon.quagsire-anime-ludlow-hz157",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Quagsire-Bonus-Anime-Ludlow-HZ157-★",
+          "slug": "quagsire-anime-ludlow-hz157",
+          "cssClass": ".pokesprite.pokemon.quagsire-anime-ludlow-hz157.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Quagsire-Bonus-Anime-Ludlow-HZ157-3DS",
+          "slug": "quagsire-anime-ludlow-hz157",
+          "cssClass": ".pokesprite.pokemon.quagsire-anime-ludlow-hz157.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Quagsire-Bonus-Anime-Ludlow-HZ157-3DS-★",
+          "slug": "quagsire-anime-ludlow-hz157",
+          "cssClass": ".pokesprite.pokemon.quagsire-anime-ludlow-hz157.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Quagsire-Bonus-Anime-Ludlow-HZ157-F",
+          "slug": "quagsire-anime-ludlow-hz157-f",
+          "cssClass": ".pokesprite.pokemon.quagsire-anime-ludlow-hz157-f",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Quagsire-Bonus-Anime-Ludlow-HZ157-F-★",
+          "slug": "quagsire-anime-ludlow-hz157-f",
+          "cssClass": ".pokesprite.pokemon.quagsire-anime-ludlow-hz157-f.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Quagsire-Bonus-Anime-Ludlow-HZ157-F-3DS",
+          "slug": "quagsire-anime-ludlow-hz157-f",
+          "cssClass": ".pokesprite.pokemon.quagsire-anime-ludlow-hz157-f.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Quagsire-Bonus-Anime-Ludlow-HZ157-F-3DS-★",
+          "slug": "quagsire-anime-ludlow-hz157-f",
+          "cssClass": ".pokesprite.pokemon.quagsire-anime-ludlow-hz157-f.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
           "name": "Quagsire-Bonus-CaféRemix-BulbasaurGreen",
           "slug": "quagsire-cafe-remix-bulbasaur-green",
           "cssClass": ".pokesprite.pokemon.quagsire-cafe-remix-bulbasaur-green",
@@ -163272,6 +163364,52 @@
             "go"
           ]
         }
+      },
+      {
+        "regular": {
+          "name": "Dusknoir-Bonus-Anime-Hamber-HZ157",
+          "slug": "dusknoir-anime-hamber-hz157",
+          "cssClass": ".pokesprite.pokemon.dusknoir-anime-hamber-hz157",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Dusknoir-Bonus-Anime-Hamber-HZ157-★",
+          "slug": "dusknoir-anime-hamber-hz157",
+          "cssClass": ".pokesprite.pokemon.dusknoir-anime-hamber-hz157.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Dusknoir-Bonus-Anime-Hamber-HZ157-3DS",
+          "slug": "dusknoir-anime-hamber-hz157",
+          "cssClass": ".pokesprite.pokemon.dusknoir-anime-hamber-hz157.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Dusknoir-Bonus-Anime-Hamber-HZ157-3DS-★",
+          "slug": "dusknoir-anime-hamber-hz157",
+          "cssClass": ".pokesprite.pokemon.dusknoir-anime-hamber-hz157.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       }
     ]
   },
@@ -167372,6 +167510,98 @@
           ]
         },
         "shiny": null
+      },
+      {
+        "regular": {
+          "name": "Rotom-Heat-Bonus-Anime-Hamber-HZ157",
+          "slug": "rotom-heat-anime-hamber-hz157",
+          "cssClass": ".pokesprite.pokemon.rotom-heat-anime-hamber-hz157",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Rotom-Heat-Bonus-Anime-Hamber-HZ157-★",
+          "slug": "rotom-heat-anime-hamber-hz157",
+          "cssClass": ".pokesprite.pokemon.rotom-heat-anime-hamber-hz157.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Rotom-Heat-Bonus-Anime-Hamber-HZ157-3DS",
+          "slug": "rotom-heat-anime-hamber-hz157",
+          "cssClass": ".pokesprite.pokemon.rotom-heat-anime-hamber-hz157.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Rotom-Heat-Bonus-Anime-Hamber-HZ157-3DS-★",
+          "slug": "rotom-heat-anime-hamber-hz157",
+          "cssClass": ".pokesprite.pokemon.rotom-heat-anime-hamber-hz157.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Rotom-Mow-Bonus-Anime-Hamber-HZ157",
+          "slug": "rotom-mow-anime-hamber-hz157",
+          "cssClass": ".pokesprite.pokemon.rotom-mow-anime-hamber-hz157",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Rotom-Mow-Bonus-Anime-Hamber-HZ157-★",
+          "slug": "rotom-mow-anime-hamber-hz157",
+          "cssClass": ".pokesprite.pokemon.rotom-mow-anime-hamber-hz157.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Rotom-Mow-Bonus-Anime-Hamber-HZ157-3DS",
+          "slug": "rotom-mow-anime-hamber-hz157",
+          "cssClass": ".pokesprite.pokemon.rotom-mow-anime-hamber-hz157.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Rotom-Mow-Bonus-Anime-Hamber-HZ157-3DS-★",
+          "slug": "rotom-mow-anime-hamber-hz157",
+          "cssClass": ".pokesprite.pokemon.rotom-mow-anime-hamber-hz157.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
       }
     ]
   },
@@ -275389,6 +275619,52 @@
           ],
           "categories": [
             "go"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Ursaluna-Bloodmoon-Bonus-Anime-Hamber-HZ157",
+          "slug": "ursaluna-bloodmoon-anime-hamber-hz157",
+          "cssClass": ".pokesprite.pokemon.ursaluna-bloodmoon-anime-hamber-hz157",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Ursaluna-Bloodmoon-Bonus-Anime-Hamber-HZ157-★",
+          "slug": "ursaluna-bloodmoon-anime-hamber-hz157",
+          "cssClass": ".pokesprite.pokemon.ursaluna-bloodmoon-anime-hamber-hz157.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Ursaluna-Bloodmoon-Bonus-Anime-Hamber-HZ157-3DS",
+          "slug": "ursaluna-bloodmoon-anime-hamber-hz157",
+          "cssClass": ".pokesprite.pokemon.ursaluna-bloodmoon-anime-hamber-hz157.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Ursaluna-Bloodmoon-Bonus-Anime-Hamber-HZ157-3DS-★",
+          "slug": "ursaluna-bloodmoon-anime-hamber-hz157",
+          "cssClass": ".pokesprite.pokemon.ursaluna-bloodmoon-anime-hamber-hz157.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
           ]
         }
       }
