@@ -178410,6 +178410,52 @@
       },
       {
         "regular": {
+          "name": "Audino-Bonus-CaféRemix-ElegantSoiree",
+          "slug": "audino-cafe-remix-elegant-soiree",
+          "cssClass": ".pokesprite.pokemon.audino-cafe-remix-elegant-soiree",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Audino-Bonus-CaféRemix-ElegantSoiree-★",
+          "slug": "audino-cafe-remix-elegant-soiree",
+          "cssClass": ".pokesprite.pokemon.audino-cafe-remix-elegant-soiree.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Audino-Bonus-CaféRemix-ElegantSoiree-3DS",
+          "slug": "audino-cafe-remix-elegant-soiree",
+          "cssClass": ".pokesprite.pokemon.audino-cafe-remix-elegant-soiree.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Audino-Bonus-CaféRemix-ElegantSoiree-3DS-★",
+          "slug": "audino-cafe-remix-elegant-soiree",
+          "cssClass": ".pokesprite.pokemon.audino-cafe-remix-elegant-soiree.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
           "name": "Audino-Bonus-CaféRemix-GengarPurple",
           "slug": "audino-cafe-remix-gengar-purple",
           "cssClass": ".pokesprite.pokemon.audino-cafe-remix-gengar-purple",
@@ -178813,6 +178859,52 @@
           "name": "Audino-Bonus-CaféRemix-StylishPeriwinkle-3DS-★",
           "slug": "audino-cafe-remix-stylish-periwinkle",
           "cssClass": ".pokesprite.pokemon.audino-cafe-remix-stylish-periwinkle.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Audino-Bonus-CaféRemix-SummerFestival",
+          "slug": "audino-cafe-remix-summer-festival",
+          "cssClass": ".pokesprite.pokemon.audino-cafe-remix-summer-festival",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Audino-Bonus-CaféRemix-SummerFestival-★",
+          "slug": "audino-cafe-remix-summer-festival",
+          "cssClass": ".pokesprite.pokemon.audino-cafe-remix-summer-festival.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Audino-Bonus-CaféRemix-SummerFestival-3DS",
+          "slug": "audino-cafe-remix-summer-festival",
+          "cssClass": ".pokesprite.pokemon.audino-cafe-remix-summer-festival.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Audino-Bonus-CaféRemix-SummerFestival-3DS-★",
+          "slug": "audino-cafe-remix-summer-festival",
+          "cssClass": ".pokesprite.pokemon.audino-cafe-remix-summer-festival.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -184631,6 +184723,52 @@
           "name": "Chandelure-Bonus-CaféRemix-GothoritaBlack-3DS-★",
           "slug": "chandelure-cafe-remix-gothorita-black",
           "cssClass": ".pokesprite.pokemon.chandelure-cafe-remix-gothorita-black.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Chandelure-Bonus-CaféRemix-Halloween",
+          "slug": "chandelure-cafe-remix-halloween",
+          "cssClass": ".pokesprite.pokemon.chandelure-cafe-remix-halloween",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Chandelure-Bonus-CaféRemix-Halloween-★",
+          "slug": "chandelure-cafe-remix-halloween",
+          "cssClass": ".pokesprite.pokemon.chandelure-cafe-remix-halloween.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Chandelure-Bonus-CaféRemix-Halloween-3DS",
+          "slug": "chandelure-cafe-remix-halloween",
+          "cssClass": ".pokesprite.pokemon.chandelure-cafe-remix-halloween.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Chandelure-Bonus-CaféRemix-Halloween-3DS-★",
+          "slug": "chandelure-cafe-remix-halloween",
+          "cssClass": ".pokesprite.pokemon.chandelure-cafe-remix-halloween.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
@@ -206095,6 +206233,52 @@
       },
       {
         "regular": {
+          "name": "Bewear-Bonus-CaféRemix-PastryChef",
+          "slug": "bewear-cafe-remix-pastry-chef",
+          "cssClass": ".pokesprite.pokemon.bewear-cafe-remix-pastry-chef",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Bewear-Bonus-CaféRemix-PastryChef-★",
+          "slug": "bewear-cafe-remix-pastry-chef",
+          "cssClass": ".pokesprite.pokemon.bewear-cafe-remix-pastry-chef.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Bewear-Bonus-CaféRemix-PastryChef-3DS",
+          "slug": "bewear-cafe-remix-pastry-chef",
+          "cssClass": ".pokesprite.pokemon.bewear-cafe-remix-pastry-chef.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Bewear-Bonus-CaféRemix-PastryChef-3DS-★",
+          "slug": "bewear-cafe-remix-pastry-chef",
+          "cssClass": ".pokesprite.pokemon.bewear-cafe-remix-pastry-chef.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
           "name": "Bewear-Bonus-CaféRemix-PikachuYellow",
           "slug": "bewear-cafe-remix-pikachu-yellow",
           "cssClass": ".pokesprite.pokemon.bewear-cafe-remix-pikachu-yellow",
@@ -206268,6 +206452,52 @@
           "name": "Bewear-Bonus-CaféRemix-StylishSunflower-3DS-★",
           "slug": "bewear-cafe-remix-stylish-sunflower",
           "cssClass": ".pokesprite.pokemon.bewear-cafe-remix-stylish-sunflower.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Bewear-Bonus-CaféRemix-SummerVibe",
+          "slug": "bewear-cafe-remix-summer-vibe",
+          "cssClass": ".pokesprite.pokemon.bewear-cafe-remix-summer-vibe",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Bewear-Bonus-CaféRemix-SummerVibe-★",
+          "slug": "bewear-cafe-remix-summer-vibe",
+          "cssClass": ".pokesprite.pokemon.bewear-cafe-remix-summer-vibe.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Bewear-Bonus-CaféRemix-SummerVibe-3DS",
+          "slug": "bewear-cafe-remix-summer-vibe",
+          "cssClass": ".pokesprite.pokemon.bewear-cafe-remix-summer-vibe.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Bewear-Bonus-CaféRemix-SummerVibe-3DS-★",
+          "slug": "bewear-cafe-remix-summer-vibe",
+          "cssClass": ".pokesprite.pokemon.bewear-cafe-remix-summer-vibe.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
