@@ -184304,6 +184304,300 @@
       },
       {
         "regular": {
+          "name": "Litwick-Bonus-CaféRemix-BulbasaurGreen",
+          "slug": "litwick-cafe-remix-bulbasaur-green",
+          "cssClass": ".pokesprite.pokemon.litwick-cafe-remix-bulbasaur-green",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Litwick-Bonus-CaféRemix-BulbasaurGreen-★",
+          "slug": "litwick-cafe-remix-bulbasaur-green",
+          "cssClass": ".pokesprite.pokemon.litwick-cafe-remix-bulbasaur-green.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Litwick-Bonus-CaféRemix-CharmanderRed",
+          "slug": "litwick-cafe-remix-charmander-red",
+          "cssClass": ".pokesprite.pokemon.litwick-cafe-remix-charmander-red",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Litwick-Bonus-CaféRemix-CharmanderRed-★",
+          "slug": "litwick-cafe-remix-charmander-red",
+          "cssClass": ".pokesprite.pokemon.litwick-cafe-remix-charmander-red.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Litwick-Bonus-CaféRemix-DragoniteOrange",
+          "slug": "litwick-cafe-remix-dragonite-orange",
+          "cssClass": ".pokesprite.pokemon.litwick-cafe-remix-dragonite-orange",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Litwick-Bonus-CaféRemix-DragoniteOrange-★",
+          "slug": "litwick-cafe-remix-dragonite-orange",
+          "cssClass": ".pokesprite.pokemon.litwick-cafe-remix-dragonite-orange.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Litwick-Bonus-CaféRemix-EeveeBrown",
+          "slug": "litwick-cafe-remix-eevee-brown",
+          "cssClass": ".pokesprite.pokemon.litwick-cafe-remix-eevee-brown",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Litwick-Bonus-CaféRemix-EeveeBrown-★",
+          "slug": "litwick-cafe-remix-eevee-brown",
+          "cssClass": ".pokesprite.pokemon.litwick-cafe-remix-eevee-brown.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Litwick-Bonus-CaféRemix-FancyLantern",
+          "slug": "litwick-cafe-remix-fancy-lantern",
+          "cssClass": ".pokesprite.pokemon.litwick-cafe-remix-fancy-lantern",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Litwick-Bonus-CaféRemix-FancyLantern-★",
+          "slug": "litwick-cafe-remix-fancy-lantern",
+          "cssClass": ".pokesprite.pokemon.litwick-cafe-remix-fancy-lantern.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Litwick-Bonus-CaféRemix-GengarPurple",
+          "slug": "litwick-cafe-remix-gengar-purple",
+          "cssClass": ".pokesprite.pokemon.litwick-cafe-remix-gengar-purple",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Litwick-Bonus-CaféRemix-GengarPurple-★",
+          "slug": "litwick-cafe-remix-gengar-purple",
+          "cssClass": ".pokesprite.pokemon.litwick-cafe-remix-gengar-purple.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Litwick-Bonus-CaféRemix-GothoritaBlack",
+          "slug": "litwick-cafe-remix-gothorita-black",
+          "cssClass": ".pokesprite.pokemon.litwick-cafe-remix-gothorita-black",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Litwick-Bonus-CaféRemix-GothoritaBlack-★",
+          "slug": "litwick-cafe-remix-gothorita-black",
+          "cssClass": ".pokesprite.pokemon.litwick-cafe-remix-gothorita-black.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Litwick-Bonus-CaféRemix-Halloween",
+          "slug": "litwick-cafe-remix-halloween",
+          "cssClass": ".pokesprite.pokemon.litwick-cafe-remix-halloween",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Litwick-Bonus-CaféRemix-Halloween-★",
+          "slug": "litwick-cafe-remix-halloween",
+          "cssClass": ".pokesprite.pokemon.litwick-cafe-remix-halloween.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Litwick-Bonus-CaféRemix-JigglypuffPink",
+          "slug": "litwick-cafe-remix-jigglypuff-pink",
+          "cssClass": ".pokesprite.pokemon.litwick-cafe-remix-jigglypuff-pink",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Litwick-Bonus-CaféRemix-JigglypuffPink-★",
+          "slug": "litwick-cafe-remix-jigglypuff-pink",
+          "cssClass": ".pokesprite.pokemon.litwick-cafe-remix-jigglypuff-pink.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Litwick-Bonus-CaféRemix-LucarioBlue",
+          "slug": "litwick-cafe-remix-lucario-blue",
+          "cssClass": ".pokesprite.pokemon.litwick-cafe-remix-lucario-blue",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Litwick-Bonus-CaféRemix-LucarioBlue-★",
+          "slug": "litwick-cafe-remix-lucario-blue",
+          "cssClass": ".pokesprite.pokemon.litwick-cafe-remix-lucario-blue.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Litwick-Bonus-CaféRemix-MinccinoGray",
+          "slug": "litwick-cafe-remix-minccino-gray",
+          "cssClass": ".pokesprite.pokemon.litwick-cafe-remix-minccino-gray",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Litwick-Bonus-CaféRemix-MinccinoGray-★",
+          "slug": "litwick-cafe-remix-minccino-gray",
+          "cssClass": ".pokesprite.pokemon.litwick-cafe-remix-minccino-gray.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Litwick-Bonus-CaféRemix-PikachuYellow",
+          "slug": "litwick-cafe-remix-pikachu-yellow",
+          "cssClass": ".pokesprite.pokemon.litwick-cafe-remix-pikachu-yellow",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Litwick-Bonus-CaféRemix-PikachuYellow-★",
+          "slug": "litwick-cafe-remix-pikachu-yellow",
+          "cssClass": ".pokesprite.pokemon.litwick-cafe-remix-pikachu-yellow.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Litwick-Bonus-CaféRemix-SlowpokePink",
+          "slug": "litwick-cafe-remix-slowpoke-pink",
+          "cssClass": ".pokesprite.pokemon.litwick-cafe-remix-slowpoke-pink",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Litwick-Bonus-CaféRemix-SlowpokePink-★",
+          "slug": "litwick-cafe-remix-slowpoke-pink",
+          "cssClass": ".pokesprite.pokemon.litwick-cafe-remix-slowpoke-pink.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Litwick-Bonus-CaféRemix-SquirtleBlue",
+          "slug": "litwick-cafe-remix-squirtle-blue",
+          "cssClass": ".pokesprite.pokemon.litwick-cafe-remix-squirtle-blue",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Litwick-Bonus-CaféRemix-SquirtleBlue-★",
+          "slug": "litwick-cafe-remix-squirtle-blue",
+          "cssClass": ".pokesprite.pokemon.litwick-cafe-remix-squirtle-blue.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
           "name": "Litwick-Bonus-Unlit",
           "slug": "litwick-unlit",
           "cssClass": ".pokesprite.pokemon.litwick-unlit",
