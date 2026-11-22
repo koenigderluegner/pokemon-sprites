@@ -197470,6 +197470,190 @@
       },
       {
         "regular": {
+          "name": "Meowstic-Bonus-CaféRemix-JigglypuffPink",
+          "slug": "meowstic-cafe-remix-jigglypuff-pink",
+          "cssClass": ".pokesprite.pokemon.meowstic-cafe-remix-jigglypuff-pink",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Meowstic-Bonus-CaféRemix-JigglypuffPink-★",
+          "slug": "meowstic-cafe-remix-jigglypuff-pink",
+          "cssClass": ".pokesprite.pokemon.meowstic-cafe-remix-jigglypuff-pink.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Meowstic-Bonus-CaféRemix-JigglypuffPink-3DS",
+          "slug": "meowstic-cafe-remix-jigglypuff-pink",
+          "cssClass": ".pokesprite.pokemon.meowstic-cafe-remix-jigglypuff-pink.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Meowstic-Bonus-CaféRemix-JigglypuffPink-3DS-★",
+          "slug": "meowstic-cafe-remix-jigglypuff-pink",
+          "cssClass": ".pokesprite.pokemon.meowstic-cafe-remix-jigglypuff-pink.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Meowstic-Bonus-CaféRemix-JigglypuffPink-F",
+          "slug": "meowstic-cafe-remix-jigglypuff-pink-f",
+          "cssClass": ".pokesprite.pokemon.meowstic-cafe-remix-jigglypuff-pink-f",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Meowstic-Bonus-CaféRemix-JigglypuffPink-F-★",
+          "slug": "meowstic-cafe-remix-jigglypuff-pink-f",
+          "cssClass": ".pokesprite.pokemon.meowstic-cafe-remix-jigglypuff-pink-f.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Meowstic-Bonus-CaféRemix-JigglypuffPink-F-3DS",
+          "slug": "meowstic-cafe-remix-jigglypuff-pink-f",
+          "cssClass": ".pokesprite.pokemon.meowstic-cafe-remix-jigglypuff-pink-f.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Meowstic-Bonus-CaféRemix-JigglypuffPink-F-3DS-★",
+          "slug": "meowstic-cafe-remix-jigglypuff-pink-f",
+          "cssClass": ".pokesprite.pokemon.meowstic-cafe-remix-jigglypuff-pink-f.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Meowstic-Bonus-CaféRemix-LucarioBlue",
+          "slug": "meowstic-cafe-remix-lucario-blue",
+          "cssClass": ".pokesprite.pokemon.meowstic-cafe-remix-lucario-blue",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Meowstic-Bonus-CaféRemix-LucarioBlue-★",
+          "slug": "meowstic-cafe-remix-lucario-blue",
+          "cssClass": ".pokesprite.pokemon.meowstic-cafe-remix-lucario-blue.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Meowstic-Bonus-CaféRemix-LucarioBlue-3DS",
+          "slug": "meowstic-cafe-remix-lucario-blue",
+          "cssClass": ".pokesprite.pokemon.meowstic-cafe-remix-lucario-blue.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Meowstic-Bonus-CaféRemix-LucarioBlue-3DS-★",
+          "slug": "meowstic-cafe-remix-lucario-blue",
+          "cssClass": ".pokesprite.pokemon.meowstic-cafe-remix-lucario-blue.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Meowstic-Bonus-CaféRemix-LucarioBlue-F",
+          "slug": "meowstic-cafe-remix-lucario-blue-f",
+          "cssClass": ".pokesprite.pokemon.meowstic-cafe-remix-lucario-blue-f",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Meowstic-Bonus-CaféRemix-LucarioBlue-F-★",
+          "slug": "meowstic-cafe-remix-lucario-blue-f",
+          "cssClass": ".pokesprite.pokemon.meowstic-cafe-remix-lucario-blue-f.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Meowstic-Bonus-CaféRemix-LucarioBlue-F-3DS",
+          "slug": "meowstic-cafe-remix-lucario-blue-f",
+          "cssClass": ".pokesprite.pokemon.meowstic-cafe-remix-lucario-blue-f.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Meowstic-Bonus-CaféRemix-LucarioBlue-F-3DS-★",
+          "slug": "meowstic-cafe-remix-lucario-blue-f",
+          "cssClass": ".pokesprite.pokemon.meowstic-cafe-remix-lucario-blue-f.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
           "name": "Meowstic-Bonus-CaféRemix-MinccinoGray",
           "slug": "meowstic-cafe-remix-minccino-gray",
           "cssClass": ".pokesprite.pokemon.meowstic-cafe-remix-minccino-gray",
@@ -197551,6 +197735,98 @@
           "name": "Meowstic-Bonus-CaféRemix-MinccinoGray-F-3DS-★",
           "slug": "meowstic-cafe-remix-minccino-gray-f",
           "cssClass": ".pokesprite.pokemon.meowstic-cafe-remix-minccino-gray-f.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Meowstic-Bonus-CaféRemix-PikachuYellow",
+          "slug": "meowstic-cafe-remix-pikachu-yellow",
+          "cssClass": ".pokesprite.pokemon.meowstic-cafe-remix-pikachu-yellow",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Meowstic-Bonus-CaféRemix-PikachuYellow-★",
+          "slug": "meowstic-cafe-remix-pikachu-yellow",
+          "cssClass": ".pokesprite.pokemon.meowstic-cafe-remix-pikachu-yellow.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Meowstic-Bonus-CaféRemix-PikachuYellow-3DS",
+          "slug": "meowstic-cafe-remix-pikachu-yellow",
+          "cssClass": ".pokesprite.pokemon.meowstic-cafe-remix-pikachu-yellow.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Meowstic-Bonus-CaféRemix-PikachuYellow-3DS-★",
+          "slug": "meowstic-cafe-remix-pikachu-yellow",
+          "cssClass": ".pokesprite.pokemon.meowstic-cafe-remix-pikachu-yellow.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Meowstic-Bonus-CaféRemix-PikachuYellow-F",
+          "slug": "meowstic-cafe-remix-pikachu-yellow-f",
+          "cssClass": ".pokesprite.pokemon.meowstic-cafe-remix-pikachu-yellow-f",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Meowstic-Bonus-CaféRemix-PikachuYellow-F-★",
+          "slug": "meowstic-cafe-remix-pikachu-yellow-f",
+          "cssClass": ".pokesprite.pokemon.meowstic-cafe-remix-pikachu-yellow-f.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Meowstic-Bonus-CaféRemix-PikachuYellow-F-3DS",
+          "slug": "meowstic-cafe-remix-pikachu-yellow-f",
+          "cssClass": ".pokesprite.pokemon.meowstic-cafe-remix-pikachu-yellow-f.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Meowstic-Bonus-CaféRemix-PikachuYellow-F-3DS-★",
+          "slug": "meowstic-cafe-remix-pikachu-yellow-f",
+          "cssClass": ".pokesprite.pokemon.meowstic-cafe-remix-pikachu-yellow-f.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
