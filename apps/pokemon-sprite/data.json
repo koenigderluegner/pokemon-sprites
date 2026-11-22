@@ -196826,6 +196826,282 @@
       },
       {
         "regular": {
+          "name": "Meowstic-Bonus-CaféRemix-BulbasaurGreen",
+          "slug": "meowstic-cafe-remix-bulbasaur-green",
+          "cssClass": ".pokesprite.pokemon.meowstic-cafe-remix-bulbasaur-green",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Meowstic-Bonus-CaféRemix-BulbasaurGreen-★",
+          "slug": "meowstic-cafe-remix-bulbasaur-green",
+          "cssClass": ".pokesprite.pokemon.meowstic-cafe-remix-bulbasaur-green.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Meowstic-Bonus-CaféRemix-BulbasaurGreen-3DS",
+          "slug": "meowstic-cafe-remix-bulbasaur-green",
+          "cssClass": ".pokesprite.pokemon.meowstic-cafe-remix-bulbasaur-green.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Meowstic-Bonus-CaféRemix-BulbasaurGreen-3DS-★",
+          "slug": "meowstic-cafe-remix-bulbasaur-green",
+          "cssClass": ".pokesprite.pokemon.meowstic-cafe-remix-bulbasaur-green.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Meowstic-Bonus-CaféRemix-BulbasaurGreen-F",
+          "slug": "meowstic-cafe-remix-bulbasaur-green-f",
+          "cssClass": ".pokesprite.pokemon.meowstic-cafe-remix-bulbasaur-green-f",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Meowstic-Bonus-CaféRemix-BulbasaurGreen-F-★",
+          "slug": "meowstic-cafe-remix-bulbasaur-green-f",
+          "cssClass": ".pokesprite.pokemon.meowstic-cafe-remix-bulbasaur-green-f.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Meowstic-Bonus-CaféRemix-BulbasaurGreen-F-3DS",
+          "slug": "meowstic-cafe-remix-bulbasaur-green-f",
+          "cssClass": ".pokesprite.pokemon.meowstic-cafe-remix-bulbasaur-green-f.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Meowstic-Bonus-CaféRemix-BulbasaurGreen-F-3DS-★",
+          "slug": "meowstic-cafe-remix-bulbasaur-green-f",
+          "cssClass": ".pokesprite.pokemon.meowstic-cafe-remix-bulbasaur-green-f.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Meowstic-Bonus-CaféRemix-CharmanderRed",
+          "slug": "meowstic-cafe-remix-charmander-red",
+          "cssClass": ".pokesprite.pokemon.meowstic-cafe-remix-charmander-red",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Meowstic-Bonus-CaféRemix-CharmanderRed-★",
+          "slug": "meowstic-cafe-remix-charmander-red",
+          "cssClass": ".pokesprite.pokemon.meowstic-cafe-remix-charmander-red.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Meowstic-Bonus-CaféRemix-CharmanderRed-3DS",
+          "slug": "meowstic-cafe-remix-charmander-red",
+          "cssClass": ".pokesprite.pokemon.meowstic-cafe-remix-charmander-red.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Meowstic-Bonus-CaféRemix-CharmanderRed-3DS-★",
+          "slug": "meowstic-cafe-remix-charmander-red",
+          "cssClass": ".pokesprite.pokemon.meowstic-cafe-remix-charmander-red.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Meowstic-Bonus-CaféRemix-CharmanderRed-F",
+          "slug": "meowstic-cafe-remix-charmander-red-f",
+          "cssClass": ".pokesprite.pokemon.meowstic-cafe-remix-charmander-red-f",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Meowstic-Bonus-CaféRemix-CharmanderRed-F-★",
+          "slug": "meowstic-cafe-remix-charmander-red-f",
+          "cssClass": ".pokesprite.pokemon.meowstic-cafe-remix-charmander-red-f.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Meowstic-Bonus-CaféRemix-CharmanderRed-F-3DS",
+          "slug": "meowstic-cafe-remix-charmander-red-f",
+          "cssClass": ".pokesprite.pokemon.meowstic-cafe-remix-charmander-red-f.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Meowstic-Bonus-CaféRemix-CharmanderRed-F-3DS-★",
+          "slug": "meowstic-cafe-remix-charmander-red-f",
+          "cssClass": ".pokesprite.pokemon.meowstic-cafe-remix-charmander-red-f.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Meowstic-Bonus-CaféRemix-CommemorativeChef",
+          "slug": "meowstic-cafe-remix-commemorative-chef",
+          "cssClass": ".pokesprite.pokemon.meowstic-cafe-remix-commemorative-chef",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Meowstic-Bonus-CaféRemix-CommemorativeChef-★",
+          "slug": "meowstic-cafe-remix-commemorative-chef",
+          "cssClass": ".pokesprite.pokemon.meowstic-cafe-remix-commemorative-chef.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Meowstic-Bonus-CaféRemix-CommemorativeChef-3DS",
+          "slug": "meowstic-cafe-remix-commemorative-chef",
+          "cssClass": ".pokesprite.pokemon.meowstic-cafe-remix-commemorative-chef.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Meowstic-Bonus-CaféRemix-CommemorativeChef-3DS-★",
+          "slug": "meowstic-cafe-remix-commemorative-chef",
+          "cssClass": ".pokesprite.pokemon.meowstic-cafe-remix-commemorative-chef.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Meowstic-Bonus-CaféRemix-CommemorativeChef-F",
+          "slug": "meowstic-cafe-remix-commemorative-chef-f",
+          "cssClass": ".pokesprite.pokemon.meowstic-cafe-remix-commemorative-chef-f",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Meowstic-Bonus-CaféRemix-CommemorativeChef-F-★",
+          "slug": "meowstic-cafe-remix-commemorative-chef-f",
+          "cssClass": ".pokesprite.pokemon.meowstic-cafe-remix-commemorative-chef-f.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Meowstic-Bonus-CaféRemix-CommemorativeChef-F-3DS",
+          "slug": "meowstic-cafe-remix-commemorative-chef-f",
+          "cssClass": ".pokesprite.pokemon.meowstic-cafe-remix-commemorative-chef-f.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Meowstic-Bonus-CaféRemix-CommemorativeChef-F-3DS-★",
+          "slug": "meowstic-cafe-remix-commemorative-chef-f",
+          "cssClass": ".pokesprite.pokemon.meowstic-cafe-remix-commemorative-chef-f.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
           "name": "Meowstic-Bonus-CaféRemix-DragoniteOrange",
           "slug": "meowstic-cafe-remix-dragonite-orange",
           "cssClass": ".pokesprite.pokemon.meowstic-cafe-remix-dragonite-orange",
@@ -196907,6 +197183,98 @@
           "name": "Meowstic-Bonus-CaféRemix-DragoniteOrange-F-3DS-★",
           "slug": "meowstic-cafe-remix-dragonite-orange-f",
           "cssClass": ".pokesprite.pokemon.meowstic-cafe-remix-dragonite-orange-f.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Meowstic-Bonus-CaféRemix-EeveeBrown",
+          "slug": "meowstic-cafe-remix-eevee-brown",
+          "cssClass": ".pokesprite.pokemon.meowstic-cafe-remix-eevee-brown",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Meowstic-Bonus-CaféRemix-EeveeBrown-★",
+          "slug": "meowstic-cafe-remix-eevee-brown",
+          "cssClass": ".pokesprite.pokemon.meowstic-cafe-remix-eevee-brown.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Meowstic-Bonus-CaféRemix-EeveeBrown-3DS",
+          "slug": "meowstic-cafe-remix-eevee-brown",
+          "cssClass": ".pokesprite.pokemon.meowstic-cafe-remix-eevee-brown.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Meowstic-Bonus-CaféRemix-EeveeBrown-3DS-★",
+          "slug": "meowstic-cafe-remix-eevee-brown",
+          "cssClass": ".pokesprite.pokemon.meowstic-cafe-remix-eevee-brown.shiny.n3ds",
+          "modifiers": [
+            "shiny",
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Meowstic-Bonus-CaféRemix-EeveeBrown-F",
+          "slug": "meowstic-cafe-remix-eevee-brown-f",
+          "cssClass": ".pokesprite.pokemon.meowstic-cafe-remix-eevee-brown-f",
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Meowstic-Bonus-CaféRemix-EeveeBrown-F-★",
+          "slug": "meowstic-cafe-remix-eevee-brown-f",
+          "cssClass": ".pokesprite.pokemon.meowstic-cafe-remix-eevee-brown-f.shiny",
+          "modifiers": [
+            "shiny"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        }
+      },
+      {
+        "regular": {
+          "name": "Meowstic-Bonus-CaféRemix-EeveeBrown-F-3DS",
+          "slug": "meowstic-cafe-remix-eevee-brown-f",
+          "cssClass": ".pokesprite.pokemon.meowstic-cafe-remix-eevee-brown-f.n3ds",
+          "modifiers": [
+            "n3ds"
+          ],
+          "categories": [
+            "bonus"
+          ]
+        },
+        "shiny": {
+          "name": "Meowstic-Bonus-CaféRemix-EeveeBrown-F-3DS-★",
+          "slug": "meowstic-cafe-remix-eevee-brown-f",
+          "cssClass": ".pokesprite.pokemon.meowstic-cafe-remix-eevee-brown-f.shiny.n3ds",
           "modifiers": [
             "shiny",
             "n3ds"
